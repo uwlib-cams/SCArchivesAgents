@@ -1,0 +1,48 @@
+To obtain agents data, accession numbers, collection titles and URL's for finding aids, we need to extract these things (I think):
+
+<ead> 
+    <archdesc>
+        <did>
+            <origination> 
+                <corpname> [Need this value] (v1)
+                
+_________________________________________________________________________________________________________________________
+<ead> 
+    <archdesc>
+        <did>
+            <unittitle> [Need this value] (v2)
+            
+_________________________________________________________________________________________________________________________
+<ead> 
+    <archdesc>
+        <bioghist> [Need this value] (v3)
+
+_________________________________________________________________________________________________________________________
+<ead> 
+    <archdesc>
+        <controlaccess> [Need values of all child nodes] (v4)
+
+_________________________________________________________________________________________________________________________
+<ead> 
+    <archdesc>
+        <did>
+            <unitid> [Need this value] (v5)
+            
+_________________________________________________________________________________________________________________________
+<ead> 
+    <eadheader> 
+	   <eadid url=""> [Need value of "url" attribute] (v6)
+     
+v1 Name of the creator/main body associated with the collection: we can search these strings against wikidata in openrefine to identify matches
+
+v2 Title proper of the collection in the Labor Archives. We will use this under wd:"archives at" as the value of the qualifier "named as". We'll add this using quickstatements
+
+v3 This is the contextual note for the collection and will help us with reconciliation but won't be transferred to Wikidata
+
+v4 The child nodes under <controlaccess> are agents and subjects associated with the collections, including additional creators. We can select the ones we want to include in reconciliation efforts for linking to Wikidata based on how important they are, or just not include them at this time. We could find some volunteer catalogers to follow up and fill out these items (Cate mentioned the possibility to me today...some catalogers might be growing weary of Contentdm-filled days)
+
+v5 This is the accession number for the collection. We will use this under wd:"archives at" as the value of the qualifier "inventory number"
+
+v6 This is the URL for the finding aid itself, with .xml appended. We need to remove the .xml from the ends, and use the values under wd:"described at URL"
+     
+I'm painfully bad at XSLT. If we extract the above information from all the XML finding aids Conor added today (and kept the pieces of information from each finding aid together), I think we'll be in business and can do a lot with OpenRefine and Quickstatements. 
