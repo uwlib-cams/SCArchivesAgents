@@ -10,4 +10,4 @@
 - [LaborArchivesEADLinkedDataProject](https://github.com/uwlib-cams/ASpaceAgents/blob/main/data_received/LaborArchivesEADLinkedDataProject.zip) (zipped directory)
 - [LaborArchivesEADLinkedDataProject](https://github.com/uwlib-cams/ASpaceAgents/blob/main/data_received/LaborArchivesEADLinkedDataProject.zip) (*unzipped* directory)
   - Unzipped dir includes discrete xml finding aid files for further processing
-  - See [BrainSplat](https://github.com/uwlib-cams/SCArchivesAgents/blob/main/BrainSplat) for CEC notes on EAD data
+  - See [BrainSplat](https://github.com/uwlib-cams/SCArchivesAgents/blob/main/BrainSplat.md) for CEC notes on EAD data
