@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <!--OCLC 930799632-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DouglasJames5906.xml" encodinganalog="identifier" identifier="80444/xv59133">DouglasJames5906.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Jim Douglas
+			 Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Douglas (Jim)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding Aid created by Emily
+			 Spracklin</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" calendar="gregorian" era="ce" normal="20151203">© 2015</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date calendar="gregorian" era="ce">Finding aid revised, February
+			 2016</date> 
+		  <item>Updated -001; Emily Spracklin</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised, November 2019 </date> 
+		  <item>Added photograph found inside cover of book separated for
+			 cataloging into inventory, Crystal Rodgers</item> 
+		</change> 
+		<change>
+		  <date era="ce" calendar="gregorian">Finding aid revised, February 2020</date>
+		  <item>Updated title after catalogers located correct name authority
+			 record. Emily Dominick </item>
+		</change>
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5906</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">5906-001</unitid> 
+		<origination> 
+		  <persname encodinganalog="100" role="creator, collector" altrender="sync">Douglas, Jim$d1946-2017</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Jim Douglas
+		  papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian" era="ce" normal="1973/1991" certainty="approximate">approximately
+		  1973-1991</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" calendar="gregorian" era="ce" normal="1983/1989">1983-1989</unitdate> 
+		<physdesc><extent>3.32 cubic feet</extent>
+		  <extent>5 boxes</extent>
+		</physdesc>
+		<physdesc><extent>6 videocassettes (VHS)</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Documents the
+		  work of Jim Douglas, attorney at law, and affiliated organizations</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Jim Douglas is an attorney who has practiced Social Security
+		  disability law since 1978. Douglas was part of a legal team working for the
+		  families of slain Seattle labor unionists Silme Domingo and Gene Viernes in a
+		  civil suit against Philippines dictator Ferdinand Marcos for orchestrating the
+		  1981 assassinations of the union reformers in their Pioneer Square office. The
+		  two men had been working with an international community in opposition of the
+		  dictator, who had cracked down on the political left and trade unions in the
+		  Phillippines when we seized power and declared martial law. </p> 
+		<p>In December of 1989, a jury found that Ferdinand and Imelda Marcos
+		  were responsible for the murders and awarded $15 million to the families of
+		  Domingo and Viernes. This marked the first time that a foreign dictator was
+		  held responsible for crimes committed in the United States.</p> 
+		<p>Douglas was also a co-founder of the Seattle chapter of Line of March,
+		  a Marxist-Leninist national political organization in the 1980s dedicated to
+		  peace and social justice. </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Records created and collected by Douglas as part of a legal team
+		  working for the families of Domingo and Viernes in their civil suit against
+		  Philippines dictator Ferdinand Marcos. Other records in the collection relate
+		  to the Committee for Justice for Domingo and Viernes and Douglas' membership
+		  and participation in the founding of the Seattle chapter of Line of March, a
+		  Marxist-Leninist national political organization in the 1980s dedicated to
+		  peace and social justice. </p> 
+		<p>Records from Jim Douglas' visit as part of a delegation from the
+		  National Lawyers Guild to look at the first elections in Nicaragua under the
+		  Sandinistas, including several files on the elections, including the
+		  delegation's report. Other subjects in the records include Miskito Indians
+		  sovereignty rights vs the Sandinistas.</p> 
+		<p>Other records include Douglas' involvement in organizing a Citizens'
+		  Tribunal on US Involvement in Central America and the Caribbean from the early
+		  1980s. Records include witness statements from the tribunals as well as 6 VHS
+		  videos of the tribunal proceedings.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech type="phys"> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>Textual materials are open to all users. No user access copy is
+		  available for the VHS video cassettes. Contact Special Collections, University
+		  of Washington Libraries for more information regarding access to video
+		  recordings.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's literary rights transferred to the University of Washington
+		  Libraries. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Jim Douglas, 2015.</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p>Issues of the newspaper "FrontLine" that span 1983-1990 as well as
+		  Crossroads magazine, published by the Institute for Social and Economic
+		  Studies, were removed from the manuscript collection to be cataloged as
+		  serials. Some monographs were likewise pulled to be cataloged. </p> 
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname role="subject" encodinganalog="600">Douglas,
+		  Jim,$d1946-2017$vArchives</persname> 
+		<corpname role="subject" encodinganalog="610">Real Change
+		  (Organization)$xOfficials and employees</corpname> 
+		<corpname role="subject" encodinganalog="610">Douglas Drachler McKee and
+		  Gilbrough$xOfficials and employees</corpname> 
+		<corpname role="subject" encodinganalog="610">Seattle Labor
+		  Chorus</corpname> 
+		<subject encodinganalog="650">International courts</subject> 
+		<subject encodinganalog="650">Social security$xLaw and
+		  legislation</subject> 
+		<genreform source="lcgft" encodinganalog="655">Trial and arbitral proceedings</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Interviews</genreform> 
+		<genreform source="aat" encodinganalog="655">Depositions</genreform> 
+		<persname role="subject" encodinganalog="600" altrender="sync">Domingo,
+		  Silme,$d -1981</persname> 
+		<persname role="subject" encodinganalog="600" altrender="sync">Viernes,
+		  Gene,$d -1981</persname> 
+		<persname role="subject" encodinganalog="600" altrender="sync">Marcos,
+		  Ferdinand E.$q(Ferdinand Edralin),$d1917-1989</persname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor History</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor Unions</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Civil Procedure and Courts</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Papers</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1973-1990</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Line of March (LOM) Related Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1983-1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> Reports and Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1983-1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> Forums and Discussions Related to Seattle
+				  LOM</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1983-1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> Frontline related materials</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1983-1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>Forums and Discussions Related to Seattle
+				  LOM</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1973-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>Frontline related Materials</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1973-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>Committee for Justice for Domingo Viernes (CJDV)
+				  Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1973-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle> Domingo v. Marcos records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1973-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>CJDV Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1981-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>Domingo v. Marcos Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1981-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>Nicaragua - Brigade</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1984-1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>Miskitos</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>Nicaragua Election Resources and Originals</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1983-1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>Photograph: James Douglas Speaking to Attendees at
+				  Unidentified Event</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1980-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Nicaragua Elections</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Documents relating to U.S. Policies and Actions in
+				  Grenada</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Deposition under Oral Examination of Manuel
+				  Torres</unittitle> 
+				<unitdate era="ce" calendar="gregorian">March 14, 1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Documents relating to U.S. Policy in Central
+				  America--The U.S. Position</unittitle> 
+				<unitdate era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Documents relating to U.S. Policies and Actions in El
+				  Salvador</unittitle> 
+				<unitdate era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Documents relating to U.S. Policies and Actions in
+				  Nicaragua</unittitle> 
+				<unitdate era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Attorney Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Lawyer-Program-Wits</unittitle> 
+				<unitdate era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Tribunal</unittitle> 
+				<unitdate era="ce" calendar="gregorian">approximately 1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Tribunal</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Post-Tribunal</unittitle> 
+				<unitdate era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle encodinganalog="245$a">Video Tapes</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" normal="1984/1985" era="ce" calendar="gregorian">1984-1985</unitdate> 
+		  </did> 
+		  <c02 level="item"> 
+			 <did> 
+				<unittitle>Citizens' Tribunal</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">January 19, 1985</unitdate> 
+				<physdesc><extent>4 videotapes</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<unittitle>Howard Heiner-United Methodist: Missionary Interview in
+				  Nicaragua</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">November 11, 1984</unitdate> 
+				<physdesc><extent>1 videotape</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<unittitle>Charlie Clements Bombings, Tribunals</unittitle> 
+				<physdesc><extent>1 videotape</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

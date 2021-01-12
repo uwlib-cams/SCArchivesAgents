@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GilmanHerman5951.xml" encodinganalog="identifier" identifier="80444/xv56228">GilmanHerman5951.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Herman Gilman
+			 Collection On Farmworker Organizing In Washington State</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Gilman (Herman)
+			 Collection on Farmworker Organizing in Washington State</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Emily
+			 Spracklin</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" calendar="gregorian" era="ce" normal="20160408">© 2016</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date calendar="gregorian" era="ce"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5951</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">5951-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100" altrender="sync">Gilman,
+			 Herman</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Herman Gilman
+		  collection on farmworker organizing in Washington state</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian" era="ce" normal="1987/1998">1987-1998</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" calendar="gregorian" era="ce" normal="1994/1998">1994-1998</unitdate> 
+		<physdesc><extent>.18 cubic feet (1 box) plus 1 Oversize Vertical
+		  File</extent>
+		</physdesc>
+		<physdesc><extent>1 DVD</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay"> Collection
+		  documents Herman Gilman's work with farmworker organization</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Herman Gilman is a labor activist, union member, and officer who has
+		  worked as an organizer for the American Federation of State, Municipal, and
+		  County Employees (AFSCME), volunteered with Jobs with Justice, and serves as a
+		  member of the King County Central Labor Council. </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>One folder of materials from a class Gilman took in 1998 at the
+		  University of Massachusetts as part of a Master’s Program in union organizing.
+		  Included is his paper on two different farmworker organizing campaigns in
+		  Washington state: the 1986-1995 Chateau St. Michel organizing campaign and the
+		  1998 apple pickers organizing campaign. Included in this collection are
+		  ephemera, publications, flyers, news clippings from both campaigns, which
+		  Gilman was involved with as a labor activist and support through his work as an
+		  organizer for the American Federation of State, Municipal, and County Employees
+		  (AFSCME), Jobs with Justice, and a member of the King County Central Labor
+		  Council. The Chateau St. Michel campaign was run by the United Farm Workers of
+		  Washington State and the Apple Pickers' campaign was run by the Teamsters of
+		  central Washington State. Also included is a DVD of a 1987 panel discussion
+		  "Fighting for Our Future” on farmworkers organizing. The panel includes Gilman,
+		  Jeff Johnson (then Research Director of the Washington State Labor Council);
+		  Tomas Villanueva (cofounder of the United Farm Workers of Washington State),
+		  two activists and Karen Keiser (now a state senator, then Communications
+		  Director for the Washington State Labor Council). </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech type="phys"> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Herman Gilman</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname source="local" rules="rda" role="panelist" encodinganalog="700">Johnson, Jeff</persname> 
+		<persname source="local" rules="rda" role="panelist" encodinganalog="700"> Villanueva, Tomas</persname> 
+		<persname source="local" rules="rda" role="panelist" encodinganalog="700">Keiser, Karen</persname> 
+		<corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610">Chateau Ste. Michelle (Winery)</corpname> 
+		<corpname source="lcnaf" rules="rda" role="host institution" encodinganalog="710">Labor Archives of Washington (University of
+		  Washington)</corpname> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  movement$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  unions$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor$zWashington
+		  (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Wine
+		  industry$zWashington (State), Eastern</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Apple
+		  industry$zWashington (State), Eastern</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Agricultural
+		  laborers$xLabor unions$xOrganizing$zWashington (State), Eastern</subject> 
+		<title encodinganalog="630" source="lcnaf" rules="rda" linktype="simple">Fighting for our
+		  future</title> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		  <!-- Also add at least one browsing term from the Archives West browsing term list at http://goo.gl/X5whgX -->
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor Unions</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor History</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Agriculture</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Washington</subject> 
+	 </controlaccess> 
+  </archdesc></ead>

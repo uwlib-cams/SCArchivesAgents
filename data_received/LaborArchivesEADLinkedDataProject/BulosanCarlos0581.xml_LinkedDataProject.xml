@@ -1,0 +1,4678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BulosanCarlos0581.xml" encodinganalog="identifier" identifier="80444/xv17805">BulosanCarlos0581.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Carlos Bulosan Papers
+			 </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Bulosan (Carlos)
+			 Papers</titleproper> 
+		  <sponsor encodinganalog="contributor">Funding for encoding this finding
+			 aid was partially provided through a grant awarded by the National Endowment
+			 for the Humanities</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20070713" era="ce" calendar="gregorian">© 2007</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Mark Carlson and
+		  ArchProteus 
+		  <date audience="external" normal="20061010" era="ce" calendar="gregorian">2006</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20061107" era="ce" calendar="gregorian">Finding aid revised November 2006 </date> 
+		  <item>Michelle Light revised and edited finding aid.</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Revised August 2011</date> 
+		  <item>Added accession. Susan Kemp</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised October 2013</date> 
+		  <item>Nan Cohen added acc. no. 0581-015, S. Kemp updated misc.</item> 
+		</change> 
+		<change> 
+		  <date normal="20061107" era="ce" calendar="gregorian">Finding aid revised December 2014 </date> 
+		  <item>Conor Casey corrected and updated the biographical section, added
+			 a seperate materials link to photograph collection, a link to related materials
+			 at UW Special Collections, and added a link to selections of digital
+			 surrogates</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">0581</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100" source="lcnaf" rules="aacr2" authfilenumber="75657" altrender="sync">Bulosan,
+			 Carlos</persname> </origination> 
+		<unittitle type="collection">Carlos Bulosan papers </unittitle> 
+		<unitdate type="inclusive" normal="1914/1976" era="ce" calendar="gregorian">1914-1976</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">4.99 cubic feet</extent>
+		  <extent encodinganalog="300$a">7 boxes</extent>
+		</physdesc>
+		<physdesc><extent>3 vertical files</extent>
+		</physdesc>
+		<physdesc> <extent>19 microfilm reels</extent>
+		</physdesc>
+		<physdesc><extent>3 sound cassettes</extent>
+		</physdesc>
+		<physdesc><extent>3 sound tape reels</extent>
+		</physdesc>
+		<physdesc><extent>2 CD-ROM discs</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Papers of a
+		  Filipino-American author, poet, and migrant laborer</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="5450_" id="ARN75657" altrender="sync"> 
+		<p>Carlos Sampayan Bulosan (c. 1911– September 11, 1956) was a
+		  Filipino American author, poet, and activist. A chronicler of the Filipino
+		  American experience in during the 1930s-early 1950s on the West Coast, he is
+		  best remembered for his semi-fictionalized autobiographical novel 
+		  <emph render="italic">America Is In the Heart </emph>(1946). Though Bulosan was
+		  only 42-45 years old when he died of tuberculosis-complicated pneumonia in
+		  Seattle in 1956, he left behind a large body of poems, novels, short stories,
+		  plays, and correspondence on a wide range of interrelated topics.
+		  Bulosan’s work described the experience of growing up poor in a rural
+		  area of the Philippines, chronicling the conditions of neocolonialism after
+		  American occupation and centuries of Spanish colonialism. Bulosan’s work
+		  captures the “push” factors that drove himself his generation to
+		  the United States. Like Bulosan, they hoped to find a better future and forged
+		  resilient and adaptive communities in the face of an often-hostile and
+		  exploitative European American culture in the United States. Bulosan is
+		  remembered as a progressive anti-colonial, pro-labor, humanitarian voice by an
+		  array of communities including Asian/Pacific Islanders, organized labor,
+		  academics and intellectuals, and a wide array of social justice; ethnic; and
+		  activist communities. </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Arranged in 6 accessions:</p> 
+		<p> 
+		  <list> 
+			 <item>Accession No. 0581-010, Carlos Bulosan poems and writing, 1914,
+				undated</item> 
+			 <item>Accession No. 0581-011, Carlos Bulosan writings, 1936,
+				undated</item> 
+			 <item>Accession No. 0581-012, Carlos Bulosan papers, 1936-1976 (bulk
+				1948-1956)</item> 
+			 <item>Accession No. 0581-013, Sound cassettes about Carlos Bulosan,
+				1959-1960</item> 
+			 <item>Accession No. 0581-014, Carlos Bulosan papers, 1953</item> 
+			 <item>Accession No. 0581-015, Ralph Franklin postcard, 1963</item> 
+		  </list> </p> 
+	 </arrangement> 
+	 <scopecontent id="a3" encodinganalog="5202_"> 
+		<p>Contains writings, annotated manuscripts, correspondence, taped
+		  recordings of reminscences and tributes by friends and associates, lists,
+		  publications, clippings, financial records, miscellany, ephemera, and
+		  scrapbook.</p> 
+	 </scopecontent> 
+	 <separatedmaterial> 
+		<p> Photographs related to Carlos Bulosan can be found in the 
+		  <archref show="new" actuate="onrequest" arcrole="text/xml" href="BulosanCarlosPHColl1156.xml" role="ph" linktype="simple">Carlos Bulosan Photograph
+			 Collection, PH Collection 1156</archref>; it is likely that they were removed
+		  from the Carlos Bulosan Papers. </p> 
+	 </separatedmaterial> 
+	 <relatedmaterial> 
+		<p>Records relating to Carlos Bulosan and the union of which he was a
+		  part, the Cannery Workers and Farm Laborers Union, Local 7. </p> 
+		<list> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="BulosanAurelio2329.xml" role="ms" linktype="simple">Aurelio Bulosan papers</archref></item>
+		  
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="CanneryWorkersandFarmLaborersUnionLocal7SeattleWash3927.xml" role="ms" linktype="simple">
+				Cannery Workers and Farm Laborers Union Local 7 records</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="CanneryWorkersUnionLocal7PHColl1044.xml" role="ms" linktype="simple">Cannery Workers and
+				Farm Laborers Union, Local 7 photographs</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="CaughlanJohn0704.xml" role="ms" linktype="simple">John Caughlan papers</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="DomingoCindy5651.xml" role="ms" linktype="simple">Cindy Domingo papers</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="GundlachJean5207.xml" role="ms" linktype="simple">Jean Gundlach papers</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="HattenCanterburyTheodore5583.xml" role="ms" linktype="simple">C. T. (Barry) Hatten
+				papers</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="MensalvasChrisD2361.xml" role="ms" linktype="simple">Chris D. Mensalvas
+				papers</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="MensalvasChrisDPHColl657.xml" role="ms" linktype="simple">Chris D. Mensalvas photograph
+				collection</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="RojoTrinidad3586.xml" role="ms" linktype="simple"> Trinidad Rojo papers</archref></item> 
+		  <item> 
+			 <archref show="new" actuate="onrequest" arcrole="text/xml" href="VelascoVictorioA1435.xml" role="ms" linktype="simple">Victorio A. Velasco
+				papers</archref></item> 
+		</list> 
+	 </relatedmaterial> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Literary rights have been transferred to the University of Washington
+		  Libraries; however, some restrictions may exist on copying, quotation or
+		  publication.</p> 
+	 </userestrict> 
+	 <controlaccess id="persname"> 
+		<persname encodinganalog="600" role="subject" source="lcnaf" rules="aacr2" altrender="sync">Bulosan, Carlos$vArchives</persname> 
+		<persname role="subject" encodinganalog="600" source="lcnaf" rules="aacr2">Mensalvas, Chris D.,$d -1977$xInterviews</persname> 
+		<persname role="subject" encodinganalog="600" source="uwsc-naf" rules="aacr2">Patrick, Josephine$xInterviews</persname> 
+		<persname source="uwsc-naf" role="subject" encodinganalog="600">Franklin,
+		  Ralph</persname> 
+		<corpname role="subject" encodinganalog="610" source="lcnaf" rules="aacr2">International Longshoremen's and Warehousemen's Union.$bLocal 37
+		  (Seattle, Wash.)</corpname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<geogname source="lcsh" role="subject" encodinganalog="651" rules="scm">Seattle (Wash.)$x Intellectual life$y20th century</geogname> 
+		<geogname source="lcsh" rules="scm" encodinganalog="651">Seattle
+		  (Wash.)$xSocial life and customs$y20th century</geogname> 
+		<subject>Filipino Americans$zWashington
+		  (State)$zSeattle$vArchives</subject> 
+		<subject source="lcsh" encodinganalog="650">American literature$xFilipino
+		  American authors</subject> 
+		<subject>American poetry$xFilipino American authors</subject> 
+		<subject>Dramatists, American$zWashington (State)$zSeattle$y20th
+		  century</subject> 
+		<subject>Filipino American theater</subject> 
+		<subject>Filipino American authors$zWashington(State)$zSeattle</subject> 
+		<subject>Filipino Americans$zWashington (State)$zSeattle$y20th
+		  century</subject> 
+		<subject>Filipino Americans in literature</subject> 
+		<subject>Political activists$zWashington (State)$zSeattle$y20th
+		  century</subject> 
+		<genreform source="aat" encodinganalog="655">Correspondence</genreform> 
+		<genreform source="aat" encodinganalog="655">Ephemera</genreform> 
+		<genreform source="aat" encodinganalog="655">Financial
+		  records</genreform> 
+		<genreform source="aat" encodinganalog="655">Reminiscences</genreform> 
+		<genreform source="lcsh" encodinganalog="655">Clippings (Books,
+		  newspapers, etc.)</genreform> 
+		<genreform source="lcsh" encodinganalog="655">Scrapbooks</genreform> 
+		<genreform source="lcsh" encodinganalog="655">Yearbooks</genreform> 
+		<occupation source="lcsh" encodinganalog="656">Migrant agricultural
+		  laborers</occupation> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  history</subject> 
+		<subject source="nwda" encodinganalog="690" altrender="nodisplay">Literature</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar" encodinganalog="099">0581-010</unitid> 
+			 <unittitle>Carlos Bulosan poems and writing</unittitle> 
+			 <unitdate type="inclusive" normal="1914" era="ce" calendar="gregorian">1914, undated</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">1 vertical file (11
+				pages)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Photocopied poems, 1914, undated; writing, undated.</p> 
+		  </scopecontent> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Gift of Mary Gibson via Licerio C. Lagda, July 24, 1986.</p> 
+		  </acqinfo> <originalsloc> 
+		  <p>Originals donated to the University of the Philippines by L.
+			 Lagda.</p> </originalsloc> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar" encodinganalog="099">0581-011</unitid> 
+			 <unittitle>Carlos Bulosan writings</unittitle> 
+			 <unitdate type="inclusive" normal="1936" era="ce" calendar="gregorian">1936, undated</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">0.21 cubic feet </extent>
+				<extent encodinganalog="300$a">1 box (139 pages)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Photocopies of writings, 1936, undated. Also an unpublished novel,
+				"All the Conspirators" (136 pages) believed by donor to be Bulosan's and given
+				to him by J. Patrick of Seattle, Washington.</p> 
+		  </scopecontent> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Gift of L.C. Lagda, November 12, 1986.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar" encodinganalog="099">0581-012</unitid> 
+			 <unittitle>Carlos Bulosan papers</unittitle> 
+			 <unitdate type="inclusive" normal="1936/1976" era="ce" calendar="gregorian">1936-1976,
+				undated</unitdate> 
+			 <unitdate type="bulk" normal="1948/1956" era="ce" calendar="gregorian">1948-1956</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">4.65 cubic ft.</extent>
+				<extent encodinganalog="300$a">6 boxes</extent>
+			 </physdesc>
+			 <physdesc> <extent>9 negative microfilm reels,10 positive microfilm
+				reels</extent>
+			 </physdesc>
+			 <physdesc><extent>3 sound tape reels</extent>
+			 </physdesc>
+		  </did> 
+		  <arrangement> 
+			 <p>Arranged by type of record.</p> 
+		  </arrangement> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Contains writings, annotated manuscripts, correspondence, taped
+				recordings of reminscences and tributes by friends and associates, lists,
+				publications, clippings, financial records, miscellany, ephemera,
+				scrapbook.</p> 
+			 <p>Some of the writings and manuscripts are microfilm copies of
+				originals either from this collection or owned by other individuals or
+				repositories. The bulk of the collection is typed, annotated manuscripts, or
+				correspondence.</p> 
+		  </scopecontent> 
+		  <altformavail id="a9" encodinganalog="530"> 
+			 <p>Some of the Bulosan papers are also available on microfilm. </p> 
+			 <p> 
+				<extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" xpointer="0581-012" linktype="simple">View selections from this
+				  collection in digital format</extref></p> 
+		  </altformavail> <phystech> 
+		  <p>Listening equipment necessary for 7-inch reel-to-reel audio tapes
+			 and cassette audio tapes. Microfilm reader necessary to view microfilm. Contact
+			 Special Collections for details.</p> </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Some restrictions exist on copying, quotation or publication.
+				Microfilm reel #4 may not be copied without the permission of the University of
+				Chicago.</p> 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>The bulk of the papers in this accession was collected by the
+				Bulosan Manuscript Committee in 1959. </p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>Writings</unittitle> 
+			 </did> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unittitle>Prose</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/1</container> 
+					 <unittitle>Biographical sketch for 20th century
+						authors</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW04506" linktype="locator"/> 
+					 </daogrp> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/2</container> 
+					 <unittitle>"The cry and the dedication"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>circa 250 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/3</container> 
+					 <unittitle>"The cry and the dedication"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>circa 250 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/4</container> 
+					 <unittitle>"A rich man in the family"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/5</container> 
+					 <unittitle>"The power of music"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>11 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/6</container> 
+					 <unittitle>"Wisdom of Uncle Sator"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>19 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/7</container> 
+					 <unittitle>"Betrayal of Uncle Soyoc"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/8</container> 
+					 <unittitle>"Homecoming of Uncle Manuel"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/9</container> 
+					 <unittitle>"A servant in the house"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/10</container> 
+					 <unittitle>"Dinner with a king"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages, with two different copies of page
+						67</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/11</container> 
+					 <unittitle>"The story of creation"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>100 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/12</container> 
+					 <unittitle>"A trip to Baguio"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>16 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/13</container> 
+					 <unittitle>"Marriage of Cousin Pedro"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/14</container> 
+					 <unittitle>"Be American"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/15</container> 
+					 <unittitle>"Bandit and the tax collector"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/16</container> 
+					 <unittitle>"The betrayal of Uncle Roman"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>11 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/17</container> 
+					 <unittitle>"Son of Uncle Sator"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/18</container> 
+					 <unittitle>"I am not a laughing man"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/19</container> 
+					 <unittitle>"My first day in America"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>3 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/20</container> 
+					 <unittitle>"The summer of beautiful music"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/21</container> 
+					 <unittitle>"Return of the amorous ghost"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/22</container> 
+					 <unittitle>"Lonesome mermaid"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/23</container> 
+					 <unittitle>"The great lover"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/24</container> 
+					 <unittitle>"Springtime of my father"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/25</container> 
+					 <unittitle>"Now long shadows were falling"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>61 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/26</container> 
+					 <unittitle>"The big convention"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>26 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/27</container> 
+					 <unittitle>"The amorous ghost came to town"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/28</container> 
+					 <unittitle>"The beer drinkers"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/29</container> 
+					 <unittitle>"Heart of darkness"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>4 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/30</container> 
+					 <unittitle>"Tales from the old country"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/31</container> 
+					 <unittitle>"Really, a ghost?"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/32</container> 
+					 <unittitle>"The rooster's egg"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>14 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/33</container> 
+					 <unittitle>"Unfinished portrait"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/34</container> 
+					 <unittitle>"Cat in the rain"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/35</container> 
+					 <unittitle>"The younger sister"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>18 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/36</container> 
+					 <unittitle>"I don't know why"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/1</container> 
+					 <unittitle>"My brother Joey"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>17 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/2</container> 
+					 <unittitle>"The stolen violin"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>11 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/3</container> 
+					 <unittitle>"The night reveals"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/4</container> 
+					 <unittitle>"Death of an author"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/5</container> 
+					 <unittitle>"I should have stood in bed"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>13 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/6</container> 
+					 <unittitle>"Miracle by the sea"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>4 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/7</container> 
+					 <unittitle>"The thief"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/8</container> 
+					 <unittitle>"The glorious day"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/9</container> 
+					 <unittitle>"Americano from Luzon"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/10</container> 
+					 <unittitle>"Odyssey of Constantia Drake"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/11</container> 
+					 <unittitle>"Romance of Magno Rubio"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>20 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/12</container> 
+					 <unittitle>"We laugh a little"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>17 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/13</container> 
+					 <unittitle>"The hairline of Pantaleon Cordalles
+						Moradoro"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>20 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/14</container> 
+					 <unittitle>"The worldbeaters"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>22 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/15</container> 
+					 <unittitle>"The tall white horse"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>19 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/16</container> 
+					 <unittitle>"The angel in Santo Domingo"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>22 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/17</container> 
+					 <unittitle>"A city in the sky"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>26 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/18</container> 
+					 <unittitle>"How my brother Leon brought home a wife and other
+						Philippine stories," edited by Leopoldo Y. Yabes and Carlos Bulosan</unittitle>
+					 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>circa 600 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/1</container> 
+					 <unittitle>"Cry Away the Years"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/2</container> 
+					 <unittitle>"In Search of America"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW04505" linktype="locator"/> 
+					 </daogrp> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/2</container> 
+					 <unittitle>"Sammy Cook's Shoeshine Box"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/2</container> 
+					 <unittitle>"A Story of Faith"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/3-7</container> 
+					 <unittitle>"A Virgin for Cousin Pedro and Other Tales of
+						Luzon"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>181 pages</extent>
+					 </physdesc>
+				  </did> 
+				  <scopecontent> 
+					 <p>For preservation, some pages have been photocopied and the
+						originals are stored in Vertical File 2731.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/8</container> 
+					 <unittitle>"As Long as the Grass Shall Grow"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/9</container> 
+					 <unittitle>"The Betrayal of Uncle Roman"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>11 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/10</container> 
+					 <unittitle>"Death of a Rich Man"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/11</container> 
+					 <unittitle>"The Return of Uncle Sator"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/12</container> 
+					 <unittitle>"The Son of Uncle Sator"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/13</container> 
+					 <unittitle>"A Trip to Bagvio"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>16 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/14</container> 
+					 <unittitle>"The Ugly Hunter and the Beautiful Woman and Other
+						Tales"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>13 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"The Filipino Houseboy"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"In Manila: A Fragment"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>6 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"Girl on the Beach"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"What Happened Before"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>5 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"One Winter Night"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"Even the Rain Remembers"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>16 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"My Brother's Marriage"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>3 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"The Genius"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>14 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"Cabin in the Orchard"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>6 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"My Filipino Houseboy"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"My Father Goes to Court"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>6 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"The Little Brown Mouse"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>14 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"Nightfall"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle>"Sammy Cooke's Shoeshine Box"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/16</container> 
+					 <unittitle>"How my stories were written"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/16</container> 
+					 <unittitle>Fragments</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>2 items</extent>
+					 </physdesc>
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW04509" linktype="locator"/> 
+					 </daogrp> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unittitle>Poems</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/17</container> 
+					 <unittitle>"I Want the Wide American Earth"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW04510" linktype="locator"/> 
+					 </daogrp> 
+					 <physdesc> <extent>25 autographed copies</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Adoration"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Allan"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Dark Moment"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Desire"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Elegy for Mary Ann"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Epitaph"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Exits and Entrances for Our Time"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"For Marjorie"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Gift"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"I saw your face"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"In the moonlight"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Interlude" (two versions)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"A Little Poem"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Marching"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"My new room"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Okaboji Lake - Iowa"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Our lives conflicted towards the end"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Passage from life"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"A song of freedom"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Testament"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"To Adam, with thanks"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>"Who was it that loved a tree"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>Fragment</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"Exits and Entrances for Our Time"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"For Chris - on his birthday"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"The Good Life: What Did I Know"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"I met her in the tall summertime"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"I write a poem about you pen"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"Into the world I walk free"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"A Midnight Song"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"My Country/My Street"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"The Oak Tree"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"The Surrounded"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>"You shall know my sons"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle>Fragment</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/20</container> 
+					 <unittitle>"Another Legend"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/20</container> 
+					 <unittitle>"A Darkness. A Snowfall. A Rain."</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/20</container> 
+					 <unittitle>"Landscape With a Bottle"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW04514" linktype="locator"/> 
+					 </daogrp> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/20</container> 
+					 <unittitle>"Last Poem"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/20</container> 
+					 <unittitle>"You will grow old together"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/21</container> 
+					 <unittitle>Drafts</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>approximately 19 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/22</container> 
+					 <unittitle>"A Hill. A House. And Love."</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <unitdate normal="1954" era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/22</container> 
+					 <unittitle>"All Summer"</unittitle> 
+					 <unitdate normal="1954" era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/22</container> 
+					 <unittitle>"Another April"</unittitle> 
+					 <unitdate normal="1954" era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/22</container> 
+					 <unittitle>"Another Letter to J. II"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate> 
+					 <physdesc> <extent>2 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/22</container> 
+					 <unittitle>"Aha! or The Face of Love"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>2 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/23</container> 
+					 <unittitle>"Conversation at Midnight"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/23</container> 
+					 <unittitle>"Discovery of a Memory"</unittitle> 
+					 <unitdate normal="1954" era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/23</container> 
+					 <unittitle>"Exits and Entrances for Our Time"</unittitle> 
+					 <unitdate normal="1954" era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/23</container> 
+					 <unittitle>"In Memory and the Flags Are There"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/23</container> 
+					 <unittitle>"In Remembrance"</unittitle> 
+					 <unitdate normal="1954" era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/24</container> 
+					 <unittitle>"I Want the Rich Philippine Earth"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate> 
+					 <physdesc> <extent>3 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/24</container> 
+					 <unittitle>"Lament For a Sleeping Child"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/24</container> 
+					 <unittitle>"Landscape"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/25</container> 
+					 <unittitle>"Letter to T." (unfinished)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>2 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/25</container> 
+					 <unittitle>"The Living Seed"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/25</container> 
+					 <unittitle>"Love Song (Recuerdo for Josephine)"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>2 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/26</container> 
+					 <unittitle>"My Country and My Street"</unittitle> 
+					 <unitdate normal="1955" era="ce" calendar="gregorian">1955</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/26</container> 
+					 <unittitle>"The Oak Leaf"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/26</container> 
+					 <unittitle>"On a Day in Seattle"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/26</container> 
+					 <unittitle>"Once Again I Will Tell You"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>2 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/26</container> 
+					 <unittitle>"On that Day"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/27</container> 
+					 <unittitle>"My New Room (For Chris and Irene)"</unittitle> 
+					 <unitdate normal="1955" era="ce" calendar="gregorian">1955</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/27</container> 
+					 <unittitle>"My Sister, My Bride"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>2 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/27</container> 
+					 <unittitle>"A New Year Letter"</unittitle> 
+					 <unitdate normal="1954" era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/27</container> 
+					 <unittitle>"II. October 31, 1954"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">circa 1954</unitdate> 
+					 <physdesc> <extent>3 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/28</container> 
+					 <unittitle>"Poem to Be Whispered"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/28</container> 
+					 <unittitle>"Prologue"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/28</container> 
+					 <unittitle>"Remembrance: I"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/28</container> 
+					 <unittitle>"Remembrance: II"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/29</container> 
+					 <unittitle>"Song for Chris Mensalves' Birthday"</unittitle> 
+					 <unitdate normal="1954" era="ce" calendar="gregorian">1954</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/29</container> 
+					 <unittitle>"The Song I Sing at Midnight"</unittitle> 
+					 <unitdate normal="1953" era="ce" calendar="gregorian">1953</unitdate> 
+					 <physdesc> <extent>2 pages each, 2 copies</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/30</container> 
+					 <unittitle>"The Vaulted Wall"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/30</container> 
+					 <unittitle>"A Walk Through the Woods"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/30</container> 
+					 <unittitle>"The Young Ones"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">3/31</container> 
+					 <unittitle>Untitled poems</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>2 pages</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Poems "compiled for Chris and Irene"</unittitle> 
+				</did> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"When I was a Little Boy: A Dream"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"The Bee and the Rose"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"When the Knife Cut You"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"I Cannot Lose You"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"White Rose, Wild Rose, Lost Rose"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"When You Were a Little Girl"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Dark Moment"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"The Blue Sky"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Testament"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Little Elegy"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Fear"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Desire"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"My Country"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Growth"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Is It a Poem"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Silence"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"My Mother"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"But Eyes"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Cancione Maldita"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Land of the Morning"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Can I Love You"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Of Love and Hate"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Unfinished Letter"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Will You be Men When You Grow Up"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"There is only you in the poem"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"What Would You Do"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Adoration"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"My People"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"A Song of Freedom"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Gift"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Marching"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"In the Moonlight"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Forever"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Little Song"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"When I Was a Little Boy: A Reality"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Praise and Warning"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"A Little Poem"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Mother and Child"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Testament of Earth"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"A Bright Star"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Miracle of Spring"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Passage from Life"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Land of Beauty"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Beautiful Boy"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Two Eternities"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Now You are Still"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle>"Only a Bird"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"The Dream"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Morning Song"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"The Morning is Still Dark"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"About Socrates"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"My Sisters in the Garden"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Anticipation and Contemplation"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Silence"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Prayer for the Beloved Dead"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Where My Love Lies"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"What Is a Poet?"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"The Consolation of Ambiguity"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Dark Moment"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"The Map of Life"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Needing No Time"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Tale of the Sleeping Dog" (2 copies)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Theseus"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"Letter to Fred, My Nephew"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>"My Father Was a Working Man"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Plays</unittitle> 
+				</did> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/3</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">The Masquerade Ball: A New Year's Eve
+						  Legend</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/3</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">The Wall</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/4</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">Jose Rizal</title> -
+						excerpt</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				  <scopecontent> 
+					 <p>In verse.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/5</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">Jose Rizal</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				  <scopecontent> 
+					 <p>In verse.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/6</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">Jose Rizal</title> -
+						fragments</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+				  </did> 
+				  <scopecontent> 
+					 <p>In verse.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/7</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">The Big Silver Dollar</title> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="item"> 
+				  <did> 
+					 <container type="box-folder">4/7</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">The Worldbeaters</title> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> </unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>Correspondence</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>General Correspondence</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/8</container> 
+					 <unittitle>Carlos Bulosan</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1948, 1955, undated</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW03709" linktype="locator"/> 
+						  <daoloc title="view selected items" id="PNW03694" linktype="locator"/> 
+							 <daoloc title="view selected items" id="PNW03701" linktype="locator"/> 
+								<daoloc title="view selected items" id="PNW03783" linktype="locator"/> 
+								  <daoloc title="view selected items" id="PNW04224" linktype="locator"/> 
+					 </daogrp> 
+					 <physdesc> <extent>6 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/9</container> 
+					 <unittitle>Carlos Bulosan to Mary Gibson</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953 May 14</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW03702" linktype="locator"/> 
+					 </daogrp> 
+					 <physdesc> <extent>5 items</extent>
+					 </physdesc>
+				  </did> 
+				  <scopecontent> 
+					 <p>Includes 4 pages of verses.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/10</container> 
+					 <unittitle>Bulosan Manuscript Committee</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1959, 1960</unitdate> 
+					 <physdesc> <extent>5 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/11</container> 
+					 <unittitle>Bauer, Harry C. </unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1956">1956</unitdate> 
+					 <physdesc> <extent>8 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/12</container> 
+					 <unittitle>Bulosan, Marjorie</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1949, 1950-1953</unitdate> 
+					 <physdesc> <extent>4 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/12</container> 
+					 <unittitle>Longshoremen's and Warehousemen's Union,
+						International, Local 7-C</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1952">1952</unitdate> 
+					 <physdesc> <extent>2 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/12</container> 
+					 <unittitle>Josephine Patrick to Washington State Committee for
+						the Protection of the Foreign Born</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1953 April 23</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Incoming letters</unittitle> 
+				  <daogrp linktype="extended"> 
+					 <daoloc title="view selected items" id="PNW03700" linktype="locator"/> 
+						<daoloc title="view selected items" id="PNW03699" linktype="locator"/> 
+						  <daoloc title="view selected items" id="PNW03780" linktype="locator"/> 
+				  </daogrp> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Bulosan, Aurelio</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1948">1948</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW03688" linktype="locator"/> 
+						  <daoloc title="view selected items" id="PNW03689" linktype="locator"/> 
+							 <daoloc title="view selected items" id="PNW03690" linktype="locator"/> 
+								<daoloc title="view selected items" id="PNW03692" linktype="locator"/> 
+					 </daogrp> 
+					 <physdesc> <extent>4 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Bulosan, Marjorie Patton</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1953, undated</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW03704" linktype="locator"/> 
+						  <daoloc title="view selected items" id="PNW03706" linktype="locator"/> 
+							 <daoloc title="view selected items" id="PNW03705" linktype="locator"/> 
+								<daoloc title="view selected items" id="PNW03707" linktype="locator"/> 
+					 </daogrp> 
+					 <physdesc> <extent>6 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Committee to Sponsor (Luis) Taruc's
+						Autobiography</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Harcourt, Brace and Company, Publishers, New
+						York</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1955">1955</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Kunkel, Donald R.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Lieber, Maxin</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1948">1948</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">The Nation</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Saunders, Marion</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Wilson (H. W.) Company, publishers, New
+						York</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>Wolf, Harriet</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1948/1949">1948-1949</unitdate> 
+					 <physdesc> <extent>5 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/14</container> 
+					 <unittitle>1948-1956</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1948/1956">1948-1956</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW03696" linktype="locator"/> 
+						  <daoloc title="view selected items" id="PNW03695" linktype="locator"/> 
+							 <daoloc title="view selected items" id="PNW03697" linktype="locator"/> 
+								<daoloc title="view selected items" id="PNW03708" linktype="locator"/> 
+					 </daogrp> 
+					 <physdesc> <extent>8 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Outgoing letters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/15</container> 
+					 <unittitle>undated</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW03693" linktype="locator"/> 
+					 </daogrp> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/16</container> 
+					 <unittitle>1947-1955</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1955">1947-1955</unitdate> 
+					 <daogrp linktype="extended"> 
+						<daoloc title="view selected items" id="PNW03725" linktype="locator"/> 
+						  <daoloc title="view selected items" id="PNW03724" linktype="locator"/> 
+							 <daoloc title="view selected items" id="PNW03723" linktype="locator"/> 
+								<daoloc title="view selected items" id="PNW03728" linktype="locator"/> 
+					 </daogrp> 
+					 <physdesc> <extent>5 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/17</container> 
+				  <unittitle>Of Others Concerning the Bulosan Manuscripts
+					 Collection</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>Financial records</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/18</container> 
+				  <unittitle>1954-1955</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1954-1955</unitdate> 
+				  <physdesc> <extent>4 items</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/19</container> 
+				  <unittitle>Harcourt, Brace and Company</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1950">1950</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/19</container> 
+				  <unittitle>Lieber, Maxim</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>Lists</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/20</container> 
+				  <unittitle>undated</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  <physdesc> <extent>3 items</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/21</container> 
+				  <unittitle>The Carlos Bulosan Fund</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>Publications</unittitle> 
+			 </did> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">4/22</container> 
+				  <unittitle>International Longshoremen’s and Warehousemen's
+					 Union, Cannery Workers, Local 37, Edited by Bulosan</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">circa 1950</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">4/23</container> 
+				  <unittitle>International Longshoremen’s and Warehousemen's
+					 Union, Cannery Workers, Local 37, Edited by Bulosan</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1952">1952</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">4/24</container> 
+				  <unittitle> 
+					 <title render="italic" linktype="simple">Common Ground</title> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+				<scopecontent> 
+				  <p>Includes prose, "As Long as the Grass Shall Grow."</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">4/24</container> 
+				  <unittitle> 
+					 <title render="italic" linktype="simple">Frontier and Midland</title>
+					 </unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1936">1936</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+				<scopecontent> 
+				  <p>Includes poem "At Winter Evening."</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box:oversize">6</container> 
+				  <unittitle> 
+					 <title render="italic" linktype="simple">Saturday Evening Post</title> - "The
+					 Four Freedoms"</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1943">1943</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">4/25-26</container> 
+				<unittitle>Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>Sound recordings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				<physdesc> <extent>3 reel-to-reel tapes</extent>
+				</physdesc>
+			 </did> 
+			 <altformavail> 
+				<p>Cassette listening copies available in folder 5/3 of Accession
+				  No.0581-013.</p> 
+			 </altformavail> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">4/27</container> 
+				  <unittitle>Reminiscences - Bulosan's later years by Josephine
+					 Patrick, Berry Hatton, Red Gibbs</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">5/1</container> 
+				  <unittitle>Reminiscences -- by Chris Mensalvas</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1959">1959</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">5/2</container> 
+				  <unittitle>Tribute to Carlos Bulosan by friends and
+					 associates</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1974">1974</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/3</container> 
+				  <unittitle>Interviews</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1959, 1960</unitdate> 
+				  <physdesc> <extent>Cassette tapes</extent>
+				  </physdesc>
+				</did> 
+				<scopecontent> 
+				  <p>Duplicates of interviews of November 19, 1959 and June 19,
+					 1960.</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/4</container> 
+				<unittitle>Miscellaneous</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				<physdesc> <extent>6 items</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/5</container> 
+				<unittitle>Notes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				<physdesc> <extent>1 item</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/6</container> 
+				<unittitle>Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1976">1976</unitdate> 
+				<physdesc> <extent>3 items</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/7</container> 
+				<unittitle>Biographical and bibliographical information</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>Speeches and writings of others</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/8</container> 
+				  <unittitle>Poem - "Bulosan New" by Alvaro
+					 Cardona-Hine</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/9</container> 
+				  <unittitle>Unpublished manuscript by Trinidad A. Rojo</unittitle>
+				  
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">circa 1946</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/10</container> 
+				<unittitle>Photographs</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/11</container> 
+				<unittitle>Miscellany</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/12</container> 
+				<unittitle>Ethnic Cultural Center Production Items</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box:oversize">6</container> 
+				<unittitle>Scrapbook</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>Microfilm collection</unittitle> 
+			 </did> 
+			 <processinfo> 
+				<p>With the following exceptions, all the material on microfilm is
+				  copied from originals in the Bulosan Papers: Microfilm reel no. 3 was copied
+				  from a Manila Public Schools textbook, 
+				<title render="italic" linktype="simple">Philippine Prose and Poetry</title>; reel
+				no. 4 material was copied from original manuscripts held by the University of
+				Chicago Library; reel no. 5 was copied from material originally owned by
+				Josephine Patrick. Patrick had also loaned the originals contained on reel no.
+				6 in September 1977. She then donated the originals in November 1977. The
+				letters addressed to Josephine Patrick (1953-1955, undated) on reel no. 8 were
+				returned to Patrick after filming. </p> 
+			 </processinfo> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unittitle>Writings of Bulosan</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Play in Verse - 
+						<title render="italic" linktype="simple">Jose Rizal</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unittitle>Poems</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"July 5, 1953'</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"The Oak Tree"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Into the world I walk free"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"My Country"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"My Street"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"A Midnight Song"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"All Summer"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"A Hill. A House. and Love."</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Another April"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Discovery of a Minority"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Exits and Entrances for Our Time"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>""I met her in the tall summertime""</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"The Good Life: What Did I Know"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Note</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unittitle>Poems</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Now That You are Still"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"The Surrounded"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"October 31, 1954"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Legend for Our Time"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Now that I lost you"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"My New Room"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"The time is too late"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"The Song of Songs"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Peaceful You, Immortal You"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Our lives conflicted towards the end"</unittitle>
+						
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Lullabye and Goodnight"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Aha? on the Face of Love"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Song after Reading Harriet Tubman's
+						  Life"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"A New Year Letter"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Poem for a Moment"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Desolation"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"The Song of the Sun"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"The Vaulted Wall"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"A Nightfall Song"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Love Letter"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"When Night Falls"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"Song for Chris Mensalvas' Birthday - June 24,
+						  1954"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"The Masquerade Ball: A New Year's Eve
+						  Legend"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">1</container> 
+						<unittitle>"In Search of America"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Outgoing Letters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Marjorie</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Chris</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Matt</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Mary Gibson</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>2 items</extent>
+					 </physdesc>
+				  </did> 
+				  <scopecontent> 
+					 <p>Includes poem for Maria.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Chris</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Mary Gibson</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc>(repeat copy) <extent>2 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>Florentino B. Valeros</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1953 February 8</unitdate> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Partial bibliography attached.</p> 
+				  </scopecontent> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">1</container> 
+				  <unittitle>Prose: "A Virgin for Cousin Pedro and Other Tales of
+					 Luzon"</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  <physdesc> <extent>18 pages</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Poems "compiled for Chris and Irene"</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"When I was a Little Boy: A Dream"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"The Bee and the Rose"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"When the Knife Cut You"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"I Cannot Lose You"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"White Rose, Wild Rose, Lost Rose"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"When You Were a Little Girl"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Dark Moment"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"The Blue Sky"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Testament"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Little Elegy"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Fear"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Desire"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"My Country"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Growth"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Is It A Poem"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Silence"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"My Mother"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"But Eyes"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Cancione Maldeta"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Land of the Morning"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Can I Love You"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Of Love and Hate"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Unfinished Letter"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Will You be Men When You Grow Up"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"There is only You in the Poem"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"What Would You Do"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Adoration"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"My People"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"A Song of Freedom"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Gift"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Marching"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"In the Moonlight"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Forever"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Little Song"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"When I was a Little Boy: A Reality"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Praise and Warning"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"A Little Poem"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Mother and Children"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Testament of Earth"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"A Bright Star"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Miracle of Spring"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Passage from Life"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Land of Beauty"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Beautiful Boy"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Two Eternities"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"How You are Still"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">1</container> 
+					 <unittitle>"Only a Bird"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">2</container> 
+				  <unittitle>Scrapbook</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">3</container> 
+				  <unittitle>Textbook - Manila Bureau of Public Schools, 
+					 <title render="italic" linktype="simple">Philippine Prose and
+						Poetry</title>(Volume 4, Manila. Bureau of Printing)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate> 
+				  <physdesc> <extent>353 pages</extent>
+				  </physdesc>
+				</did> 
+				<scopecontent> 
+				  <p>Includes two of Carlos Bulosan's works: "My Father's Tragedy"
+					 and "If You Want to Know Who You Are." Microfilm includes 5 pages of notes from
+					 Bulosan to Josephine concerning authors and/or works found in the text</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">4</container> 
+				  <unittitle>Manuscripts of Carlos Bulosan in the University of
+					 Chicago Library</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+				<userestrict> 
+				  <p>No reproduction without permission from University of
+					 Chicago.</p> 
+				</userestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Outgoing letters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>Harriet Monroe (editor of 
+						<title render="italic" linktype="simple">Poetry Magazine</title>)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>11 items</extent>
+					 </physdesc>
+				  </did> 
+				  <scopecontent> 
+					 <p>Includes brief biography, 1931-1936.</p> 
+				  </scopecontent> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Poems</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"Without Ceremony"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"Letter from America"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"In time of drought"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"Secret"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"No Story"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"Monuments"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>General correspondence</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>Donald J. Paquette to Harriet</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>Monroe concerning Carlos Bulosan</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1936">1936</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Outgoing letters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>Martin D. Zabell</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1937">1937</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>Geraldine Volell</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>6 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>George Dillon</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 <physdesc> <extent>5 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Poems</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"The Young Man"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"Night Piece"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"Needing No Time"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">4</container> 
+					 <unittitle>"The Phoenix"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unittitle>Three Poems:</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">4</container> 
+						<unittitle>"Letter in Exile"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">4</container> 
+						<unittitle>"American History"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">4</container> 
+						<unittitle>"Sunset and Evening Star"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">5</container> 
+				  <unittitle>Play in verse - 
+					 <title render="italic" linktype="simple">Jose Rizal</title> </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Poems</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"All Summer"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"A Hill. A House. And Love"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"Always when I thought I found a sheltered
+						sky"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"Another April"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"Another Letter to J."</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"Discovery of a Memory"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"Exits and Entrances for our Time"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"In Remembrance"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"My Country/My Street"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"My New Room"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"My Sister, My Bride"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"The Oak Leaf"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"Once Again I will Tell You"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"Song for Chris Mensalvas' Birthday"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"The Vaulted Wall"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"A Walk through the Woods"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>"The Young Ones"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Incoming letters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>Valeros, Florentino E.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1955">1955</unitdate> 
+					 <physdesc> <extent>3 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>Yabes, Leopoldo Y.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1948">1948</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">5</container> 
+					 <unittitle>Wally</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">5</container> 
+				  <unittitle>Outgoing Letters to Josephine Patrick</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1954, undated</unitdate> 
+				  <physdesc> <extent>4 items</extent>
+				  </physdesc>
+				</did> 
+				<custodhist> 
+				  <p>Originals in possession of Josephine Patrick.</p> 
+				</custodhist> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Writings of Bulosan</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <unittitle>Plays</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">6</container> 
+						<unittitle> 
+						  <title render="italic" linktype="simple">The Big Silver Dollar</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">6</container> 
+						<unittitle> 
+						  <title render="italic" linktype="simple">The Worldbeaters</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unittitle>Prose</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">6</container> 
+						<unittitle>"As Long as the Grass Shall Grow"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unittitle>Poetry</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">6</container> 
+						<unittitle>"Another Legend"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">6</container> 
+						<unittitle>"A Darkness. A Snowfall. A Rain"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">6</container> 
+						<unittitle>"Landscape With a Bottle"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">6</container> 
+						<unittitle>"Last Poem"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="reel">6</container> 
+						<unittitle>"You will grow old together"</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Incoming letters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Bulosan, Aurelio</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1948">1948</unitdate> 
+					 <physdesc> <extent>4 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Bulosan, Marjorie Patton</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1953, undated</unitdate> 
+					 <physdesc> <extent>6 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Committee to Sponsor (Luis) Taruc's
+						Autobiography</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Harcourt, Brace and Company, Publishers New
+						York</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1955">1955</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Kunkel, Donald R.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Lieber, Maxim</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1948">1948</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle> 
+						<title render="italic" linktype="simple">The Nation</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1958">1958</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Gaunders, Marion</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Wilson (H. W.) Company, publishers, New
+						York</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Wolf, Harriet</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1948/1949">1948-1949</unitdate> 
+					 <physdesc> <extent>5 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">6</container> 
+				  <unittitle>Outgoing letters</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>General correspondence - Miscellaneous</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Bulosan, Marjorie Patton</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1949, 1950, 1952</unitdate> 
+					 <physdesc> <extent>4 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Longshoremen's and Warehousemen's Union,
+						International, Local 7-C</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1952">1952</unitdate> 
+					 <physdesc> <extent>2 items</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Josephine Patrick to Washington State Committee for
+						the Protection of the Foreign Born</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1353 April 23</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Financial records</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Harcourt, Brace and Company</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1950">1950</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>Lieber, Maxim</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Lists</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">6</container> 
+					 <unittitle>The Carlos Bulosan Fund</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+					 <physdesc> <extent>1 item</extent>
+					 </physdesc>
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">6</container> 
+				  <unittitle>Notes</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">6</container> 
+				  <unittitle>Ephemera</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1976">1976</unitdate> 
+				  <physdesc> <extent>3 items</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">6</container> 
+				  <unittitle>Publication: 
+					 <title render="italic" linktype="simple">Saturday Evening Post</title> special
+					 edition</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1943">1943</unitdate> 
+				  <physdesc> <extent>1 item</extent>
+				  </physdesc>
+				</did> 
+				<scopecontent> 
+				  <p>Including "Freedom from Want" by Bulosan.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Selections from prose writings</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"A rich man in the family"</unittitle> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The power of music"</unittitle> 
+					 <physdesc> <extent>11 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Wisdom of Uncle Sator"</unittitle> 
+					 <physdesc> <extent>19 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Betrayal of Uncle Soyoc"</unittitle> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Homecoming of Uncle Manuel"</unittitle> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"A servant in the house"</unittitle> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Dinner with a king"</unittitle> 
+					 <physdesc> <extent>9 pages, with two different copies of page
+						67</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The story of creation"</unittitle> 
+					 <physdesc> <extent>100 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"A trip to Baguio"</unittitle> 
+					 <physdesc> <extent>16 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Marriage of Cousin Pedro"</unittitle> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Be American"</unittitle> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Bandit and the tax collector"</unittitle> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The betrayal of Uncle Roman"</unittitle> 
+					 <physdesc> <extent>11 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Son of Uncle Sator"</unittitle> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"I am not a laughing man"</unittitle> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"My first day in America"</unittitle> 
+					 <physdesc> <extent>3 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The summer of beautiful music"</unittitle> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Return of the amorous ghost"</unittitle> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Lonesome mermaid"</unittitle> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The great lover"</unittitle> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Springtime of my father"</unittitle> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Now long shadows were falling"</unittitle> 
+					 <physdesc> <extent>61 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The big convention"</unittitle> 
+					 <physdesc> <extent>26 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The amorous ghost came to town"</unittitle> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The beer drinkers"</unittitle> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Heart of darkness"</unittitle> 
+					 <physdesc> <extent>4 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Tales from the old country"</unittitle> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Really, a ghost?"</unittitle> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The rooster's egg"</unittitle> 
+					 <physdesc> <extent>14 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Unfinished portrait"</unittitle> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Cat in the rain"</unittitle> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The younger sister"</unittitle> 
+					 <physdesc> <extent>18 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"I don't know why"</unittitle> 
+					 <physdesc> <extent>7 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"My brother Joey"</unittitle> 
+					 <physdesc> <extent>17 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The stolen violin"</unittitle> 
+					 <physdesc> <extent>11 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The night reveals"</unittitle> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Death of an author"</unittitle> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"I should have stood in bed"</unittitle> 
+					 <physdesc> <extent>13 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Miracle by the sea"</unittitle> 
+					 <physdesc> <extent>4 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The thief"</unittitle> 
+					 <physdesc> <extent>12 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The glorious day"</unittitle> 
+					 <physdesc> <extent>9 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Americano from Luzon"</unittitle> 
+					 <physdesc> <extent>8 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Odyssey of Constantia Drake"</unittitle> 
+					 <physdesc> <extent>10 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"Romance of Magno Rubio"</unittitle> 
+					 <physdesc> <extent>20 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"We laugh a little"</unittitle> 
+					 <physdesc> <extent>17 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The hairline of Pantaleon Cordalles
+						Moradoro"</unittitle> 
+					 <physdesc> <extent>20 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The worldbeaters"</unittitle> 
+					 <physdesc> <extent>22 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The tall white horse"</unittitle> 
+					 <physdesc> <extent>19 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"The angel in Santo Domingo"</unittitle> 
+					 <physdesc> <extent>22 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="reel">7</container> 
+					 <unittitle>"A city in the sky"</unittitle> 
+					 <physdesc> <extent>26 pages</extent>
+					 </physdesc>
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">8</container> 
+				  <unittitle>Outgoing letters to Josephine Patrick</unittitle> 
+				  <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1953/1955">1953-1955</unitdate> 
+				</did> 
+				<custodhist> 
+				  <p>Originals in possession of Josephine Patrick.</p> 
+				</custodhist> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="reel">9</container> 
+				  <unittitle>"The Cry and the Dedication"</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar" encodinganalog="099">0581-013</unitid> 
+			 <unittitle>Sound recordings about Carlos Bulosan</unittitle> 
+			 <unitdate type="inclusive" normal="1959/1960" era="ce" calendar="gregorian">1959-1960</unitdate> 
+			 <physdesc> <extent>2 sound cassettes (60 min. ea.)</extent>
+			 </physdesc>
+			 <physdesc><extent>2 CD-ROM discs</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Contains sound cassette and CD-ROM copies of recordings of
+				individuals reminiscing about their friendship with Carlos Bulosan. The
+				originals are reel-to-reel sound recordings (1959-1960) in Accession No.
+				0581-012.</p> 
+			 <p>In the Chris Mensalvas interview conducted by Joseph Butterworth
+				on September 19, 1959, Mensalvas stated his belief that Bulosan came to the
+				United States in 1931 and landed in Seattle. He may have stayed in Seattle for
+				a time but then went to Yakima to pick fruit. He wound up in Lompoc,
+				California, where Mensalvas thinks they first met. When Carlos was unemployed,
+				he lived with Mensalvas, as did Aurelio, Carlos's brother. This housing
+				consisted of a two bedroom apartment with a kitchen, shared by four men.</p> 
+			 <p>Jo Patrick, Barry Hatten and Red Gibb recall Carlos Bulosan's
+				later years in an interview recorded at Mary Gibson's apartment on June 19,
+				1960. </p> 
+		  </scopecontent> <phystech> 
+		  <p>Listening equipment necessary for cassette audio tapes or CD-ROM.
+			 Contact Special Collections for details.</p> </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Copied July 31, 1997, July 2007</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar" encodinganalog="099">0581-014</unitid> 
+			 <unittitle>Carlos Bulosan papers</unittitle> 
+			 <unitdate type="inclusive" normal="1953" era="ce" calendar="gregorian">1953</unitdate> 
+			 <physdesc> <extent>0.03 cubic feet</extent>
+				<extent>1 vertical file</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Autographed manuscript poem "The language of flowers" (for Victor
+				Cabebe), with letter to Josephine Patrick on verso (Seattle, 1953 April
+				14).</p> 
+		  </scopecontent> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donor: Mary Gibson Hatten, April 27, 2007</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar" encodinganalog="099">0581-015</unitid> 
+			 <unittitle encodinganalog="245$a">Ralph Franklin postcard</unittitle>
+			 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1963</unitdate> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {OPTIONAL: Bulk dates; normalize dates}?></unitdate>
+			 
+			 <physdesc> <extent encodinganalog="300$a">0.03 cubic feet</extent>
+				<extent encodinganalog="300$a">1 vertical file</extent>
+			 </physdesc>
+		  </did> 
+		  <arrangement encodinganalog="351"> 
+			 <p><?xm-replace_text {OPTIONAL: Explain the arrangement of the accession}?></p>
+			 
+		  </arrangement> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Postcard from Ralph Franklin to Mary Gibson regarding his
+				abandoning of Carlos Bulosan dissertation.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict type="540"> 
+			 <p><?xm-replace_text {REQUIRED ONLY IF RESTRICTIONS VARY AMONG ACCESSIONS: Summary of use restrictions, or lack of restrictions, on accession}?></p>
+			 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donor: Mary Hatten, October 11, 2011</p> 
+		  </acqinfo> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

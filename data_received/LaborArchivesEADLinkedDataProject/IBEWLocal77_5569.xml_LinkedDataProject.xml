@@ -1,0 +1,3041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"><!--OCLC 681656233-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" encodinganalog="identifier" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IBEWLocal77_5569.xml" identifier="80444/xv05703">IBEWLocal77_5569.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the International
+			 Brotherhood of Electrical Workers Local 77 Records </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing"> International
+			 Brotherhood of Electrical Workers Local 77 Records</titleproper> 
+		  <sponsor encodinganalog="contributor"> <emph render="bold">Processing
+			 Funded by the International Brotherhood of Electrical Workers, Local 77 and the
+			 Labor Archives Fund, Labor Archives of Washington.</emph> </sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20101123" era="ce" calendar="gregorian">© 2010</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by Mark Carlson via MARC2EAD script 
+		  <date era="ce" calendar="gregorian"> 2010</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>). </descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised October
+			 2011</date> 
+		  <item>Added brief inventory. carlsonm</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised September
+			 2015</date> 
+		  <item>Added full inventory. Inventory done by Crystal Clements. EAD
+			 Markup done by Jenn Parent</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5569</unitid> 
+		<unitid countrycode="us" repositorycode="wau-ar" type="accession">5569-001</unitid> 
+		<origination> 
+		  <corpname encodinganalog="110" role="creator" altrender="sync">International Brotherhood of Electrical Workers.$bLocal 77
+			 (Seattle, Wash.)</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">International
+		  Brotherhood of Electrical Workers, Local 77 records</unittitle> 
+		<unitdate normal="1905/2003" type="inclusive" era="ce" calendar="gregorian">1905-2003</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable;
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent encodinganalog="300$a">14 cubic feet </extent>
+		  <extent encodinganalog="300$a">14 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay"> Records of the
+		  Union</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>. </langmaterial> 
+	 </did> 
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/> 
+		<daoloc role="image/jpeg" title="Image of " label="image" linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist id="a2" encodinganalog="5451_"> 
+		<p/> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Minute books (1905-96), and contract files (1936-2003).</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" linktype="simple"/> </p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Creator's literary rights transferred to the University of Washington
+		  Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg,
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p> Received December 11, 2007.</p> 
+	 </acqinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess>
+		<subject encodinganalog="650">Electric industry workers$xLabor
+		  unions$zWashington (State)$xArchives</subject>
+		<subject encodinganalog="650">Electricians$xLabor unions$zWashington
+		  (State)$xArchives</subject>
+		<subject encodinganalog="650">Electric industry workers$xLabor
+		  unions$zOregon$xArchives</subject>
+		<subject encodinganalog="650">Electricians$xLabor
+		  unions$zOregon$xArchives</subject>
+		<subject encodinganalog="650">Electric industry workers$xLabor
+		  unions$zIdaho$xArchives</subject>
+		<subject encodinganalog="650">Electricians$xLabor
+		  unions$zIdaho$xArchives</subject>
+		<subject encodinganalog="650">Labor$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor movement$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor$zOregon$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor
+		  unions$zOregon$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor
+		  movement$zOregon$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor$zIdaho$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor
+		  unions$zIdaho$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor
+		  movement$zIdaho$xHistory$vSources</subject>
+		<genreform source="lcgft" encodinganalog="655">Minutes (Records)</genreform>
+		<genreform source="lcgft" encodinganalog="655">Collective labor agreements</genreform>
+		<genreform source="lcgft" encodinganalog="655">Contracts</genreform>
+		<genreform source="aat" encodinganalog="655">Membership lists</genreform>
+		<corpname role="curator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname>
+		<corpname role="subject" encodinganalog="610" altrender="sync">International Brotherhood of Electrical Workers.$bLocal 77
+		  (Seattle, Wash.)$vArchives </corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Washington (State)</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined"> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/1-4/19,
+				6/1-9/33, 11/1-14/18</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES I </emph>
+				</unitid> 
+			 <unittitle encodinganalog="245$a"> <emph render="bolditalic">MEETING
+				MINUTES</emph> </unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bolditalic">1897-1988</emph>
+				</unitdate> 
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">11/6</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries A </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 11</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1945-1951</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 11</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945-1951</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">4/7-4/14, 4/19,
+				  7/1-7/6, 8/1-8/4, 12/1-12/12</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries B </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 100, Seattle</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1897-1983</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Executive Board</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1919-1928</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Executive Board</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1928-1930</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 E.W.B.A.</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1949-1951</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local B77 Executive Board</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947-1948</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local 77 Executive Board Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local B77 Executive Board Seattle</unittitle>
+				  
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945-1947</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local B77/77-100 Seattle:</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947-1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local 77 Executive Board Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/19</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Executive Board Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948-1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1909-1911</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1908</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1907</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1906</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1905-1906</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1897-1900</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100 (A) Seattle,
+					 Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1956</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100 (A) Seattle,
+					 Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1957-1959</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100 (A) Seattle,
+					 Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1960-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100 (BA)
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1954-1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1911-1912</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1912</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1927-1928</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers 77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1928-1929</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1955-1965</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers B77 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945-1947</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1956</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100 A
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1960-1965</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100 A
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1966-1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100/ 100 A
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1971-1978</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 100
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1978-1983</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">7/15-7/16, 8/5,
+				  8/7, 12/8</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries C </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 101, PBX Operators </emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1941-1962</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers 77/ 77 B/ 101 PBX Operators</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947-1953</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers PBX Operators</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1941-1946</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 101 (BA)
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 101 (BA) Seattle
+					 (PBX Operators)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 101
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1962</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">8/6, 8/8</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bolditalic"/> </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">Subseries D:
+				  IBEW 77, Unit 102, Seattle</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1948-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 102 (A)
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 102 (A) Seattle
+					 (Operators)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">8/9-8/11</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries E </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 103, Everett</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 103 (BA) (W.C.T.)
+					 Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 103 (BA) Everett,
+					 Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1959</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 103 (BA) Everett,
+					 Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1960-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">8/12-8/15,
+				  14/8-14/12</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries F </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 104, Chehalis, Centralia</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1935-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 104 (A + BA)
+					 Chehalis</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 104 (A + BA)
+					 Chehalis</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 104 (A + BA)
+					 Chehalis</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 104
+					 Chehalis</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local 77-4/ B77 104 Chehalis, WA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948-1953</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 104 A-BA
+					 Chehalis-Centralia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1966</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 104
+					 Chehalis-Centralia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local 745/ 77-4
+					 Chehalis-Centralia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1935-1940</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local 77-4
+					 Chehalis-Centralia-Morton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940-1948</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">8/16-8/19,
+				  14/1</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries G </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 105, Aberdeen</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 105 (A + BA)
+					 Aberdeen</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 105 (A + BA)
+					 Aberdeen</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 105 (A + BA)
+					 Aberdeen</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/19</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 105 (A)
+					 Aberdeen</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 105A/ 105
+					 Abeerdeen, WA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1963-1968</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">2/1-2/6</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries H </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 106, Longview </emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 106 (A + BA)
+					 Longview</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 106 (A + BA)
+					 Longview, Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1955</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 106 (A + BA)
+					 Longview, Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 106 (A + BA)
+					 Longview, Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 106 (A + BA)
+					 Longview, Part 4</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 106 (A + BA)
+					 Longview</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">2/7-2/10</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries I: </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 107, Newhalem-Diablo</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 107 (A)
+					 Newhalem-Diablo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 107 (A)
+					 Newhalem-Diablo, Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 107 (A)
+					 Newhalem-Diablo, Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 107 (A)
+					 Newhalem-Diablo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">2/11-2/12,
+				  14/15</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries J </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 108 Ellensburg</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 108 (A)
+					 Ellensburg</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 108 (A)
+					 Ellensburg</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 108
+					 Ellensburg</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1954-1960</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">2/13-2/18,
+				  7/9-7/10</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries K </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 109, Coeur d'Alene, Raymond, Ilwaco</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1978</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 109 (A) Coeur
+					 d'Alene, Idaho</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1954-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 109 (A) Coeur
+					 d'Alene, Idaho</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 110 (A)
+					 Raymond</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 110 (A) Raymond,
+					 Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 110 (A) Raymond,
+					 Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1959-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 110
+					 Ilwaco</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 110 Raymond
+					 -Ilwaco</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1969-1978</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 110 Raymond
+					 Ilwaco</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1950-1958</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">2/19-2/22, 7/17,
+				  13/1</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries L </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 111, Pasco, Richland</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1949-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/19</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 111 (A)
+					 Pasco</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/20</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 111 (A) Richland,
+					 Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1949-1956</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/21</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 111 (A) Richland,
+					 Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1957-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/22</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 111 (A) Richland,
+					 Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 111
+					 Pasco</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1949-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 111 (A + BA)
+					 Pasco</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">14/15,
+				  14/17-14/18, 7/18-7/19, 13/2-13/6</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries M </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 112, Olympia </emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1940-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112-A
+					 Olympia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112-A</unittitle>
+				  
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1956</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112
+					 Olympia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940-1951</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112 A
+					 Olympia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1968-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/19</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112 A
+					 Olympia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1962-1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112 (A + BA)
+					 Olympia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112 (A + BA)
+					 Olympia, Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112 (A + BA)
+					 Olympia, Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112 (A + BA)
+					 Olympia, Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 112 (A + BA)
+					 Olympia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">13/7-13/8</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries N </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 113, Spokane</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1952-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 113 (A) Spokane
+					 (Radio Techs)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 113 (A) Spokane
+					 (Radio Techs)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">13/9-13/10</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries O </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 114, Wenatchee</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1953-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 114 (A + BA)
+					 Wenatchee</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 114 (A + BA)
+					 Wenatchee</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">13/11-13/16,
+				  14/2-14/5</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries P </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 115, Bellingham/Burlington </emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1936-1983</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 115 (A + BA)
+					 Bellingham</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1953</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 115 (A + BA)
+					 Bellingham, Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1955</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 115 (A + BA)
+					 Bellingham, Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 115 (A + BA)
+					 Bellingham, Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1959-1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 115 (A + BA)
+					 Bellingham</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 115 Burlington/
+					 Bellingham</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1976-1983</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local 77B Bellingham Unit</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1937-1945</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 115
+					 Burlington</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1979-1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers Local 77/ B77-15
+					 Bellingham-Burlington</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1936-1942</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">7/7-7/8,
+				  13/17-13/22</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries Q </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 116, Renton</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1948-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 116
+					 Renton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948-1953</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 116 A
+					 Renton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1959</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 116 (A)
+					 Renton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 116 (A) Renton,
+					 Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1955</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/19</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 116 (A) Renton,
+					 Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/20</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 116 (A) Renton,
+					 Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/21</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 116 (A) Renton,
+					 Part 4</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/22</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 116 (A + BA)
+					 Renton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">12/16,
+				  13/23-13/25</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries R </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 117, Skagit Valley/Mt. Vernon/Sedro Wooley</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1941-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Skagit Valley Tel Co
+					 Unit/ B77-17 Mt. Vernon/Burlington</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1941-1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/23</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 117 (A + BA)
+					 S.V.T. Co.</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/24</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 117 (A + BA)
+					 Mount Vernon</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1955</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13/25</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 117 (A + BA)
+					 Sedro Wooly</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">1/1-1/5, 4/1-4/6,
+				  14/16-14/18</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries S </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 118, Everett</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1938-1979</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118 A + BA
+					 Everett (Snohomish P.U.D) Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118 A + BA
+					 Everett (Snohomish P.U.D) Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1956</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118 A + BA
+					 Everett (Snohomish P.U.D) Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1957-1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118 A + BA
+					 Everett (Snohomish P.U.D) Part 4</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1962-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118 A + BA
+					 Everett (Snohomish P.U.D.)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118 A
+					 Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1965-1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77 Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1950-1954</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118-A/ 118 A+B
+					 Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1970-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118-A/ 118 A-AB
+					 Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1974-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77-B Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1938-1945</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 77-B Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945-1950</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118/ 118 A
+					 Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1954-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118 A Everett /
+					 118 BA Snohomish Co P.U.D.</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1966</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 118 A
+					 Everett</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1960-1965</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">1/6-1/10, 11/3,
+				  14/6-14/7</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries T </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 119, Bremerton</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1956-1988</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 119 A
+					 Bremerton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 119 A + BA
+					 Bremerton Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947-1955</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 119 A + BA
+					 Bremerton Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1957-1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 119 A + BA
+					 Bremerton Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1962-1964</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 119 A
+					 Bremerton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1971-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 119/119A/ 119A-BA
+					 Bremerton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 119-A-BA / 119 A
+					 Bremerton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1962-1969</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 119-A+B
+					 Bremerton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1981-1988</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">1/11-1/14</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries U </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 120 A + BA, Ephrata</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 120 A + BA
+					 Ephrata</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 120 A Ephrata
+					 Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1959</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 120 A Ephrata
+					 Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1960-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 120 A
+					 Ephrata</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">1/15,
+				  7/11-7/14</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries V </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 121, Radio Units</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1938-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 121A, Radio
+					 Technicians</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/11</container> 
+				  <unittitle encodinganalog="245$a">Roll Book and Minutes
+					 International Brotherhood of Electrical Workers Local Radio
+					 Technicians</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1941-1947</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/12</container> 
+				  <unittitle encodinganalog="245$a">Roll Book and Minutes
+					 International Brotherhood of Electrical Workers Local B 77-2 Radio
+					 Servicemen</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1938-1940</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 121"A" , Radio
+					 Broadcast Unit</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947-1954</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 121"A", Radio
+					 Broadcast Unit</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1954-1955</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">1/16-1/20</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries W </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 122, Puyallup/Sumner</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 122 A
+					 Puyallup</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 122 A
+					 Puyallup/Sumner Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 122 A
+					 Puyallup/Sumner Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 122 A
+					 Puyallup/Sumner Part 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1962-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/20</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 122 A
+					 Puyallup/Sumner</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">1/22-1/25</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries X </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 123, Spokane</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/21</container> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Electrical Workers Minutes Local 77 Unit 123A Spokane</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/22</container> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Electrical Workers Minutes Local 77 Unit 123A Spokane Part I</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/23</container> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Electrical Workers Minutes Local 77 Unit 123A Spokane Part II</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/24</container> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Electrical Workers Minutes Local 77 Unit 123A Spokane Part III</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1962-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/25</container> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Electrical Workers Minutes Local 77 Unit 123 Spokane</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/1-9/4</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries Y </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 124, Coulee Dam</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 124A, BA Coulee
+					 Dam</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 124 A, BA Coulee
+					 Dam, 1953-1963 Part 1 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 124 A, BA Coulee
+					 Dam, 1953-1963 Part 1 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 124 A, BA Coulee
+					 Dam</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/5-9/8,
+				  4/16</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries Z </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 125, Pullman/Portland</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 125 A Pullman,
+					 1953-1963 Part 1 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 125 A Pullman,
+					 1953-1963 Part 2 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 125 A
+					 Pullman</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 125 A
+					 Pullman</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes IBEW 77-125 Northwest
+					 Communication Council (NCC) Portland</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1957</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/9-9/12</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries AA </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 126, Clarkston</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 126 A
+					 Clarkston</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 126 A Clarkston,
+					 1953-1963 Part 1 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 126 A Clarkston,
+					 1953-1963 Part 1 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 126 A
+					 BA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/13-9/18</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries BB </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 127, Okanagan</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 127 A
+					 BA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 127 A, BA,
+					 Okanagan, 1952-1963 Part 1 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 127 A, BA,
+					 Okanagan, 1952-1963 Part 1 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 127 A, BA,
+					 Okanagan</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/14, 9/19-9/20,
+				  12/14-12/15</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries CC </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 128, Shelton</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1947-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 128 A BA Shelton,
+					 Washington</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">February 1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/19</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 128 A
+					 Shelton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/20</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 128 A, BA
+					 Shelton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 128 A Mason
+					 County P.U.D.</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947-1953</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 128 A
+					 Shelton</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1959</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/21-9/22</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries DD </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 129, Coulee Dam</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/21</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 129 A, BA Coulee
+					 Dam</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/22</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 129 A, BA Coulee
+					 Dam</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/23-9/26</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries EE </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 130, Coeur d'Alene</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/23</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 130, A, BA, Coeur
+					 D'Alene</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/24</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 130, BA, Coeur
+					 D'Alene, 1952-1963, Part 1 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/25</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 130, BA, Coeur
+					 D'Alene, 1952-1963, Part 2 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/26</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 130, BA, Coeur
+					 D'Alene, 1952-1963, Part 3 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/27-9/29</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries FF </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 131, Kellog-Wallace</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1956-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/27</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 131 BA,
+					 Kellog-Wallace, 1956-1963, Part 1 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/28</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 131 BA,
+					 Kellog-Wallace, 1956-1963, Part 2 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/29</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 131 BA,
+					 Kellog-Wallace, 1956-1963, Part 3 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">9/30-9/33</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries GG </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 132, Moscow-Pullman</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/30</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 132 A, BA,
+					 Moscow-Pullman</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/31</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 132 BA, Moscow,
+					 1952-1963, Part 1 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/32</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 132 BA, Moscow,
+					 1952-1963, Part 2 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/33</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 132 BA, Moscow,
+					 1952-1963, Part 3 of 3</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/1-3/3</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries HH </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 133, Kennewick </emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 133
+					 Kennewick</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 133 (BA)
+					 Kennewick, Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 133 (BA)
+					 Kennewick, Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/4-3/5</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries II </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 134, Wenatchee</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 134 (BA)
+					 Wenatchee</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 134
+					 Wenatchee</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/6-3/7</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries JJ </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 135, Spokane</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 135 (BA)
+					 Spokane</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 135 (BA)
+					 Spokane</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/8-3/10,
+				  9/15</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries KK </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 136, Sandpoint</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 136 Sandpoint,
+					 Idaho</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 136 (A + BA)
+					 Sandpoint, Idaho</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 136 Sandpoint,
+					 Idaho</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes Unit 136 A, BA
+					 Sandpoint, Idaho</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">December 1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/11-3/13</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries LL </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 137, Kirkland</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1950-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 137 (A + BA)
+					 Kirkland</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 137 (A) Kirkland,
+					 Part 1</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1950-1956</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 137 (A) Kirkland,
+					 Part 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1957-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/14-3/15</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries MM </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 138, Spokane</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1952,
+				  1963</emph> </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 138 (A)
+					 Spokane</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 138 (A)
+					 Spokane</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/16-3/18</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries NN </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 139, Richland</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 139 (A + BA)
+					 Richland</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 139
+					 Richland</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/18</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 139
+					 Richland</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/19-3/21</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries OO </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 140, Montesano/Elma/Richland</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1951-1974</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/19</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 140 (BA)
+					 Montesano</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/20</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 140 (BA)
+					 Montesano + Elma</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/21</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 140 (A)
+					 Richland</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">3/22</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries PP </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 141, Lynden</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1954-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/22</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 141 (A + BA)
+					 Lynden</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1954-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/1-6/4,
+				  11/4</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries QQ </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 142, Seattle Tele-Construction</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1952-1986</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 142 A Seattle
+					 Construction Part I</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 142 A Seattle
+					 Construction Part II</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1959-1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/3</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 142 A Seattle
+					 Construction Part III</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1962-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 142 A Seattle
+					 Tele-Construction</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/4</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 142A</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1981-1986</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/5</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries RR </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 143, Spokane Construction</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1952-1954</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 143 A Spokane
+					 Construction</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1954</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/6</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries SS </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 144, Tacoma</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1953-1954</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/6</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 144 A and BA
+					 Tacoma, WA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1954</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/7</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries TT </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 145, Mt. Vernon</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1955-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 145 BA Mt.
+					 Vernon, WA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1955-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/8-6/10,
+				  14/13-14/14</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries UU </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 146, Coupeville/Oak Harbor</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1953-1973</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/8</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 146 A Coupeville,
+					 WA Part I</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1955-1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/9</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 146 A Coupeville,
+					 WA Part II</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1959-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/10</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 146 A Oak Harbor,
+					 WA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 146 A Coupeville-
+					 Oak Harbor</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1962-1976</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 146 A
+					 Coupeville</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1962</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/11</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries VV </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 147, Halls Lake</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1956-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/11</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 147 A and BA
+					 Halls Lake, WA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/12-6/14</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries WW </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 148, Newport-Locke</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1958-1977</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/12</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 148 A
+					 Newport-Locke, WA Part I</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 148 A
+					 Newport-Locke, WA Part II</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/14</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 148 A Newport-
+					 Locke, WA</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1975-1977</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/15</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries XX </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 149, Beaverton, Oregon</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1961-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/15</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 149 Beaverton,
+					 OR</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/16</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries YY </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Unit 150, Coos Bay, Oregon</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1961-1963</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/16</container> 
+				  <unittitle encodinganalog="245$a">Minutes: Unit 150 Coos Bay,
+					 OR</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">11/1-11/2, 11/5,
+				  11/7</emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries ZZ </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Local 944 and 952 </emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1919-1927</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/1</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhoood of Electrical Workers Local 952</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1919-1923</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/2</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhoood of Electrical Workers Local 944</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1926-1927</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/5</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhoood of Electrical Workers Local 944</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1923-1924</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/7</container> 
+				  <unittitle encodinganalog="245$a">Minutes International
+					 Brotherhood of Electrical Workers Local 944</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1919</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">12/13</emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries AAA </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bold">IBEW 77,
+				  Safety Committee</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bold">1947-1949</emph>
+				  </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/13</container> 
+				  <unittitle encodinganalog="245$a">Minutes: International
+					 Brotherhood of Electrical Workers B77 Safety Committee</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947-1949</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">5/1-5/11,
+				10/1-10/24</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES II </emph>
+				</unitid> 
+			 <unittitle encodinganalog="245$a"> <emph render="bolditalic">CONTRACTS</emph> </unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"> <emph render="bolditalic">1936-2003</emph>
+				</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/1</container> 
+				<unittitle encodinganalog="245$a">Contracts: Seattle Hotel
+				  Association</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/2</container> 
+				<unittitle encodinganalog="245$a">Contracts: Seattle Steam
+				  Corporation</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1984-1987</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/3</container> 
+				<unittitle encodinganalog="245$a">Contracts: Seattle Transit
+				  System</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1944-1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/4</container> 
+				<unittitle encodinganalog="245$a">Contracts: Shelton Joint Power
+				  Operation</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1959-1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/5</container> 
+				<unittitle encodinganalog="245$a">Contracts: Simpson Power Plant,
+				  Shelton, WA</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1975-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/6</container> 
+				<unittitle encodinganalog="245$a">Contracts: Snohomish County
+				  Public Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/7</container> 
+				<unittitle encodinganalog="245$a">Contracts: Snohomish County
+				  Public Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1968-1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/8</container> 
+				<unittitle encodinganalog="245$a">Contracts: Snohomish County
+				  Public Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1991-2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/9</container> 
+				<unittitle encodinganalog="245$a">Contracts: Washington Water and
+				  Power Company</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940-1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/10</container> 
+				<unittitle encodinganalog="245$a">Contracts: Washington Water and
+				  Power Company</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1960-1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/11</container> 
+				<unittitle encodinganalog="245$a">Contracts: West Coast Telephone
+				  Company and the Northwest Communications Council</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/1</container> 
+				<unittitle encodinganalog="245$a">Contracts: Bellingham
+				  Gas</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945-1947</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/2</container> 
+				<unittitle encodinganalog="245$a">Contracts: Benton County Public
+				  Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1957-1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/3</container> 
+				<unittitle encodinganalog="245$a">Contracts: Chelan County Public
+				  Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1954-1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/4</container> 
+				<unittitle encodinganalog="245$a">Contracts: Centralia Department
+				  of Lighting</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1977-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/5</container> 
+				<unittitle encodinganalog="245$a">Contracts: Cowlitz County Public
+				  Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/6</container> 
+				<unittitle encodinganalog="245$a">Contracts: City of
+				  Ellensburg</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1971-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/7</container> 
+				<unittitle encodinganalog="245$a">Contracts: General Telephone
+				  Company of the Northwest</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1955-1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/8</container> 
+				<unittitle encodinganalog="245$a">Contracts: Grant County Public
+				  Utility District No. 2</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1955-1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/9</container> 
+				<unittitle encodinganalog="245$a">Contracts: Grays Harbor County
+				  Public Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/10</container> 
+				<unittitle encodinganalog="245$a">Contracts: Interstate Telephone
+				  Company</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1951-1952</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/11</container> 
+				<unittitle encodinganalog="245$a">Contracts: Lewis County Public
+				  Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1965-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/12</container> 
+				<unittitle encodinganalog="245$a">Contracts: Mason County Public
+				  Utility District No. 3</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1973-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/13</container> 
+				<unittitle encodinganalog="245$a">Contracts: Northwest Line
+				  Constructors Chapter, National Electrical Contractor's Association</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1955-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/14</container> 
+				<unittitle encodinganalog="245$a">Contracts: Northwest Line
+				  Constructors Chapter, National Electrical Contractor's Association</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1975-2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/15</container> 
+				<unittitle encodinganalog="245$a">Contracts: Pacific County Public
+				  Utility District No. 2</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1973-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/16</container> 
+				<unittitle encodinganalog="245$a">Contracts: Pend Oreille County
+				  Public Utility District No. 1</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1958-1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/17</container> 
+				<unittitle encodinganalog="245$a">Contracts: Puget Sound Power and
+				  Light Company</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1936-1952</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/18</container> 
+				<unittitle encodinganalog="245$a">Contracts: Puget Sound Power and
+				  Light Company</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/19</container> 
+				<unittitle encodinganalog="245$a">Contracts: Puget Sound Power and
+				  Light Company</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1968-1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/20</container> 
+				<unittitle encodinganalog="245$a">Contracts: Puget Sound Power and
+				  Light Company</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1980-1997</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/21</container> 
+				<unittitle encodinganalog="245$a">Contracts: City of Richland
+				  Electric Department</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1971-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/22</container> 
+				<unittitle encodinganalog="245$a">Contracts: Seattle Department of
+				  Lighting</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1950-1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/23</container> 
+				<unittitle encodinganalog="245$a">Contracts: Seattle Department of
+				  Lighting</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961-1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/24</container> 
+				<unittitle encodinganalog="245$a">Contracts: Seattle Department of
+				  Lighting</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1970-1994</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

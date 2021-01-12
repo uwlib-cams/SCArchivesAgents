@@ -1,0 +1,1994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WorkmensCircleArbeterRingBranchNo304SeattleWash1859.xml" encodinganalog="identifier" identifier="80444/xv97540">WorkmensCircleArbeterRingBranchNo304SeattleWash1859.xml</eadid>
+	 <filedesc>
+		<titlestmt id="edit-complete">
+		  <titleproper encodinganalog="title">Guide to the Workmen's Circle/Der
+			 Arbeter Ring Branch 304 Records </titleproper>
+		  <titleproper altrender="nodisplay" type="filing">Workmen's Circle/Der
+			 Arbeter Ring. Branch 304 (Seattle, Wash.) Records</titleproper>
+		</titlestmt>
+		<publicationstmt>
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+		  <date encodinganalog="date" normal="20080116" era="ce" calendar="gregorian">©2008</date>
+		  <address>
+			 <addressline>Seattle, WA 98195</addressline>
+		  </address>
+		</publicationstmt>
+	 </filedesc>
+	 <profiledesc>
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2008</date></creation>
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage><descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules>
+	 </profiledesc>
+	 <revisiondesc>
+		<change>
+		  <date era="ce" calendar="gregorian">Finding aid revised March
+			 2016</date>
+		  <item>Emily Spracklin added the -002</item>
+		</change>
+	 </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon" altrender="context">
+	 <did id="a1">
+		<repository>
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname>
+		  <address>
+			 <addressline>Box 352900</addressline>
+			 <addressline>Seattle, WA 98195-2900</addressline>
+		  </address></repository>
+		<unitid type="mss" encodinganalog="099">1859</unitid>
+		<unitid type="accession" encodinganalog="099">1859-001</unitid>
+		<origination>
+		  <corpname role="creator" encodinganalog="110" altrender="sync" source="local" rules="local">Workmen's Circle/Arbeter Ring.$bBranch No. 304
+			 (Seattle, Wash.)</corpname></origination>
+		<unittitle type="collection">Workmen's Circle/Der Arbeter Ring Branch 304
+		  records</unittitle>
+		<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1909/1971">1909-1971</unitdate>
+		<physdesc><extent encodinganalog="300$a">10 cubic feet</extent>
+		  <extent>15 boxes, plus one oversize folder</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records of a
+		  mutual benefit society and cultural-social organization for members of the
+		  Jewish working class</abstract><langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language> and 
+		<language langcode="yid" scriptcode="hebr" encodinganalog="546">Yiddish</language>.</langmaterial>
+	 </did>
+	 <bioghist encodinganalog="5451_" id="a2" altrender="sync">
+		<p>In April of 1892, a group of Jewish garment workers from New York
+		  City's Lower East Side formed a mutual aid society called the Workingmen’s
+		  Circle. This small collective soon grew to a membership of 300, and it
+		  officially became known as the Workmen’s Circle (Der Arbeter Ring in Yiddish)
+		  in 1900. The Workmen’s Circle provided benefits that poor immigrants were
+		  otherwise denied: life insurance, health benefits, unemployment relief, homes
+		  for the aged, and funeral assistance. By 1920 there were over 80,000 members,
+		  and The Workmen’s Circle had become one of the largest Jewish organizations in
+		  America.</p>
+		<p>The programs initiated by the Workmen's Circle encompassed a host of
+		  social, cultural, and political issues deemed important to the Jewish
+		  community. In addition to promoting labor rights and the strengthening of trade
+		  unions, the organization provided educational and cultural programs that
+		  emphasized Jewish heritage through theater, music, literature, summer camps,
+		  and Yiddish instruction. The Workmen's Circle also sold war bonds to provide
+		  support during both World Wars, and partnered with other Jewish organizations
+		  to actively promote and fund the settlement and expansion of Israel during the
+		  early years of its existence. After World War II, the organization
+		  de-emphasized their socialist leanings in an effort to distance themselves from
+		  communist affiliation.</p>
+		<p>The Seattle, Washington branch of the Workmen's Circle -- Branch 304
+		  -- was organized in 1909, and their first location was a rented store on 14th
+		  Avenue and Main Street. In 1920, the members bought a building at 120 21st
+		  Avenue that had previously been a blacksmith shop. Property was then purchased
+		  for the organization at 1614 East Union Street in 1937, with the grand opening
+		  of this location taking place in December 1942. Activities in Seattle included
+		  summer picnics, festive observances of Jewish holidays, New Years Eve
+		  celebrations, banquets, and lectures. Though Branch 304 eventually closed its
+		  doors in 1973, the Workmen's Circle organization continues to operate in
+		  several cities across the country.</p>
+	 </bioghist>
+	 <arrangement>
+		<p/>
+	 </arrangement>
+	 <scopecontent>
+		<p>The Workmen's Circle Records collection consists of papers gathered by
+		  the Seattle branches of the organization during their sixty-year lifespan.
+		  Materials include: biographical and historical data and correspondence
+		  (1925-1971), financial records (1909-1969), tax records (1943-1961), minutes
+		  (1941-1968), membership lists (1909-1960), and handbills (1932), among other
+		  items.</p>
+	 </scopecontent>
+	 <acqinfo encodinganalog="541" id="a19">
+		<p>Donated by Ben Stein, 1972-1973. One folder containing five handbills
+		  advertising the 23rd annual Picnic and Dance donated by Bill Clifford on July
+		  27, 2007.</p>
+	 </acqinfo>
+	 <odd encodinganalog="500" id="a5">
+		<p>This collection forms part of Washington State Jewish Archives.</p>
+	 </odd>
+	 <altformavail encodinganalog="530" id="a9">
+		<p><?xm-replace_text {Text of the Scope and Content Note, in paragraphs; separate each with paragraph tags}?></p>
+	 </altformavail>
+	 <accessrestrict encodinganalog="506" id="a14">
+		<p>Open to all users. </p>
+	 </accessrestrict>
+	 <userestrict encodinganalog="540" id="a15">
+		<p>Use restrictions vary by accession. See each accession below for more
+		  details.</p>
+	 </userestrict>
+	 <custodhist encodinganalog="561" id="a16">
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+	 </custodhist>
+	 <separatedmaterial encodinganalog="544__$n" type="relocation">
+		<p>
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv64758/" linktype="simple">Workmen's
+			 Circle/Der Arbeter Ring Branch 304 photograph collection (PH0769)</archref></p>
+		<p>
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv15936/" linktype="simple">Ben Stein
+			 papers (1916)</archref></p>
+	 </separatedmaterial>
+	 <bibliography id="a11" encodinganalog="581">
+		<p>
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+	 </bibliography>
+	 <relatedmaterial encodinganalog="544__$n" id="a6">
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+	 </relatedmaterial>
+	 <controlaccess>
+		<persname role="creator" source="uwsc-naf" encodinganalog="700" altrender="sync">Stein, Ben,$dapproximately 1890-
+		  </persname>
+		<corpname encodinganalog="610" role="subject" source="local" altrender="sync" rules="local">Workmen's Circle/Arbeter Ring.$bBranch No. 304
+		  (Seattle, Wash.)$vArchives</corpname>
+		<corpname role="creator" encodinganalog="710" source="aag-lcnaf" rules="aacr2">Jewish Labor Committee (U.S.)</corpname>
+		<corpname role="creator" encodinganalog="710" source="aag-lcnaf" rules="aacr2" altrender="sync">Federated Jewish Fund &amp; Council of Greater
+		  Seattle</corpname>
+		<corpname encodinganalog="710">Washington State Jewish Archives
+		  (University of Washington)</corpname>
+	 </controlaccess>
+	 <controlaccess>
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Jewish
+		  Americans</subject>
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  History</subject>
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  Unions</subject>
+		<subject source="archiveswest" altrender="nodisplay">Diaries</subject>
+	 </controlaccess>
+	 <dsc>
+		<c01 level="series">
+		  <did>
+			 <unitid type="uwsc">Series 1</unitid>
+			 <unittitle encodinganalog="245$a">Seattle Branches</unittitle>
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+		  </did>
+		  <scopecontent>
+			 <p>Materials related to branches 304 (men) and 304B (women) of the
+				Workmen's Circle organization in Seattle, Washington.</p>
+		  </scopecontent>
+		  <c02 level="file"><?xm-replace_text {Indicate hierarchical level in LEVEL attribute. Include additional elements in c02 or lower levels as needed}?>
+			 <did>
+				<container type="folder:oversize"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				<unittitle>Charters of Workmen's Circle Branches 304 and
+				  304B</unittitle>
+				<unitdate era="ce" calendar="gregorian">1909, 1929</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">1/1-3</container>
+				<unittitle>Biographical and Historical Data</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">1/4</container>
+				<unittitle>Biographical and Historical Data of Workmen's Circle
+				  Branch 304B (Women's Club)</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">1/5</container>
+				<unittitle>By Laws</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<container type="box-folder"/>
+				  <unittitle>Incoming Letters</unittitle>
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/6</container>
+				  <unittitle>American Financial and Development Corporation for
+					 Israel</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>American Red Magen David for Israel</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>American Organization for Rehabilitation Through
+					 Training Federation</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Amon, Sol (Mrs.)</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Anderson Water Tours</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1934-1937</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Aronson, H.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Aschert Bros.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Benezia, Jack L.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Bergman, Fred H.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Bernstein, Martin</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Blatt, J.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Bronx I. L. Peretz School</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Bronx Workmen's Circle School No. 15</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>B'nai B'rith Lodge 503</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1948-1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Caplin, Louis</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Caroline Kline Galland Home</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1964</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Caroline Kline Galland Home Building Fund</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963-1971</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>China, Republic of - Consulate</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Citizens Federal Savings</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>City of Hope</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1955-1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Cleveland Workmen's Circle Chorus and Mandolin
+					 Ensemble</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Cohan, A. and Co.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1936</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Cohan, Helen K.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"/>
+					 <unittitle>Cohan's Camera Center</unittitle>
+					 <unitdate era="ce" calendar="gregorian">1971</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Cohn, Merle D.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1948</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Credit Union National Association</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1933</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Credit Union National Extension Bureau</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1925</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Development Corporation for Israel</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1964</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Diamond, Izze</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1952</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Diamond. Josef</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Dimarco Reception Committee</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Docter, Harry</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Docter, Raymond H.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Dore, John F.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1933</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Durabuilt Luggage Mfg. Co., Inc.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1935</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Eisenhower, Dwight D.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+				<note>
+				  <p>Form letter</p>
+				</note>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Federated Jewish Fund and Council</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953-1959</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Franco and Bensussen</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Fraternal Center of Brooklyn</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Free Voice of Labor</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Friends of Israel Histadrut, Seattle
+					 Chapter</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957-1960</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Gediman, Arthur M.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Gierowitz, Nathan</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Glazer, Mary</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Goldfarb, Samuel E.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953-1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Goldstein, Stanley</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Gordan, S. A.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954-1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Group Health Cooperative of Puget Sound</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Gulbranson, J. R.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Gustanoff, Abe L.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/7</container>
+				  <unittitle>Habunim</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Hall, Hazel C.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Hanehin, Harry</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Health Insurance Institution - Kupet -
+					 Holim</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Hosiery Workers, American Federation of</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Israel, Consulate of</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1952</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Israel Histadrut Campaign</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963-1964</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Israelite Press L. T. D.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jacobs, Jerome B.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1952</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jacqueline F. Rubenstein Memorial
+					 Committee</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1968</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Club of Washington</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Community Center, Seattle</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Community Centers Building Fund
+					 Campaign</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Consumptive Relief Society, Seattle Ladies
+					 Auxiliary</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Chronic Disease Hospital</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Institute for the Blind</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Labor Committee</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1943-1958</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish National Home for Asthmatic
+					 Children</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954-1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Welfare Board, National</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1952, 1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jewish Yearbook of the Northwest</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jews. Congregation Temple de Hirsch</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1955-1960</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Jews. Herzal Jewish Culture Foundation</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/8</container>
+				  <unittitle>Kaminoff, Ida</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Kelly, Marguerite</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Kennedy, John F.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1961-1963</unitdate>
+				</did>
+				<note>
+				  <p>Form letters</p>
+				</note>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Klein, Isadore</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Klein, Sarah</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Kossen, Carl K.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1960-1961</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Kossen, Jack</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954-1955</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Kraft, Rose</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Kraus and Sons</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1938</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Lane, W. D.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1925</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Leather Workers International Union of America,
+					 AFL-CIO</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1924</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Leavitt, Ida</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Leavitt, Sydney</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Lemchen, Phillip (Mrs.)</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Levison, Bernard</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Lindsay, Margaret</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Lycette, Diamond and Sylvester</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1952-1964</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Malatoff, M. J.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Martin</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Maslan and Maslan</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1947-1950</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Maslan, Maslan and Hanan</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954-1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Mezistrano, Joe</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Miller, H.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1958</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Miller, Sam</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Mosler, George R.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1960</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>National Committee for Labor Israel</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>National Committee for Labor Israel
+					 Histadrut</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>National Council of Jewish Women</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>National Jewish Hospital of Denver</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954, 1959</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Newell, A. B. and Son</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1927-1931</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Northern Pacific Railway Co.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1964</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Pacific First Federal Savings</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Peoples National Bank of Washington</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1952</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Premier Artists Representatives</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Press, Lou</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Prottas and Levitt</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Puget Sound Mutual Savings Bank</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Raine, Jacob</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1952-1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Radinsky, Jack</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Ross, Morris</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Rubin, Sam and Clara</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Russell Sage Foundation, Division of Remedial
+					 Loans</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1925</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/9</container>
+				  <unittitle>Saltman, Leah</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Semon, Stuart</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Seattle Fire Department</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1946</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Seattle Lighting Department</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Seattle Public Schools</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1959-1961</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Seattle Hebrew School</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953, 1965</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Seattle - King County Department of Public
+					 Health</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Seattle Labor College</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1927</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Seattle Zionist Council</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1952-1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Sherr, Harry</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1929</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Shulman, Abe</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1945</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Shulman, L. Michael</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1944-1945</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Silverman, Libby</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1968</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Stern, Will</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957-1959</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Stutzker, A.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1943</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Sterling, Bernard</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Sunnyshore Acres</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Trade Union Institute</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Turner, Ida</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1964</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Tussman, Louis</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Twersky, Meyer (Mrs.)</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>United EIAS Service</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1955</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>United Jewish Appeal</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953-1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>United States - Information Agency</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>United States - Labor Department</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>United States - State Department</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1935</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>United States - Treasury Department</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1932-1944</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Vziel, Leon E.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1961-1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Victor</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953-1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Volstein, L.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Wagner, Joseph H.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1955</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Washington - Licenses Department</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1960</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Washington - Liquor Control Board</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1934</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Washington Division of Savings and Loan
+					 Associations</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954-1958</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Washington Mutual Savings Bank</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Weintraub, Meyer</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Wendrow, N.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>West, George R.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1955</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Who's Who in Jewish Labor</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Weiner, Morris</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1943</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Workmen's Circle Branch 305E</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Workmen's Circle Branch 578, 685</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1949, 1964</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Workmen's Circle Home for the Aged (N. Y. Branches,
+					 Inc.)</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Workmen's Circle School #5</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Workmen's Circle National Campaign for Cancer Hospital
+					 at City of Hope</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1950-1951</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Workmen's Circle Sanitarium</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Yaffee, Jack</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1953-1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Young Circle League</unittitle>
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Unidentified</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/10</container>
+				  <unittitle>Hebrew Sheltering and Immigration Aid
+					 Society</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1926, undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/11</container>
+				  <unittitle>Jewish Family and Child Service</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1950-1954</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/12</container>
+				  <unittitle>Mitchell, Hugh B.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1946</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/13</container>
+				  <unittitle>Ringold, Solie</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1961-1965</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">2/1-3</container>
+				<unittitle>Incoming Letters - Workmen's Circle National
+				  Office</unittitle>
+				<unitdate era="ce" calendar="gregorian">1930-1971</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder"/>
+				  <unittitle>Incoming Letters - 304B</unittitle>
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  <note>
+					 <p>304B was the women's organization</p>
+				  </note>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">2/4</container>
+				  <unittitle>Chanin, N.</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1945</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Cooper, Dora</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Federated Jewish Fund and Council</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Workmen's Circle National Office</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1955-1959</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				<unittitle>Incoming Letters - 304Y</unittitle>
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				<note>
+				  <p>304Y was the youth organization</p>
+				</note>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">2/5</container>
+				  <unittitle>Baskin, Joseph</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1942</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  <unittitle>Knox, Israel</unittitle>
+				  <unitdate era="ce" calendar="gregorian">1942</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">2/6-10</container>
+				<unittitle>Outgoing Letters</unittitle>
+				<unitdate era="ce" calendar="gregorian">1925-1970</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">2/11</container>
+				<unittitle>Outgoing Letters - 304B</unittitle>
+				<unitdate era="ce" calendar="gregorian">1931-1961</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">3</container>
+				<unittitle>Yiddish Correspondence</unittitle>
+				<unitdate era="ce" calendar="gregorian">1927-1969</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">4/1</container>
+				<unittitle>Tax Records</unittitle>
+				<unitdate era="ce" calendar="gregorian">1943-1961</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">4/2</container>
+				<unittitle>Legal Documents</unittitle>
+				<unitdate era="ce" calendar="gregorian">1914-1966</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">4/3</container>
+				<unittitle>Insurance Policies</unittitle>
+				<unitdate era="ce" calendar="gregorian">1939-1961</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">4/4-6</container>
+				<unittitle>Financial Records</unittitle>
+				<unitdate era="ce" calendar="gregorian">1920-1971</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">4/7</container>
+				<unittitle>Financial Records - 304B</unittitle>
+				<unitdate era="ce" calendar="gregorian">1938</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">5-6</container>
+				<unittitle>Financial Records - Membership Ledgers</unittitle>
+				<unitdate era="ce" calendar="gregorian">1909-1960</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">6</container>
+				<unittitle>Financial Records - Cash books</unittitle>
+				<unitdate era="ce" calendar="gregorian">1909-1960</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">7-8</container>
+				<unittitle>Financial Records - Receipt Books</unittitle>
+				<unitdate era="ce" calendar="gregorian">1942-1971</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">8</container>
+				<unittitle>Financial Records - Cash Books</unittitle>
+				<unitdate era="ce" calendar="gregorian">1951-1969</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/1</container>
+				<unittitle>Minutes Book</unittitle>
+				<unitdate era="ce" calendar="gregorian">1956-1957</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/2</container>
+				<unittitle>Minutes</unittitle>
+				<unitdate era="ce" calendar="gregorian">1941-1968</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/3</container>
+				<unittitle>Minutes - 304B</unittitle>
+				<unitdate era="ce" calendar="gregorian">1937-1946</unitdate>
+			 </did>
+			 <note>
+				<p>in Yiddish</p>
+			 </note>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/4-5</container>
+				<unittitle>Reports</unittitle>
+				<unitdate era="ce" calendar="gregorian">1940-1962</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/6</container>
+				<unittitle>Resolutions</unittitle>
+				<unitdate era="ce" calendar="gregorian">1929, 1942, 1952, 1963</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/7</container>
+				<unittitle>News Releases</unittitle>
+				<unitdate era="ce" calendar="gregorian">1949-1962</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/8</container>
+				<unittitle>Writings</unittitle>
+				<unitdate era="ce" calendar="gregorian">1954-1962, undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/9</container>
+				<unittitle>Writings - Invitations</unittitle>
+				<unitdate era="ce" calendar="gregorian">1943-1959</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/10-11</container>
+				<unittitle>Writings - Yiddish</unittitle>
+				<unitdate era="ce" calendar="gregorian">1957-1965, undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/1</container>
+				<unittitle>Membership Campaign Materials</unittitle>
+				<unitdate era="ce" calendar="gregorian">1951-1956</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/2</container>
+				<unittitle>Election Ballots</unittitle>
+				<unitdate era="ce" calendar="gregorian">1938-1948</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/3-4</container>
+				<unittitle>Bulletins</unittitle>
+				<unitdate era="ce" calendar="gregorian">1925-1967</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/5-19</container>
+				<unittitle>Newsletters and Bulletins - Other Branches and
+				  National</unittitle>
+				<unitdate era="ce" calendar="gregorian">1929-1965</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">11/1-2</container>
+				<unittitle>Ephemera - Promotional</unittitle>
+				<unitdate era="ce" calendar="gregorian">1926-1962</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">11/3-4</container>
+				<unittitle>Ephemera - Other Branches and National</unittitle>
+				<unitdate era="ce" calendar="gregorian">1925-1961</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">11/5-6</container>
+				<unittitle>Ephemera - Yiddish</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">11/7-9</container>
+				<unittitle>Ephemera - Jewish, Non-Workmen's Circle,
+				  Seattle</unittitle>
+				<unitdate era="ce" calendar="gregorian">1929-1965</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">11/10-11</container>
+				<unittitle>Ephemera - Jewish, Non-Workmen's Circle,
+				  Non-Seattle</unittitle>
+				<unitdate era="ce" calendar="gregorian">1917-1966</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">12/1-7</container>
+				<unittitle>Ephemera - Jewish, Non-Workmen's Circle,
+				  Non-Seattle</unittitle>
+				<unitdate era="ce" calendar="gregorian">1917-1966</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">12/8-9</container>
+				<unittitle>Ephemera - Socialist and Labor-Related</unittitle>
+				<unitdate era="ce" calendar="gregorian">1927-1954</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">12/10-13</container>
+				<unittitle>Programs</unittitle>
+				<unitdate era="ce" calendar="gregorian">1927-1960</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/1</container>
+				<unittitle>Programs</unittitle>
+				<unitdate era="ce" calendar="gregorian">1927-1960</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/2</container>
+				<unittitle>Souvenir Programs</unittitle>
+				<unitdate era="ce" calendar="gregorian">1927-1949</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/3</container>
+				<unittitle>Programs - Other Branches and National</unittitle>
+				<unitdate era="ce" calendar="gregorian">1933</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/4-7</container>
+				<unittitle>Souvenir - Other Branches and National</unittitle>
+				<unitdate era="ce" calendar="gregorian">1925-1962</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/8-10</container>
+				<unittitle>Lists</unittitle>
+				<unitdate era="ce" calendar="gregorian">1909-1964</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/11</container>
+				<unittitle>Notes</unittitle>
+				<unitdate era="ce" calendar="gregorian">1934-1967</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/1</container>
+				<unittitle>Notes (Yiddish)</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/2</container>
+				<unittitle>Meeting Notices</unittitle>
+				<unitdate era="ce" calendar="gregorian">1931-1953</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/3</container>
+				<unittitle>Meeting Notices - Lectures</unittitle>
+				<unitdate era="ce" calendar="gregorian">1927-1931</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/4-5</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate era="ce" calendar="gregorian">1933-1956, 1968</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/6</container>
+				<unittitle>Photographs</unittitle>
+				<unitdate era="ce" calendar="gregorian">1931-1935, undated</unitdate>
+				<note>
+				  <p>Placeholder only; materials relocated to PH Coll 769</p>
+				</note>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/7</container>
+				<unittitle>Awards and Certificates</unittitle>
+				<unitdate era="ce" calendar="gregorian">1922-1947</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/8-9</container>
+				<unittitle>Memorabilia</unittitle>
+				<unitdate era="ce" calendar="gregorian">1931-1952</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/10</container>
+				<unittitle>Blank Forms</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/11</container>
+				<unittitle>Insurance - Other Branches and National</unittitle>
+				<unitdate era="ce" calendar="gregorian">1913-1959</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/12</container>
+				<unittitle>Educational Materials - Other Branches and
+				  National</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/13</container>
+				<unittitle>Miscellaneous Re: Genocide Legislation and Immigration
+				  Policy</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/1</container>
+				<unittitle>Youth Camp</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid type="uwsc">Series 2</unitid>
+			 <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+			 <unittitle encodinganalog="245$a">Union Street Building</unittitle>
+			 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+		  </did>
+		  <scopecontent>
+			 <p>Materials related to the purchase and renovation of the Workmen's
+				Circle property at 1614 East Union Street in Seattle, Washington.</p>
+		  </scopecontent>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/2</container>
+				<unittitle>Specifications</unittitle>
+				<unitdate era="ce" calendar="gregorian">1937-1939</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/3</container>
+				<unittitle>Minutes</unittitle>
+				<unitdate era="ce" calendar="gregorian">1937-1941</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/4</container>
+				<unittitle>General Correspondence</unittitle>
+				<unitdate era="ce" calendar="gregorian">1938-1943</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/5</container>
+				<unittitle>Agendas</unittitle>
+				<unitdate era="ce" calendar="gregorian">1942</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/6</container>
+				<unittitle>Financial Records</unittitle>
+				<unitdate era="ce" calendar="gregorian">1938-1942</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/7</container>
+				<unittitle>Contracts</unittitle>
+				<unitdate era="ce" calendar="gregorian">1938-1939</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/8</container>
+				<unittitle>Resolutions</unittitle>
+				<unitdate era="ce" calendar="gregorian">1940</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/9</container>
+				<unittitle>Notes</unittitle>
+				<unitdate era="ce" calendar="gregorian">1941, undated</unitdate>
+			 </did>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid type="uwsc">Series 3</unitid>
+			 <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+			 <unittitle encodinganalog="245$a">Northwestern District
+				Committee</unittitle>
+			 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+		  </did>
+		  <scopecontent>
+			 <p>Materials related to a regional decision-making arm of the
+				Workmen's Circle organization, established July 27, 1924 in Seattle,
+				Washington.</p>
+		  </scopecontent>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/10-13</container>
+				<unittitle>General Correspondence</unittitle>
+				<unitdate era="ce" calendar="gregorian">1934-1958</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/14</container>
+				<unittitle>Minutes</unittitle>
+				<unitdate era="ce" calendar="gregorian">1940-1941</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/15</container>
+				<unittitle>Financial Records</unittitle>
+				<unitdate era="ce" calendar="gregorian">1957-1961</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/16</container>
+				<unittitle>Lists</unittitle>
+				<unitdate era="ce" calendar="gregorian">1932, undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/17</container>
+				<unittitle>Clippings</unittitle>
+				<unitdate era="ce" calendar="gregorian">undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/18</container>
+				<unittitle>Memorabilia</unittitle>
+				<unitdate era="ce" calendar="gregorian">1921-1953</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/19</container>
+				<unittitle>Photographs</unittitle>
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+			 </did>
+			 <note>
+				<p>Placeholder only; materials relocated to PH Coll 769</p>
+			 </note>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">15/20</container>
+				<unittitle>Ephemera</unittitle>
+				<unitdate era="ce" calendar="gregorian">1932-1950</unitdate>
+			 </did>
+			 <note>
+				<p>Includes 5 handbills advertising the 23rd annual Picnic and
+				  Dance</p>
+			 </note>
+		  </c02>
+		</c01>
+	 </dsc>
+  </archdesc></ead>

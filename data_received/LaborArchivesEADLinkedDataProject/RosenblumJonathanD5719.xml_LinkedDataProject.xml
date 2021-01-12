@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RosenblumJonathanD5719.xml" encodinganalog="identifier" identifier="80444/xv11788">RosenblumJonathanD5719.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Jonathan Rosenblum
+			 Papers </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Rosenblum (Jonathan)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Processed by Elizabeth Russell;
+			 preliminary finding aid prepared by S. Kemp.</author> 
+		  <sponsor encodinganalog="contributor">Processing paid for by the Labor
+			 Archives Fund, Labor Archives of Washington</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20120913" era="ce" calendar="gregorian">© 2012</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Full finding aid created by Elizabeth Russell; preliminary
+		  finding aid prepared by S. Kemp. 
+		  <date era="ce" calendar="gregorian">2012</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content Standard</title>).
+		</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"> <?xm-replace_text {Enter date of substantial revision of finding aid, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5719</unitid> 
+		<unitid countrycode="us" repositorycode="wau-ar" type="accession">5719-001</unitid> 
+		<origination> 
+		  <persname encodinganalog="100" role="creator" source="local" rules="rda" altrender="sync">Rosenblum, Jonathan,$d1961-</persname>
+		  </origination> 
+		<unittitle encodinganalog="245$a" type="collection">Jonathan Rosenblum
+		  papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1993/2006" era="ce" calendar="gregorian">1993-2006</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent encodinganalog="300$a">1 cubic foot</extent>
+		  <extent encodinganalog="300$a">1 box</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records related
+		  to community and labor organization, primarily in Washington state</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>. </langmaterial> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format:
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute the full URL of the image file.
+Eg,  http://www.lib.washington.edu/specialcoll/images/ead/MS3783.jpg. Also enter MIME type of digital file
+(eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute, eg. Image of Mike
+Lowry, 1982.-->
+		<daoloc role="image/jpeg" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Jonathan Rosenblum is a political planner and labor organizer for
+		  local and regional campaigns.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Arranged by subject.</p> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Records related to: 
+		  <list type="marked"> 
+			 <item>Rosenblum's involvement as founding organizer with Washington
+				State Jobs With Justice (WSJWJ) including founding and organizational
+				documents, 1993-1997. Including media clips, governing documents, and meeting
+				notes. WSJSJ employed direct action civil disobedience tactics, working closely
+				with the King County Labor Council to build labor unity and militancy and were
+				part of the local labor movements’ resurgence in the 1990s that culminated in
+				the World Trade Organization protests in 1999.</item> 
+			 <item>Rosenblum's role as an organizer for the Union Cities Campaign,
+				King County Labor Council, AFL-CIO, 1996-1997. Union Cities was a program
+				launched by AFL-CIO President John Sweeney after he was elected, aimed at
+				rebuilding labor strength and the labor movement’s ability to mobilize and
+				organize through local labor councils. Documents here are both local and
+				national Union Cities materials that describe the first year of the
+				program.</item> 
+			 <item>The formation of WashTech, 1997. In September 1997, three
+				Microsoft "perma-temps" walked into the King County Labor Council and said they
+				wanted to organize a union, inspiring what would become WashTech, now
+				affiliated with the Communications Workers of America. Rosenblum staffed the
+				initial effort to organize high tech workers; no existing union would commit to
+				figuring out how to organize high tech "perma-temps." WashTech began within the
+				King County Central Labor Council. These documents include materials from the
+				organization's initial meetings and strategic discussions about forming a union
+				within a largely unorganized industry.</item> 
+			 <item>Rosenblum's directorship of Seattle Union Now, AFL-CIO,
+				1997-2001. Part of a nationwide AFL-CIO organizing campaign in selected cities,
+				Seattle was one of the first four national sites chosen, Seattle Union Now
+				(SUN), was a joint project of the AFL-CIO, the King County Labor Council, and
+				local and international unions. SUN worked with local affiliates to organize
+				workers on a large scale, building local union capacity, and training a new
+				generation of member-activists and organizers. During the project's three and a
+				half year span, SUN helped unions to organize workers in a wide range of
+				industries (including UW graduate students). The documents include founding
+				materials, meeting notes, and reports.</item> 
+			 <item>The World Trade Organization protests, November 1999. As
+				director of SUN, Rosenblum was closely involved in labor’s preparations for the
+				WTO protests during the week of action. The records document his role in
+				helping to create a coalition between SUN and Direct Action Network,
+				environmentalists, international activists and students. Also recorded in the
+				records is community’s collective response to the the Seattle mayor’s attempt
+				to suspend free speech rights in downtown Seattle; the mass sit-in outside the
+				King County Jail at the end of the week; and the drawn-out legal aftermath
+				stemming from the police reaction and the mass arrests of activists. Some of
+				the records include affidavits from legal proceedings following the WTO
+				protests.</item> 
+			 <item>The Florida Recount, November 2000. Rosenblum was one of many
+				AFL-CIO staff people sent to Florida immediately after the November 2000
+				election to assist with ballot recount efforts. Rosenblum performed ballot
+				recovery and did outreach to synagogues in Palm Beach and Broward counties,
+				serving as a ballot observer in Broward County. The documents include his notes
+				from community outreach work, original materials from the Broward recount
+				canvass, and an email diary he sent home to friends during his 3 weeks in
+				Florida. </item> 
+			 <item>The WTO Anniversary Protest, November 2000. Rosenblum played a
+				prominent role in the November 30, 2000 WTO anniversary protest as the King
+				County Central Labor Council’s liaison with the city; working to ensure a
+				peaceful demonstration without the level of confrontation of the previous year.
+				The mood of the protest shifted when somone threw a bottle at a police officer.
+				In retaliation, more than 140 protestors were arrested. Mayor Paul Schell
+				intervened once the arrests happened and tried to release Rosenblum and two
+				other labor leaders without charges while charging all of the other protesters.
+				This became a controversy among newspaper editorialists and subsequently turned
+				into a political problem for Mayor Schell. The records document the
+				negotiations of Rosenblum and the rest of the labor contingent inside the jail
+				with the jail director to win release of children who had been arrested in the
+				street sweep. The documents include Rosenblum's statements and
+				affidavits.</item> 
+			 <item>Rosenblum's "Pro-Israel" rally arrest and of the subsequent
+				fallout in the Jewish community, 2002. On April 30, 2002 Rosenblum and Rabbi
+				Drorah Setel were arrested at a "pro-Israel" rally in the public plaza outside
+				the federal building in downtown Seattle for holding up signs that called for
+				equal human rights for Israelis and Palestinians. The rally, organized by major
+				Jewish organizations to promote Israel and the rights of Jews, asked police to
+				arrest the counterprotesters. Once inside the jail, Rosenblum and Setel
+				insisted on getting charged so that they could defend free speech rights, while
+				outside the leader of the local Anti-Defamation League--one of the rally
+				organizers--demanded that the police to release them without charge. Rosenblum
+				and Setel were released and the charges were dropped, but the event created a
+				firestorm in the Seattle Jewish community on the meaning of free speech. The
+				the ensuing controversy, the editor of the local Jewish newspaper was fired and
+				a local Jewish labor leader was criticized by more conservative elements of the
+				community for siding with the two arrested activists. This series includes news
+				clippings, affidavits.</item> 
+		  </list> </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="actuatenone" show="new" linktype="simple"/> </p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>The creators' literary rights have been transferred to the University
+		  of Washington Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Donor: Jonathan Rosenblum, March 21, 2012</p> 
+	 </acqinfo> 
+	 <processinfo id="a20" encodinganalog="583" audience="external"> 
+		<p>Processed by Elizabeth Russell; processing completed in 2012.</p> 
+		<processinfo encodinganalog="544__$n" type="reloc"> 
+		  <p><?xm-replace_text {State if visual materials were relocated, give title and if available photo
+		coll. no.; see manual for details }?></p> 
+		</processinfo> 
+	 </processinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12"> 
+		<persname encodinganalog="600" role="subject" source="lcnaf" rules="aacr2" altrender="sync">Rosenblum, Jonathan,$d1961-$vArchives
+		  </persname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Civic
+		  Activism</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Politics and Polticians</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  History</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Jewish
+		  Americans</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series I: King County Labor Council</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1994-2001</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series I includes promotional material for the Union Cities
+				Campaign,correspondence, notes, and an organizing plan as well as material
+				related to the National Labor Council Conference of 1996.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>Union Cities Campaign</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle>Union Cities Campaignp planning materials</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1994-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle>Union Cities Campaign promotional material</unittitle>
+				  
+				  <unitdate era="ce" calendar="gregorian">1994-2001</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>National Labor Council Conference</unittitle> 
+				<unitdate era="ce" calendar="gregorian"> 1996</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle>Information given to National Labor Council Conference
+					 attendees</unittitle> 
+				  <unitdate era="ce" calendar="gregorian"> 1996</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle>Preliminary Report of the Working Sessions</unittitle>
+				  
+				  <unitdate era="ce" calendar="gregorian"> 1996</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/5</container> 
+			 <unittitle>Series II: WashTech</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series II includes articles, correspondence, notes, and letters of
+				comment to the Washington State Department of Labor and Industries on the
+				proposed amendment WAC 296-128-535.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series III: Washington State Jobs with Justice
+				(WSJWJ)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1994-1998</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series III includes general information about WSJWJ, agendas,
+				minutes, and notes from officer meetings and steering committee meetings, and
+				press clippings related to the organization.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>WSJWJ General Information</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1995-1997</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>WSJWJ Officers</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1994-1997</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle>Officer Meeting Minutes and Notes</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1994-1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle>Officer Meeting Minutes and Notes, Part I</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1996-1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle>Officer Meeting Minutes and Notes, Part II</unittitle>
+				  
+				  <unitdate era="ce" calendar="gregorian">1996-1997</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>WSJWJ Steering Committee</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1993-1998</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle>Steering Committee Meeting Agenda, Minutes, and
+					 Notes</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1994-1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle>Steering Committee Meeting Agenda, Minutes, and
+					 Notes</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1995-1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle>Steering Committee Meeting Agenda, Minutes, and
+					 Notes</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1996-1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle>Steering Committee Meeting Agenda, Minutes, and
+					 Notes</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1995-1997</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle>WSJWJ Press Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1993-1995</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series IV: World Trade Organization (WTO) Protests, 1999
+				and WTO Anniversary Protests, 2000</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1999-2006</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series IV contains legal correspondence and written depositions,
+				correspondence, press clippings, and other material related to WTO protests in
+				Seattle, police reaction and arrests of protesters, and subsequent
+				controversy.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle>AFL-CIO Planning for WTO Protests</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle>ACLU Report on WTO Protests</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Lawsuits Concerning WTO Protests and WTO Anniversary
+				  Protests</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000-2006</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/17</container> 
+				  <unittitle>Lawsuits on WTO Protests</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2000-2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/18</container> 
+				  <unittitle>Lawsuits on WTO Anniversary Protests</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2000-2004</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unittitle>Press Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999-2001</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Press Clippings on WTO Protests</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/20</container> 
+				  <unittitle>Press Clippings on WTO Protests</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/21</container> 
+				  <unittitle>Press Clippings on WTO Anniversary
+					 Protests</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2000-2001</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series V: Seattle Union Now</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1997-2001</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series V contains documents concerning organization and operations
+				of Seattle Union Now and bi-weekly reports of staff.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/22</container> 
+				<unittitle>Founding Documents</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1997-2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/23</container> 
+				<unittitle>Staff Bi-Weekly Reports</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000-2001</unitdate> 
+				<note> 
+				  <p>Also includes publication: <emph render="italic">Organizing
+					 Success in Seattle</emph>.</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series VI: Florida Recount</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2000</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series VI contains notes, documentation, ephemera, and photographs
+				related to the Florida vote recount during the 2000 presidential election.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/24</container> 
+				<unittitle>Recount Planning and Operations Information</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes staff notes, copy of Supreme Court of Florida decision,
+				  recount instructions, and press clippings.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/25</container> 
+				<unittitle>Recount Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes AFL-CIO stickers and Democratic Party and GOP observer
+				  badges.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/26</container> 
+				<unittitle>Recount Photographs</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes photographic prints and negatives of a rally at the
+				  West Palm Beach Emergency Operation Center for the recount on November 26,
+				  2000.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Series VII: "Pro-Israel" Rally Arrests</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2002</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series VII includes arrest documents, correspondence and press
+				clippings related to the arrest of protesters, including Jonathan Rosenblum, at
+				the "Pro-Israel" Rally on April 30, 2002.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/27</container> 
+				<unittitle>Documents and Correspondence Concerning
+				  Arrests</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/28</container> 
+				<unittitle>Press Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

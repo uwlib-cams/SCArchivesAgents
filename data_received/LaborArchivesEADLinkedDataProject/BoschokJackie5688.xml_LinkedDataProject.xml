@@ -1,0 +1,2601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"><!--OCLC 781461912-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BoschokJackie5688.xml" encodinganalog="identifier" identifier="80444/xv95590">BoschokJackie5688.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Jackie Boschok Papers
+			 </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Boschok (Jackie)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid prepared by Susan Kemp;
+			 full processing and description done by Erin Berg</author> 
+		  <sponsor encodinganalog="contributor">Processing Funded by the Labor
+			 Archives Fund, Labor Archives of Washington</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20120427" era="ce" calendar="gregorian">© 2012</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc audience="internal"> 
+		<creation>Finding aid encoded by Erin Berg 
+		  <date era="ce" calendar="gregorian">2012</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>). </descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"> finding aid revised November
+			 2013</date> 
+		  <item>Added accession -002. Susan Kemp</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" altrender="context"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5688</unitid> 
+		<origination> 
+		  <persname encodinganalog="100" role="creator" source="uwsc-naf" altrender="sync">Boschok, Jackie,$d1952-</persname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">Jackie Boschok
+		  papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1979/2013" era="ce" calendar="gregorian">1979-2013</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent encodinganalog="300$a">17.85 cubic feet</extent>
+		  <extent encodinganalog="300$a">27 boxes</extent>
+		</physdesc>
+		<physdesc> <extent>2 oversize folders</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Papers of a
+		  union representative and activist, and advocate for women in unions</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>. </langmaterial> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format:
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute the full URL of the image file.
+Eg,  http://www.lib.washington.edu/specialcoll/images/ead/MS3783.jpg. Also enter MIME type of digital file
+(eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute, eg. Image of Mike
+Lowry, 1982.-->
+		<daoloc role="image/jpeg" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Jackie Boschok (b. April 24, 1952) was a 30-year member, employee, and
+		  officer of the International Association of Machinists (IAM) 751. Boschok was
+		  also an officer in the Coalition of Labor Union Women (CLUW) Puget Sound
+		  chapter as well as a member of the organization's national board. Boschok first
+		  became active in the union as soon as she started working at Boeing in 1980,
+		  working in a variety of positions and holding a variety of offices including
+		  steward and local lodge offices including recording secretary; treasurer; and
+		  auditor. Boschok served for seven years on the IAM District Council and worked
+		  as a Business Representative beginning in 2001, Union Organizer, and Health and
+		  Benefits Representative beginning in 2009. Boschok also served on the Snohomish
+		  County Labor Council from 1993-2010, serving on their Executive Board for 10
+		  years and serving on its Community Services Committee. Boschock was a member
+		  and leader of the Coalition of Labor Union Women (CLUW) beginning in 1979 and
+		  in 1991 became a member of the national Executive Board. Boschok also served on
+		  the Washington State Labor Council's Women's Committee from 1994 to 2008,
+		  chaired the District 751 Women's Committee beginning in 2006, and served on the
+		  United Way of Snohomish County Board of Directors for six years.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Arranged into 2 accessions: 
+		  <list type="marked"> 
+			 <item>Accession no. 5688-001, Jackie Boschok papers, 1979-2010</item>
+			 
+			 <item>Accession no. 5688-002, Jackie Boschok papers, 1980-2013</item>
+			 
+		  </list> </p> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Personal papers documenting Boschok's career with the International
+		  Association of Machinists (IAM) 751 and an officer in the Coalition of Labor
+		  Union Women (CLUW) Puget Sound chapter as well as the organization's national
+		  board. The collection includes publications, ephemera, correspondence, class
+		  materials, stickers, and artifacts, including t-shirts from various local and
+		  national labor organizations and campaigns.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="actuatenone" show="new" linktype="simple"/> </p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>The creators' literary rights have been transferred to the University
+		  of Washington Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <odd> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <processinfo id="a20" encodinganalog="583" audience="external"> 
+		<p>Accession no. 5688-001 processed by Erin Berg; processing completed in
+		  2012</p> 
+		<processinfo encodinganalog="544__$n" type="reloc"> 
+		  <p><?xm-replace_text {State if visual materials were relocated, give title and if available photo
+		coll. no.; see manual for details }?></p> 
+		</processinfo> 
+	 </processinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess>
+		<persname role="subject" encodinganalog="600">Boschok,
+		  Jackie,$d1952-$vArchives</persname>
+		<subject encodinganalog="650">Labor$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor movement$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor union members$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Goodwill Games</subject>
+		<genreform source="lcgft" encodinganalog="655">Minutes (Records)</genreform>
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform>
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform>
+		<genreform source="lcgft" encodinganalog="655">Periodicals</genreform>
+		<genreform source="lcgft" encodinganalog="655">Newsletters</genreform>
+		<genreform source="lcgft" encodinganalog="655">Newspapers</genreform>
+		<genreform source="lcgft" encodinganalog="655">Instructional and educational works</genreform>
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+		<genreform source="aat" encodinganalog="655">Mugs (Cups)</genreform>
+		<genreform source="aat" encodinganalog="655">T-shirts</genreform>
+		<corpname role="creator" encodinganalog="710">International Association
+		  of Machinists</corpname>
+		<corpname role="creator" encodinganalog="710">Coalition of Labor Union
+		  Women (U.S.).$bPuget Sound Chapter</corpname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Women</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" encodinganalog="099">5688-001</unitid> 
+			 <unittitle>Jackie Boschok papers</unittitle> 
+			 <unitdate type="inclusive" normal="1979/2010" era="ce" calendar="gregorian">1979-2010</unitdate> 
+			 <physdesc> <extent>16.32 cubic feet</extent>
+				<extent>22 boxes</extent>
+			 </physdesc>
+			 <physdesc> <extent>2 oversize folders</extent>
+			 </physdesc>
+		  </did> 
+		  <arrangement encodinganalog="351"> 
+			 <p>The collection is arranged into five series:</p> 
+			 <p>Series I: Jackie Boschok Professional Records</p> 
+			 <p>Series II: Jackie Boschok Personal Records</p> 
+			 <p>Series III: Publications</p> 
+			 <p>Series IV: Educational/Training Materials</p> 
+			 <p>Series V: Artifacts</p> 
+			 <p>Series I is divided into subseries by creator type, and further
+				divided into subseries by the creating body. Series III is divided into
+				subseries based on their creator. Series II and IV are divided into subseries
+				based on their subject matter. Series V is divided into subseries based on
+				material type. Files within each subseries are arranged chronologically.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p>This collection of records, publications and artifacts documents
+				the various union activities of Jackie Boschok. While most of Jackie’s personal
+				records are from the 1980s, the bulk of professional records and publications
+				are from the 1990s-2000s. The records show the widespread involvement Jackie
+				Boschok had across numerous unions and community groups, including her
+				particular emphasis on the progression of women’s rights within both the
+				workplace and the union. The largest part of the collections is Series I:
+				Jackie Boschok Professional Records, which details the day-to-day activities,
+				as well as special events, for unions and other labor coalitions of which
+				Jackie Boschok served as a member and/or officer. At the end of Series I is
+				Subseries B: Boeing Company Records, which highlights the relationship of
+				Boeing and its employees, as well as detailing the Employee Community Fund,
+				which consists of voluntary employee paycheck deductions donated to non-profits
+				in the local community. Series II: Jackie Boschok Personal Records highlight
+				Jackie’s personal employment, education, politics and union involvement. Of
+				particular note is Subseries C: Jackie Boschok’s Political Involvement, which
+				show her support for women’s rights, including the Equal Rights Amendment and a
+				women’s right to choose. Also of interest is Subseries D: Seattle Goodwill
+				Games/Rotary District 503 Goodwill Exchange gives a glimpse into the experience
+				of housing Russian house guests during the Seattle Goodwill Games of 1990.
+				Series III: Publications consists of journals, newspapers and newsletters
+				published by the International Association of Machninists (IAM), the Coalition
+				of Local Union Women (CLUW) and Boeing. These publications give insight into
+				the pertinent issues concerning women in unions as well as unions at large at
+				both local and national issues. Series IV: Educational Materials makes up a
+				large part of the collection, with materials relating to various types of
+				education pertinent to a union members: union (negotiating/collective
+				bargaining), legal, workplace, technology and sexual harassment/domestic
+				violence/workplace violence. Series V: Artifacts consists of five full boxes of
+				artifacts, the bulk of which are related to the International Association of
+				Machinists (IAM), but the Coalition of Labor Union Women (CLUW), United Way and
+				Boeing are also represented. Of particular note is Subseries H: Strike
+				Artifacts, which includes official IAM press scrapbooks and picket signs
+				relating to strikes that occurred between 1989 and 2003. Also worth noting are
+				the hundreds of pro-union and women’s rights buttons/pins and stickers in
+				Subseries D and E, which were collected by Jackie between 1980 and 2010.</p> 
+		  </scopecontent> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <acqinfo encodinganalog="541" id="a19"> 
+			 <p>Donor: Jacelyn "Jackie" M. Boschok, March 7, 2012</p> 
+		  </acqinfo> 
+		  <c02 level="series"><?xm-replace_text {Indicate hierarchical level in LEVEL attribute; see proc.
+		manual for accession-level guidance. Include additional elements in c02 as needed}?>
+			 <did> 
+				<unitid type="uwsc"> <emph render="bolditalic">SERIES I </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bolditalic">JACKIE
+				  BOSCHOK PROFESSIONAL RECORDS</emph> </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"> <emph render="bolditalic"><?xm-replace_text {Date or date span; normalize accession-level dates}?></emph>
+				  </unitdate> 
+			 </did> 
+			 <arrangement encodinganalog="351"> 
+				<p>Series I is divided by creator type: Subseries A: Union Records
+				  and Subseries B: United Way of Snohomish County (UWSC) and Subseries C: Boeing
+				  Company Records. Subseries I: Union Records is further divided by the official
+				  creating body: Part 1: IAM 751, Part 2: Coalition of Labor Union Women (CLUW),
+				  Part 3: AFL-CIO, Part 4: Washington State Labor Council (WSLC) and Part 5:
+				  Snohomish County Labor Council (SCLC). Within each subseries, files are
+				  arranged chronologically.</p> 
+			 </arrangement> 
+			 <scopecontent encodinganalog="5202_"> 
+				<p>The series consists of meeting minutes, agendas, reports,
+				  memoranda and correspondence that give insight into the day-to-day workings of
+				  local union and labor coalitions, as well as the relationship between local
+				  unions and their national-level counterparts. Additionally, this series
+				  includes the brochures, handouts, reports, agendas and meeting minutes relating
+				  to special union events, such as conventions, summits, strikes, banquets and
+				  fundraisers. </p> 
+			 </scopecontent> 
+			 <c03 level="subseries"><?xm-replace_text {Indicate hierarchical level in LEVEL attribute. Include additional elements in c03 or lower levels as needed}?>
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries A </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Union
+					 Records</emph> </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+					 <emph render="bold"><?xm-replace_text {Component date or date span}?></emph>
+					 </unitdate> 
+				</did> 
+				<arrangement> 
+				  <p><?xm-replace_text {For series, describe the arrangement}?></p>
+				  
+				</arrangement> 
+				<scopecontent> 
+				  <p><?xm-replace_text {Brief description of series (required), or subseries or file if needed}?></p>
+				  
+				</scopecontent> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <unittitle>Part 1: International Association of Machinists
+						(IAM)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="subseries"> 
+					 <did> 
+						<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+						
+						<unittitle>IAM International</unittitle> 
+						<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+						
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/16</container> 
+						  <unittitle>IAM Human Rights &amp; Women's Department
+							 Materials</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">1980-2004</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/13-15</container> 
+						  <unittitle>IAM International Materials</unittitle> 
+						  <unitdate normal="1988/2010" type="inclusive" era="ce" calendar="gregorian">1988-2010</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/17-18</container> 
+						  <unittitle>IAM Grand Lodge Convention</unittitle> 
+						  <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">9/22</container> 
+						  <unittitle>IAM Collective Bargaining Agreement</unittitle> 
+						  <unitdate normal="2008/2012" type="inclusive" era="ce" calendar="gregorian">2008</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">9/24</container> 
+						  <unittitle>IAM Constitution</unittitle> 
+						  <unitdate normal="2009" type="inclusive" era="ce" calendar="gregorian">2009</unitdate> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="subseries"> 
+					 <did> 
+						<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+						
+						<unittitle>IAM 751</unittitle> 
+						<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+						
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">9/23</container> 
+						  <unittitle>IAM District Lodge 751 Machinists Non-Partisan
+							 League (MNPL) cookbook</unittitle> 
+						  <unitdate normal="1980/1999" type="inclusive" era="ce" calendar="gregorian">circa 1980s-1990s</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/3</container> 
+						  <unittitle>IAM 751 Union Business Representatives
+							 Sheets</unittitle> 
+						  <unitdate normal="1980/2010" type="inclusive" era="ce" calendar="gregorian">circa 1980-2010</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/1-2</container> 
+						  <unittitle>IAM 751 Materials</unittitle> 
+						  <unitdate normal="1988/2007" type="inclusive" era="ce" calendar="gregorian">1988-2007</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">12/6</container> 
+						  <unittitle>IAM Union Elections</unittitle> 
+						  <unitdate type="inclusive" normal="1992/2004" era="ce" calendar="gregorian">1992-2004</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">11/4</container> 
+						  <unittitle>IAM 751 1995 Strike and Rally</unittitle> 
+						  <unitdate normal="1995/1996" type="inclusive" era="ce" calendar="gregorian">1995-1996</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">14/1</container> 
+						  <unittitle>IAM National Community Services
+							 Documents</unittitle> 
+						  <unitdate normal="2002/2005" type="inclusive" era="ce" calendar="gregorian">2002-2005</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/4</container> 
+						  <unittitle>IAM 751 Materials</unittitle> 
+						  <unitdate normal="2003" type="inclusive" era="ce" calendar="gregorian">2003</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/7</container> 
+						  <unittitle>Proceedings: IAM 36th Grand Lodge Quadrennial
+							 Convention</unittitle> 
+						  <unitdate normal="2004" type="inclusive" era="ce" calendar="gregorian">2004</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">9/12</container> 
+						  <unittitle>IAM District 751 Worker's Rights
+							 Conference</unittitle> 
+						  <unitdate normal="2004" type="inclusive" era="ce" calendar="gregorian">2004</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/5</container> 
+						  <unittitle>Aerospace Industry Summit</unittitle> 
+						  <unitdate normal="2007" type="inclusive" era="ce" calendar="gregorian">2007</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">5/6</container> 
+						  <unittitle>Governor's First Aerospace Summit</unittitle> 
+						  <unitdate normal="2007" type="inclusive" era="ce" calendar="gregorian">2007</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <unittitle>IAM 751 Women's Committee</unittitle> 
+						  <unitdate normal="1993-1999" era="ce" calendar="gregorian"/> 
+						</did> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/19</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate normal="1993-1999" era="ce" calendar="gregorian">1993-1999</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/18</container> 
+							 <unittitle>IAM District 751 Hear Us Roar Women's
+								Conference</unittitle> 
+							 <unitdate normal="2000" type="inclusive" era="ce" calendar="gregorian">2000</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/17</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate era="ce" calendar="gregorian">2001</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/16</container> 
+							 <unittitle>IAM District 751 What Women Want
+								Conference</unittitle> 
+							 <unitdate normal="2001" type="inclusive" era="ce" calendar="gregorian">2001</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/15</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate normal="2002" type="inclusive" era="ce" calendar="gregorian">2002</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <unittitle>IAM 751 Women's Committee Sponsored Flight for
+								Sight Fun Run to Beneft Guide Dogs of America (GDA)</unittitle> 
+							 <unitdate era="ce" calendar="gregorian"/> 
+						  </did> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/1</container> 
+								<unittitle>IAM 751 Women's Committee Sponsored Flight
+								  for Sight Fun Run to Beneft Guide Dogs of America (GDA) fliers</unittitle> 
+								<unitdate normal="2002/2010" type="inclusive" era="ce" calendar="gregorian">2002-2010</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/11</container> 
+								<unittitle>First Annual Flight for Sight Fun
+								  Records</unittitle> 
+								<unitdate normal="2002" type="inclusive" era="ce" calendar="gregorian">2002</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/10</container> 
+								<unittitle>Flight for Sight Fun Records</unittitle> 
+								<unitdate normal="2003" type="inclusive" era="ce" calendar="gregorian">2003</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/9</container> 
+								<unittitle>Flight for Sight Fun Records</unittitle> 
+								<unitdate normal="2004" type="inclusive" era="ce" calendar="gregorian">2004</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/8</container> 
+								<unittitle>Flight for Sight Fun Records</unittitle> 
+								<unitdate normal="2005" type="inclusive" era="ce" calendar="gregorian">2005</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/7</container> 
+								<unittitle>Flight for Sight Fun Records</unittitle> 
+								<unitdate normal="2006" type="inclusive" era="ce" calendar="gregorian">2006</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/6</container> 
+								<unittitle>Flight for Sight Fun Records</unittitle> 
+								<unitdate normal="2007" type="inclusive" era="ce" calendar="gregorian">2007</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/4-5</container> 
+								<unittitle>Flight for Sight Fun Records</unittitle> 
+								<unitdate normal="2008" type="inclusive" era="ce" calendar="gregorian">2008</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/3</container> 
+								<unittitle>Flight for Sight Fun Records</unittitle> 
+								<unitdate normal="2009" type="inclusive" era="ce" calendar="gregorian">2009</unitdate> 
+							 </did> 
+						  </c08> 
+						  <c08 level="file"> 
+							 <did> 
+								<container type="box-folder">15/2</container> 
+								<unittitle>Flight for Sight Fun Records</unittitle> 
+								<unitdate normal="2010" type="inclusive" era="ce" calendar="gregorian">2010</unitdate> 
+							 </did> 
+						  </c08> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/13-14</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate normal="2003" type="inclusive" era="ce" calendar="gregorian">2003</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/11</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate type="inclusive" normal="2004" era="ce" calendar="gregorian">2004</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/10</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/8-9</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate type="inclusive" normal="2006" era="ce" calendar="gregorian">2006</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/5-7</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate type="inclusive" normal="2007" era="ce" calendar="gregorian">2007</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/4</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate type="inclusive" normal="2008" era="ce" calendar="gregorian">2008</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/2-3</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate type="inclusive" normal="2009" era="ce" calendar="gregorian">2009</unitdate> 
+						  </did> 
+						</c07> 
+						<c07 level="file"> 
+						  <did> 
+							 <container type="box-folder">9/1</container> 
+							 <unittitle>IAM District 751 Women's Committee Records and
+								Documents</unittitle> 
+							 <unitdate type="inclusive" normal="2010/2011" era="ce" calendar="gregorian">2010-2011</unitdate> 
+						  </did> 
+						</c07> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/4-6</container> 
+						<unittitle>IAM/Boeing Joint Programs</unittitle> 
+						<unitdate normal="1990/2010" type="inclusive" era="ce" calendar="gregorian">1990-2010</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <unittitle>Part 2: Coalition of Labor Union Women
+						(CLUW)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="subseries"> 
+					 <did> 
+						<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+						
+						<unittitle>National CLUW</unittitle> 
+						<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+						
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/3</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate normal="1980/2009" type="inclusive" era="ce" calendar="gregorian">circa 1980s-2000s</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/2</container> 
+						  <unittitle>CLUW Convention Coverage</unittitle> 
+						  <unitdate normal="1984/2007" type="inclusive" era="ce" calendar="gregorian">1984-2007</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/17</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate normal="1984/1989" type="inclusive" era="ce" calendar="gregorian">1984-1989</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/16</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate normal="1990/1993" type="inclusive" era="ce" calendar="gregorian">1990-1993</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/14-15</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/18-19</container> 
+						  <unittitle>National Health Care Reform</unittitle> 
+						  <unitdate normal="1994" type="inclusive" era="ce" calendar="gregorian">1994</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/12-13</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate normal="1995/1996" type="inclusive" era="ce" calendar="gregorian">1995-1996</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/9</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate normal="1997/2001" type="inclusive" era="ce" calendar="gregorian">1997-2001</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/8</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate normal="2003/2004" type="inclusive" era="ce" calendar="gregorian">2003-2004</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/6</container> 
+						  <unittitle>CLUW National Executive Board Meeting,
+							 Washington, D.C.</unittitle> 
+						  <unitdate normal="2005" type="inclusive" era="ce" calendar="gregorian">2005</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/7</container> 
+						  <unittitle>CLUW 13th Biennial Convention, Detroit,
+							 Michigan</unittitle> 
+						  <unitdate normal="2005" type="inclusive" era="ce" calendar="gregorian">2005</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/5</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate normal="2006/2007" type="inclusive" era="ce" calendar="gregorian">2006-2007</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">10/4</container> 
+						  <unittitle>National CLUW Documents</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">2009-2011</unitdate> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="subseries"> 
+					 <did> 
+						<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+						
+						<unittitle>Puget Sound CLUW</unittitle> 
+						<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+						
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">6/1</container> 
+						  <unittitle>Coalition of Labor Union Women (CLUW) - Puget
+							 Sound Chapter Documents</unittitle> 
+						  <unitdate type="inclusive" normal="1974/1993" era="ce" calendar="gregorian">1974-1993</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">6/2</container> 
+						  <unittitle>Coalition of Labor Union Women (CLUW) - Puget
+							 Sound Chapter Documents</unittitle> 
+						  <unitdate normal="1994" type="inclusive" era="ce" calendar="gregorian">1994</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">6/3</container> 
+						  <unittitle>Coalition of Labor Union Women (CLUW) - Puget
+							 Sound Chapter Documents</unittitle> 
+						  <unitdate normal="1995" type="inclusive" era="ce" calendar="gregorian">1995</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">6/7</container> 
+						  <unittitle>Coalition of Labor Union Women (CLUW) - Puget
+							 Sound Chapter Documents</unittitle> 
+						  <unitdate normal="1996/2000" type="inclusive" era="ce" calendar="gregorian">1996-2010</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">6/4-5</container> 
+						  <unittitle>Coalition of Labor Union Women (CLUW) - Puget
+							 Sound Chapter Records Maintained by Recording Secretary Jackie
+							 Boschok</unittitle> 
+						  <unitdate normal="2000/2005" type="inclusive" era="ce" calendar="gregorian">2000-2005</unitdate> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="subseries"> 
+					 <did> 
+						<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+						
+						<unittitle>CLUW New Technology Committee</unittitle> 
+						<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+						
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">6/8</container> 
+						  <unittitle>Coalition of Labor Union Women (CLUW) - New
+							 Technology Committee Records by Recording Secretary Jackie Boschok</unittitle> 
+						  <unitdate normal="1995/2005" type="inclusive" era="ce" calendar="gregorian">1995-2005</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">6/9-10</container> 
+						  <unittitle>CLUW New Technology Committee Resources, Part
+							 1/2</unittitle> 
+						  <unitdate normal="1995/2005" type="inclusive" era="ce" calendar="gregorian">1995-2005</unitdate> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unittitle>Part 3: AFL-CIO</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/1</container> 
+						<unittitle>Union Plus/Union Privilege
+						  Publications</unittitle> 
+						<unitdate type="inclusive" normal="1994/2003" era="ce" calendar="gregorian">1994-2003</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/2</container> 
+						<unittitle>AFL-CIO National Community Services
+						  Documents</unittitle> 
+						<unitdate normal="1985" type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+						<unitdate normal="1980/1989" type="inclusive" era="ce" calendar="gregorian">circa 1980s</unitdate> 
+						<unitdate normal="2001/2002" type="inclusive" era="ce" calendar="gregorian">2001-2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/12-14</container> 
+						<unittitle>AFL-CIO Resources</unittitle> 
+						<unitdate normal="1988/2002" type="inclusive" era="ce" calendar="gregorian">1988-2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">9/20-21</container> 
+						<unittitle>AFL-CIO Working Women Working Together Conference
+						  Records</unittitle> 
+						<unitdate normal="1997/2000" type="inclusive" era="ce" calendar="gregorian">1997-2000</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <unittitle>Part 4: Washington State Labor Council
+						(WSLC)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">7/3</container> 
+						<unittitle>WSLC (WA State Labor Council) Women's Committee
+						  Records of IAM Delegate Jackie Boschok</unittitle> 
+						<unitdate normal="1993/1994" type="inclusive" era="ce" calendar="gregorian">1993-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">7/4-5</container> 
+						<unittitle>WSLC (WA State Labor Council) Women's Committee
+						  Records of IAM Delegate Jackie Boschok</unittitle> 
+						<unitdate normal="1995/1997" type="inclusive" era="ce" calendar="gregorian">1995-1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">7/6</container> 
+						<unittitle>WSLC (WA State Labor Council) Women's Committee
+						  Records of IAM Delegate Jackie Boschok</unittitle> 
+						<unitdate normal="1998/1999" type="inclusive" era="ce" calendar="gregorian">1998-1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">7/7-8/1</container> 
+						<unittitle>WSLC (WA State Labor Council) Women's Committee
+						  Records of IAM Delegate Jackie Boschok</unittitle> 
+						<unitdate normal="1998/1999" type="inclusive" era="ce" calendar="gregorian">2000-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <unittitle>Part 5: Snohomish County Labor Council
+						(SCLC)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">8/7-8/8</container> 
+						<unittitle>Snohomish County Labor Council (SCLC)
+						  Documents</unittitle> 
+						<unitdate normal="1992/2011" type="inclusive" era="ce" calendar="gregorian">1992-2011</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="subseries"> 
+					 <did> 
+						<unittitle>SCLC Community Services Committee
+						  (CSC)</unittitle> 
+						<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+						
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">8/6</container> 
+						  <unittitle>SCLC Community Services Banquet
+							 programs</unittitle> 
+						  <unitdate normal="1993/2000" type="inclusive" era="ce" calendar="gregorian">1993-2000</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">8/2</container> 
+						  <unittitle>Snohomish County Labor Council (SCLC) Community
+							 Services Committee (CSC) Records</unittitle> 
+						  <unitdate normal="1994/1995" type="inclusive" era="ce" calendar="gregorian">1994-1995</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">8/3-5</container> 
+						  <unittitle>SCLC CSC Records Kept by Recording Secretary
+							 Jackie Boschok</unittitle> 
+						  <unitdate normal="1995/2001" type="inclusive" era="ce" calendar="gregorian">1995-2001</unitdate> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries B </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">United Way
+					 Snohomish County (UWSC)</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"> <emph render="bold"><?xm-replace_text {Enter 4-digit year or range of years}?></emph>
+					 </unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">13/5</container> 
+					 <unittitle>United Way of Snohomish County (UWSC) Leaders in
+						Giving Reports</unittitle> 
+					 <unitdate normal="1995/1997" type="inclusive" era="ce" calendar="gregorian">1995-1997</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">13/6-7</container> 
+					 <unittitle>United Way of Snohomish County (UWSC) Campaign &amp;
+						Labor Partnership Documents</unittitle> 
+					 <unitdate type="inclusive" normal="1995/2009" era="ce" calendar="gregorian">1995-2009</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries C </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Boeing
+					 Company Records</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"> <emph render="bold"><?xm-replace_text {Enter 4-digit year or range of years}?></emph>
+					 </unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/1</container> 
+					 <unittitle>Boeing Company Reports</unittitle> 
+					 <unitdate normal="1978/1989" type="inclusive" era="ce" calendar="gregorian">1978-1989</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/3</container> 
+					 <unittitle>Boeing Company Materials</unittitle> 
+					 <unitdate normal="1990/1991" type="inclusive" era="ce" calendar="gregorian">1990-1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/4</container> 
+					 <unittitle>Boeing Company Materials</unittitle> 
+					 <unitdate normal="1994/1998" type="inclusive" era="ce" calendar="gregorian">1994-1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/3</container> 
+					 <unittitle>Class Action Settlement and Fairness Hearing: Beck
+						v. Boeing</unittitle> 
+					 <unitdate normal="2000/2005" type="inclusive" era="ce" calendar="gregorian">2000-2005</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/5-6</container> 
+					 <unittitle>Boeing Company Materials</unittitle> 
+					 <unitdate normal="2000/2009" type="inclusive" era="ce" calendar="gregorian">2000-2009</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/2</container> 
+					 <unittitle>Boeing Directory</unittitle> 
+					 <unitdate normal="2001" type="inclusive" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <unittitle>Boeing Employee Community Fund (ECF)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"/> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">14/2</container> 
+						<unittitle>Boeing Employee Community Fund (ECF) Everett
+						  Campaign Leadership Team Records Kept by Jackie Boschok</unittitle> 
+						<unitdate normal="2003" type="inclusive" era="ce" calendar="gregorian">2003</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">14/3-4</container> 
+						<unittitle>Boeing Employee Community Fund (ECF) Everett
+						  Campaign Leadership Team Records Kept by Jackie Boschok</unittitle> 
+						<unitdate normal="2004" type="inclusive" era="ce" calendar="gregorian">2004</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">14/5</container> 
+						<unittitle>Boeing Employee Community Fund (ECF) Everett
+						  Campaign Leadership Team Records Kept by Jackie Boschok</unittitle> 
+						<unitdate normal="2005" type="inclusive" era="ce" calendar="gregorian">2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">14/6</container> 
+						<unittitle>Boeing Employee Community Fund (ECF) Everett
+						  Campaign Leadership Team Records Kept by Jackie Boschok</unittitle> 
+						<unitdate normal="2006" type="inclusive" era="ce" calendar="gregorian">2006</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">14/7</container> 
+						<unittitle>Boeing Employee Community Fund (ECF) Everett
+						  Campaign Leadership Team Records Kept by Jackie Boschok</unittitle> 
+						<unitdate normal="2007" type="inclusive" era="ce" calendar="gregorian">2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">14/8-9</container> 
+						<unittitle>Boeing Employee Community Fund (ECF) Everett
+						  Campaign Leadership Team Records Kept by Jackie Boschok</unittitle> 
+						<unitdate normal="2008" type="inclusive" era="ce" calendar="gregorian">2008</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unitid type="uwsc"> <emph render="bolditalic">SERIES II </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bolditalic">JACKIE
+				  BOSCHOK PERSONAL RECORDS</emph> </unittitle> 
+				<unitdate era="ce" calendar="gregorian"> <emph render="bolditalic"><?xm-replace_text {Enter 4-digit year or range of years}?></emph>
+				  </unitdate> 
+			 </did> 
+			 <arrangement> 
+				<p>Series II is divided into four subseries based on subject
+				  matter: Subseries A: Jackie Boschok’s Union Involvement, Subseries B: Jackie
+				  Boschok’s Work History, Subseries C: Jackie Boschok’s Political Involvement and
+				  Subseries D: Seattle Goodwill Games/Rotary District 503 Goodwill Exchange.
+				  Within each subseries, files are arranged chronologically.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>The series consists of correspondence, certificates, official
+				  appointments, employee records, coursework, and pamphlets related to Jackie
+				  Boschok’s personal employment, education, politics and union involvement. </p> 
+			 </scopecontent> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries A </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Jackie
+					 Boschok's Union Involvement Documents</emph> </unittitle> 
+				  <unitdate normal="1987/2009" type="inclusive" era="ce" calendar="gregorian"> <emph render="bold">1987-2009</emph> </unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/5</container> 
+					 <unittitle>Evergreen State College Summer School for Trade
+						Union Women (1st &amp; 2nd)</unittitle> 
+					 <unitdate normal="1987/1988" type="inclusive" era="ce" calendar="gregorian">1987-1988</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/1</container> 
+					 <unittitle>Personal Letters and Documents for Jackie Boschok
+						Regarding IAM Membership/Leadership</unittitle> 
+					 <unitdate normal="1987/2009" type="inclusive" era="ce" calendar="gregorian">1987-2009</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/8</container> 
+					 <unittitle>Misc Membership Cards for Jackie Boschok</unittitle>
+					 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries B </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Jackie
+					 Boschok's Work History</emph> </unittitle> 
+				  <unitdate normal="1980/2007" type="inclusive" era="ce" calendar="gregorian"> <emph render="bold"/> </unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/3</container> 
+					 <unittitle>Paperworkers Union at St. Regis Paper Company in
+						Tacoma, WA</unittitle> 
+					 <unitdate normal="1979/1980" type="inclusive" era="ce" calendar="gregorian">1979-1980</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/5</container> 
+					 <unittitle>Jackie Boschok's Boeing Shop Folder</unittitle> 
+					 <unitdate normal="1980/1999" type="inclusive" era="ce" calendar="gregorian">1980-1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/2</container> 
+					 <unittitle>Jackie Boschok's Boeing Work History</unittitle> 
+					 <unitdate normal="1980/2007" type="inclusive" era="ce" calendar="gregorian">1980-2007</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/2</container> 
+					 <unittitle>Jackie Boschok's WA State Pesticide License
+						Information </unittitle> 
+					 <unitdate normal="1986/1992" type="inclusive" era="ce" calendar="gregorian">1986-1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/1</container> 
+					 <unittitle>Boeing Personal Benefits Reports</unittitle> 
+					 <unitdate normal="1987/1999" type="inclusive" era="ce" calendar="gregorian">1987-1999</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries C </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Jackie
+					 Boschok's Political Involvement</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"> <emph render="bold"/>
+					 </unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/4</container> 
+					 <unittitle>Equal Rights Amendment (ERA) Pamphlets</unittitle> 
+					 <unitdate normal="1980" type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/2</container> 
+					 <unittitle>Pro-Choice Washington</unittitle> 
+					 <unitdate normal="1989/1990" type="inclusive" era="ce" calendar="gregorian">1989-1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/1</container> 
+					 <unittitle>WWU (Washington Women United)</unittitle> 
+					 <unitdate normal="1989/1994" type="inclusive" era="ce" calendar="gregorian">1989-1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/3</container> 
+					 <unittitle>Jackie Boschok's Political Documents</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992-2008</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">12/10</container> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries D </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Seattle
+					 Goodwill Games/Rotary District 503 Goodwill Exchange</emph> </unittitle> 
+				  <unitdate normal="1990/1991" type="inclusive" era="ce" calendar="gregorian"> <emph render="bold">1990-1991</emph> </unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unitid type="uwsc"> <emph render="bolditalic">SERIES III </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bolditalic">PUBLICATIONS</emph> </unittitle> 
+				<unitdate era="ce" calendar="gregorian"> <emph render="bolditalic"><?xm-replace_text {Enter 4-digit year or range of years}?></emph>
+				  </unitdate> 
+			 </did> 
+			 <arrangement> 
+				<p>Series III is divided into three subseries by creator: Subseries
+				  A: IAM Publications, Subseries B: CLUW Publications and Subseries C: Year by
+				  Year: 75 Years of Boeing History. Subseries A and B are further divided by name
+				  of publication, and files are arranged chronologically within these
+				  sub-divisions.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>The series is a collection of journals, newspapers and
+				  newsletters published by the International Association of Machinists (IAM), the
+				  Coalition of Local Union Women (CLUW) and Boeing. While some serial
+				  publications can be found scattered throughout the corresponding files in
+				  Subseries A: Jackie Boschok Professional Records, the bulk of these materials
+				  are located in Series III. </p> 
+			 </scopecontent> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries A </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">IAM
+					 Publications</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+					 
+					 <unittitle>Part 1: 751 Aero Mechanic Newspaper</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/1</container> 
+						<unittitle>Guide to Aero Mechanic Articles on Jackie
+						  Boschok/Women's Committee and Miscellaneous Articles</unittitle> 
+						<unitdate normal="1991" type="inclusive" era="ce" calendar="gregorian">1991</unitdate> 
+						<unitdate normal="1991" type="inclusive" era="ce" calendar="gregorian">2010</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/2</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="1981/1991" era="ce" calendar="gregorian">1981-1991</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/3</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="1991/1993" era="ce" calendar="gregorian">1991-1993</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/4</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="1993/1995" era="ce" calendar="gregorian">1993-1995</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/5</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="1995/1997" era="ce" calendar="gregorian">1995-1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/6</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="1997/1998" era="ce" calendar="gregorian">1997-1998</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/7</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="1998/1999" era="ce" calendar="gregorian">1998-1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/8</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/9</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="2001/2002" era="ce" calendar="gregorian">2001-2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/10</container> 
+						<unittitle>751 Aero Mechanic Newspapers</unittitle> 
+						<unitdate type="inclusive" normal="2002/2010" era="ce" calendar="gregorian">2002-2010</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+					 
+					 <unittitle>Part 2: The Machinist Newspaper</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/11</container> 
+						<unittitle>The Machinist Newspapers (Published by
+						  IAM)</unittitle> 
+						<unitdate type="inclusive" normal="1988/1992" era="ce" calendar="gregorian">1988-1992</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/12</container> 
+						<unittitle>The Machinist Newspapers (Published by
+						  IAM)</unittitle> 
+						<unitdate type="inclusive" normal="1993/1994" era="ce" calendar="gregorian">1993-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/13</container> 
+						<unittitle>The Machinist Newspapers (Published by
+						  IAM)</unittitle> 
+						<unitdate type="inclusive" normal="1995/1996" era="ce" calendar="gregorian">1995-1996</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/14</container> 
+						<unittitle>The Machinist Newspapers (Published by
+						  IAM)</unittitle> 
+						<unitdate type="inclusive" normal="1997/1999" era="ce" calendar="gregorian">1997-1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/15</container> 
+						<unittitle>The Machinist Newspapers (Published by
+						  IAM)</unittitle> 
+						<unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/16</container> 
+						<unittitle>The Machinist Newspapers (Published by
+						  IAM)</unittitle> 
+						<unitdate type="inclusive" normal="2002/2004" era="ce" calendar="gregorian">2002-2004</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/17</container> 
+						<unittitle>The Machinist Newspapers (Published by
+						  IAM)</unittitle> 
+						<unitdate type="inclusive" normal="2005/2007" era="ce" calendar="gregorian">2005-2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/18</container> 
+						<unittitle>The Machinist Newspapers (Published by
+						  IAM)</unittitle> 
+						<unitdate type="inclusive" normal="2008/2010" era="ce" calendar="gregorian">2008-2010</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+					 
+					 <unittitle>Part 3: Action Bulletin Journal</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/10</container> 
+						<unittitle>Action Bulletin Journal</unittitle> 
+						<unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/9</container> 
+						<unittitle>Action Bulletin Journal</unittitle> 
+						<unitdate type="inclusive" normal="2007" era="ce" calendar="gregorian">2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/8</container> 
+						<unittitle>Action Bulletin Journal</unittitle> 
+						<unitdate type="inclusive" normal="2008/2009" era="ce" calendar="gregorian">2008-2009</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries B </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">CLUW
+					 Publications</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/1</container> 
+					 <unittitle>Part 1: CLUW News Newsletter</unittitle> 
+					 <unitdate normal="1993/2011" type="inclusive" era="ce" calendar="gregorian">1993-2011</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/6</container> 
+					 <unittitle>Part 2: Coalition of Labor Union Women (CLUW) -
+						Puget Sound Chapter Newsletters</unittitle> 
+					 <unitdate normal="1994/1995" type="inclusive" era="ce" calendar="gregorian">1994-1995</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries C </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Year by
+					 Year: 75 Years of Boeing History</emph> </unittitle> 
+				  <unitdate normal="1991" type="inclusive" era="ce" calendar="gregorian"> <emph render="bold">1991</emph> </unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unitid type="uwsc"> <emph render="bolditalic">SERIES IV </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bolditalic">EDUCATIONAL/TRAINING MATERIALS</emph> </unittitle> 
+				<unitdate era="ce" calendar="gregorian"> <emph render="bolditalic"><?xm-replace_text {Enter 4-digit year or range of years}?></emph>
+				  </unitdate> 
+			 </did> 
+			 <arrangement> 
+				<p>Series IV is divided into five subseries based on the subject
+				  matter of the materials: Subseries A: Union Educational Materials, Subseries B:
+				  Legal Educational Materials, Subseries C: Workplace Training Materials,
+				  Subseries D: Technology Training Materials and Subseries E: Sexual
+				  Harassment/Domestic Violence/Workplace Violence Resources. Subseries A is
+				  further divided by creator. Files within each subseries are arranged
+				  chronologically.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Series IV consists of handbooks, training manuals, pamphlets,
+				  presentation materials and reports relating to various types of education:
+				  union (negotiating/collective bargaining), legal, workplace, technology and
+				  sexual harassment/domestic violence/workplace violence. </p> 
+			 </scopecontent> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries A </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Union
+					 Educational Materials</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <unittitle>Part 1: IAM Educational Materials</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">10/20-21</container> 
+						<unittitle>Empowerment: A Handbook for Union
+						  Women</unittitle> 
+						<unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">10/22-23</container> 
+						<unittitle>CLUW Leadership Training Series: Color Me
+						  Union!</unittitle> 
+						<unitdate normal="1983" type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/1</container> 
+						<unittitle>IAM Training Manual: The Placid Harbor Glossary
+						  for the Unionist</unittitle> 
+						<unitdate normal="1990/1999" type="inclusive" era="ce" calendar="gregorian">circa 1990s</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/19-1/20</container> 
+						<unittitle>IAM Placid Harbor Education Center Leadership I
+						  School Training Materials</unittitle> 
+						<unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/3</container> 
+						<unittitle>IAM District 751 Strike Preparation: Community
+						  Services Training</unittitle> 
+						<unitdate normal="1995/2005" type="inclusive" era="ce" calendar="gregorian">1995-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/21-1/22</container> 
+						<unittitle>IAM Placid Harbor Education Center Leadership II
+						  School Training Materials</unittitle> 
+						<unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/4</container> 
+						<unittitle>IAM Training Materials: The Blitz</unittitle> 
+						<unitdate normal="1997" type="inclusive" era="ce" calendar="gregorian">1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/5</container> 
+						<unittitle>IAM Training Manual: High Performance Work
+						  Organization Partnerships</unittitle> 
+						<unitdate normal="1997/2000" type="inclusive" era="ce" calendar="gregorian">circa 1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/8</container> 
+						<unittitle>IAM Training Manual: Collective Bargaining Clauses
+						  - Part I - Model Language</unittitle> 
+						<unitdate normal="1999" type="inclusive" era="ce" calendar="gregorian">October 1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/9</container> 
+						<unittitle>IAM Training Materials: IAM Virtual Lodge
+						  (VLodge.net)</unittitle> 
+						<unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/12</container> 
+						<unittitle>IAM Training Materials: Collective
+						  Bargaining</unittitle> 
+						<unitdate type="inclusive" normal="2004" era="ce" calendar="gregorian">2004</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/14</container> 
+						<unittitle>IAM Training Materials: Service Contract
+						  Act</unittitle> 
+						<unitdate normal="2004" type="inclusive" era="ce" calendar="gregorian">December 2004</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/17-18</container> 
+						<unittitle>IAM Training Materials: Communication</unittitle> 
+						<unitdate era="ce" calendar="gregorian">2004-2006</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/15</container> 
+						<unittitle>IAM Training Manual: Bargaining to
+						  Organize</unittitle> 
+						<unitdate normal="2005" type="inclusive" era="ce" calendar="gregorian">2005</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">13/4</container> 
+					 <unittitle>Part 2: Union Counselor Course (co-sponsored by the
+						Snohomish County Labor Council &amp; United Way of Snohomish County) Training
+						Materials</unittitle> 
+					 <unitdate normal="1990/1992" type="inclusive" era="ce" calendar="gregorian">1990-1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle>Part 3: California School Employees Association
+						Training Materials: The Art of Negotiating</unittitle> 
+					 <unitdate normal="1993/1996" type="inclusive" era="ce" calendar="gregorian">circa 1993</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries B </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Legal
+					 Educational Materials</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/10</container> 
+					 <unittitle>Schwerin Campbell Bernard Training Manual:
+						Arbitration Without Lawyers</unittitle> 
+					 <unitdate normal="2003" type="inclusive" era="ce" calendar="gregorian">2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/11</container> 
+					 <unittitle>Schwerin Campbell Bernard Training Manual: How to
+						Help Disabled Workers</unittitle> 
+					 <unitdate normal="2000/2006" type="inclusive" era="ce" calendar="gregorian">circa 2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/19</container> 
+					 <unittitle>Schwerin Campbell Bernard &amp; Iglitzin LLP
+						Training Materials: Strategic Corporate Research (Organizing)</unittitle> 
+					 <unitdate normal="2007" type="inclusive" era="ce" calendar="gregorian">2007</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  
+				  <unitid type="uwsc"> <emph render="bold">Subseries C </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Workplace
+					 Training Materials</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/11</container> 
+					 <unittitle>US Department of Labor - Women's Bureau
+						Resources</unittitle> 
+					 <unitdate normal="1986/1996" type="inclusive" era="ce" calendar="gregorian">1986-1996</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/8</container> 
+					 <unittitle>IAM Manual: Workplace Drug Testing</unittitle> 
+					 <unitdate normal="1988" type="inclusive" era="ce" calendar="gregorian">1988</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/2</container> 
+					 <unittitle>Prime Time: A Preretirement Planning Workbook for
+						Boeing Employees and Their Spouses</unittitle> 
+					 <unitdate normal="1990" type="inclusive" era="ce" calendar="gregorian">1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/3</container> 
+					 <unittitle>Training Manual: Principles of Materials
+						Management</unittitle> 
+					 <unitdate normal="1995" type="inclusive" era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/7</container> 
+					 <unittitle>Boeing Training Manual: The Women's Millennium -
+						Changing the Way We Do Business</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/20-21</container> 
+					 <unittitle>Boeing Training Materials: Applied Manufacturing
+						Education Series (AMES) - Master Planning</unittitle> 
+					 <unitdate type="inclusive" normal="2007" era="ce" calendar="gregorian">2007</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries D </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Technology
+					 Training Materials</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/6</container> 
+					 <unittitle>Boeing Training Manual: Creating Web Pages with
+						Office 97</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>New Horizons Training Manual: Microsoft Office Word
+						2003 - Level 1</unittitle> 
+					 <unitdate type="inclusive" normal="2003" era="ce" calendar="gregorian">2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/14</container> 
+					 <unittitle>New Horizons Training Manual: Microsoft Office
+						Outlook 2003 - Level 1</unittitle> 
+					 <unitdate type="inclusive" normal="2003" era="ce" calendar="gregorian">2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/11</container> 
+					 <unittitle>IAM Internet Manuals</unittitle> 
+					 <unitdate normal="2004" type="inclusive" era="ce" calendar="gregorian">2004</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries E </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Sexual
+					 Harassment/Domestic Violence/Workplace Violence Resources</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">16/6</container> 
+					 <unittitle>Guides Re: Sexual Harassment/Domestic
+						Violence/Workplace Violence</unittitle> 
+					 <unitdate normal="1980/1999" type="inclusive" era="ce" calendar="gregorian">circa 1980s-1990s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">16/2-5</container> 
+					 <unittitle>Guides Re: Sexual Harassment/Domestic
+						Violence/Workplace Violence</unittitle> 
+					 <unitdate normal="1990/1999" type="inclusive" era="ce" calendar="gregorian">circa 1990s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">16/1</container> 
+					 <unittitle>Sexual Harassment at Work Training
+						Workbook</unittitle> 
+					 <unitdate normal="1994" type="inclusive" era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/10-11</container> 
+					 <unittitle>CLUW Domestic Violence/Sexual Harassment
+						Resources</unittitle> 
+					 <unitdate normal="1996/2001" type="inclusive" era="ce" calendar="gregorian">1996-2001</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unitid type="uwsc"> <emph render="bolditalic">SERIES V </emph>
+				  </unitid> 
+				<unittitle encodinganalog="245$a"> <emph render="bolditalic">ARTIFACTS</emph> </unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <arrangement> 
+				<p>Series V is divided into nine subseries based on the type of
+				  artifact present: Subseries A: Cups and Mugs, Subseries B: Clothing and Hats,
+				  Subseries C: Plaques and Trophies, Subseries D: Buttons and Pins, Subseries E:
+				  Stickers and Magnets, Subseries F: Tote Bags and Folders, Subseries G:
+				  Office/Desk Supplies, Subseries H: Strike Artifacts, Subseries J: Misc.
+				  Artifacts. Subseries J is further divided by creating body. Items are arranged
+				  chronologically within each subseries, with undated items placed at the
+				  end.</p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>The series includes cups/mugs, clothing, buttons/pins, stickers,
+				  office supplies, plaques, trophies and other various items relating to the
+				  Jackie Boschok manuscript materials. The bulk of the artifacts are related to
+				  the International Association of Machinists (IAM), but the Coalition of Labor
+				  Union Women (CLUW), United Way and Boeing are also represented.</p> 
+			 </scopecontent> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries A </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Cups and
+					 Mugs</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>IAM/Boeing Vocational Solutions glass
+						mug</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">circa
+						1980s-1990s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>IAM/Boeing Quality Through Training Program plastic
+						coffee mug with lid</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">circa
+						1980s-1990s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">20</container> 
+					 <unittitle>Jackie Boschok's mug collection</unittitle> 
+					 <unitdate normal="1980/2009" type="inclusive" era="ce" calendar="gregorian">circa 1980s-2000s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>Boeing 747-8 reusable cup with lid</unittitle> 
+					 <unitdate normal="2000/2009" type="inclusive" era="ce" calendar="gregorian">circa 2000s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">24</container> 
+					 <unittitle>IAM Plastic Coffee mug w/ lid</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				  
+				  <unitid type="uwsc"> <emph render="bold">Subseries B </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Clothing
+					 and Hats</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">21</container> 
+					 <unittitle>IAM 751 Making Strides Against Breast Cancer T-shirt
+						&amp; artifacts</unittitle> 
+					 <unitdate normal="2008" type="inclusive" era="ce" calendar="gregorian">2008</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">21</container> 
+					 <unittitle>GCIU Union T-shirt</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">21</container> 
+					 <unittitle>IAM T-shirt</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>IAM/Boeing Health and Safety Institute
+						Poncho</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">24</container> 
+					 <unittitle>IAM Hats</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries C </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Plaques
+					 and Trophies</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>IAM/MNPL (Machinist's Non-Partisan Political League)
+						Plaque for Jackie' Boschok's completion of Political Training
+						Program</unittitle> 
+					 <unitdate normal="1994" type="inclusive" era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>WSLC Plaque to Jackie Boschok for Outstanding
+						Community Service</unittitle> 
+					 <unitdate normal="1996" type="inclusive" era="ce" calendar="gregorian">1996</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">24</container> 
+					 <unittitle>IAM District 751 Guide Dogs of America Golf
+						Tournament Trophy</unittitle> 
+					 <unitdate normal="2005" type="inclusive" era="ce" calendar="gregorian">2005</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>United Way Contribution Plaque</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries D </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Buttons
+					 and Pins</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">19/2</container> 
+					 <unittitle>Miscellaneous Coalition of Labor Women's Union
+						(CLUW)/Women's Rights Pins/Buttons</unittitle> 
+					 <unitdate normal="1980/2009" type="inclusive" era="ce" calendar="gregorian">circa 1980s-2000s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">19/3</container> 
+					 <unittitle>Miscellaneous Union Pins/Buttons</unittitle> 
+					 <unitdate normal="1980/2009" type="inclusive" era="ce" calendar="gregorian">circa 1980s-2000s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/7</container> 
+					 <unittitle>IAM Buttons</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries E </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Stickers
+					 and Magnets</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">19/1</container> 
+					 <unittitle>Miscellaneous Union and Women's Stickers, Bumper
+						Stickers and Magnets</unittitle> 
+					 <unitdate normal="1980/2009" type="inclusive" era="ce" calendar="gregorian">circa 1980s-2000s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">24/6</container> 
+					 <unittitle>Miscellaneous Magnets</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">18</container> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries F </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">IAM/Miscellaneous Tote Bags and Folders</emph> </unittitle> 
+				  <unitdate normal="1996/2011" type="inclusive" era="ce" calendar="gregorian">circa 1996-2011</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries G </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Office/Desk Supplies</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">21</container> 
+					 <unittitle>CLUW 1991 Biennial Convention
+						paperweight</unittitle> 
+					 <unitdate normal="1991" type="inclusive" era="ce" calendar="gregorian">1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>IAM Women's Department Planner</unittitle> 
+					 <unitdate normal="2008" type="inclusive" era="ce" calendar="gregorian">2008</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>United Way piggy bank</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>United Way calculator</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>United Way mousepad</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>United Way framed calendar</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">22/4</container> 
+					 <unittitle>Ink pen collection</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries H </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Strike
+					 Artifacts</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="folder:oversize">2</container> 
+					 <unittitle>Strike Scrapbooks</unittitle> 
+					 <unitdate normal="1989/1995" type="inclusive" era="ce" calendar="gregorian">1989-1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="folder:oversize">1</container> 
+					 <unittitle>IAM 751 Picket Signs/Posters</unittitle> 
+					 <unitdate normal="1989/2003" type="inclusive" era="ce" calendar="gregorian">1989-2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">22/3</container> 
+					 <unittitle>IAM 751 Contract/Strike items</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Items include: whistles, bank, pin, stickers and a bank.</p>
+					 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">22</container> 
+					 <unittitle>IAM Strike Materials</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Items include: 1 DVD of the 2005 strike, CD-rom of pictures,
+						picket assignments for Jackie &amp; Alex Boschok and a contract sticker
+						board.</p> 
+				  </scopecontent> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid type="uwsc"> <emph render="bold">Subseries J </emph>
+					 </unitid> 
+				  <unittitle encodinganalog="245$a"> <emph render="bold">Miscellaneous Artifacts</emph> </unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+				</did> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <unittitle>Part 1: IAM</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box">22</container> 
+						<unittitle>Miscellaneous IAM &amp; IAM 751 items</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+					 <scopecontent> 
+						<p>Items include: frisbees, stickers, notepads, markers and
+						  patches.</p> 
+					 </scopecontent> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box">17</container> 
+						<unittitle>Miscellaneous IAM Women's Department
+						  Artifacts</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+					 <scopecontent> 
+						<p>Items include: pen necklaces, badge holder and
+						  ribbons.</p> 
+					 </scopecontent> 
+				  </c05> 
+				</c04> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <unittitle>Part 2: IAM/Boeing</unittitle> 
+					 <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box">17</container> 
+						<unittitle>IAM/Boeing Health and Safety Institute Rand Mc
+						  Nally Pocket Atlas</unittitle> 
+						<unitdate normal="1991/1992" type="inclusive" era="ce" calendar="gregorian">1991-1992</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box">17</container> 
+						<unittitle>IAM/Boeing Quality Through Training Program pocket
+						  dictionary</unittitle> 
+						<unitdate normal="1997" type="inclusive" era="ce" calendar="gregorian">1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box">17</container> 
+						<unittitle>Miscellaneous IAM/Boeing and Boeing Company
+						  Artifacts</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+					 <scopecontent> 
+						<p>Items include: ruler, reflectors, calendar, jar grip,
+						  paper cutter and magnets.</p> 
+					 </scopecontent> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box">17</container> 
+						<unittitle>IAM/Boeing Health and Safety Institute "Disaster
+						  Pursuits" card deck</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">12/9</container> 
+						<unittitle>Miscellaneous IAM/Boeing Artifacts</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+					 <scopecontent> 
+						<p>Items include: monthly dues stamp books, cards/badges and
+						  ink stamp.</p> 
+					 </scopecontent> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>Boeing Employees Community Fund (ECF) glass jar with
+						lid</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">22/5</container> 
+					 <unittitle>Key chain collection</unittitle> 
+					 <unitdate normal="1984/2008" type="inclusive" era="ce" calendar="gregorian">1984-2008</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">17/1</container> 
+					 <unittitle>Seattle Goodwill Games: Soviet Flags</unittitle> 
+					 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">21/1</container> 
+					 <unittitle>Guide Dogs of America (GDA) Flight For Sight Fun Run
+						Artifacts</unittitle> 
+					 <unitdate normal="2000/2009" type="inclusive" era="ce" calendar="gregorian">circa 2000s</unitdate> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Items include: stickers, towels, ink stamp, runner's bib and
+						lanyard.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>Miscellaneous United Way Artifacts</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Items include: buttons, letter opener, bookmark and plastic
+						bag.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">21</container> 
+					 <unittitle>Rosie the Riveter Bobblehead</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">21</container> 
+					 <unittitle>Miscellaneous CLUW Artifacts</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				  <scopecontent> 
+					 <p>Items include: mugs, water bottle, hat, mouse pad, ruler and
+						flag.</p> 
+				  </scopecontent> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">22/1</container> 
+					 <unittitle>Miscellaneous event badges and badge
+						holders</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar">5688-002</unitid> 
+			 <unittitle encodinganalog="245$a">Jackie Boschok papers</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" normal="1980/2013" era="ce" calendar="gregorian">1980-2013</unitdate> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {OPTIONAL: Bulk dates; normalize dates}?></unitdate>
+			 
+			 <physdesc> <extent encodinganalog="300$a">1.53 cubic feet</extent>
+				<extent encodinganalog="300$a">5 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <arrangement encodinganalog="351"> 
+			 <p><?xm-replace_text {OPTIONAL: Explain the arrangement of the accession}?></p>
+			 
+		  </arrangement> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Ephemera, IAM local and district election materials, artifacts
+				relating to Boshock's career at Boeing and as a union officer, including
+				t-shirts from various local and national labor organizations and campaigns.
+				Organizations listed on the t-shirts include the International Association of
+				Machinists, the Coalition of Labor Union Women, and the Washington State Labor
+				Council. </p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict type="540"> 
+			 <p><?xm-replace_text {REQUIRED ONLY IF RESTRICTIONS VARY AMONG ACCESSIONS: Summary of use restrictions, or lack of restrictions, on accession}?></p>
+			 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donor: Jackie Boschok, August 2013.</p> 
+		  </acqinfo> 
+		  <processinfo encodinganalog="583"> 
+			 <p><?xm-replace_text {For an accession, enter the text "Processed by" and the name of the person/s who processed it if known. Enter the text "; processing completed in" and record the year when processing was 
+				completed along with other processing-related information; see proc. manual for details}?></p>
+			 
+		  </processinfo> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>1994 IAM District 751 Local Lodge F Officer Election
+				  Documents kept by Jackie Boschok, Election Committee Chair; 1995 rerun of IAM
+				  751 Local Lodge F Officer Election by Department of Labor Documents kept by
+				  Jackie Boschok, Election Committee Chair</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>IAM election materials by candidates for local and
+				  District office 1980-2008, Part 1 of 3</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1980-2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>IAM election materials by candidates for local and
+				  District office 1980-2008, Part 2 of 3</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1980-2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle>IAM election materials by candidates for local and
+				  District office 1980-2008, Part 3 of 3</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1980-2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>Misc items that belong with materials previoulsy
+				  donated. Contact me if more info is necessary</unittitle> 
+				<unitdate era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>2 Boeing 'Vendor' badges for full-time IAM officials and
+				  an annual Boeing parking pass issued to Jackie Boschok</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">BOXES 2-5</container> 
+				<unittitle> Note: Items listed below are in one of the four
+				  boxes.</unittitle> 
+				<unitdate era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1987 TESC First Annual Summer School for Trade Union
+				  Women t-shirt</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1988 CLUW American Family Celebration
+				  t-shirt</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1988 TESC Second Annual Summer School for Trade Union
+				  Women t-shirt</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1989 UMWA Camp Solidarity t-shirt</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1990 Rotary Goodwill Games jacket</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1991 CLUW Seattle Convention t-shirt</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1991 TESC Olympia, WA Summer Institute for Union Women
+				  t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1992 Vancouver, BC Summer Institute for Union Women
+				  t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1993 CLUW Las Vegas Convention t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1993 UPIU Lockout t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>1994 Puget Sound chapter CLUW 20th Anniversary
+				  Celebration t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>2003 CLUW Seattle Convention t-shirt: Vision,Voices,
+				  Votes</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>2007 CLUW Las Vegas Convention t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>2009 CLUW Los Angelas Convention t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>2010 United Way of Snohomish County Day of Caring
+				  t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>Boeing Everett AOG (Aircraft on the Ground)/SPARES
+				  organization t-shirt circa 1990's</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>CLUW Voting Women t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>CLUW with logo t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>CLUW Women's Place t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>MUSA Puerto Rico t-shirt from CLUW NEB held
+				  there</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>SCLC Operation Shortfall t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>UFW Boycott Chateau St. Michelle t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>WSLC Women's Committee 'A Woman's Future in in Her
+				  Union' t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>WSLC Women's Committee personalized shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle>WSLC Women's Committee 'Women in Unions'
+				  t-shirt</unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

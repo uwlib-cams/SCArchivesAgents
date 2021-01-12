@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda">
+   <!--OCLC 123954478-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GundlachJean5207.xml" encodinganalog="identifier" identifier="80444/xv21511">GundlachJean5207.xml</eadid> 
+	 <filedesc> 
+		<titlestmt id="edit-complete"> 
+		  <titleproper encodinganalog="title">Guide to the Jean Gundlach Papers
+			 </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Gundlach (Jean)
+			 Papers</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20080116" era="ce" calendar="gregorian">©2008</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date>
+		  </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised October,
+			 2013</date> 
+		  <item>Added accession -002. Susan Kemp</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid type="mss" encodinganalog="099">5207</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100" authfilenumber="4997892" altrender="sync">Gundlach, Jean</persname> </origination> 
+		<unittitle type="collection">Jean Gundlach papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1921/1998" certainty="approximate">1921-1998</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">2.71 cubic feet</extent>
+		  <extent encodinganalog="300$a">3 boxes</extent>
+		</physdesc>
+		<physdesc> <extent>1 oversize folder</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Trade union
+		  employee and activist</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="5450_" id="ARN4997892" altrender="sync"> 
+		<p>For thirty years Jean Gundlach served as administrative assistant of
+		  the International Longshore and Warehouse Union Coast Committee, working
+		  closely with ILWU President Harry Bridges.</p> 
+		<p> Gundlach was born in Missouri and moved to Seattle in the 1940s. In
+		  1946 she began work as secretary of the Committee for Maritime Unity, and later
+		  worked for the United Fisherman and Allied Workers of America (UFAWA). When the
+		  UFAWA merged with the ILWU in the 1960s, Gundlach went to work for the ILWU and
+		  Harry Bridges. </p> 
+		<p>Throughout her life, Gundlach was devoted to progressive causes,
+		  working with migrant farm workers in the 1950s and even leading a walkout at
+		  the ILWU when Bridges and other officers treated staff unfairly. In the 1990s
+		  Gundlach was instrumental in obtaining a formal apology from the University of
+		  Washington to the victims of the Canwell Committee trials. In 1992 she had a
+		  major role in the creation of the Harry Bridges Chair in Labor Studies, and in
+		  2008 was awarded the Harry Bridges Center for Labor Studies’ Robert Duggan
+		  Distinguished Supporter of Labor Studies Award. Jean Gundlach passed away
+		  December 11, 2009. </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Arranged in two accessions: 
+		  <list type="marked"> 
+			 <item>Accession no. 5207-001, Jean Gundlach papers, 1960-1985</item> 
+			 <item>Accession no. 5207-002, Jean Gundlach papers, 1921-1998</item> 
+		  </list> </p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Clippings, photographs, and an assortment of textual items and
+		  ephemera from Gundlach's employment by trade unions.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {Text of the Scope and Content Note, in paragraphs; separate each with paragraph tags}?></p>
+		
+	 </altformavail> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="506"> 
+		<p>For use restrictions see individual accessions below.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <controlaccess id="persname">
+		<persname role="subject" encodinganalog="600">Gundlach,
+		  Jean$vArchives</persname>
+		<subject encodinganalog="650">Political activists</subject>
+		<corpname role="subject" encodinganalog="610">International
+		  Longshoremen's and Warehousemen's Union$xEmployees</corpname>
+		<corpname role="subject" encodinganalog="610">Pacific Coast Pensioners
+		  Association$xEmployees</corpname>
+		<subject encodinganalog="650">Labor$zWashington (State) </subject>
+		<subject encodinganalog="650">Labor unions$zWashington (State) </subject>
+		<subject encodinganalog="650">Labor movement$zWashington (State)
+		  </subject>
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform>
+		<genreform source="lcgft" encodinganalog="655">Photographs</genreform>
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+		<genreform source="aat" encodinganalog="655">Newspaper clippings</genreform>
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington), $e curator</corpname>
+		<persname encodinganalog="600" role="subject" source="uwsc-naf" altrender="sync">Gundlach, Jean$vArchives</persname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690"> Labor
+		  History </subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690"> Labor
+		  Unions </subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">California</subject> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5207-001</unitid> 
+			 <unittitle>Jean Gundlach papers</unittitle> 
+			 <unitdate type="inclusive" normal="1960/1985" era="ce" calendar="gregorian">circa 1960-circa 1985</unitdate> 
+			 <physdesc> <extent>.21 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Clippings, photographs, and an assortment of textual items and
+				ephemera from her employment by trade unions, most notably the International
+				Longshoremen's and Warehousemen's Union in San Francisco. Some items date from
+				her retirement in Western Washington.</p> 
+		  </scopecontent> <phystech type="phys"> 
+		  <p/> </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's literary rights not transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541" id="a19"> 
+			 <p>Donated by Jean Gundlach, 12/1/1999.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5207-002</unitid> 
+			 <unittitle>Jean Gundlach papers</unittitle> 
+			 <unitdate type="inclusive" normal="1921/1998" era="ce" calendar="gregorian">1921-1998</unitdate> 
+			 <physdesc> <extent>2.5 cubic feet</extent>
+				<extent>3 boxes</extent>
+			 </physdesc>
+			 <physdesc> <extent>1 oversize folder</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p> 
+				<list type="marked"> 
+				  <item>Subject files on maritime and labor history and the
+					 International Longshore and Warehouse Union. Correspondence, meeting agendas,
+					 and conference programs and minutes of the ILWU's Pacific Coast Pensioners
+					 Association from Gundlach's time as an officer and member of the PCPA. </item> 
+				  <item>Correspondence and materials from Gundlach's role in the
+					 founding and subsequent involvement in the Harry Bridges Chair for Labor
+					 Studies at the University of Washington. </item> 
+				  <item>Personal correspondence with friends in the labor and left
+					 political circles. </item> 
+				  <item>Subject files on labor and maritime poetry by poets and
+					 writers such as Carlos Bulosan, Al Valenzuela, Gus Rystad, Herb Phillips, and
+					 Jerry Tyler. </item> 
+				  <item>Correspondence and materials relating to Gundlach's role on
+					 the Carlos Bulosan Manuscripts Committee, which sought to assemble and donate
+					 poet and author Carlos Bulosan's work to an archives. Eventually the papers
+					 became part of the University of Washington's Special Collections. </item> 
+				  <item>Biographical materials on Gundlach's brother, Ralph
+					 Gundlach, as well as biographical and memorial materials on Roy J. Kennedy.
+					 </item> 
+				  <item>Materials from Gundlach's role as a member of Office and
+					 Professional Employees Union, Local 29 including contract negotiations and a
+					 strike. </item> 
+				  <item>Two scrapbooks relating to Harry Bridges, the ILWU, and
+					 labor history. </item> 
+				  <item>Photographs of labor and maritime subject and people, many
+					 of which appear to have been originally published or gathered. </item> 
+				</list> </p> 
+		  </scopecontent> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Donor: Jean Gundlach via the Harry Bridges Center for Labor
+				Studies at the University of Washington, 2013.</p> 
+		  </acqinfo> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

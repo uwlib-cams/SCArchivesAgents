@@ -1,0 +1,2226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1190862871--><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+      <eadid countrycode="us" mainagencycode="wau-ar" encodinganalog="identifier" identifier="80444/xv874480">OPEIULocal23_6202.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Guide to the Office and
+			 Professional Employees International Union, Local 23 Records </titleproper>
+            <titleproper type="filing" altrender="nodisplay"> Office and
+			 Professional Employees International Union, Local 23 Records </titleproper>
+            <author encodinganalog="creator">Finding aid created by Elizabeth
+			 Heu</author>
+            <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+            <date encodinganalog="date" era="ce" calendar="gregorian" normal="20180709">2018</date>
+            <address>
+               <addressline>Seattle, WA 98195</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <revisiondesc>
+         <change>
+            <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+            <item><?xm-replace_text {Describe revision; include your name}?></item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21">
+      <did id="a1">
+         <repository>
+            <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea>
+            </corpname>
+            <address>
+               <addressline>Box 352900</addressline>
+               <addressline>Seattle, WA 98195-2900</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6202</unitid>
+         <unitid type="accession" countrycode="us" repositorycode="wauar">6202-001</unitid>
+         <origination>
+            <corpname role="creator" encodinganalog="110" altrender="sync" source="local" rules="local">Office and Professional Employees International
+			 Union.$bLocal 23 (Tacoma, Wash.)</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" type="collection">Office and
+		  Professional Employees International Union, Local 23 records </unittitle>
+         <unitdate type="inclusive" normal="1936/2015" era="ce" calendar="gregorian">1936-2015</unitdate>
+         <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+         <physdesc>
+            <extent>10.62 cubic feet</extent>
+            <extent> 10 boxes and 1 oversize vertical file</extent>
+         </physdesc>
+         <abstract encodinganalog="5203_$a" altrender="nodisplay">Materials
+		  related to the Office and Professional Employees Inernational Union Local 23,
+		  Tacoma, Washington</abstract>
+         <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial>
+         <dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/>
+      </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.--><daogrp linktype="extended">
+         <daodesc>
+            <p><?xm-replace_text {Image caption}?></p>
+         </daodesc>
+         <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.--><daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/>
+         <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/>
+      </daogrp>
+      <bioghist encodinganalog="5450_" id="a2">
+         <p>Office and Professional Employees Local 23 represented workers in the
+		  Tacoma area until the organization merged into OPEIU Local 8 of Seattle in
+		  2015. </p>
+      </bioghist>
+      <arrangement>
+         <p>Arranged in 6 series.</p>
+         <list type="simple">
+            <item>Series 1, Meeting Minutes and Financial Statements,
+			 1937-2002</item>
+            <item>Series 2, Discontinued CBA files and Miscellaneous papers,
+			 1936-1997</item>
+            <item>Series 3, Organizing Campaigns and miscellaneous,
+			 1954-1994</item>
+            <item>Series 4, Former Employer (Retail Store A-U) CBAs &amp;
+			 Correspondence, 1937-2007</item>
+            <item>Series5, Newsletters, 1956-2015</item>
+            <item>Series 6, Miscellaneous, photographs and newspaper clippings,
+			 1936-2009</item>
+         </list>
+      </arrangement>
+      <scopecontent>
+         <p>Records of the Tacoma local of the Office and Professional Employees
+		  International Union, including files on organizing campaigns, collective
+		  bargaining files and correspondence with employers; meeting minutes,
+		  newsletters, photographs &amp; press clippings. Meeting minutes also include
+		  minutes from the Office Workers Local 20360 and OPEIU Local 132. </p>
+      </scopecontent>
+      <odd encodinganalog="500" id="a5">
+         <p>Forms part of the Labor Archives of Washington.</p>
+      </odd>
+      <altformavail encodinganalog="530" id="a9">
+         <p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?><extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/>
+         </p>
+      </altformavail>
+      <phystech>
+         <p/>
+      </phystech>
+      <accessrestrict>
+         <p>No restrictions on access. Records stored offsite; advance notice is
+		  required.</p>
+      </accessrestrict>
+      <userestrict>
+         <p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p>
+      </userestrict>
+      <acqinfo>
+         <p>Donated by Libby Alejandro and Cindy Shu of OPEIU Local 8. Local 23
+		  merged into Local 8 in June of 2018. </p>
+      </acqinfo>
+      <custodhist encodinganalog="561" id="a16">
+         <p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+      </custodhist>
+      <separatedmaterial encodinganalog="5440_$n" type="relocation">
+         <p>
+            <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+         </p>
+      </separatedmaterial>
+      <separatedmaterial encodinganalog="5441_$n" type="transfer">
+         <p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+      </separatedmaterial>
+      <bibliography id="a11" encodinganalog="581">
+         <p>
+            <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+         </p>
+      </bibliography>
+      <relatedmaterial encodinganalog="544__$n" id="a6">
+         <p>
+            <extref href="https://wayback.archive-it.org/3988/20150511182549/http://www.opeiulocal23.org/" linktype="simple">Office
+			 and Professional Employees Local 23 web archive</extref>
+         </p>
+      </relatedmaterial>
+      <appraisal id="a39" encodinganalog="583">
+         <p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+      </appraisal>
+      <controlaccess id="a12"><corpname role="subject" encodinganalog="610">Office and Professional Employees International Union.$bLocal 23 (Tacoma, Wash.)$vArchives</corpname>
+<corpname role="subject" encodinganalog="610">Office and Professional Employees International Union$xHistory$vSources</corpname>
+<subject encodinganalog="650">White collar workers$zWashington (State)$xHistory$vSources</subject>
+<subject encodinganalog="650">Labor unions$zWashington (State)$xHistory$vSources</subject>
+<subject encodinganalog="650">Labor$zWashington (State)$xHistory$vSources</subject>
+<subject encodinganalog="650">Labor movement$zWashington (State)$xHistory$vSources</subject>
+<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform>
+<genreform source="lcgft" encodinganalog="655">Minutes (Records)</genreform>
+<genreform source="lcgft" encodinganalog="655">Newsletters</genreform>
+<genreform source="lcgft" encodinganalog="655">Collective labor agreements</genreform>
+<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform>
+<genreform source="lcgft" encodinganalog="655">Photographs</genreform>
+<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+<corpname role="curator" encodinganalog="710">Labor Archives of Washington (University of Washington)</corpname>
+<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Tacoma</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="series">
+            <did>
+               <unitid type="uwsc">Series 1</unitid>
+               <unittitle encodinganalog="245$a">Meeting Minutes and Financial
+				Statements</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1937-2002</unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/1</container>
+                  <unittitle>Office Workers Union Local 20360, Reports of Secretary
+				  Treasurer George P. Firth</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-1939</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/2</container>
+                  <unittitle>Office Workers Union Local 20360 Constitution and
+				  By-Laws; Resume of Union History, Minutes of Regular Meetings</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1936-1943</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/3</container>
+                  <unittitle>Office Workers Union Local 20360 &amp; Office Employees
+				  International Union Local 23 Minutes of Regular Meetings</unittitle>
+                  <unitdate era="ce" calendar="gregorian">January 1944-December 1947</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/4</container>
+                  <unittitle>Office Employees International Union Local 23 Executive
+				  Board Meeting Minutes</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1944-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/5</container>
+                  <unittitle>Office Employees International Union Local 23 Minutes of
+				  the Recording Secretary</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1944-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/6</container>
+                  <unittitle>Office Employees International Union Local 23 Minutes of
+				  Regular Meetings and Executive Board Meetings</unittitle>
+                  <unitdate era="ce" calendar="gregorian">January 1944-December 1947</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/7</container>
+                  <unittitle>Trial Board Transcript of Proceedings Re Walter
+				  Huntsman</unittitle>
+                  <unitdate era="ce" calendar="gregorian">February 27, 1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/8</container>
+                  <unittitle>Office Employees International Union Local 23 Executive
+				  Board Meeting Minutes, Partial 1948</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/9</container>
+                  <unittitle>Office Employees International Union Local 23 Minutes of
+				  Regular Meetings and Executive Board Meetings</unittitle>
+                  <unitdate era="ce" calendar="gregorian">January 1948-December 1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/10</container>
+                  <unittitle>OPEIU Local 132 Bremerton Meeting Minutes (Merged with
+				  OPEIU Local 23 1969)</unittitle>
+                  <unitdate era="ce" calendar="gregorian">October 1957, 1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/11-1/15</container>
+                  <unittitle>OPEIU Local 23 General Membershi Meeting Minutes
+				  </unittitle>
+                  <unitdate era="ce" calendar="gregorian">January 1975-November 2002</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/16-2/2</container>
+                  <unittitle>OPEIU Local 23 Executive Board Meeting
+				  Minutes</unittitle>
+                  <unitdate era="ce" calendar="gregorian">January 1981-October 2002</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/3</container>
+                  <unittitle>OEIU Constitutional Convention Amendments</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1949-1955</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/4</container>
+                  <unittitle>OPEIU International Convention</unittitle>
+                  <unitdate era="ce" calendar="gregorian">2004-2010</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/5</container>
+                  <unittitle>OPEIU Local 23 Model Constitution and
+				  By-Laws</unittitle>
+                  <unitdate era="ce" calendar="gregorian">2007</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unitid type="uwsc">Series 2</unitid>
+               <unittitle encodinganalog="245$a">Discontinued CBA files and
+				Miscellaneous papers</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1936-1997</unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/6</container>
+                  <unittitle>Kitsap County Commissioners</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960-1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/7</container>
+                  <unittitle>B&amp;I Sales</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955-1956</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/8</container>
+                  <unittitle>Precision Machine Works</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1957-1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/9</container>
+                  <unittitle>Port of Tacoma</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1964-1967</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/10</container>
+                  <unittitle>Hotels-Lincolnshire, Olympius and Tacoma</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-1950</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/11</container>
+                  <unittitle>Winthrop Hotel</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1962-1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/12</container>
+                  <unittitle>Fisher's/ Bon Marche</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1957-1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/13</container>
+                  <unittitle>Nalley's</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1942-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/14</container>
+                  <unittitle>Weber Plumbing</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1971-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/15</container>
+                  <unittitle>Tacoma Transit Company</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-1946</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/16</container>
+                  <unittitle>J.C. Penny</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1965-1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/17</container>
+                  <unittitle>J.C. Penny</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1973-1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/18</container>
+                  <unittitle>Retail Stores Negotiations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1944-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/19</container>
+                  <unittitle>Local 20360 Charter, misc. papers</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1936</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/20</container>
+                  <unittitle>Organizing Campaigns</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1947-1949</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/21</container>
+                  <unittitle>OPEIU Local 11 Merger Exploration</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/22</container>
+                  <unittitle>Washington State Office Worker minimum wage
+				  hearing</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1941</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/23</container>
+                  <unittitle>OPEIU Local 23 Wage surveys</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1940-1962, 1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/24</container>
+                  <unittitle>Union Bank </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1977-1987</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/25</container>
+                  <unittitle>Samaritan Hospital Organzing Committee
+				  Brochure</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/26</container>
+                  <unittitle>Budget and Finance committee</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1943-1949</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/27</container>
+                  <unittitle>Elections</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1944-1949</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/28-2/29</container>
+                  <unittitle>Constitution and By-Laws Correspondence with
+				  international </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1979</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/30</container>
+                  <unittitle>Mary Kresevich Hegland case</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1951</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/31</container>
+                  <unittitle>W.L. Huntsman case</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/32</container>
+                  <unittitle>Kerschner, Floyd S. case</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/33</container>
+                  <unittitle>McIntyre case</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1949</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/34</container>
+                  <unittitle>C.H. Atteberry wage claim</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/35</container>
+                  <unittitle>Retail Stores Shop Stewards Committee</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/36</container>
+                  <unittitle>Tacoma Retail Stores strike</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/37</container>
+                  <unittitle>War efforts</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1945</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/38</container>
+                  <unittitle>Initiative 198</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955-1956</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/39</container>
+                  <unittitle>Scholarship Committee</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/40</container>
+                  <unittitle>Tacoma Mini committee</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1983</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/41</container>
+                  <unittitle>Blood Bank membership drive</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1952-1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/42</container>
+                  <unittitle>Peoples Department Store</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1978-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/43</container>
+                  <unittitle>Foreman &amp; Clark</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1973-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/44</container>
+                  <unittitle>Sears</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1956-1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/45</container>
+                  <unittitle>Community Bank of Renton</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1973-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/46</container>
+                  <unittitle>Bridge Clinic</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1942</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/1</container>
+                  <unittitle>Kitsap Federal Credit Union, Negotiations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1987</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/2</container>
+                  <unittitle>United Way of Kitsap County</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1988-1989</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/3</container>
+                  <unittitle>Kitsap Physicians Service</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1991-1994</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/4</container>
+                  <unittitle>Washington Natural Gas Company</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1994</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/5</container>
+                  <unittitle>Washington Natural Gas Company</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1992</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/6</container>
+                  <unittitle>Washington Natural Gas Company</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1995</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/7</container>
+                  <unittitle>Washington Natural Gas Company</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1996</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/8</container>
+                  <unittitle>Washington Natural Gas Company</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1997</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/9</container>
+                  <unittitle>Hunt Foods, Inc.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1950-1956</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/10</container>
+                  <unittitle>Graham Blue Print</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1958</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/11</container>
+                  <unittitle>Credit Bureau of Tacoma</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955-1968</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/12</container>
+                  <unittitle>J. Hoffert Co,</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1970-1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/13</container>
+                  <unittitle>Western clinic</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1975-1980</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/14</container>
+                  <unittitle>Trade Union Offices, misc papers</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/15</container>
+                  <unittitle>Misc. Discountinued CBAs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/16</container>
+                  <unittitle>Seattle Retail Store employees</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/17</container>
+                  <unittitle>Andrews Letter Shop</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1954-1971</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/18</container>
+                  <unittitle>Attorney Offices</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1961-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/19</container>
+                  <unittitle>Auto Clearing House</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1961-1968</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/20</container>
+                  <unittitle>B-B's Washer Service and Appliances</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1954-1959</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/21</container>
+                  <unittitle>B&amp;I Sales Co. </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955-1958</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/22</container>
+                  <unittitle>Boyle and Eller, Attorneys</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1971-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/23</container>
+                  <unittitle>Bridge Clinic</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1942-1944</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/24</container>
+                  <unittitle>Broadway Furniture</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1949</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/25</container>
+                  <unittitle>C and Electric Co., </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1947</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/26</container>
+                  <unittitle>Community Bank of Renton</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1973-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/27</container>
+                  <unittitle>Consolidated Freightways</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1956-1958</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/28</container>
+                  <unittitle>Cowlitz Medical Service (King County Blue
+				  Shield)</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1983-1995</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/29</container>
+                  <unittitle>Cowlitz Medical Service (King County Blue
+				  Shield)</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1982-1988</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/30</container>
+                  <unittitle>Cowlitz Medical Service (King County Blue
+				  Shield)</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1989-1995</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/31</container>
+                  <unittitle>Craig Furniture</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/32</container>
+                  <unittitle>Credit Bureau of Tacoma</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/1</container>
+                  <unittitle>Dairies</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955-1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/2</container>
+                  <unittitle>Graham Blue Print</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1942-1959</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/3</container>
+                  <unittitle>Griffin &amp; Enslow, Attorneys</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1971</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/4</container>
+                  <unittitle>Harmon Mfg. Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/5</container>
+                  <unittitle>J. Hofert Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/6</container>
+                  <unittitle>Home Electric Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1959-1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/7</container>
+                  <unittitle>Home Furniture Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1947</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/8</container>
+                  <unittitle>Hopper-Kelley Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1947</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/9</container>
+                  <unittitle>Hotels</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-1957</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/10</container>
+                  <unittitle>Hunt Foods </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1950-1956</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/11</container>
+                  <unittitle>Interstate Freight Lines</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1945-1946</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/12</container>
+                  <unittitle>Lakewood Pacific Ambulance</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/13-4/14</container>
+                  <unittitle>Lent's Inc.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1975-1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/15</container>
+                  <unittitle>Nalley's, Signed Agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1942-1959</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/16</container>
+                  <unittitle>Nalley's, Correspondence/Negotiations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1949, 1959</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/17</container>
+                  <unittitle>Nalley's Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1959-1932</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/18</container>
+                  <unittitle>Nalley's organizing</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/19</container>
+                  <unittitle>Old Tacoma Electric Company</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/20</container>
+                  <unittitle>Otto's North End Electric Shop</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1947-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/21</container>
+                  <unittitle>Overland Furniture &amp; Investment Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1950</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/22</container>
+                  <unittitle>Plumbing &amp; Heating Service, Inc.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1967-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/23</container>
+                  <unittitle>Port of Tacoma</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1961-1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/24</container>
+                  <unittitle>Percision Machine Works</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1957-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/25</container>
+                  <unittitle>C.J. Rockey Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/26</container>
+                  <unittitle>Sepic Electric Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/27</container>
+                  <unittitle>Seymour's Store</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1953-1955</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/28</container>
+                  <unittitle>Tacoma Railway &amp; Power Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-1949</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/29</container>
+                  <unittitle>Thurston County Medical Bureau</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1981-1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/30</container>
+                  <unittitle>United Way of Kitsap County,
+				  correspondence/negotiations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958-1989</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/31</container>
+                  <unittitle>United Way of Kitsap County, correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958-1997</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/32</container>
+                  <unittitle>WA Coop Egg &amp; Poultry Assoc., Unsigned
+				  agreements/correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-1946</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/33</container>
+                  <unittitle>WA Steel Products</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/34</container>
+                  <unittitle>Weber Plumbing</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1970-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/35</container>
+                  <unittitle>Western Clinic, signed
+				  agreements/correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1975-1980</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/36</container>
+                  <unittitle>Western Clinic, organizing and unsigned
+				  agreement</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955-1956</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/37</container>
+                  <unittitle>Wible Radio Supply</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/1</container>
+                  <unittitle>Winthrop Hotel, correspondence/negotiations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1964</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/2</container>
+                  <unittitle>Winthrop Hotel, signed agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1940-1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/3</container>
+                  <unittitle>YWCA, signed agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1942-1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/4</container>
+                  <unittitle>Office Employees News, Tacoma</unittitle>
+                  <unitdate era="ce" calendar="gregorian">October 1945-November 1945</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/5</container>
+                  <unittitle>Pierce County Labor: To Live in Dignity</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1989</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/6</container>
+                  <unittitle>Retail Stores Strike</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/7</container>
+                  <unittitle>Bon Marche Strike</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/8</container>
+                  <unittitle>Washintgon State Labor Council</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1977, 1979-1985</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/9</container>
+                  <unittitle>Sears-Bellingham OEIU Local 134
+				  Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/10</container>
+                  <unittitle>Tacoma Labor Advocate</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972, 1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/11</container>
+                  <unittitle>Grays Harbor CLC Affiliation</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/12</container>
+                  <unittitle>War Labor Board Panel , Case No. 111-3496-D Tacoma
+				  Offices Bldgs. &amp; Bldg. Service Employees Int't Union Local 38</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1943</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/13</container>
+                  <unittitle>Pacific Coast Shipbuilding Conference</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1945</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/14</container>
+                  <unittitle>Pacific Advance Base Depot</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1945</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/15</container>
+                  <unittitle>Seattle Tacoma Shipbuilding Corporation</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1939-1951</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/16</container>
+                  <unittitle>American Smelting &amp; Refining, signed
+				  agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1967</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/17</container>
+                  <unittitle>American Smelting &amp; Refining, Grievances and
+				  negotiations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1957-1967</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/18</container>
+                  <unittitle>American Smelting &amp; Refining,Arbitrations and
+				  Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1956</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/19</container>
+                  <unittitle>Associated Retailers, Signed Agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/20</container>
+                  <unittitle>Conference of Northwest OEIU Locals</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1947-1949, 1954-1960</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/21</container>
+                  <unittitle>Donations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1945-1984</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/22</container>
+                  <unittitle>Office Emloyes International Union</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1944-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/23</container>
+                  <unittitle>Screen Office Employees Guild</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1945-1946</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/24</container>
+                  <unittitle>Pamphlets</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1971</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/25</container>
+                  <unittitle>Bon Marche,
+				  Contracts/neogtiations/grievances</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1980-1987</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/26</container>
+                  <unittitle>Financial Statements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1947-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/27</container>
+                  <unittitle>Know Your Union</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1970-1991</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">5/28</container>
+                  <unittitle>Retail Stores agreement</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1963-1965</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unitid type="uwsc">Series 3</unitid>
+               <unittitle encodinganalog="245$a">Organizing Campaigns and
+				miscellaneous</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1954-1994</unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/1</container>
+                  <unittitle>AVRE Plasma Center, Certification of election
+				  results</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1985</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/2</container>
+                  <unittitle>Centralia Convalescent Center,
+				  Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1988-1989</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/3</container>
+                  <unittitle>Clover Park School District</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/4</container>
+                  <unittitle>Comprehensive Metal Health Center</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1986</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/5</container>
+                  <unittitle>Day's, Inc., </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1954, 1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/6</container>
+                  <unittitle>Ebasco Services Inc. NLRB Case No. 19-RC-9410
+				  Petitioners Brief</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1979</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/7</container>
+                  <unittitle>Ebasco Services Inc. NLRB Case No. 19-RC-9410 Hrng.
+				  Transcript Pt. 1</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1979</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/8</container>
+                  <unittitle>Ebasco Services Inc. NLRB Case No. 19-RC-9410 Hrng.
+				  Transcript Pt. 2</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1979</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/9</container>
+                  <unittitle>Ebasco Services Inc. General Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1979-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/10</container>
+                  <unittitle>Ebasco Services Inc. Union Correspondence to
+				  Employees</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1979-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/11</container>
+                  <unittitle>Ebasco Services Inc. Objections to Election</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/12</container>
+                  <unittitle>Ebasco Services Inc. General Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1982-1983</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/13</container>
+                  <unittitle>Federal Collectors</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972-1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/14</container>
+                  <unittitle>Forks State Bank</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1973-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/15</container>
+                  <unittitle>Grays Harbor Juvenile Department</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1976-1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/16</container>
+                  <unittitle>Gray's Harbor County Medical Bureau</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1980-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/17</container>
+                  <unittitle>Hahn Co. (Capital Mall </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1993</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/18</container>
+                  <unittitle>Hollyridge</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1994</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/19</container>
+                  <unittitle>Lakewood General Hospital</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1979-1980</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/20</container>
+                  <unittitle>Monitor Cabinets</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1971-1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/21</container>
+                  <unittitle>Pacific National Bank of Washington</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1969-1971</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/22</container>
+                  <unittitle>Pacific National Bank of Washingotn, Tacoma EIS
+				  Center</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1970-1971</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/23</container>
+                  <unittitle>Nationwide Cablevision, Corespondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1979-1980</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unitid type="uwsc">Series 4</unitid>
+               <unittitle encodinganalog="245$a">Former Employer (Retail Store A-U)
+				CBAs &amp; Correspondence</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1937-2007</unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/24</container>
+                  <unittitle>Associated Retailers of Tacoma,
+				  Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1953-1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/25</container>
+                  <unittitle>Associated Retailers of Tacoma, Negotiations and
+				  Grievances</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">6/26</container>
+                  <unittitle>Bon Marche, Agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1953-1987</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/1</container>
+                  <unittitle>Bon Marche, Negotiations/ Grievances</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1964-1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/2</container>
+                  <unittitle>Retail Stores, Negotiations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-1947</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/3</container>
+                  <unittitle>Retail Stores, Signed Agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1944-1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/4</container>
+                  <unittitle>Retail Stores, Negotiations</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1944-1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/5</container>
+                  <unittitle>J.C. Penney (Tacoma Mall)</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1965-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/6</container>
+                  <unittitle>J.C. Penney Decertification</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1975-1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/7</container>
+                  <unittitle>J.C. Penney, Strike</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/8</container>
+                  <unittitle>J.C. Penney, Strike, Signed Agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948, 1965-1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/9</container>
+                  <unittitle>People Store</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1971-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/10</container>
+                  <unittitle>Rhodes</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1970-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/11</container>
+                  <unittitle>Schoenfelds</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1969-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/12</container>
+                  <unittitle>Schoenfelds agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1969-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/13</container>
+                  <unittitle>Sears, Roebuck &amp; Co., Agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1953-1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/14</container>
+                  <unittitle>Sears, Roebuck &amp; Co., Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1952-1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/15</container>
+                  <unittitle>Selden's, Inc.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/16</container>
+                  <unittitle>Weisfield, Goldberg, Inc., Agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/17</container>
+                  <unittitle>Weisfield, Goldberg, Inc., Correspondence</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1947-1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/18</container>
+                  <unittitle>Woolworth</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1963-1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/19</container>
+                  <unittitle>Foreman and Clark</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/20</container>
+                  <unittitle>Helen Davis Apparel Shop</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/21</container>
+                  <unittitle>Irving's Clothes Shop</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1958-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/22</container>
+                  <unittitle>Knettle's Corsetry</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1950-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/23</container>
+                  <unittitle>Lerner Shops</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/24</container>
+                  <unittitle>S.H. Kress &amp; Company</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1961-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/25</container>
+                  <unittitle>Lundquist-Lilly Men's Wear</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/26</container>
+                  <unittitle>Lyons Apparel</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1952-1971</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/27</container>
+                  <unittitle>Nordstrom</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1966-1979</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/28</container>
+                  <unittitle>Norman's Apparel Shop</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/29</container>
+                  <unittitle>Tacoma Grocery Co.</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1938-1955</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/30</container>
+                  <unittitle>Valu-Mart</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960-1975</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/31</container>
+                  <unittitle>White Front</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1973</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/32</container>
+                  <unittitle>Kitsap Administrative Services</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1978-1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/33</container>
+                  <unittitle>KitsapCounty CLC</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1969-1979</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/34</container>
+                  <unittitle>Kitsap Federal Credit Union, Arbitration</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1987</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/35</container>
+                  <unittitle>Kitsap Federal Credit Union</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960-1988</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/36</container>
+                  <unittitle>Kitsap Physicians Service</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1992-2000</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/37</container>
+                  <unittitle>Kitsap Physicians Service</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1985-2001</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/38</container>
+                  <unittitle>Kitsap Physicians Service</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1977-1984</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">7/39</container>
+                  <unittitle>Kitsap Physicians Service</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1961-1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/1</container>
+                  <unittitle>Labor Advocate</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1959-1978</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/2</container>
+                  <unittitle>Laborers Local 486</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972-1977</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/3</container>
+                  <unittitle>Laundry Workers Local 42</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/4</container>
+                  <unittitle>McDaniel &amp; Hallstrom, CPAs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1980-1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/5</container>
+                  <unittitle>Millmens Local 1689</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1977-1992</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/6</container>
+                  <unittitle>Olympic Peninsula Bldg. &amp; Construction Trades
+				  Council</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1959-2007</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/7</container>
+                  <unittitle>Painters Local 64</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1972</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/8</container>
+                  <unittitle>Pierce County Bldg. &amp; Contrcution Trades
+				  Council</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1963-1983</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/9</container>
+                  <unittitle>Pierce County Fire District #2 Terminiation</unittitle>
+                  <unitdate era="ce" calendar="gregorian">2005</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/10</container>
+                  <unittitle>Pierce County Fire District #2 </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1998-2005</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/11</container>
+                  <unittitle>Pierce County Fire District #3</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1998-2000</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/12</container>
+                  <unittitle>Pierce County HERE Trust Fund</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1971-1987</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/13</container>
+                  <unittitle>Pierce County Medical Bureau, agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1955-1980</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/14</container>
+                  <unittitle>Pierce County Medical Bureau</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1981-1991</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/15</container>
+                  <unittitle>SEIU Local 123</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1963-1996</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/16</container>
+                  <unittitle>SEIU Local 262</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972-1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/17</container>
+                  <unittitle>Sheet Metal Workers Local 99</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1975-1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/18</container>
+                  <unittitle>Sheet Metal Workers Local 150</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1963-1988</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/19</container>
+                  <unittitle>Tacoma Radiology Associates</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972-1986</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/20</container>
+                  <unittitle>UFCW Local 381 Bremerton (Retail Clerks) Signed
+				  agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1972-2005</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/21</container>
+                  <unittitle>UFCW Local 553</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1967-1983</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/22</container>
+                  <unittitle>UFCW Local 554</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1994</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/23</container>
+                  <unittitle>Union Bank </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1975-1985</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unitid type="uwsc">Series5</unitid>
+               <unittitle encodinganalog="245$a">Newsletters</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1956-2015</unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/1</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1956-1974</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/2</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1975-1980</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/3</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1964-1968</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/4</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1969-1976</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/5</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1981-1985</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/6</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1986-1991</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/7</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1992-2002</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/8</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">2003-2015</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/9</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1993-2003</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/10</container>
+                  <unittitle>OPEIU Local 23 Newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960-1992</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unitid type="uwsc">Series 6</unitid>
+               <unittitle encodinganalog="245$a">Miscellaneous, photographs and
+				newspaper clippings </unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1936-2009</unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/24</container>
+                  <unittitle>Miscellaneous old agreements</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1946-2011</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/25</container>
+                  <unittitle>Manuals and regualtions</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1976-1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/26</container>
+                  <unittitle>Notes and letters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1989-1996</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/27</container>
+                  <unittitle>Certificates</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1982</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/28</container>
+                  <unittitle>Flyers</unittitle>
+                  <unitdate era="ce" calendar="gregorian">undated</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/29</container>
+                  <unittitle>OPEIU Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1980-2009</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/30</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1980-1990s</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/31</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1988-1992</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/32</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1980s-1990s</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/33</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">2000-2010</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">8/34</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian"/>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/11</container>
+                  <unittitle>OPEIU Local 23 History &amp; Special
+				  Articles</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1986-1990s </unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/12</container>
+                  <unittitle>OPEIU Local 23 Duplicate newsletters</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1948-1992</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/13</container>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1938-2005</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/14</container>
+                  <unittitle>Historical pictures, newspaper clippings</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1981-1992</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/15</container>
+                  <unittitle>Scholarship Committee</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1978-1988</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/16</container>
+                  <unittitle>OPEIU Local 23 History Notes</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-2004</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/17</container>
+                  <unittitle>Bank Employees</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/18</container>
+                  <unittitle>Newspaper clippings</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1935-1957</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/19</container>
+                  <unittitle>Membership</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1937-1945</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">9/20</container>
+                  <unittitle>Newspaper articles </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1995-1996</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/1</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1981-1986</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/2</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1991</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/3</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">2000-2010</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/4</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1981</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/5</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1988-1990</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/6</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1991-1996</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/7</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1996-1999</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/8</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">10/9</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1991, 1986</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="VF:oversize">OSVF 177</container>
+                  <unittitle>Group photo</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1960s</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

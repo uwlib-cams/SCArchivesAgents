@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1225204193-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WashCOSH6205.xml" encodinganalog="identifier" identifier="80444/xv764922">WashCOSH6205.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Washington Committee
+			 for Occupational Safety and Health Collection</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Washington Committee
+			 for Occupational Safety and Health Collection</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Elizabeth
+			 Heu</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20180827">© 2018</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6205</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6205-001</unitid> 
+		<origination> 
+		  <corpname role="creator" encodinganalog="110">Washington Committee for
+			 Occupational Safety and Health</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">Washington Committee
+		  for Occupational Safety and Health collection</unittitle> 
+		<unitdate type="inclusive" normal="1992/1998" era="ce" calendar="gregorian">1992-1998</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent>.18 cubic feet</extent>
+		  <extent>1 box and 3 posters</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Materials
+		  collected by Jay Herzmark relating to the Washington Committee for Occupational
+		  Safety and Health</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="a2" altrender="sync"> 
+		<p>Washington Committee for Occupational Safety and Health (WashCOSH) was
+		  founded in 1992 at a meeting of union and safety and health activists at the
+		  International Association of Machinists, Lodge 751 union hall. The goal was to
+		  improve workplace safety and health. Funding came from subcontracting on grants
+		  to the American Federation of State, County, and Municipal Employees and the
+		  Alice Hamilton Committee for Safety and Health from the National Institute for
+		  Environmental Health Sciences. </p> 
+		<p> WashCOSH was involved in various projects over its history, including
+		  Ergonomics at a Buffalo Industries fabric recycling plant organized by
+		  Teamsters. The organization also offered a program of Painting Hazards
+		  Certification Training and other "painters' upgrade classes" for the Painters
+		  Advanced Training Institute at the Duwamish Branch of South Seattle Community
+		  College. Other trainings included Confined Space Entry Training and Hazardous
+		  Materials Emergency Response Training for the American Federation of State,
+		  County, and Municipal Employees. As well, the organization was involved with
+		  annual Workers' Memorial Day Events. WashCOSH published a quarterly newsletter,
+		  a guide called "Pollution Prevention for Construction Painting: A guide to help
+		  protect painters, the public and the environment" and organized an annual
+		  conferences including "Ergonomics, Safety, and Health in Construction,
+		  September 12-13, 1994" and "A Labor Union Response to Violence in the
+		  Workplace, June 10th, 1995"</p> 
+		<p>WashCOSH created a multi-organizational governance committee, the
+		  WISHA Workplace Violence Committee. The executive board was made up of
+		  representatives from many unions, including Diane Zahn from the United Food and
+		  Commercial Workers (the first board president); Bill Anderson of the
+		  International Union of Painters and Allied Trades (Board President); Roger
+		  Yockey of United Food and Commercial Workers; and Jay Herzmark (Trustee, Board
+		  President) of AFSCME. Other unions represented on the board included
+		  International Brotherhood of Electrical Workers and the Office and Professional
+		  Employees International Union.</p> 
+		<p>The first employee of WashCOSH was Anna Bachmann, who was hired as the
+		  Training Director in April 1993. She was later joined by Mark Catlin in the
+		  summer of 1993, who was the Director/Industrial Hygienist. Jay Herzmark
+		  replaced Catlin at the beginning of 1998. WashCOSH went out of business in the
+		  summer of 1998 because of tax issues.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>These materials were collected by Jay Herzmark during his work with
+		  the Washington Committee for Occupational Safety and Health (WashCOSH). During
+		  his time with WashCOSH, Herzmark served as training director, trustee, and
+		  board president. Materials include a banner reading "WashCOSH: Organizing for
+		  SAFETY &amp; HEALTH". Bumper stickers advocating worker health and safety, a
+		  listing of the board of directors and staff, materials from conferences and
+		  trainings including programs, an overview brochure on the organization, and an
+		  issue of WashCOSH's newsetter from 1995. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/> </p> 
+	 </altformavail> <phystech> 
+	 <p/> </phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections.</p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Donated by Jay Herzmark.</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+		  </p> 
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12">
+		<subject encodinganalog="650">Industrial hygiene$zWashington (State)
+		  </subject>
+		<subject encodinganalog="650">Industrial safety$zWashington (State)
+		  </subject>
+		<subject encodinganalog="650">Labor$zWashington (State) </subject>
+		<subject encodinganalog="650">Labor unions$zWashington (State) </subject>
+		<subject encodinganalog="650">Labor movement$zWashington (State)
+		  </subject>
+		<genreform source="lcgft" encodinganalog="655">Bumper stickers</genreform>
+		<genreform source="lcgft" encodinganalog="655">Conference materials</genreform>
+		<genreform source="lcgft" encodinganalog="655">Instructional and educational works</genreform>
+		<genreform source="aat" encodinganalog="655">brochures</genreform>
+		<corpname role="subject" encodinganalog="610" altrender="sync" source="local" rules="local">Washington Committee for Occupational Safety and
+		  Health$vArchives</corpname> 
+		<persname role="collector" encodinganalog="700">Herzmark, Jay</persname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+	 </controlaccess> 
+  </archdesc>
+</ead>

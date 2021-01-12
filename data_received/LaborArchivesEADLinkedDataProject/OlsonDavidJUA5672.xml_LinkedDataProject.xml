@@ -1,0 +1,2524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"><!--OCLC 767834907-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" url="http://www.lib.washington.edu/specialcoll/findaids/docs/uarchives/OlsonDavidJUA5672.xml" mainagencycode="wau-ar" encodinganalog="identifier" identifier="80444/xv99932">OlsonDavidJUA5672.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the David Olson Papers
+			 </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Olson (David)
+			 Papers</titleproper> 
+		  <sponsor encodinganalog="contributor" audience="external">Processing
+			 Funded by the Labor Archives Fund, Labor Archives of Washington</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20111212" era="ce" calendar="gregorian">© 2011</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc audience="external"> 
+		<creation>Finding aid encoded by Nan Cohen 
+		  <date era="ce" calendar="gregorian">2011</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>). </descrules> 
+	 </profiledesc> 
+	 <revisiondesc audience="external"> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised May 2014</date>
+		  
+		  <item>EAD markup of new arrangement and containers listing added by
+			 Conor Casey and processing intern Molly Malone.</item> 
+		  <item>EAD encoding reviewed by Susan Kemp</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised June
+			 2018</date> 
+		  <item>Unit IDs for intellectual divisions and description of
+			 subdivisions added by Conor Casey. </item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised October
+			 2019</date> 
+		  <item>Added accession -002. Kate Miller.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid countrycode="us" repositorycode="wau-ar" type="mss">5672</unitid>
+		
+		<origination> 
+		  <persname encodinganalog="100" role="creator" altrender="sync" source="lcnaf" rules="rda" authfilenumber="60669">Olson, David
+			 J.,$d1941-2012</persname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">David Olson
+		  papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1915/2008" era="ce" calendar="gregorian">1915-2008</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">9.05 cubic feet</extent>
+		  <extent encodinganalog="300$a">10 boxes and 1 oversized file</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">University of
+		  Washington professor of political science, founding chair of the Harry Bridges
+		  Center for Labor Studies</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>. </langmaterial> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format:
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute the full URL of the image file.
+Eg,  http://www.lib.washington.edu/specialcoll/images/ead/MS3783.jpg. Also enter MIME type of digital file
+(eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute, eg. Image of Mike
+Lowry, 1982.-->
+		<daoloc role="image/jpeg" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="ARN60669" altrender="sync"> 
+		<p>University of Washington professor of political science, founding
+		  chair of the Harry Bridges Center for Labor Studies, scholar on urban and labor
+		  politics. </p> 
+		<p> David Olson (Ph.D., University of Wisconsin) was Professor Emeritus
+		  of Political Science and the Harry Bridges Endowed Chair Emeritus in Labor
+		  Studies. He researched state, urban and labor politics in the United States. He
+		  was the co-author or co-editor of Black Politics: The Inevitability of Conflict
+		  (Holt, Rinehart and Winston) Theft of the City: Readings in Corruption in Urban
+		  America (Indiana), Commission Politics: The Processing of Racial Crisis in
+		  America (Trans-Action Books), Governing the United States (McGraw Hill), and To
+		  Keep The Republic (McGraw Hill). He also published numerous articles on urban
+		  politics, state politics, political violence, seaport politics, congestion
+		  pricing, living wage campaigns, term limits, and labor politics. In 2005 he
+		  received the S. Sterling Munro Public Service Teaching Award and in 2007 was
+		  named the inaugural Distinguished Civic Educator Award by the Washington State
+		  Senate. In 2006 Olson was knighted by the King of Norway as knight of the first
+		  class, order of merit for contributions to US/Norway scholarly exchange
+		  relations.</p> 
+		<p>Outside the University, Olson advised or served as a consultant to
+		  various state, county, and municipal governments as well as community groups
+		  and the Ford Foundation on subjects ranging from evacuation under radiological
+		  emergency, to seaport organization, to publicly owned railroads, to political
+		  primary systems, to transportation organization, to trade union contract
+		  disputes.</p> 
+		<p>David Olson died on Sept. 15, 2012.</p> 
+	 </bioghist> 
+	 <arrangement> 
+		<p>Organized into 2 accessions.</p> 
+		<list type="simple"> 
+		  <item>Accession No. 5672-001, David Olson Papers, 1915-2008</item> 
+		  <item>Accession No. 5672-002, David Olson papers, 1937-2006</item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Materials relating to the founding of the Harry Bridges Chair of Labor
+		  Studies at the University of Washington, research in labor, labor unions and
+		  urban politics, the Washington State blanket primary and role as an expert
+		  witness in primary election systems. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="actuatenone" show="new" linktype="simple"/> </p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>No restrictions on access.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>David J. Olson, 10/26/2011</p> 
+	 </acqinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p>A separate collection of David Olson's papers are held by the
+		  Wisconsin Historical Society as part of the 
+		  <archref href="http://digital.library.wisc.edu/1711.dl/wiarchives.uw-whs-mss00851" show="new" actuate="onrequest" linktype="simple">Michael Lipsky and David J.
+			 Olson Papers</archref> </p> 
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname encodinganalog="600" role="subject" altrender="sync">Olson,
+		  David J.,$d1941-2012$vArchives</persname> 
+		<corpname role="subject" encodinganalog="610">Blue Moon Tavern
+		  Preservation Society$xHistory$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610">Harry Bridges Center for
+		  Labor Studies (University of Washington)</corpname> 
+		<corpname role="subject" encodinganalog="610">Harry Bridges Center for
+		  Labor Studies (University of Washington)$xHistory$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610">International Longshore and
+		  Warehouse Union$xHistory$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610">International
+		  Longshoremen's and Warehousemen's Union$xHistory$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610">International
+		  Longshoremen's Association$xHistory$vArchives</corpname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<corpname role="subject" encodinganalog="610">Port of
+		  Seattle$xHistory$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610">University of
+		  Washington.$bCenter for Labor Studies$xHistory$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610">University of
+		  Washington.$bDepartment of Political Science$xHistory$vArchives</corpname> 
+		<corpname source="lcnaf" encodinganalog="710" altrender="displayattop">University of Washington.$bUniversity
+		  Archives</corpname> 
+		<corpname role="subject" encodinganalog="610">Washington Dental
+		  Service$xHistory$vArchives</corpname> 
+		<genreform source="lcgft" encodinganalog="655">Business
+		  correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Contracts</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform> 
+		<genreform source="aat" encodinganalog="655">Newspaper
+		  clippings</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Personal
+		  correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Photographs</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Press releases</genreform>
+		
+		<genreform source="lcgft" encodinganalog="655">Records
+		  (Documents)</genreform> 
+		<genreform source="aat" encodinganalog="655">Research
+		  (documents)</genreform> 
+		<genreform source="aat" encodinganalog="655">Slides
+		  (photographs)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Speeches</genreform> 
+		<subject encodinganalog="650">Historians$zWashington
+		  (State)$zSeattle$vArchives</subject> 
+		<subject encodinganalog="650">Labor movement$zUnited
+		  States$xHistory$vArchives</subject> 
+		<subject encodinganalog="650">Labor unions$zUnited
+		  States$xHistory$vArchives</subject> 
+		<subject encodinganalog="650">Political scientists$zWashington
+		  (State)$zSeattle$vArchives</subject> 
+		<subject encodinganalog="650">Primaries$xHistory$vArchives</subject> 
+		<subject encodinganalog="650">Strikes and
+		  lockouts$xStevedores$xHistory$vArchives</subject> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">University Archives/Faculty Papers</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject>
+	 </controlaccess> 
+	 <dsc type="combined"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5672-001</unitid> 
+			 <unittitle>David Olson Papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1915-2008</unitdate> 
+			 <unitdate type="bulk" encodinganalog="245$g" normal="1969/2008" era="ce" calendar="gregorian">1969-2008</unitdate> 
+			 <physdesc> <extent>6.48 cubic feet </extent>
+				<extent>7 boxes plus one oversized file</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials relating to the founding of the Harry Bridges Chair of
+				Labor Studies at the University of Washington, Olson's research in labor and
+				urban politics, and his role as an expert witness in primary election systems.
+				Three large format photographs documenting longshore techology,
+				containerization, and the development of the Port of Seattle. One box of
+				slides.</p> 
+		  </scopecontent> 
+		  <arrangement encodinganalog="351" id="a4"> 
+			 <p>The collection is arranged into 2 series: </p> 
+			 <p>SERIES 1: DAVID OLSON PERSONAL PAPERS </p> 
+			 <p>SERIES 2: DAVID OLSON PROFESSIONAL PAPERS </p> 
+			 <p>Series 1 includes all of David Olson's personal papers, such as
+				pictures and projects he worked on outside of his professional career. Series 2
+				includes all of David Olson's professional papers, such as press clippings, his
+				political science teaching career, labor research and the founding of the Harry
+				Bridges Chair, as well as his role as an expert witness in several trial cases.
+				The second series is also further subdivided into subseries and parts to
+				establish the different categories of David Olson's professional career.</p> 
+		  </arrangement> <phystech> 
+		  <p/> </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries</p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Bibliographic Source: David J. Olson</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<unitid type="uwsc">SERIES 1</unitid> 
+				<unittitle encodinganalog="245$a">DAVID OLSON PERSONAL
+				  PAPERS</unittitle> 
+			 </did> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries A</unitid> 
+				  <unittitle encodinganalog="245$a">Personal Pictures</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/1</container> 
+					 <unittitle encodinganalog="245$a">Personal Pictures</unittitle>
+					 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1990s</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="folder:oversize">8</container> 
+					 <unittitle>3 photographs of Port of Seattle</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries B</unitid> 
+				  <unittitle encodinganalog="245$a">Blue Moon Tavern Preservation
+					 Society</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/2</container> 
+					 <unittitle encodinganalog="245$a">Blue Moon Tavern Preservation
+						Society [Part I]</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1989</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/3</container> 
+					 <unittitle encodinganalog="245$a">Blue Moon Tavern Preservation
+						Society [Part II]</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1989-1990</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unitid type="uwsc">SERIES 2</unitid> 
+				<unittitle encodinganalog="245$a">DAVID OLSON PROFESSIONAL
+				  PAPERS</unittitle> 
+			 </did> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries A</unitid> 
+				  <unittitle encodinganalog="245$a">Publications by David Olson;
+					 Press Clippings about David Olson</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/4-1/11</container> 
+					 <unittitle encodinganalog="245$a">Publications about/by David
+						Olson</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1987-2005</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/5</container> 
+					 <unittitle encodinganalog="245$a">Publications about/by David
+						Olson</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1990-2005</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/6</container> 
+					 <unittitle encodinganalog="245$a">Publications about/by David
+						Olson</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1998-2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/7</container> 
+					 <unittitle encodinganalog="245$a">Publications about/by David
+						Olson</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/8</container> 
+					 <unittitle encodinganalog="245$a">Publications about/by David
+						Olson</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1981-2008</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/9</container> 
+					 <unittitle encodinganalog="245$a">Publications about/by David
+						Olson</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1981-2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/10</container> 
+					 <unittitle encodinganalog="245$a">Publications by/about Olson
+						[The Future of the Public Port Authority Privatized, Federalized, or Status
+						Quo; California Ports; Governance of US Public Ports; Economic Development and
+						the Role of Public Enterprise; Public Port Accountability]</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1968-1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/11</container> 
+					 <unittitle encodinganalog="245$a">David Olson's
+						presentations</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1970-1980</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries B</unitid> 
+				  <unittitle encodinganalog="245$a">Service with a Smile Project:
+					 The First 50 Years of Washington Dental Service</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"> 1/12</container> 
+					 <unittitle encodinganalog="245$a">Service with a Smile [The
+						First 50 Years of Washington Dental Service]</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2003-2004</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries C</unitid> 
+				  <unittitle encodinganalog="245$a">Harry Bridges Center for Labor
+					 Studies</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 1</unitid> 
+					 <unittitle encodinganalog="245$a">Correspondence about the
+						Harry Bridges Center for Labor Studies</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 1/13</container> 
+						<unittitle encodinganalog="245$a">Robert D. Duggan
+						  Correspondence</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 1/14</container> 
+						<unittitle encodinganalog="245$a">Correspondence - The Harry
+						  Bridges Chair</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1991-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 2</unitid> 
+					 <unittitle encodinganalog="245$a">Correspondence with Chuck
+						Bergquist On Bridges Center</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 1/15</container> 
+						<unittitle encodinganalog="245$a">Chuck Bergquist
+						  Correspondence</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 3</unitid> 
+					 <unittitle encodinganalog="245$a">The Harry Bridges
+						Center</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 1/16</container> 
+						<unittitle encodinganalog="245$a">Bridges Bust
+						  issue</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2005-2006</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 1/17</container> 
+						<unittitle encodinganalog="245$a">History Early years of The
+						  Harry Bridges Chair</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/1</container> 
+						<unittitle encodinganalog="245$a">The Harry Bridges
+						  Chair</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1990-1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/2</container> 
+						<unittitle encodinganalog="245$a">Noriko Sawada Bridges: "To
+						  Be Or Not To Be (There's No Such Option)" [Poem about being interned as a
+						  Japanese American]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">c. 1990</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/3</container> 
+						<unittitle encodinganalog="245$a">Popular Norwegian Poems
+						  [Gus Rystad]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1974-1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/4</container> 
+						<unittitle encodinganalog="245$a">Center for Labor
+						  Studies</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 4</unitid> 
+					 <unittitle encodinganalog="245$a">Conference on Harry
+						Bridges</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/8</container> 
+						<unittitle encodinganalog="245$a">Miscellaneous Photos, Video
+						  Recordings [Bridges Conference and Bust Dedication]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/5</container> 
+						<unittitle encodinganalog="245$a">Conference on Harry Bridges
+						  [Part I]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1991-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/6</container> 
+						<unittitle encodinganalog="245$a">Conference on Harry Bridges
+						  [Part II]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/7</container> 
+						<unittitle encodinganalog="245$a">Press Clippings of Bridges
+						  Chair Dedication</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 5</unitid> 
+					 <unittitle encodinganalog="245$a">Building Bridges
+						Newsletter</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/9</container> 
+						<unittitle encodinganalog="245$a">Building Bridges Newsletter
+						  of the Center for Labor Studies</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1995-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/10</container> 
+						<unittitle encodinganalog="245$a">The Harry Bridges Chair
+						  [Building Bridges Newsletters, The ILWU Story]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1961-2008</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 6</unitid> 
+					 <unittitle encodinganalog="245$a">David Olson as Harry Bridges
+						Chair</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/11</container> 
+						<unittitle encodinganalog="245$a">David Olson
+						  (invitations)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1990-1995</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/12</container> 
+						<unittitle encodinganalog="245$a">David Olson
+						  (pictures)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/13</container> 
+						<unittitle encodinganalog="245$a">Harry Bridges Chair in
+						  Labor Studies</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/14</container> 
+						<unittitle encodinganalog="245$a">Letters on David Olson
+						  Appointment to Bridges Chair</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1993</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/15</container> 
+						<unittitle encodinganalog="245$a">David Olson: New Harry
+						  Bridges Chair</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1994-2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/16</container> 
+						<unittitle encodinganalog="245$a">David Olson: Achievements
+						  [Part I]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/17</container> 
+						<unittitle encodinganalog="245$a">David Olson: Achievements
+						  [Part II]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-2006</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 7</unitid> 
+					 <unittitle encodinganalog="245$a">Labor Studies
+						Scholarships</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/18</container> 
+						<unittitle encodinganalog="245$a">Labor Studies Scholarships
+						  [Gundlach Scholarship, Martin and Anne Jugum Scholarship, Building Bridges
+						  Newsletters]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1994-2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/19</container> 
+						<unittitle encodinganalog="245$a">Martin Jugum</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1995-2000</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 8</unitid> 
+					 <unittitle encodinganalog="245$a">Committees: Standing/Visiting
+						for Center for Labor Studies</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/20</container> 
+						<unittitle encodinganalog="245$a">Visiting Committee - Center
+						  for Labor Studies</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/21</container> 
+						<unittitle encodinganalog="245$a">Standing Committee - Center
+						  for Labor Studies</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 9</unitid> 
+					 <unittitle encodinganalog="245$a">Working Paper and Publication
+						of Bridges Center</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 2/22</container> 
+						<unittitle encodinganalog="245$a">Working Papers for Labor
+						  Studies [Faue, Elizabeth. 1993. "Outfoxing the frost" gender, community-based
+						  organization, and the contemporary American labor movement. Seattle, Wash:
+						  Center for Labor Studies, University of Washington.]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1993-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries D</unitid> 
+				  <unittitle encodinganalog="245$a">Political Science
+					 Career</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 1</unitid> 
+					 <unittitle encodinganalog="245$a">Teaching Assistant Issues:
+						Joel Allen Case and UW Teaching Assistants Strike</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/1</container> 
+						<unittitle encodinganalog="245$a">University of Washington TA
+						  Organizing and Strike</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/2</container> 
+						<unittitle encodinganalog="245$a">The Joel Allen Case,
+						  Indiana</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1969-1970</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 2</unitid> 
+					 <unittitle encodinganalog="245$a">Thank You Letters</unittitle>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/3</container> 
+						<unittitle encodinganalog="245$a">David Olson: Thank You
+						  Letters [Part I]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1978-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/4</container> 
+						<unittitle encodinganalog="245$a">David Olson: Thank You
+						  Letters [Part II]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1970-2001</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 3</unitid> 
+					 <unittitle encodinganalog="245$a">Involvement with Different
+						Universities: Reviews of Political Science Departments, Guest Lectures,
+						Sabbaticals, Position Offers</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/5</container> 
+						<unittitle encodinganalog="245$a">David Olson: Involvement
+						  with Different Universities</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1971-2010</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/6</container> 
+						<unittitle encodinganalog="245$a">Professorship Positions and
+						  Offers from Universities [Outside Offers]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1967-1987</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/7</container> 
+						<unittitle encodinganalog="245$a">Sabbatical Leave [Course
+						  Syllabi, Exams]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1972-2003</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 4</unitid> 
+					 <unittitle encodinganalog="245$a">Professorship at the
+						University of Washington</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/8</container> 
+						<unittitle encodinganalog="245$a">Faculty Legislative
+						  Representative</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1977-1979</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/9</container> 
+						<unittitle encodinganalog="245$a">David Olson Joins UW
+						  Faculty</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1973-1976</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/10</container> 
+						<unittitle encodinganalog="245$a">Graduate Program Revision
+						  Committee [Final Reports]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1978</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/11</container> 
+						<unittitle encodinganalog="245$a">Professor and Transcripts:
+						  Series of Interviews for Academic Year 1983-1984</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1983-1984</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/12</container> 
+						<unittitle encodinganalog="245$a">Political Science Courses
+						  [382 Course Syllabi and Guest Lecturers]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001-2006</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/13</container> 
+						<unittitle encodinganalog="245$a">Political Science
+						  Department in the 1960s [News Articles, In the 1960s the UW Political Science
+						  Department was deeply divided. This file, cultivated by Prof. Charles
+						  Cassinelli and presented to me, charts the wores of the department]</unittitle>
+						
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1963-2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/14</container> 
+						<unittitle encodinganalog="245$a">Nominations</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1973-1990</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 5</unitid> 
+					 <unittitle encodinganalog="245$a">Chair of the Political
+						Science Department</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/15</container> 
+						<unittitle encodinganalog="245$a">Donald R Matthews:
+						  Political Science Chair</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1984-2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/16</container> 
+						<unittitle encodinganalog="245$a">Leaving the Chairmanship
+						  [Department of Political Science at the University of Washington]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1987-1989</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 6</unitid> 
+					 <unittitle encodinganalog="245$a">Correspondence with Indiana
+						University</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/17</container> 
+						<unittitle encodinganalog="245$a">Correspondence, Indiana
+						  University (part 1 of 2)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1969-1976</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/18</container> 
+						<unittitle encodinganalog="245$a">Correspondence, Indiana
+						  University (part 2 of 2)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1969-1976</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 7 </unitid> 
+					 <unittitle encodinganalog="245$a">Consultations on Various
+						Projects</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/19</container> 
+						<unittitle encodinganalog="245$a">Puget Sound
+						  Pilots</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/20</container> 
+						<unittitle encodinganalog="245$a">Exchange with Edward C.
+						  Banfield</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1971</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/21</container> 
+						<unittitle encodinganalog="245$a">Expert Witness Deposition
+						  on Long Island Lighting Company</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1983</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/22</container> 
+						<unittitle encodinganalog="245$a">Boise State University
+						  Review</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1988-1990</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/23</container> 
+						<unittitle encodinganalog="245$a">Contract between David
+						  Olson and Little, Brown and Company (Inc). [Correspondence About Not Publishing
+						  " Banfield Authors" Collection of Essays Responding to The Unheavenly
+						  City]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1962-1974</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/24</container> 
+						<unittitle encodinganalog="245$a">Dissertation UW: The
+						  Political Response to Race Riots in Three American Cities</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1967-1968</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 3/25</container> 
+						<unittitle encodinganalog="245$a">Washington State
+						  Transportation Commission [David Olson Agrees to Provide Facilitation Services
+						  in Support of the WSTC Retreat]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2005-2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/1</container> 
+						<unittitle encodinganalog="245$a">Alaska Railroad Transfer
+						  from Federal to State Ownership and Operation [Olson as Expert
+						  Witness]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1982-1984</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/2</container> 
+						<unittitle encodinganalog="245$a">Alaska Railroad Transfer
+						  Advisory Commission Interim Report</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1983</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/3</container> 
+						<unittitle encodinganalog="245$a">Twentieth Century Race
+						  Riots Presentation [Assitant Professor at Indiana University]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1972-1974</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/4</container> 
+						<unittitle encodinganalog="245$a">Expert Witness Before the
+						  Atomic Safety and Licensing Board of the United States of America Nuclear
+						  Regulation Commission in the Matter of the Long Island Lighting Company's
+						  Soreham Nuclear Power Station</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1983-1984</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/5</container> 
+						<unittitle encodinganalog="245$a">Shoreham Nuclear
+						  Plant</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1983-1984</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/6</container> 
+						<unittitle encodinganalog="245$a">Business card
+						  file</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1936-1983</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/7</container> 
+						<unittitle encodinganalog="245$a">Proposed Emergency Planning
+						  Contentions Modified to Reflect Revision 3 of the LILCO Plan</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1984</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries E</unitid> 
+				  <unittitle encodinganalog="245$a">Labor Research and Community
+					 Outreach</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 1</unitid> 
+					 <unittitle encodinganalog="245$a">Labor
+						Bibliography</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/8</container> 
+						<unittitle encodinganalog="245$a">Labor
+						  Bibliography</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-1994</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 2</unitid> 
+					 <unittitle encodinganalog="245$a">Speeches: State Convention;
+						AFL/CIO, ILWU 29th International Convention, Bridges Bust Ceremony, SPEEA
+						Conference</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/9</container> 
+						<unittitle encodinganalog="245$a">Speeches on Labor and the
+						  International Longshore and Warehouse Union</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/10</container> 
+						<unittitle encodinganalog="245$a">Speeches on Labor and the
+						  International Longshore and Warehouse Union</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1998-2000</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 3</unitid> 
+					 <unittitle encodinganalog="245$a">Books About Labor</unittitle>
+					 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/11</container> 
+						<unittitle encodinganalog="245$a">Goldblatt, Louis, and Otto
+						  Hagel. 1963. Men and machines; a photo story of the mechanization and
+						  modernization agreement between the International Longshoremen's &amp;
+						  Warehousemen's Union and the Pacific Maritime Association now in operation in
+						  the ports of</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1963</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/12</container> 
+						<unittitle encodinganalog="245$a">Pierce County Labor
+						  Centennial Committee (Pierce County, Wash.). 1989. To live in dignity: Pierce
+						  County labor, 1883-1989. Tacoma, Wash: The Committee.</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1989</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/13</container> 
+						<unittitle encodinganalog="245$a">DeLeon, Richard Edward.
+						  1992. Left coast city: progressive politics in San Francisco, 1975-1991.
+						  Lawrence, Kan: University Press of Kansas.</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/14</container> 
+						<unittitle encodinganalog="245$a">Seattle. 1971. The Seattle
+						  general strike: an account of what happened in Seattle, and especially in the
+						  Seattle Labor Movement during the general strike, February 6 to 11, 1919.
+						  Seattle, Wash: Shorey Book Store.</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1971</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 4</unitid> 
+					 <unittitle encodinganalog="245$a">Research Notes on Seattle
+						Unions</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/15</container> 
+						<unittitle encodinganalog="245$a">[Seattle Union
+						  Notes]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1971-2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/16</container> 
+						<unittitle encodinganalog="245$a">Boeing Workers
+						  Strike</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1994-2004</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries F</unitid> 
+				  <unittitle encodinganalog="245$a">Research and Consultation on
+					 Port of Seattle and Seattle Waterfront Workers</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 1</unitid> 
+					 <unittitle encodinganalog="245$a">Port of Seattle History and
+						Studies</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/17</container> 
+						<unittitle encodinganalog="245$a">Port Study [with Professor
+						  Michael Denning of Indiana University]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1988-2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 4/18</container> 
+						<unittitle encodinganalog="245$a">Early History of the Port
+						  of Seattle [Struggle for Public Ownership by Padraic Burke]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1977</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/1</container> 
+						<unittitle encodinganalog="245$a">Port of Seattle: Properties
+						  of the Port: 1915,1916,1917</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1915-1917</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/2</container> 
+						<unittitle encodinganalog="245$a">Port of Seattle: Bell
+						  Street Terminal</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1915</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/3</container> 
+						<unittitle encodinganalog="245$a">Port of Seattle:
+						  Containerization of Waterborne Commerce [Reports and Research]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1965-1968</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/4</container> 
+						<unittitle encodinganalog="245$a">Port of Seattle History
+						  [Planning and Industrial Development]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1915-1968</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/5</container> 
+						<unittitle encodinganalog="245$a">Port of Seattle: Annual
+						  Report [1915, "Farmers Day"]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1915</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/6</container> 
+						<unittitle encodinganalog="245$a">Port of Seattle: Annual
+						  Report [1919]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1919</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/7</container> 
+						<unittitle encodinganalog="245$a">Microfilm Images [Union
+						  Images, etc.]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">c. 1930s</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 2</unitid> 
+					 <unittitle encodinganalog="245$a">Research on Waterfront
+						Strikes</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/8</container> 
+						<unittitle encodinganalog="245$a">The San Francisco Maritime
+						  and General Strikes of 1934: A Rank-and-File Movement for Social and Economic
+						  Independence [Essay by Anne Alexandra Mini]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1988</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/9</container> 
+						<unittitle encodinganalog="245$a">Labor History [American
+						  Labor, Seattle General Strike of 1919, The History of Mayday, A Brief History
+						  of U.S Asian Labor, Work on the Waterfront]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1992-2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/10</container> 
+						<unittitle encodinganalog="245$a">1921 Strike - Seattle Daily
+						  Union Record</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">c. 1921</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/11</container> 
+						<unittitle encodinganalog="245$a">1934 Strike -
+						  Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">c. 1934</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/12</container> 
+						<unittitle encodinganalog="245$a">1921 Strike:
+						  Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1921</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/13</container> 
+						<unittitle encodinganalog="245$a">1920-1929 [Port of Seattle
+						  Correspondence: Kitchen Cabinet]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">c. 1911-1995</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/14</container> 
+						<unittitle encodinganalog="245$a">1948 Strike - The
+						  Dispatcher</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1948</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/15</container> 
+						<unittitle encodinganalog="245$a">1971-1972 Strike - Port of
+						  Seattle Material, etc.</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1971-1973</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/16</container> 
+						<unittitle encodinganalog="245$a">1971-1972 Strike - The
+						  Dispatcher</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1971-1972</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/17</container> 
+						<unittitle encodinganalog="245$a">1971-1972 Strike - Merle
+						  Adlum Papers [Marine Terminals Department Activity Reports July 1971- January
+						  1972]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1971-1972</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/18</container> 
+						<unittitle encodinganalog="245$a">1971-1972 Strike - Merle
+						  Adlum Papers [Port Lines and Attached Material August 12, 1971 - February 22,
+						  1972]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1971-1972</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/19</container> 
+						<unittitle encodinganalog="245$a">1934 Stirke - Fadden
+						  Papers</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1934</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 3</unitid> 
+					 <unittitle encodinganalog="245$a">Port Papers and
+						Correspondence</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/20</container> 
+						<unittitle encodinganalog="245$a">Paine vs. Port of
+						  Seattle</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">c. 1911-1912</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/21</container> 
+						<unittitle encodinganalog="245$a">[Interdepartmental
+						  Correspondence: University of Washington]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1981</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/22</container> 
+						<unittitle encodinganalog="245$a">Kerr: The Progressives of
+						  Washington [Articles]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1910-1912</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/23</container> 
+						<unittitle encodinganalog="245$a">1950-1959</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1957</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/24</container> 
+						<unittitle encodinganalog="245$a">1970-1979 [Port of Seattle
+						  Plans and Elections]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1977</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/25</container> 
+						<unittitle encodinganalog="245$a">1960-1969 [Council
+						  Advocates Pamplet]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1980-1981</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 4</unitid> 
+					 <unittitle encodinganalog="245$a">Harbor Island Episode
+						Manuscript: Chittenden’s Personal Account</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/26</container> 
+						<unittitle encodinganalog="245$a">Chittenden, Hiram Martin.
+						  1915. The Harbor Island episode, a history.</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">c. 1915</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 5</unitid> 
+					 <unittitle encodinganalog="245$a">International Longshore and
+						Warehouse Union Contract Documents</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/27</container> 
+						<unittitle encodinganalog="245$a">Pacific Coast Longshore
+						  Contract Document [Contains Personal Inscription]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1990-1993</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/28</container> 
+						<unittitle encodinganalog="245$a">Pacific Coast Longshore
+						  Contract Document [Contains Personal Inscription]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1993-1996</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 6</unitid> 
+					 <unittitle encodinganalog="245$a">International Longshore and
+						Warehouse Union</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/29</container> 
+						<unittitle encodinganalog="245$a">Maximum Loads for Standard
+						  Commodities; International Longshoremen's and Warehousemen's Union</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1937-1941</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/30</container> 
+						<unittitle encodinganalog="245$a">Revival: The Longshore
+						  Strike and the Rise of Industrial Unionism</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1934</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/31</container> 
+						<unittitle encodinganalog="245$a">International Longshore and
+						  Warehouse Union</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2002-2003</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/32</container> 
+						<unittitle encodinganalog="245$a">International Longshore and
+						  Warehouse Union: Affiliations/Disaffiliation [Research: Solidarity and
+						  Democracy]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1937-2004</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/33</container> 
+						<unittitle encodinganalog="245$a">International Longshore and
+						  Warehouse Union: Fight for Hiring Hall [Copies of newspapers]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1948-1950</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/34</container> 
+						<unittitle encodinganalog="245$a">International Longshore and
+						  Warehouse Union [Union Busting, Los Angeles Daily News, Application
+						  Affliations, Solidarity and Democracy by Nowell Bamberger]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1937-1992</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/35</container> 
+						<unittitle encodinganalog="245$a">International Longshore and
+						  Warehouse Union [Affliations with AFL- CIO, WFTU]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2003-2004</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 5/36</container> 
+						<unittitle encodinganalog="245$a">Dave Beck</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1993-2004</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <unitid>Subseries G</unitid> 
+				  <unittitle encodinganalog="245$a">Research and Consultation on
+					 Blanket Primaries</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 1</unitid> 
+					 <unittitle encodinganalog="245$a">Washington Open
+						Primary</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/1</container> 
+						<unittitle encodinganalog="245$a">Washington Open
+						  Primary</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/2</container> 
+						<unittitle encodinganalog="245$a">Washington Open Primary
+						  [Email, Press Clippings on Washington Blanket Primary/Open Primary Presentation
+						  to Council of State Governments]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2000-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 2</unitid> 
+					 <unittitle encodinganalog="245$a">Washington State Democratic
+						Party vs. Sam Reed</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/3</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Olson as Consultant in Blanket Primary Case]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1990-2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/4</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Olson as Consultant in Blanket Primary Case]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/5</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Olson as Consultant in Blanket Primary Case:
+						  Deposition</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/6</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Olson as Consultant in Blanket Primary Case: Deposition,
+						  Newspaper Clippings, Payment]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001-2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/7</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Olson Declaration and Defense Responses]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/8</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Support/Opposition for Summary Judgement]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/9</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Support/Opposition for Summary Judgement]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/10</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Report on the Consequences of Blanket Primary, Olson
+						  Statement]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/11</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Deposition Examinations and Rules for Precinct
+						  Caucuses]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2000-2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/12</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Additional Court Documents, Correspondence with Jeff Evans
+						  (ADA), Olson's Curriculum Vitae</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/13</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Expert Witness Disclosures, California State Open Primary
+						  Court Document, Mark A Smith (Assitant Professor) Paper]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1999-2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/14</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Expert Witness Testimonies, Rules for Precinct Caucuses
+						  (1996,1998,2000), Proposed Bylaws Changes]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1996-2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/15</container> 
+						<unittitle encodinganalog="245$a">Washington State Democratic
+						  Party vs. Sam Reed [Rublican Committe of Washington, Intervenors' Responses,
+						  Comparison of Political Party Performance, Jordan Triplett Paper</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2001</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 3</unitid> 
+					 <unittitle encodinganalog="245$a">Voting at the Political Party
+						Fault Line Manuscript</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/16</container> 
+						<unittitle encodinganalog="245$a">Voting at the Political
+						  Party Fault Line [Sprial Bound Manuscript by Bruce E. Cain, Elisabeth R.
+						  Gerber]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2002</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 4</unitid> 
+					 <unittitle encodinganalog="245$a">California and Washington
+						State Primary</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/17</container> 
+						<unittitle encodinganalog="245$a">California Blanket Primary
+						  and Washington Blanket Primary</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1999-2008</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/18</container> 
+						<unittitle encodinganalog="245$a">California Blanket Primary
+						  and Washington Blanket Primary [Newspaper Clippings and Grange
+						  Information]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">2000-2001</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 5</unitid> 
+					 <unittitle encodinganalog="245$a">California Blanket
+						Primary</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/19</container> 
+						<unittitle encodinganalog="245$a">California Blanket Primary
+						  [Olson as Expert Witness Statement, California State Democratic Party vs. Bill
+						  Jones]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1997-1998</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 6/20</container> 
+						<unittitle encodinganalog="245$a">California Blanket Primary
+						  [Olson as Expert Witness, California Democratic Party vs. Bill Jones (Trial
+						  Documents), Olson Curriculum Vitae, University Reporters]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1996-1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 7/1</container> 
+						<unittitle encodinganalog="245$a">California Blanket Primary
+						  [Olson as Expert Witness: Correspondence with Kyungah Suk, Trial Brief, Federal
+						  Reporter, Newspaper Articles]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 7/2</container> 
+						<unittitle encodinganalog="245$a">California Blanket Primary
+						  [Olson as Expert Witness: Correspondence with Kyungah Suk, Newspaper
+						  Articles]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1997-1998</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 7/3</container> 
+						<unittitle encodinganalog="245$a">California Blanket Primary
+						  [Olson as Expert Witness: Revised Statements, Payment Agreements, Defendants'
+						  Jonit Trial Brief (Post Trial Brief),</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1997-1998</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 7/4</container> 
+						<unittitle encodinganalog="245$a">California Blanket Primary
+						  [Olson as Expert Witness: Correspondence with Kyungah Suk, Newspaper Clippings,
+						  California Democratic Party vs. Bill Jones Trial Transcript, Defendants' Joint
+						  Reply Brief]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1997</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <unitid>Part 6</unitid> 
+					 <unittitle encodinganalog="245$a">California Democratic Party
+						vs. Bill Jones</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"> 7/5</container> 
+						<unittitle encodinganalog="245$a">California Democratic Party
+						  vs. Bill Jones [Deposition of David Olson]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">1997</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5672-002</unitid> 
+			 <unittitle>David Olson papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1937-2006</unitdate> 
+			 <unitdate era="ce" calendar="gregorian">1994-2006</unitdate> 
+			 <physdesc> <extent>2.57 cubic feet</extent>
+				<extent>3 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Research materials and publications on Olson's research
+				specialties of labor unions and port studies, particularly the International
+				Longshoremen's Association and its West Coast successor, the International
+				Longshore and Warehouse Union. </p> 
+		  </scopecontent> <phystech> 
+		  <p/> </phystech> 
+		  <accessrestrict> 
+			 <p>No restrictions on access. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's copyrights transferred to the University of Washington
+				Libraries Special Collections. </p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Donated by Sandra Olson </p> 
+		  </acqinfo> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>"Dockers versus the Directive--The War on Europe's
+				  Waterfront"--Peter Turnball, Cadiff University</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 2006</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>Leadership Education and Development
+				  Institute</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 2005-2005</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>"International Longshore and Warehouse Union's Refusal
+				  to Comply with Temporary Restraining Order and Preliminary Injunction in West
+				  Coast Ports--United States of America v. Pacific Maritime Association and
+				  International Longshore and Warehouse Union"</unittitle> 
+				<unitdate type="inclusive" normal="2002" era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle>Research and Presentation Materials: Labor Law and
+				  Development Prepared by Rob Remar, International Longshore and Warehouse Union
+				  Longshore Division and Contract, and Cargo-Handling Terms</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>Assorted Correspondence, Research Procedures, and Notes:
+				  "Union Democracy Reexamined"--Margaret Levi, David Olson, Jon Agnone, and Devin
+				  Kelly</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 2005-2006</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>Writing and Correspondence: "Union Democracy
+				  Reexamined"--Margaret Levi, David Olson, Jon Agnone, and Devin
+				  Kelly</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 2006-2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle>International Longshore and Warehouse Union and Pacific
+				  Maritime Association Related Subject Materials: Draft of "Showdown on the
+				  Waterfront: The 2002 West Coast Port Dispute"--Kathleen McGuinn and Dina
+				  Witter</unittitle> 
+				<unitdate type="inclusive" normal="2004" era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle>Notes, Research, Correspondence, Consulting,
+				  Presentation Materials, and International Longshore and Warehouse Union
+				  Research Including: International Longshore and Warehouse Union and Pacific
+				  Maritime Association Lockout, "Mayor James K. Hahn and Mayor B</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 2002-2006</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9</container> 
+				<unittitle>"International Longshore and Warehouse Union Education
+				  Seminar History and Traditions of the Longshore Division--Palm Springs,
+				  California"</unittitle> 
+				<unitdate type="inclusive" normal="2004" era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle>Budget, Research, Procedures, Planning, and
+				  Correspondence for "Union Democracy Reexamined"</unittitle> 
+				<unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle>"Some Comments by Sam Kagel on the History of the
+				  International Longshore and Warehouse Union and Pacific Maritime Agreements
+				  1932-1972"--Sam Kagel</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle>"Erosion of Trade Union Freedom Under the Law
+				  Undelivered Remarks (c. 1988) by Jimmy Herman, International Longshore and
+				  Warehouse Union International President, 1971-1991, Edited by Rob Remar,
+				  International Longshore and Warehouse Union Counsel"</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/13</container> 
+				<unittitle>Notes with Photocopies of The Dispatcher</unittitle> 
+				<unitdate type="inclusive" normal="1947/1961" era="ce" calendar="gregorian">1947-1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle>Research Materials: International Longshoremen's
+				  Association Pacific Coast District Balloting Results, International
+				  Longshoremen's and Warehousemen's Union Referendum Ballots and Election
+				  Returns, The Dispatcher Locals Voting and Results</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1937-1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle>Research Materials: The Dispatcher Printed with "How
+				  Locals Voted on Officers, Executive Board, and Coast Committee"</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle>Research Materials: History of Registration and
+				  Membership of the International Longshore and Warehouse Union, and the "Pacific
+				  Maritime ASsociation 1998 Annual Report"</unittitle> 
+				<unitdate type="inclusive" normal="1937/1998" era="ce" calendar="gregorian">1937-1998</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unittitle>Email Correspondence Between Margaret Levi, David Olson,
+				  and Gene Vrana: "Longshore Traditions Conference" and Related
+				  Materials</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 2001-2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle>"Inducing Preferences Within Organizations: The Case of
+				  Unions"--Margaret Levi, with Notes by David Olson</unittitle> 
+				<unitdate type="inclusive" normal="2003" era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/19</container> 
+				<unittitle>International Longshore and Warehouse Union: "1994
+				  International and Coast Committee Referendum Elections", "Report of the
+				  International Balloting Committee"--1997, "History of Shoreside Registration -
+				  By Occupation by International Longshore and Wareho</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1945;
+				  approximately 1994-1997</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/20</container> 
+				<unittitle>Research Materials: International Longshore and
+				  Warehouse Union Election Dataset Codebook"--Heather A. Larsen, "Average
+				  Membership Pacific Coast Longshore and Ship Clerks Locals, ILWU 1946-1949",
+				  "The Party Circuit"--Arther Schlesinger Jr., Emails, and N</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1946-1949;
+				  1995-2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/21</container> 
+				<unittitle>"From Wharf Rats to Lords of the Dock" Pamphlet, Harry
+				  Bridges Institute News, and "How the Union Works"--The Dispatcher</unittitle> 
+				<unitdate type="inclusive" normal="1994/2005" era="ce" calendar="gregorian">1994-2005</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1</container> 
+				<unittitle>Letters: Search Committee for Executive Directors of
+				  Washington Public Ports Association</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1992
+				  September 30-October 13</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/2</container> 
+				<unittitle>Pat Parrish Lee Speech, 7th Draft: "Managing Alaska
+				  Ports and Terminals Presented to Operations and Finance Panel at Maritime
+				  Alaska '81 Conference, September 22, 1981"</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Approximately 1981 September</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/3</container> 
+				<unittitle>Letters of thanks from Pat Davis, Port Commissioner, to
+				  David Olson for campaign contributions</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1997
+				  August 18</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/4</container> 
+				<unittitle>Comparative Analysis of West Coast Ports, Michael
+				  Denning, David Olson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1988
+				  November</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/5</container> 
+				<unittitle>An Assessment of Strategic Issues, Commission Session,
+				  Michael Denning and David Olson (Port of Seattle)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1995
+				  October 3</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/6</container> 
+				<unittitle>ODYSSEY, The Maritime Discovery Center. Pamphlet,
+				  letters concerning David Olson's joining Odyssey Board of Directors, Nominating
+				  Committee Report, David Olson's resignation from the Board.</unittitle> 
+				<unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/7</container> 
+				<unittitle>Letter from Patricia Davis, Commissioner of Port of
+				  Seattle, to David, included photograph</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1988
+				  October 16</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/8</container> 
+				<unittitle>Correspondence with Port of Seattle from David Olson's
+				  files</unittitle> 
+				<unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/9</container> 
+				<unittitle>Letters from David Olson to Port of Seattle regarding
+				  publication of "Comparative Analysis of West Coast Ports"</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1988
+				  October 26-November 16</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/10</container> 
+				<unittitle>Contract with Port of Seattle (letters, memos, June 1982
+				  issue of Import</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979 July
+				  24-1987 August 25</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/11</container> 
+				<unittitle>Correspondence with the University of
+				  Washington</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979
+				  January 24-1980 April 18</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/12</container> 
+				<unittitle>Port In a Storm, An Historical Review of the Founding of
+				  the Port of Seattle" Includes a separate 2 page forward by Richard D. Ford.
+				  published 2010, March 29</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981
+				  September 5; 2010 March 29</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/13</container> 
+				<unittitle>Executive Director Richard Ford's Retirement from Port
+				  of Seattle and Appointment as Faculty at University of Washington</unittitle> 
+				<unitdate type="inclusive" normal="1983/1985" era="ce" calendar="gregorian">1983-1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle>David Olson Papers: "Governance of US Public Ports: A
+				  Preliminary Survey of Key Issues", Executive Officer Appraisal Systems","Public
+				  Port Accountability"</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Approximately 1990-1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/15</container> 
+				<unittitle>David Olson's Correspondence. Includes emails, press
+				  releases from the Port of Seattle, letter from Tay Yoshitani, publicity items
+				  describing 1007 Port performance, preparation for panel discussion (Comparative
+				  Analysis of Seattle and Los Angeles) in Los </unittitle> 
+				<unitdate type="inclusive" normal="2006/2008" era="ce" calendar="gregorian">2006-2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/16</container> 
+				<unittitle>Union Democracy Reexamined, Margaret Levi, David Olson
+				  and their Team. Harry Bridges Center for Labor Studies. University of
+				  Washington, Seattle</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2004
+				  September 27</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/17</container> 
+				<unittitle>Quote (David Olson): Single copied page titled "Labor"
+				  about ILWU members. "They see themselves as lords of the docks." Book not
+				  named, no page number</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Approximately 1985-2005</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/18</container> 
+				<unittitle>Letters among David Olson, Margaret Levi, Joe Wenzl,
+				  Gene Vrana. (Includes handwritten note about 1/15/03 phone
+				  conversation)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2003
+				  January 15-2004 January 4</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/19</container> 
+				<unittitle>Letters in preparation for the International Longshore
+				  and Warehouse Union Conference Education Seminar on the History and Traditions
+				  of the ILWU Longshore Division, beginning January 15, 2004.</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2003
+				  November 26 - December 5</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/20</container> 
+				<unittitle>"Instructors outline" ILWU Leadership Education and
+				  Development Institute: Tools and Traditions of Democracy. Palm Springs,
+				  California</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2005
+				  September 19-23</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/21</container> 
+				<unittitle>Letter exchange: Peter Saltzman and David Olson, after
+				  tentative settlement: United States v. Pacific Maritime Association et al (and
+				  one short, handwritten note itemizing legal charges)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2002
+				  November 12-December 10</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/22</container> 
+				<unittitle>David Olson's Sabbatical Leave Application.to the
+				  University of Washington to serve as Visiting Scholar at the University of
+				  California, Berkeley in 1995 - 1996</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1994
+				  October 25</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/23</container> 
+				<unittitle>Lecture notes, printed and handwritten, email arranging
+				  attendance, ILWU printed materials (All found clipped together in David Olson's
+				  files)</unittitle> 
+				<unitdate type="inclusive" normal="2008" era="ce" calendar="gregorian">2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/24</container> 
+				<unittitle>The 2002 ILWU Contract: Evolving Industrial Relations
+				  Among West Coast USA Longshore Workers. David J. Olson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2006
+				  May</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/25</container> 
+				<unittitle>"Administration should keep clear of dock fight." by
+				  David J. Olson, Special to The Times</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Approximately 2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/26</container> 
+				<unittitle>Letter from University of Washington Harry Bridges
+				  Center for Labor Studies offering David P. Olson a research grant.</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2002
+				  August 28</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/27</container> 
+				<unittitle>Journal of Commerce article : Why locals rejected ILWU
+				  contract" by Bill Mongelluzzo</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1996
+				  August 23</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/28</container> 
+				<unittitle>Purposes and Objectives (Port of Seattle): Printed
+				  information, pamphlets, letters Including letter of agreement to Professor
+				  Olson to hire him as research consultant, certificate of
+				  appreciation.</unittitle> 
+				<unitdate type="inclusive" normal="1980" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/29</container> 
+				<unittitle>University of Alaska: Correspondence regarding "Maritime
+				  Alaska '81, Maritime Commerce and Port Development Conference" in
+				  Anchorage</unittitle> 
+				<unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/30</container> 
+				<unittitle>Port Governance Roundtable Agenda</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1992
+				  November 10</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/31</container> 
+				<unittitle>League of Women Voters of the San Juans. Announcement of
+				  David Olson's presentation, and news release</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1993
+				  September 11</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/32</container> 
+				<unittitle>U.S. Public Enterprise: Accountability and Efficiency,
+				  David J. Olson. Table of contents</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1992-1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/33</container> 
+				<unittitle>Letter from David J. Olson to Paige Miller of the Port
+				  of Seattle Commission, regarding the appraisal system for the Executive Officer
+				  of the Port of Seattle</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1992 March
+				  16</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/34</container> 
+				<unittitle>David Olson's letter to Mic R. Dinsmore, recommending
+				  that the Port of Seattle recognize Richard D. Ford's career and
+				  contributions</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2005 March
+				  28</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/35</container> 
+				<unittitle>International Longshore and Warehouse Union letter of
+				  thanks from Gene Vrana to David J. Olson. (Mentions the video WE ARE THE ILWU,
+				  and David Olson's recent cancer diagnosis)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1997
+				  November 20</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/36</container> 
+				<unittitle>Letter from David J. Olson to James D. Dwyer of
+				  Washington Dental Service regarding retainer for consulting
+				  services</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2003
+				  October 30``</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/37</container> 
+				<unittitle>ILWU Leadership Education and Development Institute.
+				  Outline for presentations at Palm Springs, California scheduled for September
+				  19 through 23, 2005</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2005
+				  September</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/38</container> 
+				<unittitle>The Processing of Racial Crisis in America. Michael
+				  Lipsky and David J. Olson, Politics and Society 6, pages 79-103</unittitle> 
+				<unitdate type="inclusive" normal="1976" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/39</container> 
+				<unittitle>CITIZEN GRIEVANCE LETTERS AS A GUBERNATORIAL CONTROL
+				  DEVICE IN WISCONSIN. David J. Olson, Indiana University, Journal of Politics,
+				  Volume 31</unittitle> 
+				<unitdate type="inclusive" normal="1969" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/40</container> 
+				<unittitle>INTRODUCING PREFERENCES WITHIN ORGANIZATIONS: THE CASE
+				  OF UNIONS. Margaret Levi, Professor of International Studies, University of
+				  Washington. Working Paper number 16</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2003
+				  February</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/41</container> 
+				<unittitle>Ghetto Revolts. Edited by Peter H. Rossi. Published by
+				  Aldine Publishing Company. Copyright 1970</unittitle> 
+				<unitdate type="inclusive" normal="1970" era="ce" calendar="gregorian">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/42</container> 
+				<unittitle>Discourse...A Review of the Liberal Arts, Winter 1970.
+				  Volume XIII, No. 1 (article by David J. Olson on pages 20 - 27: Changing
+				  Political Processes, Channels, Structures and the System.)</unittitle> 
+				<unitdate type="inclusive" normal="1970" era="ce" calendar="gregorian">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/43</container> 
+				<unittitle>RIOT COMMISSION POLITICS, Institute for research on
+				  POVERTY. Michael Lipsky and David J. Olson. The University of Wisconsin, Volume
+				  6, No. 9, July - August, 1969</unittitle> 
+				<unitdate type="inclusive" normal="1969" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/44</container> 
+				<unittitle>WORKING USA, The Journal of Labor and Society, Winter
+				  2002 - 3 (Article: Living Wage Campaigns and Laws, by Margaret Levi, David J.
+				  Olson, and Erich Steinmen, pages 111 - 132)</unittitle> 
+				<unitdate type="inclusive" normal="2002/2003" era="ce" calendar="gregorian">2002-2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/45</container> 
+				<unittitle>Indiana University Founder Day Ceremonial (booklet with
+				  pamphlets, news articles, color photographs, letter from David Sandee Maia
+				  found tucked into its pages)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973 April
+				  18</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/46</container> 
+				<unittitle>INSTITUTE FOR RESEARCH ON POVERTY. On the Politics of
+				  Riot Commissions, Michael Lipsky and David J. Olson. DISCUSSION PAPERS, the
+				  University of Wisconsin. Prepared for presentation at the Meeting of the
+				  American Political Science Association, September 3 </unittitle> 
+				<unitdate type="inclusive" normal="1968" era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/47</container> 
+				<unittitle>DID BANFIELD RUN RIOT IN WRITING "RIOTING MAINLY FOR FUN
+				  AND PROFIT"? David J. Olson, Indiana University (revised version of paper
+				  delivered in 1971)</unittitle> 
+				<unitdate type="inclusive" normal="1971" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/48</container> 
+				<unittitle>Transaction, Social Science and Modern Society,
+				  July/August, 1969. Article by Michael Lipsky and David J. Olson: RIOT
+				  COMMISSION POLITICS found on pages 9 - 21</unittitle> 
+				<unitdate type="inclusive" normal="1969" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/49</container> 
+				<unittitle>Scrapbook Loose Items: Personal Letters and
+				  Messages</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1959-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/50</container> 
+				<unittitle>Scrapbook Loose Items: Newspaper Articles Featuring
+				  David Olson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1951-1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/51</container> 
+				<unittitle>Scrapbook Loose Items: 3 Washington Apples advertising
+				  posters. Yakima and Tieton, Washington</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1959-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/52</container> 
+				<unittitle>Scrapbook Loose Items: Photographs of David Olson as a
+				  Child and Teen</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1951-1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/53</container> 
+				<unittitle>Scrapbook Loose Items: Photographs of David Olson and
+				  Classmates at Concordia</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1962-1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/54</container> 
+				<unittitle>Scrapbook Loose Items: The Black Family Reunion at
+				  Juanita Lake, North Dakota- Program and Historic Family Photo Print
+				  Outs.</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2009 July
+				  18-19</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/55</container> 
+				<unittitle>Scrapbook Loose Items: West Fargo High School Class of
+				  1959, 25th Reunion Booklet</unittitle> 
+				<unitdate type="inclusive" normal="1984" era="ce" calendar="gregorian">1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/56</container> 
+				<unittitle>Scrapbook Loose Items: West Fargo High School Class of
+				  1959 20th and 25th Reunion Group Photographs</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979,
+				  1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/57</container> 
+				<unittitle>Indiana University Faculty Newsletter, Vol. XXI, No. 9
+				  Featuring Article on David Olson and Distinguished Teaching Award</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973 May
+				  11</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/1</container> 
+				<unittitle>Scrapbook of David Olson's Years at Concordia College,
+				  Moorhead Minnesota: Newsclippings and Memorabilia</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1961-1963</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

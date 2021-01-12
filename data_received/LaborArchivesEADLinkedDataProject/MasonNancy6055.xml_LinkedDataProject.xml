@@ -1,0 +1,2681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MasonNancy6055.xml" encodinganalog="identifier" identifier="80444/xv283935">MasonNancy6055.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Nancy Mason
+			 Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Mason (Nancy)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Elizabeth
+			 Heu</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20180119">© 2018</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6055</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6055-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100">Mason,
+			 Nancy</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Nancy Mason
+		  papers</unittitle> 
+		<unitdate type="inclusive" normal="1941/2014" certainty="approximate" era="ce" calendar="gregorian">circa 1941-2014</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc><extent>8.29 cubic feet</extent>
+		  <extent>10 boxes including 12 VHS tapes, and 1 oversize folder</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Materials
+		  related to Nancy Mason's work as a longtime tradeswoman activist</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Nancy Mason began her working life as an English and history teacher
+		  at Franklin High School in Seattle. In 1979, she made a career change by
+		  entering the four-year inside wireman electrical apprenticeship program. In
+		  addition to working as a journeyman electrician, Nancy has also served as the
+		  Training Director at the Puget Sound Electrical Apprenticeship, as the
+		  Apprenticeship Program Manager for the Washington State Department of Labor and
+		  Industries, as a labor trustee at the Puget Sound Electrical Joint
+		  Apprenticeship Training Committee and as a business representative at IBEW,
+		  Local 46. Mason has also been a longtime tradeswoman activist throughout her
+		  career, advocating for the importance of apprenticeship for people of color and
+		  women to get into the trades and on the importance of apprenticeship as a
+		  highly skilled career path; "the other four year degree".</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Programs, memorandums, studies, reports,correspondence, materials from
+		  the Washington State Department of Labor and Industries, Puget Sound Electrical
+		  Joint Apprenticeship and Training Committee, and International Brotherhood of
+		  Electrical Workers (IBEW). </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>Closed until processed</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections.</p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p/> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal><!--Terms assigned by cataloger:-->
+	 <controlaccess>
+		<persname role="subject" encodinganalog="600" altrender="sync">Mason,
+		  Nancy$c(Labor union member)$vArchives</persname> 
+		<corpname role="host institution" encodinganalog="710" altrender="sync">Labor Archives of Washington (University of
+		  Washington)</corpname> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor$zWashington
+		  (State)$zSeattle</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  movement$zWashington (State)$zSeattle</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  unions$zWashington (State)$zSeattle</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Women labor union
+		  members$zWashington (State)$zSeattle</subject> 
+		<genreform encodinganalog="655" source="lcgft">Personal
+		  correspondence</genreform> 
+		<genreform encodinganalog="655" source="lcgft">Records
+		  (Documents)</genreform>
+	 </controlaccess><!--Terms assigned locally:-->
+	 <controlaccess id="a12"> 
+		<corpname encodinganalog="710">Labor Archives of Washington (University
+		  of Washington) </corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Women</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/1</container> 
+			 <unittitle>Booklet on Studies in Industry and Employment:
+				Apprenticeship</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 1998</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/2</container> 
+			 <unittitle>NOW Legal Defense and Education Fund Meeting: Report,
+				Correspondence and Short Biographies</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 5, 2001 - November 29, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/3</container> 
+			 <unittitle>Washington Apprenticeship Workshop and Presentation
+				Printouts</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 28, 2001 - October 10, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/4</container> 
+			 <unittitle>Nancy Mason's Resignation Correspondence</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 8, 2006 - May 24, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/5</container> 
+			 <unittitle>Washington State Apprenticeship and Training Council
+				Quarterly Meeting: Wage Laws</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 18, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/6</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Guides</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1990 - 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/7</container> 
+			 <unittitle>AFL-CIO Mobilization Guide</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/8</container> 
+			 <unittitle>Washington Department of Labor and Industries: Prevailing
+				Wage Laws Booklet</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/9</container> 
+			 <unittitle>Apprenticeship Coordinators and Debrief
+				Meetings</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 16, 2001 - October 30, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/10</container> 
+			 <unittitle>Apprenticeship Reciprocal Agreement: Washington, Oregon,
+				and Idaho</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 11, 1997 - September 29, 1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/11</container> 
+			 <unittitle>Apprenticeship RCWs, WACs, and Presentation
+				Printouts</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 22, 2001 - November 1, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/12</container> 
+			 <unittitle>Review on Washington's Apprenticeship Policies</unittitle>
+			 
+			 <unitdate era="ce" calendar="gregorian">March 22, 1999 - September 8, 1999</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/13</container> 
+			 <unittitle>Apprenticeship Projections and Correspondence between
+				Directors</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 2, 2001 - October 17, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/14</container> 
+			 <unittitle>Sample Labor and Industries Claims Forms</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 19, 1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/15</container> 
+			 <unittitle>Governor's Industrial Safety and Health
+				Conference</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 26, 2001 - September 27, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/16</container> 
+			 <unittitle>Manager Development and Performance Plan</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 2004 - March 10, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/17</container> 
+			 <unittitle>Guidelines on Media Presence</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/18</container> 
+			 <unittitle>Apprenticeship Program Manager Position
+				Description</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 2, 1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/19</container> 
+			 <unittitle>Labor and Industries Email Correspondence</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 12, 2005 - September 16, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/20</container> 
+			 <unittitle>Letter from Congressman Adam Smith</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 14, 2005 - September 15, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/21</container> 
+			 <unittitle>Nancy Mason's Calendar of Events</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 2009 - December 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/22</container> 
+			 <unittitle>Labor and Industries Award </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/23</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Diversity Training </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 22, 2009 - 2012</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/24</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Training and Retirement Certificates</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 6, 1997 - January 2014</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/25</container> 
+			 <unittitle>Bureau of Fire Investigation Interview Sheets from Susan
+				Eisenberg</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 16, 2010 - February 18, 2010</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/26</container> 
+			 <unittitle>Cover Letter and Job Description for Wider Opportunities
+				for Women</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 19, 2010</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/27</container> 
+			 <unittitle>Susan Eisenberg's Interview with Nancy Mason</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/28</container> 
+			 <unittitle>American Society for Training and Development
+				Toolkit</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/29</container> 
+			 <unittitle>TRAINING Magazine's Compilation Book on Adult
+				Learning</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/30</container> 
+			 <unittitle>Electrical Apprenticeship Graduation Banquet
+				Programs</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 12, 1983 - October 29, 1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/31</container> 
+			 <unittitle>Letter of Appreciation from Lloyd Hara</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/32</container> 
+			 <unittitle>Photos of International Brotherhood of Electrical Workers
+				(IBEW) Workers Picketing</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/33</container> 
+			 <unittitle>Steve Washburn's Letter of Recommendation for Nancy Mason
+				as Apprenticeship Program Manager</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 22, 1996 - June 12, 1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/34</container> 
+			 <unittitle>Financial Guide for Apprenticeship Programs</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/35</container> 
+			 <unittitle>International Foundation of Employee Benefit Plans
+				Conference Certificates</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 7, 2006 - October 11, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/36</container> 
+			 <unittitle>World of Work Inventory Career Profile Report</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 14, 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/37</container> 
+			 <unittitle>Vanna Novak's Guide for Women in Business</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/38</container> 
+			 <unittitle>Girl Scout Leader Magazine</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/39</container> 
+			 <unittitle>Oregon Tradeswomen Leadership Institute</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 30, 2007 - June 13, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/40</container> 
+			 <unittitle>Health Support Specialist Registered Apprenticeship
+				Program Handbook</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">February 17, 2005 - June 21, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/41</container> 
+			 <unittitle>Washington's Strategic Plan for Workforce
+				Development</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2006 - January 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/42</container> 
+			 <unittitle>National Association of Workforce Development
+				Professionals (NAWDP) Certified Workforce Development Professional Application
+				Package</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">February 9, 2006 - January 31, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/43</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				75th Anniversary Banquet Program and History Booklet</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 14, 1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/44</container> 
+			 <unittitle>Frank Oleson's Evaluation of Nancy Mason for
+				Apprenticeship Director Selection</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 19, 1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/45</container> 
+			 <unittitle>National Alliance of State and Territorial Aids Directors
+				(NASTAD) 55th Annual Apprenticeship Conference</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 10, 2005 - August 11, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/46</container> 
+			 <unittitle>Cascade Center for Public Service: Executive Refresher
+				Program Binder</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 14, 2003 - October 31, 2003</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/47</container> 
+			 <unittitle>Cascade Center for Public Service: Management Series Class
+				on Communication</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 5, 2004 - May 7, 2004</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/48</container> 
+			 <unittitle>Strategic Leadership Training Binder (1 of 2)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 10, 2001 - June 7, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/49</container> 
+			 <unittitle>Strategic Leadership Training Binder (2 of 2)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 10, 2001 - June 7, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/50</container> 
+			 <unittitle>Puget Sound Solar Project </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 29, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/51</container> 
+			 <unittitle>Time and Activity Logs for LM-2 Annual Reports</unittitle>
+			 
+			 <unitdate era="ce" calendar="gregorian">January 2006 - December 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/52</container> 
+			 <unittitle>Sound Transit Diversity Oversight Committee </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 29, 2004 - April 18, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/53</container> 
+			 <unittitle>IBEW Letter on Wages and Benefits</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 29, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/1</container> 
+			 <unittitle>IBEW Apprentice Meeting Notes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 11, 2007 - January 10, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/2</container> 
+			 <unittitle>Letter of Appointment to the Safety and Health Investment
+				Projects Program Advisory Committee from Labor and Industries</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 11, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/3</container> 
+			 <unittitle>Apollo Alliance of Washington: Alternative
+				Energy</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 2004 - July 6, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/4</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Internal Policies and Sexual Harassment Printouts</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 28, 2003 - May 14, 2003</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/5</container> 
+			 <unittitle>Letter from International Brotherhood of Electrical
+				Workers (IBEW) to Senator Prentice</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">C. 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/6</container> 
+			 <unittitle>Apprenticeship Utilization Goals and Requirements
+				Study</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2005 - December 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/7</container> 
+			 <unittitle>Registered Apprenticeship Programs Study Report by the
+				U.S. Government Accountability Office</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/8</container> 
+			 <unittitle>Helmets to Hardhats: Washington Building and Construction
+				Trades Initiative</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/9</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Hours Worked</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996 - December 13, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/10</container> 
+			 <unittitle>Labor and Industries 2006 Compliance Review and Program
+				Application</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 8, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/11</container> 
+			 <unittitle>Labor and Industries Prevailing Wage Laws</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">February 11, 1985</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/12</container> 
+			 <unittitle>Federal Committee on Apprenticeship: Policy
+				Recommendation</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 8, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/13</container> 
+			 <unittitle>Washington State Building and Construction Trades Council
+				Apprenticeship Program Report</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">February 15, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/14</container> 
+			 <unittitle>Washington State Tax Rate Information for
+				Employers</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 3, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/15-2/16</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Standards </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 23, 1941 - July 21, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/17</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Minutes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 8, 2006 - June 12, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/18</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Correspondence</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 22, 2005 - July 10, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/19</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Expense Log for Reimbursement</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 6, 2006 - October 11, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/20</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Trust Fund Agreement</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 24, 2000 - November 6, 2000</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/21</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Outreach Materials</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 24, 2004 - 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/22</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Miscellaneous</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 3, 2003 - August 30, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/23</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Grievance Summary and Forms</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 1992 - June 11, 2003</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/24</container> 
+			 <unittitle>Article on Retrospective Rating program</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 8, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/25</container> 
+			 <unittitle>General Article on Unions</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 14, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/26</container> 
+			 <unittitle>Union Politics: Articles and Cartoons</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1988 - 2003</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/27</container> 
+			 <unittitle>Institute for Environmental Research and Education:
+				Articles and Information</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 27, 2005 - August 3, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/28</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Labor Relations Letter on Partnering</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 15, 2003 - April 28, 2003</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/29</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Internal Policies and Correnspondence</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2003 - May 8, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/30</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Union Officer Elections</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2005 - 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/31</container> 
+			 <unittitle>Miscellaneous Maps</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 8, 2004 - May 27, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/32</container> 
+			 <unittitle>Industrial Areas Foundation: Broad-Based
+				Organizing</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 26, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/33</container> 
+			 <unittitle>Job Site Visits and Information Sheets</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 7, 2006 - July 31, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/34</container> 
+			 <unittitle>Nany Mason's International Brotherhood of Electrical
+				Workers (IBEW) Expense Reports</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 11, 2006 - December 11, 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/35</container> 
+			 <unittitle>HVAC/R Task Force Electrical Hours Verification Proposal
+				</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 3, 2006 - August 10, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/36</container> 
+			 <unittitle>HVAC/R Task Force Licensing Requirements </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 14, 2005 - December 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/37</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Journal Article by Bill Moyers</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2003</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/38</container> 
+			 <unittitle>Articles on Union Busting </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 14, 2004</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/39</container> 
+			 <unittitle>AFL-CIO Voice At Work Campaign</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 13, 2003 - December 10, 2003</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/40</container> 
+			 <unittitle>Anti-Union Letter from U.S. Senator David Vitter to IBEW
+				Member</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 16, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/41</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Agenda</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 28, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/42</container> 
+			 <unittitle>Parliamentary Procedure Training for Effective Union
+				Meetings</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 7, 2007 - February 26, 2011</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/43</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Constitution and Bylaws 2006-2009</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 2006 - September 14, 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/44</container> 
+			 <unittitle>Leadership Communication Skills Worksheet
+				Packet</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 26, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/45</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Legislative/Political Primer</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 9, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/46</container> 
+			 <unittitle>National Labor College Course Catalog</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2007 - 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/47</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Leadership and Ethics</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 12, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/48</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Advanced Organizing</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 1, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/49</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Operations of the Local</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 15, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/50</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Building More Inclusive Unions 2008</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 13, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/51</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Introduction to Labor History 2008</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 27, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/52</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Introduction to Organizing</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 8, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/53</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Representation Skills</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 22, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/54-2/55</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Trust Funds and Trustee Duties </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 13, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/56</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder: Building More Inclusive Unions 2009</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 10, 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/1</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training Binder:Introduction to Labor History 2009</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 24, 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/2</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Leadership Training CD-Rom</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/3</container> 
+			 <unittitle>Holmes Electric Company Policy and Procedure
+				Manual</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 1987</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/4</container> 
+			 <unittitle>Foreman's Training: Articles on Race and Sexual
+				Harassment</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 24, 1992 - August 4, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/5</container> 
+			 <unittitle>Intensive Training Program Binder</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 13, 1992 - January 17, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/6-3/7</container> 
+			 <unittitle>Sex and Power Issues Conference </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 20, 1992 - March 21, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/8</container> 
+			 <unittitle>National Training Institute Commencement and
+				Awards/Recognition Banquet Program</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 11, 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/9</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Constitution 1978</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 1978</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/10</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Constitution and Agreement 1980-1983</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 1, 1980 - May 31, 1983</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/11</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Constitution and Agreement 1986-1988</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 30, 1986 - May 31, 1988</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/12</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Constitution and Agreements 1988-1996</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 11, 1988 - May 31, 1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/13</container> 
+			 <unittitle>Gould Shawmut Book of Electrical Information</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1983</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/14</container> 
+			 <unittitle>Survey and Manual on Gender Stereotyping for School
+				Personnel</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1979</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/15</container> 
+			 <unittitle>Shortchanging Girls: Survey Results and Articles on
+				Attitudes between Genders</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/16</container> 
+			 <unittitle>Diversity at Work: Conference Packet and
+				Articles</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 9, 1990 - February 28, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/17</container> 
+			 <unittitle>Northwest Women's Law Center: Publications on Sexual
+				Harassment</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1988 - 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/18</container> 
+			 <unittitle>Letter on Nancy Mason's Sexual Harassment
+				Class</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 25, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/19</container> 
+			 <unittitle>Publications on Affirmative Action</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1992 - August 16, 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/20</container> 
+			 <unittitle>Tradeswomen Articles by Susan Eisenberg</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 1990 - June 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/21</container> 
+			 <unittitle>Letter to Nancy Mason from Susan Eisenberg</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 21, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/22</container> 
+			 <unittitle>Interview Article with Betty Friedan</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/23</container> 
+			 <unittitle>Sexual Harassment Complaints: Issues and Implications for
+				Union Representatives</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/24</container> 
+			 <unittitle>Washington State Sexual Harassment Policy and Intervention
+				Manual</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 9, 1984</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/25</container> 
+			 <unittitle>Union Women and Labor Law at The Evergreen State
+				College</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 25, 1989 - June 18, 1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/26</container> 
+			 <unittitle>National Electrical Contractors Association (NECA) Reports
+				on Preventing Sexual Harassment in the Electrical Construction
+				Industry</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 24, 1990 - March 25, 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/27-3/28</container> 
+			 <unittitle>Title VII Guidelines and Brochures </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 19, 1979 - February 6, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/29</container> 
+			 <unittitle>People Magazine: Sex and the Boss</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 28, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/30</container> 
+			 <unittitle>Job Training Opportunities for Women in
+				Construction</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 19, 1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/31</container> 
+			 <unittitle>Apprenticeship Training: Prevention of Harassment
+				</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 9, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/32</container> 
+			 <unittitle>Nancy Mason's Presentation Notes: Women Apprentices and
+				Harassment</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/33</container> 
+			 <unittitle>Title IX Binder</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 1978 - April 23, 1979</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/34</container> 
+			 <unittitle>Employment Law Briefings: Sexual Harassment in the
+				Workplace</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 29, 1989 - March 30, 1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/35</container> 
+			 <unittitle>Labor Center Diversity Education Program</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1988 - January 24, 1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/36</container> 
+			 <unittitle>Horace Mann League: Education and Religion</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/37</container> 
+			 <unittitle>Articles and Brochures on Diversity</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 1989 - March 4, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/38</container> 
+			 <unittitle>Letter and Newsletter on Racism from North Seattle
+				Community College</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 24, 1991 - November 25, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/39</container> 
+			 <unittitle>Equity Institute Membership Letter and
+				Newsletter</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 1991 - December 5, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/40</container> 
+			 <unittitle>Letters from Mary Sebek</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 12, 1990 - July 24, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/41</container> 
+			 <unittitle>Women in the Workplace</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 1990 - April 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/42</container> 
+			 <unittitle>Letter on Harris v. Forklift Systems, Inc. </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 15, 1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/43</container> 
+			 <unittitle>Interview with Feminists in Non-Traditional
+				Trades</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 3, 1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/44</container> 
+			 <unittitle>Sexual Harassment Prevention Manual for Management
+				Personnel</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1988</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/45</container> 
+			 <unittitle>Washington State Human Rights News Review</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 4, 1993 - January 11, 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/46</container> 
+			 <unittitle>Publications on Handling Sexual Harassment and
+				Discrimination</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/47</container> 
+			 <unittitle>Seattle Community Colleges Letter on Title VII and Sexual
+				Harassment</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 18, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/48</container> 
+			 <unittitle>Letters on Sexual Discrimination with Copy of Robinson v.
+				Jacksonville Shipyards, Inc.</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 12, 1991 - October 21, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/49</container> 
+			 <unittitle>City of Seattle Office for Women's Rights: Guide for Male
+				Supervisors in Labor Occupations</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 10, 1982</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/50</container> 
+			 <unittitle>National Organization for Women Newsletters</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 5, 1985 - October 8, 1985</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/51</container> 
+			 <unittitle>Union Framework Article by Susan Eisenberg</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/52</container> 
+			 <unittitle>Short Biography on Molly Martin</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 1988</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/53</container> 
+			 <unittitle>Letter from Judith Kurtz on Women in Trades
+				Fair</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 7, 1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/1</container> 
+			 <unittitle>Gender Discrimination at Seattle City Light</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">February 16, 1983 - February 21, 1983</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/2</container> 
+			 <unittitle>Affirmative Action Newspaper Articles</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 1990 - February 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/3</container> 
+			 <unittitle>Article on Cost of Living</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 18, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/4-4/5</container> 
+			 <unittitle>National Apprenticeship Training Binder</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 11, 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/6</container> 
+			 <unittitle>Copy of the Labor-Management Reporting and Disclosure Act
+				of 1959</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 22, 2003</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/7</container> 
+			 <unittitle>National Joint Apprenticeship and Training Committee
+				(NJATC) Handbook</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1999</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/8</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Constitution and Labor Agreement</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 2001 - May 31, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/9</container> 
+			 <unittitle>Women of Achievement Awards Press Release</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 17, 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/10</container> 
+			 <unittitle>Article on the North American Free Trade Agreement
+				(NAFTA)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 18, 1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/11</container> 
+			 <unittitle>Commemorative Copy of the 1891 Report of the Proceedings
+				of the First Annual Convention of the National Brotherhood of Electrical
+				Workers of America</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">5/1</container> 
+			 <unittitle>Oversize Newspaper Articles</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 1989 - August 2000</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">5/2-5/3</container> 
+			 <unittitle>Posters</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">5/4</container> 
+			 <unittitle>Hat and Books bill, photo and letter</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2004</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">6/1</container> 
+			 <unittitle>National Alliance of State and Territorial Aids Directors
+				(NASTAD) Appreciation Plaque with Clock</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">6/2</container> 
+			 <unittitle>Washington State Apprenticeship and Training Council
+				Appreciation Plaque</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">6/3</container> 
+			 <unittitle>Nancy Mason's Training Director Award Plaque</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">6/4</container> 
+			 <unittitle>Washington State Apprenticeship and Training Council
+				Certificate of Meritorius Service</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 23, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">6/5</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Excellence Plaque</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">6/6</container> 
+			 <unittitle>Central Contractors Association, Inc Excellence in Service
+				Plaque</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">7/1</container> 
+			 <unittitle>Union T-Shirts and Jacket</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">C. 1990 - 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">7/2</container> 
+			 <unittitle>Recognition of Dedicated Service from the Washington State
+				Department of Labor and Industries to Nancy Mason </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 26, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">7/3</container> 
+			 <unittitle>Mug 1998 Northwest States Electrical Contest
+				NECA/IBEW</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/1</container> 
+			 <unittitle>Department of Labor and Industries Speciality Compliance
+				Services Community Service Ribbon</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2004</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/2</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW) New
+				Business Manager Training PowerPoint Presentations</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/3</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW) New
+				Business Manager Training References I, II and III (Construction)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 2007 - September 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/4</container> 
+			 <unittitle>Writing Tips from the International Labor Communications
+				Association</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/5</container> 
+			 <unittitle>Department of Public Safety: Public Disclosure Index of
+				Records</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 15, 1986 - November 7, 2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/6</container> 
+			 <unittitle>Assault On Workers' Rights Case Studies</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/7</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Bargaining Units Under the Deklewa Decision</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 1987 - April 1988</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/8</container> 
+			 <unittitle>Teaching Techniques for Labor Education
+				Handbook</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2002</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/9</container> 
+			 <unittitle>Working Smart: A Union Guide to Participation Programs and
+				Reengineering Labor Notes Book</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/10-8/11</container> 
+			 <unittitle>Shop Steward Training Conference Binder </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 23, 2008 - September 25, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/12</container> 
+			 <unittitle>Book of Poems by Susan Eisenberg </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1984</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/13</container> 
+			 <unittitle>Monthly Personal Service Contracts, Goods and Services,
+				and Travel Reports</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/14</container> 
+			 <unittitle>Apprenticeship Meeting Notes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 1, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/15</container> 
+			 <unittitle>Fire Service Joint Labor Management Candidate Ability
+				Test</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 1, 1999</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/16</container> 
+			 <unittitle>Northwest Apprenticeship Reciprocal Agreement</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/17</container> 
+			 <unittitle>Apprenticeship and Nontraditional Employment for Women
+				(ANEW) Board Meeting</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 26, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/18</container> 
+			 <unittitle>Newsletter from Tradeswomen Now and Tomorrow</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 10, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/19</container> 
+			 <unittitle>Preapprenticeship Summit Meeting Report</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 17, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/20</container> 
+			 <unittitle>Washington State's Workforce Training Results </unittitle>
+			 
+			 <unitdate era="ce" calendar="gregorian">1998 - 2000</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/21</container> 
+			 <unittitle>Washington State Employment Security Study on
+				Apprenticeship</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 1998</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/22</container> 
+			 <unittitle>U.S. General Accounting Office Report on Registered
+				Apprenticeships</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/23</container> 
+			 <unittitle>Workforce Leadership Conference Folder</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 10, 2001 - October 11, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/24</container> 
+			 <unittitle>Women in the Construction Zone Book and
+				Postcard</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1989 - 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/25</container> 
+			 <unittitle>United States Apprenticeship Association (USAA) Sentinel
+				Newsletters</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 2001 - December 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/26</container> 
+			 <unittitle>Additional Apprenticeship Program Funding
+				Application</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 2001 - 2002</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/27</container> 
+			 <unittitle>Department of Labor and Industries Speciality Compliance
+				Services Meeting Notes and News Clippings</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 2001 - September 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/28</container> 
+			 <unittitle>South Puget Sound Joint Apprenticeship and Training
+				Committee Advisory Meeting Notes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 15, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/29</container> 
+			 <unittitle>New York City Commission on Human Rights: Testimony of
+				IBEW, Local 3 President Thomas van Arsdale</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 26, 1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/30</container> 
+			 <unittitle>Construction Industry Branch Caucus: IBEW First National
+				Women's Conference Correspondence</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 23, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/31</container> 
+			 <unittitle>NETDA Hospitality Book</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/32</container> 
+			 <unittitle>International Brotherhood of Electrical Workers 46 (IBEW)
+				Seattle Union Notes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 1996 - December 1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/33</container> 
+			 <unittitle>South Seattle Community College Licensed Practical Nurse
+				Revised Program Brain Storming Information Packet</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 16, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/34-8/35</container> 
+			 <unittitle>Bates Technical College Pathway to Apprenticeship 2005
+				Presentation </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 14, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/36</container> 
+			 <unittitle>Bates Technical College Pathway to Apprenticeship 2005
+				Totebag</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 14, 2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/37</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Correspondence</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 1988</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/38</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Grievances Correspondence and Forms</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 1992 - June 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/39</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Apprentice Agreements and Roster</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/40</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Apprenticeship Agreement</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1986</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/41</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Washington State Department of Labor and Industry
+				Compliance Review</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 31, 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/42</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Standards of Apprenticeship</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/43</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Legal Requirements and Principles </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/44</container> 
+			 <unittitle>Puget Sound Electrical Joint Apprenticeship and Training
+				Committee (PSEJATC) Financial Balance Sheet as of November 30, 2009</unittitle>
+			 
+			 <unitdate era="ce" calendar="gregorian">November 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/45</container> 
+			 <unittitle>International Brotherhood of Electrical Workers Local 46
+				(IBEW) Correspondence Regarding Hard Hats</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 19, 1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/46</container> 
+			 <unittitle>International Brotherhood of Electrical Workers Local 117
+				(IBEW) Electrical Industry Target Program Correspondence </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 1986 - June 1987</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/47</container> 
+			 <unittitle>International Brotherhood of Electrical Workers Locals 46,
+				76, 191 (IBEW) Portability Memorandum of Understanding</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/48</container> 
+			 <unittitle>International Brotherhood of Electrical Workers Local 46
+				(IBEW) Union Member Meetings Information Flyer</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/49</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				2010 Schedule</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2010</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">8/50</container> 
+			 <unittitle>State of Washington Council on Vocational-Technical
+				Education Executive Committee Information</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 31, 1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/1</container> 
+			 <unittitle>Vocational-Technical Teacher Education Information,
+				Assignments, and Notes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 1988</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/2</container> 
+			 <unittitle>Port of Seattle Aviations Facilities Maintenance
+				Understanding Workplace Diversity Presentation and Agenda Parts 1 and
+				2</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/3</container> 
+			 <unittitle>Untitled Investment Report</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/4</container> 
+			 <unittitle>Port of Seattle Lockout-Tagout Confined Space Entry
+				Training, Agenda, Presentation, Certification of Training, and Example Danger
+				Tag</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 20, 1997 - March 20, 1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/5</container> 
+			 <unittitle>Safety Now Information and Quiz on Blood Born Pathogens
+				Protection</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">December 1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/6</container> 
+			 <unittitle>Powersmiths International Corps Company Information and
+				Products</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/7</container> 
+			 <unittitle>Innovative Technology, Inc Surge Suppression Product
+				Presentation and Certificate of Attendance</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 2, 1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/8</container> 
+			 <unittitle>AFL-CIO National Ask a Working Woman Survey</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/9</container> 
+			 <unittitle>Sound Transit Diversity Report</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/10</container> 
+			 <unittitle>Sound Transit Underground Safety Information</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/11</container> 
+			 <unittitle>20 Years of the U.S. Women's Movement Timeline Info
+				Sheet</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1990s</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/12</container> 
+			 <unittitle>30 Years and Still Organizing Nancy Mason Conference
+				Speech Given at Women's Studies Research Center, Brandeis
+				University</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 18, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/13</container> 
+			 <unittitle>Sustainable Works, Nancy Mason's Notebook</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 2012 - June 2013</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/14</container> 
+			 <unittitle>Sustainable Works Correspondence and
+				Information</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2012 - 2013</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/15</container> 
+			 <unittitle>Home Performance Washington Apprenticeship Committee
+				Standards of Apprenticeship Draft and Edits</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 2011</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/16</container> 
+			 <unittitle>Oregon State Bureau of Labor and Industries Standards of
+				Apprenticeship</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 2013</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/17</container> 
+			 <unittitle>Small Contractors and Suppliers (SCS) Retreat Agenda and
+				Notes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/18</container> 
+			 <unittitle>National Alliance of State and Territorial Aids Directors
+				(NASTAD) Conference Agenda</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 6, 2001 - August 10, 201</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/19</container> 
+			 <unittitle>National Electrical Contractors Association (NECA)
+				Presentation on Total Quality Management</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/20</container> 
+			 <unittitle>Sample Course Outline for Plan of Instructional
+				Practices</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/21</container> 
+			 <unittitle>Poem About Womans Work - Untitled, Anonymous
+				Author</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/22</container> 
+			 <unittitle>Thank You Note and Poem to Nancy Mason "The Story of Two
+				Different Sisters" from Gretchen Chalmus-Johnson</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 18, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/23</container> 
+			 <unittitle>Emailed Draft of Apprenticeship Meeting Notes for Meeting
+				with the Washington State Apprenticeship and Training Council
+				(WSATC)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 28, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/24</container> 
+			 <unittitle>Email From Margarita Suarez to Seattle Tradeswomen Now,
+				Subject: Seattle Meeting Attendees</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 15, 2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/25</container> 
+			 <unittitle>Workforce Training Results from the Workforce Training and
+				Education Coordinating Board</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2000</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/26</container> 
+			 <unittitle>Robert C. Beiter, Ph.D. Article on Hearing Protection from
+				September 1982 National Safety News</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 1982</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/27</container> 
+			 <unittitle>Essay Titled "Learning Plateaus"</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/28</container> 
+			 <unittitle>Quote "A Teacher's Creed" by Haim Ginott</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/29</container> 
+			 <unittitle>United States Evironmental Protection Agency (EPA) Fact
+				Sheet on PCBs in Fluorescent Light Fixtures</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 1985</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/30</container> 
+			 <unittitle>Washington Women in Trades 4th Annual Dream Big Dinner
+				Program, Award Ribbon, and Award Plaque</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 6, 2010</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/31</container> 
+			 <unittitle>Nancy Mason Port of Seattle Request for Leave
+				Form</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 7, 1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/32</container> 
+			 <unittitle>Fact Sheet on Physical Interpretation</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/33</container> 
+			 <unittitle>Puget Sound Electrical Aprenticeship and Training Trust
+				Incident Information Form</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/34</container> 
+			 <unittitle>International Brotherhood of Electrical Workers Local 46
+				(IBEW) By-Laws Booklets</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated, September 29,1988</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/35</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Construction Steward Manual Booklet</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/36</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Pocket Handbook</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/37</container> 
+			 <unittitle>Electrical Apparatus Service Association (EASA) Electrical
+				Engineering Pocket Handbook</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1982</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/38</container> 
+			 <unittitle>Electrician's Handbook of Formulas and Examples by C.W.
+				Shufflebarger and Sinona Shufflebarger</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1972</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/39</container> 
+			 <unittitle>IWW Songs to Fan the Flames of Discontent 35th Edition
+				Booklet</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 1, 1984</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/40</container> 
+			 <unittitle>Congratulations Card to Nancy Mason from
+				Mother</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/41</container> 
+			 <unittitle>Sticker "Union Construction is Our World. We're Proud of
+				It."</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/42</container> 
+			 <unittitle>NOW Legal Defense and Education Fund (NOW LDEF) Factsheet
+				"The Myth of Equality"</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1980s</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/43</container> 
+			 <unittitle>Puget Power Handbook on Substance Abuse Drugs and
+				Alcohol</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/44</container> 
+			 <unittitle>National Technology Transfer, Inc Business
+				Card</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/45</container> 
+			 <unittitle>Photo Four People on Motor Bikes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/46</container> 
+			 <unittitle>National Labor Relations Act: Law and Procedures Program
+				Papers</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">C. 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/47</container> 
+			 <unittitle>Nancy Mason's International Brotherhood of Electrical
+				Workers (IBEW) Registration</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1979</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/48</container> 
+			 <unittitle>Correspondence to Jennifer Balliet from International
+				Brotherhood of Electrical Workers (IBEW) Local 354 with Copy of Agenda from
+				1996 Eighth District Conference on Women's Issues and Human Rights</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/49</container> 
+			 <unittitle>Transcript from The Evening Star in Washington, D.C. About
+				the Death of IBEW Founder Henry Miller (July 11, 1896)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/50</container> 
+			 <unittitle>Manuscript on the Study of Women in the Construction
+				Industry Work Place</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1990s</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/51</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				1991 International Womens Caucus Agenda and Attendance</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 6, 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/52</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW) 9th
+				District Women's Conference Steering Committe Planning </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1991 - 1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/53</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW) 9th
+				District Women's Conference Directory of Delegates and Survey</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1990 - 1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/54</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				1992 Spokane 9th District Women's Conference Steering Committe Planning
+				</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1992 - 1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/55</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				1992 Spokane 9th District Women's Conference Survey</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/56</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				1993 Hawaii 9th District Women's Conference Steering Committe Planning and
+				Survey</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/57</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				1994 Alaska 9th District Women's Conference Steering Committe Planning and
+				Survey</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/58</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				1995 Palm Springs 9th District Women's Conference Steering Committe Planning
+				and Survey</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/59</container> 
+			 <unittitle>Women in Trades Fair Planning</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/60</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				1996 Las Vegas 9th District Women's Conference Speaking Notes and
+				Survey</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/61</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				35th International Convention Women's Caucus</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/62</container> 
+			 <unittitle>New York Times Article "Politics and Misogyny" by Bob
+				Herbert</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">January 15, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/63</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Recommended IBEW Policy Against Sexual Harasment</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 8, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/64</container> 
+			 <unittitle>Sisters in the Building Trades - Goals, Missions, and
+				Meeting Information</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/65</container> 
+			 <unittitle>Nancy Mason Certificate of Sponsorship For 2007 IBEW Local
+				46 Northwest Invitational Golf Tournament and Shriners Hospitals For Children
+				Fund Raiser</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 11, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/66</container> 
+			 <unittitle>Thank You Letters Regarding IBEW and Nancy Mason
+				Contribution to Brandeis Univerity's "On Equal Terms" Exhibit</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/67</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Tri-District Conference On Women's Issues Program</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 3, 1989 - November 4, 1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/68</container> 
+			 <unittitle>Charge of Discrimination Filed With the U.S. Equal
+				Employment Opportunity Commission</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">July 25, 2007</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/69</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Journal Exerpt On Portrait of Women in the Trade</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/70</container> 
+			 <unittitle>"Affirmative Action: Dispelling the Myths" Essay from the
+				Coalition of Labor Union Women (CLUW)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/71</container> 
+			 <unittitle>Statement from the AFL-CIO Executive Council on
+				Affirmative Action</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">August 2, 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/72</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Guide "How to Establish a Human and Civil Rights or Women's Comittee In Your
+				Local Union"</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/73</container> 
+			 <unittitle>AFL-CIO Full Participation Conference Final
+				Report</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 20, 1995 - October 21, 1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/74</container> 
+			 <unittitle>Cards to Nancy Mason</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/75</container> 
+			 <unittitle>Appreciation Plaque for Nancy Mason</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/76</container> 
+			 <unittitle>Thank You Letter and Appreciation Certificate to Nancy
+				Mason from Nile Shriners</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 23, 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/77</container> 
+			 <unittitle>Nancy Mason Certificate of Completion from the National
+				Judicial College for Administrative Law Fair Hearing</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 7, 2004</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/78</container> 
+			 <unittitle>State of Washington Council on Vocational Education
+				Commission Certificate for Nancy Mason</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 31, 1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/79</container> 
+			 <unittitle>Washington State Apprenticeship Council Membership
+				Certification for Nancy Mason of Puget Sound Electrical JATC </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 18, 1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/80</container> 
+			 <unittitle>Quote from George Meany "The basis of our trade union
+				movement..." (1970)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/81</container> 
+			 <unittitle>Photo of Nancy Mason (?) In Front of Large Machinery
+				Wheel</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/82</container> 
+			 <unittitle>Photo of Nancy Mason and Two Unidentified Men at the
+				NECA/IBEW Electrical Training Center</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/83</container> 
+			 <unittitle>Notes Regarding Women in Union, Jobsite, and Collective
+				Bargaining</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/84</container> 
+			 <unittitle>Nancy Mason Business Card, International Brotherhood of
+				Electrical Workers (IBEW) Local Union No. 46</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/85</container> 
+			 <unittitle>Nancy Mason Name Badges from Various Conventions and
+				Conferences</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2004 - 2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/86</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Sticker "America Works Best When We Say...Union Yes."</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/87</container> 
+			 <unittitle>International Brotherhood of Electrical Workers (IBEW)
+				Alaska Local 1547 Stickers</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">Undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/89</container> 
+			 <unittitle>Washington State Labor Council, AFL-CIO Button
+				"Opportunity Knocks"</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/90</container> 
+			 <unittitle>American Federation of State, County and Municipal
+				Employees (AFSCME) Button "Workers Memorial Day"</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">9/91</container> 
+			 <unittitle>Pins and stickers</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1992, 2013</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box:oversize">10</container> 
+			 <unittitle>VHS tapes</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">circa 1990-2000</unitdate> 
+			 <physdesc><extent>12 VHS</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>IBEW Education Department diversity training tape, "Women in the
+				Construction Zone" (2000), NLMCC/IBEW- NECA Partnering (2000), "LaRouche Speaks
+				to Labor (1999), "Teach Yourself Access '97", "Union Proud", IBEW Local 46
+				Special Message, "Meeting Your Challenge as a New Trustee", "Occupation: Union
+				Electrician" (1989), IBEW Local 46 advertisement, "Power Switch", Working
+				families advertisement.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="folder:oversize">OS Folder</container> 
+			 <unittitle>Posters Oversized </unittitle> 
+			 <unitdate era="ce" calendar="gregorian"/> 
+		  </did> 
+		  <scopecontent> 
+			 <p>"Career Pathway in the Construction Industry", Pacific Northwest
+				Apprenticeship Biography: Nancy Mason </p> 
+		  </scopecontent> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

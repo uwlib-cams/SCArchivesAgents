@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ElkinsMorris4087.xml" encodinganalog="identifier" identifier="80444/xv91513">ElkinsMorris4087.xml</eadid>
+	 <filedesc>
+		<titlestmt id="edit-complete">
+		  <titleproper encodinganalog="title">Guide to the Morris Elkins Papers
+			 </titleproper>
+		  <titleproper altrender="nodisplay" type="filing">Elkins (Morris)
+			 Papers</titleproper>
+		</titlestmt>
+		<publicationstmt>
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+		  <date encodinganalog="date" normal="20080116" era="ce" calendar="gregorian">©2007</date>
+		  <address>
+			 <addressline>Seattle, WA 98195</addressline>
+		  </address>
+		</publicationstmt>
+	 </filedesc>
+	 <profiledesc>
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date></creation>
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage><descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules>
+	 </profiledesc>
+	 <revisiondesc>
+		<change>
+		  <date era="ce" calendar="gregorian">Finding aid revised <?xm-replace_text {Enter date of revision of finding aid, if any, eg., July, 2005}?></date>
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		</change>
+	 </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon">
+	 <did id="a1">
+		<repository>
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname>
+		  <address>
+			 <addressline>Box 352900</addressline>
+			 <addressline>Seattle, WA 98195-2900</addressline>
+		  </address></repository>
+		<unitid type="mss" encodinganalog="099">4087</unitid>
+		<unitid type="accession" encodinganalog="099">4087-001</unitid>
+		<origination>
+		  <persname role="creator" encodinganalog="100" altrender="sync">Elkins,
+			 Morris</persname></origination>
+		<unittitle type="collection">Morris Elkins papers</unittitle>
+		<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/1921">1919-1921</unitdate>
+		<physdesc><extent encodinganalog="300$a">1 vertical file</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Seattle
+		  Newsboys' Union membership book containing dues stamps. Postcard is a
+		  reminiscence by Morris Elkins about his boyhood paper route.</abstract>
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial>
+	 </did>
+	 <bioghist encodinganalog="5450_" id="a2">
+		<p/>
+	 </bioghist>
+	 <arrangement encodinganalog="351" id="a4">
+		<p><?xm-replace_text {Describe arrangement or organization of materials}?></p>
+	 </arrangement>
+	 <scopecontent>
+		<p>Union membership book (1919-1921) and a postcard (1990).</p>
+		<p>Seattle Newsboys' Union membership book containing dues stamps.
+		  Postcard is a reminiscence by Morris Elkins about his boyhood paper route.</p>
+	 </scopecontent>
+	 <altformavail> 
+		<p> 
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" xpointer="4087-001" linktype="simple">View selections from this
+			 collection in digital format.</extref></p> 
+	 </altformavail> 
+	 <odd encodinganalog="500" id="a5">
+		<p><?xm-replace_text {Text of general note}?></p>
+	 </odd>
+	 <altformavail encodinganalog="530" id="a9">
+		<p><?xm-replace_text {Text of the Scope and Content Note, in paragraphs; separate each with paragraph tags}?></p>
+	 </altformavail>
+	 <accessrestrict encodinganalog="506" id="a14">
+		<p>Open to all users.</p>
+	 </accessrestrict>
+	 <userestrict encodinganalog="540" id="a15">
+		<p>Creator's literary rights not transferred to the University of
+		  Washington Libraries.</p>
+	 </userestrict>
+	 <custodhist encodinganalog="561" id="a16">
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+	 </custodhist>
+	 <acqinfo encodinganalog="541" id="a19">
+		<p>Donated by Morris Elkins, 5/9/1990.</p>
+	 </acqinfo>
+	 <processinfo audience="internal">
+		<p>Processed by <?xm-replace_text {Enter the name of the person who processed the coll.}?></p>
+	 </processinfo>
+	 <processinfo audience="internal" id="a20" encodinganalog="583">
+		<p>Processing completed in <?xm-replace_text {Record the year when processing was completed along with other processing-related information. }?></p>
+		<processinfo encodinganalog="544__$n" type="reloc">
+		  <p><?xm-replace_text {State if visual materials were relocated, give title and if available photo
+		coll. no.; see manual for details }?></p>
+		</processinfo>
+	 </processinfo>
+	 <separatedmaterial encodinganalog="544__$n" id="a7">
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p>
+	 </separatedmaterial>
+	 <bibliography id="a11" encodinganalog="581">
+		<p>
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+	 </bibliography>
+	 <otherfindaid encodinganalog="555" id="a8" audience="internal">
+		<p><?xm-replace_text {If visual materials were relocated to a graphics collection,
+		provide finding aid title and link if available, changing default wording if needed; give filename of EAD finding aid in href attribute of archref element}?>
+		  The visual materials that form part of this collection are described
+		  and indexed in 
+		  <archref show="new" role="ph" actuate="onrequest" arcrole="text/xml" linktype="simple">A Guide to the <?xm-replace_text {Enter name of visual materials coll.; and enter filename in HREF
+		  attribute, eg. SmithJohnPHColl885.xml}?></archref>.</p>
+		<p><?xm-replace_text {Separate note on other available, non-EAD finding tools such as card files, lists, etc.  }?></p>
+		<p altrender="preliminary">
+		  <extptr href="4087-001.pdf" role="pdf-ms" arcrole="application/pdf" altrender="pdf-autolink" show="new" actuate="onrequest" linktype="simple"/></p>
+	 </otherfindaid>
+	 <relatedmaterial encodinganalog="544__$n" id="a6">
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+	 </relatedmaterial>
+	 <controlaccess>
+		<persname role="subject" encodinganalog="610" source="uwsc-naf">Bridge,
+		  Benjamin M.,$d1896-1974</persname>
+		<persname encodinganalog="600" role="subject" altrender="sync">Elkins,
+		  Morris$vArchives</persname>
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname>
+		<corpname role="subject" encodinganalog="610" source="local" altrender="sync">Newsboys' Union.$bLocal 15834</corpname>
+	 </controlaccess>
+	 <controlaccess>
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  History</subject>
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  Unions</subject>
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Journalism</subject>
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Washington (State)</subject>
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Seattle</subject>
+	 </controlaccess>
+  </archdesc></ead>

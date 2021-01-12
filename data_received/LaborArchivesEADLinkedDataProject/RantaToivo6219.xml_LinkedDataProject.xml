@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RantaToivo6219.xml" encodinganalog="identifier" identifier="80444/xv241027">RantaToivo6219.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Toivo Ranta
+			 Photographs and Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Ranta (Toivo)
+			 Photographs and Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Hannah
+			 Robinson.</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20180919">© 2018</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6219</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6219-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100" altrender="sync" source="local" rules="local">Ranta, Toivo</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Toivo Ranta
+		  photographs and papers</unittitle> 
+		<unitdate type="inclusive" normal="1930/1991" era="ce" calendar="gregorian">approximately 1930-1960,
+		  1991</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian" normal="1930/1960">1930-1960</unitdate> 
+		<physdesc><extent>0.23 cubic feet</extent>
+		  <extent>1 box</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Photographs and
+		  papers of Toivo Ranta, a commercial fisherman who fished in the Pacific Ocean,
+		  off the coast of Washington, Canada, and Alaska.</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Toivo Ranta worked as a commercial fisherman from the 1930s through
+		  the 1950s. Ranta and his brother emigrated from Finland to join their father in
+		  Alaska working summers for the Alaska Packers’ Association and Libby, McNeill
+		  and Libby. Both companies manufactured and packaged canned salmon. Ranta worked
+		  as a fisherman during the early days of commercial salmon fishing in the
+		  Pacific Ocean, off the coast of Washington, Canada, and Alaska. He also worked
+		  during the transition from the industry being fleets of smaller sailing ships
+		  to larger ships with internal combustion engines. Ranta left the fishing
+		  industry during this transition and his family started a plywood mill in Port
+		  Angeles, Washington to replace fishing as their main economic activity.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Materials are arranged by material type.</p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Materials include photographs and fishing “tally books” that document
+		  Toivo Ranta's career as a commercial fisherman in Alaska primarily from 1930 to
+		  1960. The tally books are a record of the daily catch offloaded from fishing
+		  boats and the photographs show workers fishing, fishing vessels, various
+		  locations in Alaska, and Ranta’s family and friends. Some photos record the
+		  transition from sailing ships to internal combustion power ships in Bristol
+		  Bay. One image shows a fleet of new stern-pickers lined up outside Bryant’s
+		  Marina in Portage Bay.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Materials donated by Rick Ranta, 2013-10-03.</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12"> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Fishing and Canning</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Ships and Shipping</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Scandinavian Americans</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Alaska</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Washington (State)</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Photographs</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle encodinganalog="245$a">Photographic prints and negatives
+				of workers fishing, fishing vessels, and various locations in
+				Alaska</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1930/1960">approximately 1930-1960</unitdate> 
+			 <physdesc>2 files</physdesc>
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle encodinganalog="245$a">Ranta's fishing tally books from
+				Alaska Packers' Association and Libby, McNeill and Libby</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1930/1955">approximately 1930-1955</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle encodinganalog="245$a">Libby, McNeill and Libby settlement
+				statement</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936">1936</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle encodinganalog="245$a">Libby, McNeill and Libby cannery
+				tickets</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1957">1957</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle encodinganalog="245$a">"Pacific Fishing Yearbook" magazine
+				and cartoon about fishing</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1991">1991, undated</unitdate> 
+		  </did> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

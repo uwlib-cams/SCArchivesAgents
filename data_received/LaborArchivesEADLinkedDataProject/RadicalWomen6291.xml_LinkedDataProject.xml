@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <!--OCLC 1122744160-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RadicalWomen6291.xml" encodinganalog="identifier" identifier="80444/xv847136">RadicalWomen6291.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Radical Women National
+			 Office (Seattle) Records</titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Radical Women National
+			 Office Records</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Kate
+			 Miller</author> 
+		  <sponsor encodinganalog="contributor">Full processing supported by the
+			 Labor Archives Fund and the Labor Archives of Washington State Budget</sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20191009">© 2019</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised June 24,
+			 2020</date> 
+		  <item>Chelsea Davies created changes to the finding aid notes including
+			 the scope and content, sponsor, preferred citation, arrangement, abstract,
+			 processing information, and collection level date range.</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised October 2, 2020</date> 
+		  <item>Crystal Rodgers updated several errors identified by the donor in
+			 the inventory description and added information about Clara Fraser as the
+			 collector of the records and co-founder of the organization to the Abstract
+			 note.</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised December 14, 2020</date> 
+		  <item>Crystal Rodgers updated several folder titles to more accurately
+			 describe contents contained within.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" audience="external"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6291</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6291-001</unitid> 
+		<origination> 
+		  <corpname role="creator" encodinganalog="110" altrender="sync" source="lcnaf" rules="rda" authfilenumber="1986596">Radical
+			 Women</corpname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Radical Women
+		  National Office (Seattle) records</unittitle> 
+		<unitdate type="inclusive" normal="1976/1997" era="ce" calendar="gregorian">1976-1998</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc><extent>1.28 cubic feet</extent>
+		  <extent>1 box</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records of the
+		  national office of Radical Women, a socialist, feminist worker's organization
+		  based in Seattle, Washington. The records were collected and maintained by
+		  Clara Fraser, the co-founder and officer of Radical Women and the Freedom
+		  Socialist Party.</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption 
+info inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z  
+No info needed in <resource> element-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <prefercite> 
+		<p> Labor Archives of Washington, University of Washington Libraries,
+		  Special Collections, Radical Women National Office Records, 6291-001, Box
+		  number, Folder number</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="5451_" id="a2" altrender="sync"> 
+		<p>Radical Women (RW) is a socialist feminist organization. RW sought to
+		  become the socialist wing of the feminist movement. The organization was
+		  founded in Seattle in 1967 when Freedom Socialist Party co-founder Clara Fraser
+		  and her close colleague, Gloria Martin, joined with young women from Students
+		  for a Democratic Society to build women's leadership in the left and anti-war
+		  movements. In 1973, RW formally affiliated with the Freedom Socialist Party,
+		  and the party gained a sister organization. Other founding members include
+		  Melba Windoffer and Susan Stern.</p> 
+		<p>RW is active in intersectional feminist socialist organizing against
+		  racism, sexism, homophobia, fascism, and labor exploitation. Their political
+		  analysis sees women's political action as essential in creating social change
+		  and trains women to lead these campaigns. They have been especially active in
+		  pressuring other feminist organizations into better representing women of color
+		  and the LBGTQ+ community.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p/> 
+		<p> 
+		  <list> 
+			 <item>SERIES 1: ADMINISTRATIVE MEETINGS, FINANCES, AND
+				CORRESPONDENCE, 1976-1996</item> 
+			 <item>SERIES 2: CONFERENCES AND CONVENTIONS, 1976-1998</item> 
+			 <item>SERIES 3: MASS WORK, COALITIONS, AND EVENTS, 1977-1998</item> 
+			 <item>SERIES 4: PUBLICATIONS, LITERATURE, AND MEDIA, 1979-1997</item>
+			 
+			 <item>SERIES 5: LOCAL CHAPTERS, 1977-1996 
+				<list> 
+				  <item>Subseries A: Seattle, Washington Radical Women Chapter,
+					 1977-1996</item> 
+				  <item>Subseries B: Grays Harbor, Washington Radical Women
+					 Chapter, 1982</item> 
+				  <item>Subseries C: Portland, Oregon Radical Women Chapter,
+					 1982-1992</item> 
+				  <item>Subseries D: Los Angeles, California Radical Women Chapter,
+					 1982-1994</item> 
+				  <item>Subseries E: San Francisco, California Radical Women
+					 Chapter, 1979-1990</item> 
+				  <item>Subseries F: Juneau, Alaska Radical Women Chapter,
+					 1979-1982</item> 
+				  <item>Subseries G: Mankato, Minnesota Radical Women Chapter,
+					 1992</item> 
+				  <item>Subseries H: Melbourne, Australia Radical Women Chapter,
+					 1990</item> 
+				</list></item> 
+		  </list></p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>The Radical Women National Office records (1976-1998) documents the
+		  activities of the national office of the organization, based in Seattle,
+		  Washington. They were collected and maintained by Clara Fraser, the co-founder
+		  and officer of Radical Women and the Freedom Socialist Party. This collection
+		  documents the evolution and collective actions of nationally recognized
+		  socialist feminist leaders from 1976-1998. The perspectives from leaders of the
+		  national office provides context to how RW has worked and grown their
+		  organization via the aid and creation of local offices. The records are
+		  especially valuable for researchers seeking to understand how radical
+		  organizations and movements evolve and shift through decades of adversity and
+		  pushback from the mainstream media and an inhospitable political
+		  environment.</p> 
+		<p> This collection provides access to communication among the local and
+		  national RW organizers as well as materials concerning mass work such as the
+		  protection of <emph render="italic">Roe vs. Wade,</emph> the Seattle City Light
+		  fight for affirmative action for tradeswomen electrical workers, the
+		  collaborative 1997 Feminist Brigade to Cuba, the landmark Freeway Hall Case,
+		  and drafts of RW literature such as the <emph render="italic">Radical Women
+		  Manifesto.</emph></p> 
+		<p>Materials include correspondence, articles, newspaper clippings, press
+		  release materials, fliers, event programs, edited drafts and speeches,
+		  itineraries, legal documents, conference/event planning, and official
+		  newsletters. The content of the materials concern the organization’s planned
+		  events, recruitment, and opening communication channels that are centered on
+		  social activism, intersectional feminism, and providing a platform for feminist
+		  speakers.</p> 
+		<p>The collection is arranged into the following series which contain:
+		  </p> 
+		<p>SERIES 1: ADMINISTRATIVE MEETINGS, FINANCES, AND CORRESPONDENCE,
+		  1976-1996: RW’s National Executive Committee papers, including correspondence,
+		  records on public relations, membership, and finances. </p> 
+		<p>SERIES 2: CONFERENCES AND CONVENTIONS, 1976-1998: Records documenting
+		  RW’s involvement, including statements and positions, press releases, and
+		  communication in international and regional conferences and conventions. </p> 
+		<p>SERIES 3: MASS WORK, COALITIONS, AND EVENTS, 1977-1998: Materials
+		  concerning RW organized events and activism in civil rights and labor
+		  movements. </p> 
+		<p>SERIES 4: PUBLICATIONS, LITERATURE, AND MEDIA, 1979-1997: Position
+		  statements, speeches, bulletins, newsletters, media coverage, and political
+		  literature related to RW. </p> 
+		<p>SERIES 5: LOCAL CHAPTERS, 1977-1996: Correspondence, finances, and
+		  event materials concerning the growth and participation of local RW chapters.
+		  Despite being local chapters, they include correspondence with national leaders
+		  such as Clara Fraser and Betty Friedan. The records of the Seattle chapter
+		  especially overlaps with that of the National Office.</p> 
+	 </scopecontent> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections.</p> 
+	 </userestrict> 
+	 <processinfo> 
+		<p>Labor Archives Curatorial Assistant Chelsea Davies processed and
+		  arranged the collection during the 2019/2020 academic year. </p> 
+		<p>The collection was rehoused and refoldered using acid-free folders and
+		  1 full sized records box. Preservation issues addressed include newspaper
+		  clippings buffered with acid free paper, stapled materials, rust stains and
+		  discolorations, rusty paper clips replaced with plastiklips, and thermofax
+		  documents photocopied and replaced. </p> 
+		<p>The arrangement and description involved an analysis of the major
+		  themes within the collection by mapping and researching the connections among
+		  notable people, events, literature, language, and organizations. A processing
+		  plan incorporated these themes in the arrangement and description of the series
+		  and folders so that researchers could identify the potential value and
+		  relevance of the collection. The Freedom Socialist Party National Office
+		  records provided substantial context for the description and arrangement of the
+		  Radical Women National Office records due to being closely related
+		  organizations that share leadership and agendas. </p> 
+	 </processinfo>
+	 <odd> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <acqinfo> 
+		<p>Donated by Helen Gilbert, who was custodian of Clara Fraser's RW
+		  records. </p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, 
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv147064/" show="new" actuate="onrequest" linktype="simple">Radical Women Seattle Office records</archref></p> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv56640" linktype="simple">Clara Fraser
+			 papers</archref></p> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv590361" linktype="simple">Megan Cornish
+			 papers</archref></p> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv134277" linktype="simple">Heidi Durham
+			 papers</archref></p> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv27291" linktype="simple">Freedom
+			 Socialist Party Seattle Branch records</archref></p> 
+		<p> 
+		  <extref href="http://archiveswest.orbiscascade.org/ark:/80444/xv793914/" show="new" linktype="simple">Freedom Socialist Party National Office (Seattle)
+			 records</extref></p> 
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<subject encodinganalog="650">Feminism$zWashington (State) </subject> 
+		<subject encodinganalog="650">Women$zWashington (State)$xSocieties and
+		  clubs</subject> 
+		<subject encodinganalog="650">Women and socialism$zWashington (State)
+		  </subject> 
+		<subject encodinganalog="650">Radicalism$zWashington (State) </subject> 
+		<subject encodinganalog="650">Women's rights$zUnited States</subject> 
+		<subject encodinganalog="650">Socialism$zWashington (State) </subject> 
+		<subject encodinganalog="650">Socialism$xSocieties, etc.</subject> 
+		<subject encodinganalog="650">Feminism$xSocieties, etc.</subject> 
+		<subject encodinganalog="650">Women and socialism$xSocieties,
+		  etc.</subject> 
+		<subject encodinganalog="650">Radicalism$xSocieties, etc</subject> 
+		<genreform source="ftamc" encodinganalog="655">Newsletters</genreform> 
+		<corpname role="host institution" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Women</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Seattle</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Washington (State)</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/1-32</container> 
+			 <unitid type="uwsc">SERIES 1</unitid> 
+			 <unittitle>ADMINISTRATIVE MEETINGS, FINANCES, AND
+				CORRESPONDENCE</unittitle> 
+			 <unitdate type="inclusive" normal="1976/1996" era="ce" calendar="gregorian">1976-1996</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>Nominating Committee 1976</unittitle> 
+				<unitdate type="inclusive" normal="1976/1977" era="ce" calendar="gregorian">1976-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>Jaan Laaman International Women's Day Greeting to
+				  Freedom Socialist Party on Behalf of All Ohio Seven</unittitle> 
+				<unitdate type="inclusive" normal="1977" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>FBI File on Radical Women</unittitle> 
+				<unitdate type="inclusive" normal="1978" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle>Funding and Sales 1979</unittitle> 
+				<unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>National Executive Committee Correspondence 1979 -
+				  Constance Scott</unittitle> 
+				<unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>Correspondence with Attached Schedule for Freedom
+				  Socialist Party Forum Series and Membership Drive Proposal</unittitle> 
+				<unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle>Response to Myra T. Weiss Letter</unittitle> 
+				<unitdate type="inclusive" normal="1979/1980" era="ce" calendar="gregorian">1979-1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle>Membership Recruiting</unittitle> 
+				<unitdate type="inclusive" normal="1979/1980" era="ce" calendar="gregorian">1979-1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9</container> 
+				<unittitle>Seattle - Clara Fraser and Max Reigel Memos </unittitle>
+				
+				<unitdate type="inclusive" normal="1979/1980" era="ce" calendar="gregorian">1979-1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle>Membership Correspondence </unittitle> 
+				<unitdate type="inclusive" normal="1979/1982" era="ce" calendar="gregorian">1979-1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle>Committee and Branch Reports</unittitle> 
+				<unitdate type="inclusive" normal="1979/1983" era="ce" calendar="gregorian">1979-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle>Clara Fraser and Betty Maloney Memos</unittitle> 
+				<unitdate type="inclusive" normal="1980/1983" era="ce" calendar="gregorian">1980-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/13</container> 
+				<unittitle>Correspondence on Finances and Fundraising</unittitle> 
+				<unitdate type="inclusive" normal="1980/1983" era="ce" calendar="gregorian">1980-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle>Sharman Haley Legal Victory Memo</unittitle> 
+				<unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle>Report to Freedom Socialist Party</unittitle> 
+				<unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle>Conference Coordination and National
+				  Identity</unittitle> 
+				<unitdate type="inclusive" normal="1987/1989" era="ce" calendar="gregorian">1987-1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unittitle>National Executive Committee Meeting Materials - New
+				  York City 1989 </unittitle> 
+				<unitdate type="inclusive" normal="1989" era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle>Clara Fraser and Luma Nichol Correspondence</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/19</container> 
+				<unittitle>Constance Scott and Guerry Hoddersen - San Francisco
+				  Meeting Correspondence</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/20</container> 
+				<unittitle>Ann O'Connell [?] and Clara Fraser Correspondence -
+				  Photographing Activism</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/21</container> 
+				<unittitle>Internal Conflict - Nancy Reiko Kato and Adrienne
+				  Weller</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/22</container> 
+				<unittitle>Fund Drive</unittitle> 
+				<unitdate type="inclusive" normal="1990/1991" era="ce" calendar="gregorian">1990-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/23</container> 
+				<unittitle>Happy International Women's Day from Clara Fraser to
+				  Merle Woo</unittitle> 
+				<unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/24</container> 
+				<unittitle>Correspondence About Finances</unittitle> 
+				<unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/25</container> 
+				<unittitle>Nancy Reiko Kato - Internal Conflicts and Political
+				  Priorities</unittitle> 
+				<unitdate type="inclusive" normal="1991/1992" era="ce" calendar="gregorian">1991-1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/26</container> 
+				<unittitle>Correspondence About 1991-92 Financial
+				  Reports</unittitle> 
+				<unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/27</container> 
+				<unittitle>Fund Drive Donation Allocation</unittitle> 
+				<unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/28</container> 
+				<unittitle>Correspondence Regarding Financial Reports and Fund
+				  Drive</unittitle> 
+				<unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/29</container> 
+				<unittitle>Graphic Identity Program </unittitle> 
+				<unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/30</container> 
+				<unittitle>Nancy Reiko Kato Schedules and Work Contact
+				  Information</unittitle> 
+				<unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/31</container> 
+				<unittitle>Recruitment Campaign and Finances 1995 - Nancy Reiko
+				  Kato</unittitle> 
+				<unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/32</container> 
+				<unittitle>Correspondence With National Organizer Nancy Reiko
+				  Kato</unittitle> 
+				<unitdate type="inclusive" normal="1995/1996" era="ce" calendar="gregorian">1995-1996</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/33-52</container> 
+			 <unitid type="uwsc">SERIES 2</unitid> 
+			 <unittitle>CONFERENCES AND CONVENTIONS</unittitle> 
+			 <unitdate type="inclusive" normal="1976/1998" era="ce" calendar="gregorian">1976-1998</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/33</container> 
+				<unittitle>Annual Conference 1976 - Laura Teague Draft Report "A
+				  New Era for Women Workers, Minority Women, and Lesbians."</unittitle> 
+				<unitdate type="inclusive" normal="1976" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/34</container> 
+				<unittitle>10th Anniversary Conference - Port Ludlow 1978 (1 of
+				  2)</unittitle> 
+				<unitdate type="inclusive" normal="1977/1978" era="ce" calendar="gregorian">1977-1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/34</container> 
+				<unittitle>10th Anniversary Conference - Port Ludlow 1978 (2 of
+				  2)</unittitle> 
+				<unitdate type="inclusive" normal="1977/1978" era="ce" calendar="gregorian">1977-1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/35</container> 
+				<unittitle>International Meeting of Women 1977 Paris - Sandy Nelson
+				  on The American Feminist Movement</unittitle> 
+				<unitdate type="inclusive" normal="1977" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/36</container> 
+				<unittitle>National Radical Women -Washington State Conference for
+				  Women - Constance Scott Analysis</unittitle> 
+				<unitdate type="inclusive" normal="1977" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/37</container> 
+				<unittitle>Women's Studies National Conference 1981 Correspondence
+				  and Report - Constance Scott</unittitle> 
+				<unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/38</container> 
+				<unittitle> Proposal for Participation In Yellow Springs Socialist
+				  Feminist Conference - Chicago 1985 - Guerry Hoddersen Memo to Constance Scott
+				  </unittitle> 
+				<unitdate type="inclusive" normal="1985" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/39</container> 
+				<unittitle>Democratic Socialist of America Socialist Feminist
+				  Conference - Memo from Constance Scott </unittitle> 
+				<unitdate type="inclusive" normal="1985" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/40</container> 
+				<unittitle>Conference 1990 - "The Third Wave of Feminism: A
+				  Candidly Revolutionary Approach" - Santa Monica, California</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/41</container> 
+				<unittitle>Conference Public Relations 1990 </unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/42</container> 
+				<unittitle>Conference Finances 1990</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/43</container> 
+				<unittitle>Proposal for Participation In Yellow Springs Socialist
+				  Feminist Conference - Chicago 1985 - Guerry Hoddersen Memo to Constance Scott
+				  </unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/44</container> 
+				<unittitle>1990 National Organization for Women Convention In San
+				  Francisco</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/45</container> 
+				<unittitle>University of Natal Invitation - Women and Gender In
+				  Southern Africa Conference 1991</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/46</container> 
+				<unittitle>First International Asian Lesbian Conference Outreach -
+				  Joanne Oligario </unittitle> 
+				<unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/47</container> 
+				<unittitle>Marxist Scholars Conference 1991 - Temple University,
+				  Philadelphia</unittitle> 
+				<unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/48</container> 
+				<unittitle>21st Century Party Convention - Washington, D.C.
+				  </unittitle> 
+				<unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/49</container> 
+				<unittitle>National Radical Women - Greetings to The World
+				  Conference - Nancy Reiko Kato and Yolanda Alaniz</unittitle> 
+				<unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/50</container> 
+				<unittitle>Gabriela Invitation - Women's International Solidarity
+				  Affair In The Philippines Conference 1994 </unittitle> 
+				<unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/51</container> 
+				<unittitle>Greetings to The United Nations Fourth World Conference
+				  on Women and Non-governmental Organizations Forum 1995</unittitle> 
+				<unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/52</container> 
+				<unittitle>Stephen Durham Taller Internacional (International
+				  Workshop) At The Cuban Communist Party "Socialism Towards The 21st Century"
+				  Havana Conference 1997</unittitle> 
+				<unitdate type="inclusive" normal="1997/1998" era="ce" calendar="gregorian">1997-1998</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/53-81</container> 
+			 <unitid type="uwsc">SERIES 3</unitid> 
+			 <unittitle>MASS WORK, COALITIONS, AND EVENTS</unittitle> 
+			 <unitdate type="inclusive" normal="1977/1998" era="ce" calendar="gregorian">1977-1998</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/53</container> 
+				<unittitle>Events - Seattle 1977</unittitle> 
+				<unitdate type="inclusive" normal="1977" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/54</container> 
+				<unittitle>Sexual Politics Column - Radical Women Support
+				  Palestinian Rights - The Daily of The University of Washington
+				  1970s</unittitle> 
+				<unitdate type="inclusive" normal="1977" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/55</container> 
+				<unittitle>Women's Rights At Crossroads - Public Forum</unittitle> 
+				<unitdate type="inclusive" normal="1977" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/56</container> 
+				<unittitle>Events 1978</unittitle> 
+				<unitdate type="inclusive" normal="1978" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/57</container> 
+				<unittitle>Greetings to The World Conference - Nancy Reiko Kato and
+				  Yolanda Alaniz</unittitle> 
+				<unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/58</container> 
+				<unittitle>Abortion and Reproductive Rights</unittitle> 
+				<unitdate type="inclusive" normal="1979/1981" era="ce" calendar="gregorian">1979-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/59</container> 
+				<unittitle>Constance Scott - Mccarthyite-like Attacks on The Chico
+				  Feminist Women's Health Center</unittitle> 
+				<unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/60</container> 
+				<unittitle>Campus Radical Women Events 1981-83 - University of
+				  Washington</unittitle> 
+				<unitdate type="inclusive" normal="1981/1983" era="ce" calendar="gregorian">1981-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/61</container> 
+				<unittitle>Events 1981-83</unittitle> 
+				<unitdate type="inclusive" normal="1981/1983" era="ce" calendar="gregorian">1981-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/62</container> 
+				<unittitle>Ad Hoc Coalition of Women Event 1982</unittitle> 
+				<unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/63</container> 
+				<unittitle>International Women's Day 1982</unittitle> 
+				<unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/64</container> 
+				<unittitle>Coalition Fight - Seattle Reproductive Rights Alliance
+				  and National Organization for Women Censors Women of Color</unittitle> 
+				<unitdate type="inclusive" normal="1983" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/65</container> 
+				<unittitle>"National Radical Women Day" Work Party</unittitle> 
+				<unitdate type="inclusive" normal="1983" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/66</container> 
+				<unittitle>Roe Versus Wade and "FBI Versus Women"</unittitle> 
+				<unitdate type="inclusive" normal="1984/1985" era="ce" calendar="gregorian">1984-1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/67</container> 
+				<unittitle>Constance Scott on Women's Rights </unittitle> 
+				<unitdate type="inclusive" normal="1986/1987" era="ce" calendar="gregorian">1986-1987</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/68</container> 
+				<unittitle>Freedom Socialist Party - Freeway Hall Case Defense
+				  Committee </unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/69</container> 
+				<unittitle>Campus Radical Women Activity on International Women's
+				  Day 1990</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/70</container> 
+				<unittitle>Petition for A Labor Party to National Organization for
+				  Women</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/71</container> 
+				<unittitle>Nellie Wong Lecture on Racism, Sexism, and War - The
+				  Daily of The University of Washington </unittitle> 
+				<unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/72</container> 
+				<unittitle>International and East European Speaking
+				  Tour</unittitle> 
+				<unitdate type="inclusive" normal="1991/1994" era="ce" calendar="gregorian">1991-1994</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/73</container> 
+				<unittitle>March to Fight The Right - National Organization for
+				  Women Correspondence</unittitle> 
+				<unitdate type="inclusive" normal="1991/1996" era="ce" calendar="gregorian">1991-1996</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/74</container> 
+				<unittitle>Supreme Court Ruling In The Pennsylvania Abortion Case -
+				  Valencia Hall</unittitle> 
+				<unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/75</container> 
+				<unittitle>Socialist Feminist Study Group In Vancouver,
+				  Canada</unittitle> 
+				<unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/76</container> 
+				<unittitle>International Feminist Brigade Proposal Edits and Cuban
+				  Mission Planning</unittitle> 
+				<unitdate type="inclusive" normal="1994/1996" era="ce" calendar="gregorian">1994-1996</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/77</container> 
+				<unittitle>International Feminist Brigade, Cuba 1997 (1 of
+				  3)</unittitle> 
+				<unitdate type="inclusive" normal="1994/1997" era="ce" calendar="gregorian">1994-1997</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/77</container> 
+				<unittitle>International Feminist Brigade, Cuba 1997 (2 of
+				  3)</unittitle> 
+				<unitdate type="inclusive" normal="1996/1997" era="ce" calendar="gregorian">1996-1997</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/77</container> 
+				<unittitle>International Feminist Brigade, Cuba 1997 (3 of
+				  3)</unittitle> 
+				<unitdate type="inclusive" normal="1996/1998" era="ce" calendar="gregorian">1996-1998</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/78</container> 
+				<unittitle>Freedom Socialist Party - Defense of Affirmative Action
+				  on University of California Campuses </unittitle> 
+				<unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/79</container> 
+				<unittitle>Demand to Unionize Prostitutes - Guerry Hoddersen to
+				  Clara Fraser</unittitle> 
+				<unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/80</container> 
+				<unittitle>International Feminist Brigade to Cuba Proposal - Marian
+				  Larkin Correspondence With The Federación De Mujeres Cubanas</unittitle> 
+				<unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/81</container> 
+				<unittitle>Atlanta, Georgia Abortion Clinic Bombings Statement -
+				  Anne Slater</unittitle> 
+				<unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/82-102</container> 
+			 <unitid type="uwsc">SERIES 4</unitid> 
+			 <unittitle>PUBLICATIONS, LITERATURE, AND MEDIA</unittitle> 
+			 <unitdate type="inclusive" normal="1979/1997" era="ce" calendar="gregorian">1979-1997</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/82</container> 
+				<unittitle>Executive Committee Drafts and Manifesto - Monica Hill,
+				  Constance Scott, Marcia Cutler, and Sharman Haley</unittitle> 
+				<unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/83</container> 
+				<unittitle>Publications - Newsletter and Bulletin</unittitle> 
+				<unitdate type="inclusive" normal="1980/1981" era="ce" calendar="gregorian">1980-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/84</container> 
+				<unittitle>Publications </unittitle> 
+				<unitdate type="inclusive" normal="1980/1983" era="ce" calendar="gregorian">1980-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/85</container> 
+				<unittitle>Constance Scott's Review of Betty Friedan "The Second
+				  Stage"</unittitle> 
+				<unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/86</container> 
+				<unittitle>Womanews Erarticle - Constance Scott</unittitle> 
+				<unitdate type="inclusive" normal="1982/1983" era="ce" calendar="gregorian">1982-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/87</container> 
+				<unittitle>Fireweed Magazine Issue on Feminist Theory, Practice,
+				  and Vision</unittitle> 
+				<unitdate type="inclusive" normal="1983" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/88</container> 
+				<unittitle>Joanna Russ - Published and Upcoming
+				  Literature</unittitle> 
+				<unitdate type="inclusive" normal="1983" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/89</container> 
+				<unittitle>Manifesto</unittitle> 
+				<unitdate type="inclusive" normal="1983/1990" era="ce" calendar="gregorian">1983-1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/90</container> 
+				<unittitle>Article on Pornography for The Guardian </unittitle> 
+				<unitdate type="inclusive" normal="1984" era="ce" calendar="gregorian">1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/91</container> 
+				<unittitle>Bulletin of The Centro De Documentación Sobre La Mujer -
+				  Lima, Peru</unittitle> 
+				<unitdate type="inclusive" normal="1986" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/92</container> 
+				<unittitle>Participation on The Oprah Winfrey Show, Chicago 1987 -
+				  Emily Woo Yamasaki and Karen Brodine</unittitle> 
+				<unitdate type="inclusive" normal="1986/1987" era="ce" calendar="gregorian">1986-1987</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/93</container> 
+				<unittitle>Article Submission for Spanish Feminist Party
+				  Magazine</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/94</container> 
+				<unittitle>Sparkplugs of Labor - Heidi Durham and Megan
+				  Cornish</unittitle> 
+				<unitdate type="inclusive" normal="1990/1991" era="ce" calendar="gregorian">1990-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/95</container> 
+				<unittitle>National Radical Women Publications - Nancy Reiko Kato -
+				  Women of Color: Frontrunners for Freedom</unittitle> 
+				<unitdate type="inclusive" normal="1990/1995" era="ce" calendar="gregorian">1990-1995</unitdate> 
+			 </did> 
+			 <c03 level="item"> 
+				<did> 
+				  <unittitle>Northwest Nikkei Newspaper Article December 1995 on
+					 Nancy Reiko Kato - Sandee Taniguchi</unittitle> 
+				  <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/96</container> 
+				<unittitle>Merle Woo - Is National Organization for Women The Right
+				  Group for Lesbians? - The Advocate</unittitle> 
+				<unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/97</container> 
+				<unittitle>National Radical Women Publications - Women of Color:
+				  Frontrunners for Freedom</unittitle> 
+				<unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/98</container> 
+				<unittitle>What Have We Got to Lose? - Mary Ann Curtis of Campus
+				  Radical Women</unittitle> 
+				<unitdate type="inclusive" normal="1991/1992" era="ce" calendar="gregorian">1991-1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/99</container> 
+				<unittitle>Nancy Reiko Kato - Freedom Socialist Subscription Sale
+				  Story </unittitle> 
+				<unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/100</container> 
+				<unittitle>Sojourner: The Women's Forum July 1995 Page 20-21 Shared
+				  By Debra O'GARA</unittitle> 
+				<unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/101</container> 
+				<unittitle>Creative Pieces and Articles By Women Including Toni
+				  Medinicino, Clara Fraser, and Michele Wallace</unittitle> 
+				<unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/102</container> 
+				<unittitle>Listed In Emerge Magazine - March 1997
+				  Correspondence</unittitle> 
+				<unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/103-133</container> 
+			 <unitid type="uwsc">SERIES 5</unitid> 
+			 <unittitle>LOCAL CHAPTERS </unittitle> 
+			 <unitdate type="inclusive" normal="1977/1996" era="ce" calendar="gregorian">1977-1996</unitdate> 
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/103-120</container> 
+				<unitid type="uwsc">Subseries A</unitid> 
+				<unittitle>Seattle, Washington Radical Women Chapter</unittitle> 
+				<unitdate type="inclusive" normal="1977/1996" era="ce" calendar="gregorian">1977-1996</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/103</container> 
+				  <unittitle>1977-78 Records </unittitle> 
+				  <unitdate type="inclusive" normal="1977/1978" era="ce" calendar="gregorian">1977-1978</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/104</container> 
+				  <unittitle>Events 1978 - Bush Mama</unittitle> 
+				  <unitdate type="inclusive" normal="1978" era="ce" calendar="gregorian">1978</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/105</container> 
+				  <unittitle>Memos Between Clara Fraser and Mary Reeves</unittitle>
+				  
+				  <unitdate type="inclusive" normal="1978/1979" era="ce" calendar="gregorian">1978-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/106</container> 
+				  <unittitle>Events 1979</unittitle> 
+				  <unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/107</container> 
+				  <unittitle>Fundraising 1979-80</unittitle> 
+				  <unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/108</container> 
+				  <unittitle>Events 1979-80 - Women's Superiority</unittitle> 
+				  <unitdate type="inclusive" normal="1979/1980" era="ce" calendar="gregorian">1979-1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/109</container> 
+				  <unittitle>In The Media</unittitle> 
+				  <unitdate type="inclusive" normal="1979/1981" era="ce" calendar="gregorian">1979-1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/110</container> 
+				  <unittitle>Events 1980</unittitle> 
+				  <unitdate type="inclusive" normal="1980" era="ce" calendar="gregorian">1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/111</container> 
+				  <unittitle>Events 1981</unittitle> 
+				  <unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/112</container> 
+				  <unittitle>Invitation from Washington Women Lawyers - Judicial
+					 Candidate Forum Night</unittitle> 
+				  <unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/113</container> 
+				  <unittitle>Memo Between Clara Fraser and Betty Maloney - Clique
+					 Fight 1981</unittitle> 
+				  <unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/114</container> 
+				  <unittitle>Seattle Radical Women Organizer Betty Maloney
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1981/1983" era="ce" calendar="gregorian">1981-1983</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/115</container> 
+				  <unittitle>Events 1982 - Women In The Trades Public
+					 Forum</unittitle> 
+				  <unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/116</container> 
+				  <unittitle>Finances 1982 - Feminist Mobilization Fund and
+					 Memos</unittitle> 
+				  <unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/117</container> 
+				  <unittitle>Seattle Radical Women 1983 </unittitle> 
+				  <unitdate type="inclusive" normal="1982/1983" era="ce" calendar="gregorian">1982-1983</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/118</container> 
+				  <unittitle>Gloria Martin Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/119</container> 
+				  <unittitle>Anne Slater to Nancy Kato - New South African Canadian
+					 Member</unittitle> 
+				  <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/120</container> 
+				  <unittitle>Events 1996 - Sandy Nelson Case, Same-sex Marriage,
+					 and Gay Pride </unittitle> 
+				  <unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/121</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>Grays Harbor, Washington Radical Women
+				  Chapter</unittitle> 
+				<unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/121</container> 
+				  <unittitle>The Daily World - "Peace Bishop" Sparks Reaction By
+					 Sandy Nelson - February 1982</unittitle> 
+				  <unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/122-124</container> 
+				<unitid type="uwsc">Subseries C</unitid> 
+				<unittitle>Portland, Oregon Radical Women Chapter</unittitle> 
+				<unitdate type="inclusive" normal="1982/1992" era="ce" calendar="gregorian">1982-1992</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/122</container> 
+				  <unittitle>Correspondence from Branch Organizer Adrienne Weller
+					 to National Organizer Constance Scott</unittitle> 
+				  <unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/123</container> 
+				  <unittitle>Correspondence from Branch Organizer Adrienne Weller
+					 to Workers Vanguard</unittitle> 
+				  <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/124</container> 
+				  <unittitle>Events 1979</unittitle> 
+				  <unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/125-126</container> 
+				<unitid type="uwsc">Subseries D</unitid> 
+				<unittitle>Los Angeles, California Radical Women
+				  Chapter</unittitle> 
+				<unitdate type="inclusive" normal="1982/1994" era="ce" calendar="gregorian">1982-1994</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/125</container> 
+				  <unittitle>Correspondence from Branch Organizer Monica Hill to
+					 National Organizer Constance Scott </unittitle> 
+				  <unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/126</container> 
+				  <unittitle>Correspondence from Mary Ann Curtis on New Branch
+					 Organizer Donna Ramirez and Finance Director Christine Browning</unittitle> 
+				  <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/127-129</container> 
+				<unitid type="uwsc">Subseries E</unitid> 
+				<unittitle>San Francisco, California Radical Women
+				  Chapter</unittitle> 
+				<unitdate type="inclusive" normal="1979/1990" era="ce" calendar="gregorian">1979-1990</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/127</container> 
+				  <unittitle>San Francisco Committee for A Revolutionary Socialist
+					 Party Member Mike Delacour - People's Park 10th Anniversary</unittitle> 
+				  <unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/128</container> 
+				  <unittitle>Women Writers Union Partnership - Events and
+					 Membership</unittitle> 
+				  <unitdate type="inclusive" normal="1979/1980" era="ce" calendar="gregorian">1979-1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/129</container> 
+				  <unittitle>Membership 1990</unittitle> 
+				  <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/130</container> 
+				<unitid type="uwsc">Subseries F</unitid> 
+				<unittitle>Juneau, Alaska Radical Women Chapter</unittitle> 
+				<unitdate type="inclusive" normal="1979/1982" era="ce" calendar="gregorian">1979-1982</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/130</container> 
+				  <unittitle> Letter to Sharman Haley Regarding Participation In
+					 Common Ground</unittitle> 
+				  <unitdate type="inclusive" normal="1979/1982" era="ce" calendar="gregorian">1979-1982</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/131</container> 
+				<unitid type="uwsc">Subseries G</unitid> 
+				<unittitle>Mankato, Minnesota Radical Women Chapter</unittitle> 
+				<unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/131</container> 
+				  <unittitle>Midwest Adventures, Outreach, and Prospects - Carolyn
+					 Kanyusik[?]</unittitle> 
+				  <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/132-133</container> 
+				<unitid type="uwsc">Subseries H</unitid> 
+				<unittitle>Melbourne, Australia Radical Women Chapter</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/132</container> 
+				  <unittitle>Report on Garage Sale - Alison Thorne</unittitle> 
+				  <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/133</container> 
+				  <unittitle>Melbourne Radical Women Study Group- Woman Workers:
+					 Sparkplugs of Labor</unittitle> 
+				  <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SimerJeremy5142.xml" encodinganalog="identifier" identifier="80444/xv71514">SimerJeremy5142.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Jeremy Simer Papers
+			 </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Simer (Jeremy)
+			 Papers</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20070918" era="ce" calendar="gregorian">©2007</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date>
+		  </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised November
+			 2013</date> 
+		  <item>Added accession -002. Susan Kemp</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid type="mss" encodinganalog="099">5142</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100" source="uwsc-naf">Simer,
+			 Jeremy</persname> </origination> 
+		<unittitle type="collection">Jeremy Simer papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1992/1999">1992-1999</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian" normal="1997/1998">1997-1998</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">0.95 cubic feet </extent>
+		  <extent>2 boxes</extent>
+		</physdesc>
+		<physdesc><extent>1 expanding folder</extent>
+		</physdesc>
+		<physdesc><extent>1 vertical file</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">University of
+		  Washington alumnus and student activist</abstract> <langmaterial>Collection
+		materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>University of Washington alumnus and student activist.</p> 
+		<p>Jeremy Orhan Simer attended the University of Washington from 1995 to
+		  1998, and received a Bachelor of Arts degree.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Arranged into 2 accessions: 
+		  <list type="marked"> 
+			 <item>Accession no. 5142-001, Jeremy Simer papers, 1992-1999 (bulk:
+				1997-1998)</item> 
+			 <item>Accession no. 5142-002, Jeremy Simer papers, 1997-1998</item> 
+		  </list></p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Correspondence, agenda, minutes, writings, newsletters, notes,
+		  organizing documents, proposals, lists, clippings, and other related materials.
+		  </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {Text of the Scope and Content Note, in paragraphs; separate each with paragraph tags}?></p>
+		
+	 </altformavail> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users, but access to portions of the papers restricted.
+		  Contact Special Collections for details.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Creator's literary rights not transferred to the University of
+		  Washington Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Donated by Jeremy Simer, 1/20/1999</p> 
+	 </acqinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <controlaccess id="a12"> 
+		<controlaccess id="persname"> 
+		  <persname encodinganalog="600" role="subject" source="uwsc-naf">Simer,
+			 Jeremy$vArchives</persname> 
+		  <persname role="subject" encodinganalog="600"><?xm-replace_text {Additional name of person who is an important subject of the coll.; surname first}?></persname>
+		  
+		  <persname role="creator" encodinganalog="700"><?xm-replace_text {Additional creator, personal}?></persname>
+		  
+		</controlaccess> 
+		<controlaccess id="corpname"> 
+		  <corpname role="subject" encodinganalog="610"><?xm-replace_text {Additional corporate name that is an important subject of the coll.}?></corpname>
+		  
+		  <corpname role="creator" encodinganalog="710">Labor Archives of
+			 Washington (University of Washington)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf"/> 
+			 <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Student Action Network (Seattle, Wash.)</corpname> 
+			 <corpname role="creator" encodinganalog="710" source="uwsc-naf">Coalition for Domestic Partnership Equality (University of
+				Washington)</corpname> 
+			 <corpname role="creator" encodinganalog="710" source="uwsc-naf">University of Washington. Student Labor Action
+				Committee</corpname> 
+			 <corpname role="creator" encodinganalog="710" source="uwsc-naf">University Zapatista Liberation Network</corpname> 
+			 <corpname role="creator" encodinganalog="710" source="uwsc-naf">Campus Voice Coalition</corpname> 
+			 <corpname role="creator" encodinganalog="710" source="uwsc-naf">Democracy and Globalization Working Group </corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <geogname source="lcsh" role="subject" encodinganalog="651"><?xm-replace_text {LC place heading, with subheading if appropriate}?></geogname>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Broad topical browse heading taken from mscua term list}?></subject>
+		  
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Civic
+			 Activism</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Colleges and Universities</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <genreform source="lcsh" encodinganalog="655"><?xm-replace_text {Form or genre term, eg, Photographs. Use lcsh, aat, or gmgpc terms}?></genreform>
+		  
+		  <genreform source="lcsh" encodinganalog="655"><?xm-replace_text {Form or genre term, eg, Photographs. Use lcsh, aat, or gmgpc terms}?></genreform>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <title role="creator" encodinganalog="710" source="lcnaf" rules="aacr2" linktype="simple">Ruckus : an offshoot of the Student Action Network</title> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar">5142-001</unitid> 
+			 <unittitle encodinganalog="245$a">Jeremy Simer papers</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" normal="1992/1999" era="ce" calendar="gregorian">1992-1999</unitdate> 
+			 <unitdate type="bulk" encodinganalog="245$f" normal="1997/1998" era="ce" calendar="gregorian">1997-1998</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">0.92 cubic feet</extent>
+				<extent encodinganalog="300$a">2 boxes</extent>
+			 </physdesc>
+			 <physdesc><extent>1 expanding folder</extent>
+			 </physdesc>
+		  </did> 
+		  <arrangement encodinganalog="351"> 
+			 <p><?xm-replace_text {OPTIONAL: Explain the arrangement of the accession}?></p>
+			 
+		  </arrangement> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Correspondence primarily in the form of e-mail, agenda, minutes,
+				writings, newsletters, notes, organizing documents, proposals, lists,
+				clippings, and other related materials. Papers document Jeremy Simer's
+				participation and leadership in a number of University of Washington activist
+				organizations, including: the Student Action Network and its newsletter,
+				"Ruckus"; the Student Labor Action Coalition; University Zapatista Liberation
+				Network; Coalition for Domestic Partnership Equality; and Student Organization
+				University Resources Coalition (SOURCE).</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p><?xm-replace_text {OPTIONAL: For an accession, enter brief information re. its acquisition}?></p>
+			 
+		  </acqinfo> 
+		  <otherfindaid encodinganalog="555" id="a8"> 
+			 <p altrender="preliminary">Inventory/container list available in
+				Special Collections. 
+				<extptr href="5142-001.pdf" role="pdf-ms" arcrole="application/pdf" altrender="pdf-autolink" show="new" actuate="onrequest" linktype="simple"/>
+				</p> 
+		  </otherfindaid> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar">5142-002</unitid> 
+			 <unittitle encodinganalog="245$a">Jeremy Simer papers</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" normal="1997/1998" era="ce" calendar="gregorian">1997-1998</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">1 vertical file</extent>
+			 </physdesc>
+		  </did> 
+		  <arrangement encodinganalog="351"> 
+			 <p><?xm-replace_text {OPTIONAL: Explain the arrangement of the accession}?></p>
+			 
+		  </arrangement> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Ephemera and other organizing material of the United Farm Workers
+				of America for its campaigns for berry, orchard, and vineyard workers in
+				Califoria and Washington State, 1997-1998</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p><?xm-replace_text {OPTIONAL: For an accession, enter brief information re. its acquisition}?></p>
+			 
+		  </acqinfo> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

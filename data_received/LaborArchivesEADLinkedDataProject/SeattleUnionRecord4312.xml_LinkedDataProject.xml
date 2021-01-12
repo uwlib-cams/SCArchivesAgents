@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SeattleUnionRecord4312.xml" encodinganalog="identifier" identifier="80444/xv76934">SeattleUnionRecord4312.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Seattle Union Record
+			 Business Records </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Seattle Union Record
+			 Business Records</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20130806" era="ce" calendar="gregorian">© 2013</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation> 
+		  <date era="ce" calendar="gregorian">2012</date></creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage><descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change audience="external"> 
+		  <date era="ce" calendar="gregorian">Finding aid revised May 2018</date> 
+		  <item audience="external">Added inventory by Hiroki Watanbe, Gordon
+			 Shelton-Jencks and Ernie Dornfeld. Conor Casey marked up intellectual
+			 subdivisions and inventory that Ernie Dornfeld finalized. </item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">4312</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wau-ar">4312-001</unitid> 
+		<origination> 
+		  <corpname encodinganalog="110" role="creator">Seattle Union Record
+			 (Seattle, Wash. : 1918)</corpname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Seattle Union Record
+		  business records</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1903/1928" era="ce" calendar="gregorian">1903-1928</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" normal="1918/1928" era="ce" calendar="gregorian">1918-1928</unitdate> 
+		<physdesc><extent encodinganalog="300$a">6.17 cubic feet</extent>
+		  <extent encodinganalog="300$a">8 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Cashbooks,
+		  subscription records and other business records related to the Union</abstract>
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption 
+info inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z  
+No info needed in <resource> element-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="a2" altrender="sync"> 
+		<p>The Seattle Union Record was a labor newspaper published from 1899 to
+		  1928. For most of its life it was published by the Central Labor Council of
+		  Seattle; Harry Ault was the paper's editor from 1912 to 1928. The paper was
+		  published weekly from 1899 until 1918, when it became a daily. The paper played
+		  an important role in the Seattle General Strike of 1919.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Ledgers, stockholder records, subscription lists and other financial
+		  records of the paper. The bulk of the records date from the period when the
+		  Seattle Union Record published as a daily, 1918-1928.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" linktype="simple"/></p> 
+	 </altformavail><phystech encodinganalog="340" id="a35" type="phys"> 
+	 <p>Records stored offsite; advance notice required for use.</p></phystech> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Creator's literary rights not transferred to the University of
+		  Washington Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, 
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Mrs. Harry E.B. Ault, 1956.</p> 
+	 </acqinfo> 
+	 <processinfo id="a20" encodinganalog="583"> 
+		<p><?xm-replace_text {Enter the text "Processed by" and the name of the person/s who processed the coll. if known.  Enter the text "; processing completed in" record the year when processing was completed along with other processing-related information}?></p>
+		
+		<processinfo encodinganalog="544__$n" type="reloc"> 
+		  <p><?xm-replace_text {State if visual materials were relocated, give title and if available photo 
+		coll. no.; see manual for details }?></p> 
+		</processinfo> 
+	 </processinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<subject encodinganalog="650">American newspapers$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Labor unions$zWashington (State) </subject>
+		
+		<geogname encodinganalog="651">Seattle (Wash.)$vNewspapers </geogname> 
+		<subject encodinganalog="650">Labor journalism$zWashington
+		  (State)$zSeattle</subject> 
+		<corpname role="subject" encodinganalog="610">Central Labor Council of
+		  Seattle and Vicinity</corpname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<title encodinganalog="630" rules="aacr2" linktype="simple">Seattle Union Record (Seattle,
+		  Wash. : 1918)</title> 
+		<title encodinganalog="630" rules="aacr2" linktype="simple">Seattle Union Record (Seattle,
+		  Wash. : 1901)</title> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+		<subject source="archiveswest" altrender="nodisplay">Businesses and
+		  Corporations</subject> 
+		<subject source="archiveswest" altrender="nodisplay">Labor
+		  Unions</subject> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/1 - 8/4</container> 
+			 <unitid type="uwsc">SERIES 1</unitid> 
+			 <unittitle encodinganalog="245$a">SEATTLE UNION RECORD BUSINESS
+				RECORDS</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1903/1928">1903-1928</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 1
+				  of 5)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/1924">1922-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 2
+				  of 5)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/1924">1922-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 3
+				  of 5)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/1924">1922-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 4
+				  of 5)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/1924">1922-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 5
+				  of 5)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/1924">1922-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 1
+				  of 4)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1925/1927">1925-1927</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 2
+				  of 4)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1925/1927">1925-1927</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 3
+				  of 4)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1925/1927">1925-1927</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9</container> 
+				<unittitle encodinganalog="245$a">Accounts payable ledger (part 4
+				  of 4)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1925/1927">1925-1927</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle encodinganalog="245$a">Accounts payable
+				  ledger</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1928/">1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 1 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 2 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/13</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 3 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 4 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 5 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 6 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 7 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 8 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/19</container> 
+				<unittitle encodinganalog="245$a">Ledger (part 9 of 9)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1928">1918-1928</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1</container> 
+				<unittitle encodinganalog="245$a">Cash book</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1903/1907">1903-1907</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/2</container> 
+				<unittitle encodinganalog="245$a">Subscription List
+				  (alphabetical)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1903/1904">1903-1904</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/3</container> 
+				<unittitle encodinganalog="245$a">Organizational records (per
+				  capita contributions)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/4</container> 
+				<unittitle encodinganalog="245$a">Weekly financial
+				  statements</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1925/1927">1925-1927</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/5</container> 
+				<unittitle encodinganalog="245$a">Daily sales report</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1920/1922">1920-1922</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/6</container> 
+				<unittitle encodinganalog="245$a">Journal entries and
+				  summaries</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1922">1918-1922</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/7</container> 
+				<unittitle encodinganalog="245$a">Miscellaneous journal</unittitle>
+				
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/1924">1922-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/8</container> 
+				<unittitle encodinganalog="245$a">Receipt book
+				  (alphabetical)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1921/1922">1921-1922</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/9</container> 
+				<unittitle encodinganalog="245$a">Union Record expansion fund
+				  </unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/1921">1919-1921</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/10</container> 
+				<unittitle encodinganalog="245$a">Roll book - alphabetical record
+				  of stockholders</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="undated/">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/11</container> 
+				<unittitle encodinganalog="245$a">Ledger</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1903/1905">1903-1905</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/12</container> 
+				<unittitle encodinganalog="245$a">Advertising earnings</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1920/1927">1920-1927</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/13</container> 
+				<unittitle encodinganalog="245$a">Appraisal record</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1921/">1921</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle encodinganalog="245$a">Appraisal record</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1925/">1925</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/1</container> 
+				<unittitle encodinganalog="245$a">Record of stock
+				  issued</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1923">1918-1923</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/2</container> 
+				<unittitle encodinganalog="245$a">Cash book (Union Record
+				  accounts)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/">1919</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/3</container> 
+				<unittitle encodinganalog="245$a">Cash book
+				  (circulation)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/">1919</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/1</container> 
+				<unittitle encodinganalog="245$a">Cash book (daily
+				  accounts)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/">1919</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/2</container> 
+				<unittitle encodinganalog="245$a">Cash book (daily
+				  cash)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/1919">1918-1919</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/3</container> 
+				<unittitle encodinganalog="245$a">Cash book (1 of 2)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/">1918</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/4</container> 
+				<unittitle encodinganalog="245$a">Cash book (2 of 2)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/">1918</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/1</container> 
+				<unittitle encodinganalog="245$a">Cash book (weekly
+				  cash)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1917/1918">1917-1918</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/2</container> 
+				<unittitle encodinganalog="245$a">Cash book (equipment
+				  fund)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1917/1920">1917-1920</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/3</container> 
+				<unittitle encodinganalog="245$a">Cash book (weekly
+				  cash)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1916/1917">1916-1917</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/4</container> 
+				<unittitle encodinganalog="245$a">Cash book</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1915/1916">1915-1916</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/1</container> 
+				<unittitle encodinganalog="245$a">Cash book (including 1913
+				  erratum)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1914/1915">1914-1915</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/2</container> 
+				<unittitle encodinganalog="245$a">Cash book (disbursement expense
+				  ledger)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/1926">1924-1926</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/3</container> 
+				<unittitle encodinganalog="245$a">Cash book / cash receipt
+				  journal</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/1924">1919-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/1</container> 
+				<unittitle encodinganalog="245$a">Cash Book</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1920/1922">1920-1922</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/2</container> 
+				<unittitle encodinganalog="245$a">Cash Book</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/1920">1919-1920</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/3</container> 
+				<unittitle encodinganalog="245$a">Bank record</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1914/1915">1914-1915</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/1</container> 
+				<unittitle encodinganalog="245$a">Expense ledger</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1920/1924">1920-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/2</container> 
+				<unittitle encodinganalog="245$a">Cash book
+				  (circulation)</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/1921">1919-1921</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/3</container> 
+				<unittitle encodinganalog="245$a">Subscription record</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/">1919</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/4</container> 
+				<unittitle encodinganalog="245$a">Account record</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/1924">1922-1924</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

@@ -1,0 +1,2564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KelseyNormaL6231.xml" encodinganalog="identifier" identifier="80444/xv888213">KelseyNormaL6231.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Norma L. Kelsey
+			 Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Kelsey (Norma L.)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Ernie
+			 Dornfeld</author> 
+		  <sponsor encodinganalog="contributor">Finding aid funded by the Labor
+			 Archives of Washington</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20181114">© 2018</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised July
+			 2019</date> 
+		  <item>Accession 6231-002 added, Kate Miller</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6231</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100">Kelsey, Norma
+			 L.</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Norma L. Kelsey
+		  papers</unittitle> 
+		<unitdate type="inclusive" normal="1970/2017" certainty="approximately" era="ce" calendar="gregorian">approximately 1970-2010</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc><extent>12.66 cubic feet</extent>
+		  <extent>11 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Papers and VHS
+		  tapes of a labor activist, social justice activist, feminist, and union
+		  member</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Labor activist, social justice activist, feminist, and union member.
+		  Kelsey was a member or officer of various labor and social justice
+		  organizations, including the Office and Professional Employees International
+		  Union Local 8, the King County Labor Council; El Centro de la Raza; Mothers for
+		  Police Accountability, the King County Union Retirees Council, the Puget Sound
+		  Alliance for Retired Americans, and the Coalition of Labor Union Women, among
+		  others. Kelsey was also involved in the work of the Seattle City Council's
+		  World Trade Organization Accountability Review Committee as a member of its
+		  Citizens Panel on Planning and Preparedness. </p> 
+	 </bioghist> 
+	 <arrangement> 
+		<p>Organized into 2 accessions.</p> 
+		<list type="simple"> 
+		  <item>Accession No. 6231-001, Norma L. Kelsey papers,
+			 1970s-2010s</item> 
+		  <item>Accession No. 6231-002, Norma L. Kelsey video recordings and
+			 papers, approximately 1990-2010</item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Correspondence, materials related to Kelsey's activism with labor and
+		  social justice organizations, records of her membership in Local 8, boad
+		  records, interview notes, draft documents, reports, VHS tapes, and print
+		  material related to OPEIU Local 8 meetings. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Norma Kelsy's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Donated by Norma Kelsey.</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname role="subject" encodinganalog="600">Kelsey, Norma
+		  L.$vArchives</persname> 
+		<subject encodinganalog="650">Labor unions$zWashington (State) </subject>
+		
+		<subject encodinganalog="650">Labor unions$zWashington (State)$xOfficials
+		  and employees</subject> 
+		<subject encodinganalog="650">Labor union members$zWashington (State)
+		  </subject> 
+		<subject encodinganalog="650">Labor$zWashington (State) </subject> 
+		<subject encodinganalog="650">Labor movement$zWashington (State)
+		  </subject> 
+		<corpname role="subject" encodinganalog="610">AFL-CIO.$bKing County Labor
+		  Council of Washington</corpname> 
+		<geogname encodinganalog="651">Central America$xPolitics and
+		  government$y1979- </geogname> 
+		<corpname role="subject" encodinganalog="610">Centro de la Raza (Seattle,
+		  Wash.)</corpname> 
+		<corpname role="subject" encodinganalog="610">Office and Professional
+		  Employees International Union.$bLocal 8 (Seattle, Wash.)</corpname> 
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Personal correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform> 
+		<corpname role="host institution" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Civic Activism</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Women</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">6231-001</unitid> 
+			 <unittitle>Norma L. Kelsey papers</unittitle> 
+			 <unitdate type="inclusive" normal="1970/2010" certainty="approximate" era="ce" calendar="gregorian">approximately 1970-2010</unitdate> 
+			 <physdesc><extent>12.01 cubic feet</extent>
+				<extent>10 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Correspondence and subject files include materials related to
+				Kelsey's activism with labor and social justice organizations, Central America
+				issues, and women's and senior's issues. A substantial group of records
+				documents Kelsey's work with El Centro de la Raza, a social service
+				organization in Seattle. Materials from Kelsey's activities in the labor
+				movement include records from her membership in Local 8 of the Office and
+				Professional Employees International Union (Secretary-Treasurer, 1985-1989;
+				President, 1989-2001), and to her work on the Executive Board of the King
+				County Labor Council. Records of her work on a Citizens' Panel of the Seattle
+				City Council's World Trade Organization Accountability Review Committee include
+				interview notes, correspondence, draft documents, and reports on the
+				preparation and planning for the WTO's ministerial meeting in Seattle in 1999.
+				The collection also contains publications of organizations in which Kelsey was
+				active, particularly the Puget Sound Alliance for Retired Americans and OPEIU
+				Local 8.</p> 
+		  </scopecontent><phystech> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>No restrictions on access. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's copyrights transferred to the University of Washington
+				Libraries Special Collections. </p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Donated by Norma Kelsey</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">1/1-1/10</container> 
+				<unitid type="uwsc">SERIES 1</unitid> 
+				<unittitle>BIOGRAPHICAL AND PERSONAL RECORDS</unittitle> 
+				<unitdate type="inclusive" normal="1967/1994" era="ce" calendar="gregorian">1967-1994</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle>Biographical files</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1989" era="ce" calendar="gregorian">1985-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle>Kelsey family documents</unittitle> 
+				  <unitdate type="inclusive" normal="Undated" era="ce" calendar="gregorian">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle>Professional notes and correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1987/1994" era="ce" calendar="gregorian">1987-1994,
+					 undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle>Norma and Bob Kelsey personal
+					 correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1987/1994" era="ce" calendar="gregorian">1987-1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle>Norma's personal file</unittitle> 
+				  <unitdate type="inclusive" normal="1967/1992" era="ce" calendar="gregorian">1967-1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle>Norma's personal file</unittitle> 
+				  <unitdate type="inclusive" normal="1978/1989" era="ce" calendar="gregorian">1978-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle>Norma's personal file</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1989" era="ce" calendar="gregorian">1985-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle>Resources for personal improvement</unittitle> 
+				  <unitdate type="inclusive" normal="Undated" era="ce" calendar="gregorian">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle>Handwritten notes</unittitle> 
+				  <unitdate type="inclusive" normal="1986/1987" era="ce" calendar="gregorian">1986-1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle>Personal notes</unittitle> 
+				  <unitdate type="inclusive" normal="1989/1991" era="ce" calendar="gregorian">1989-1991</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">1/11-4/8</container> 
+				<unitid type="uwsc">SERIES 2</unitid> 
+				<unittitle>CORRESPONDENCE AND SUBJECT FILES</unittitle> 
+				<unitdate type="inclusive" normal="1974/2009" era="ce" calendar="gregorian">1974-2009</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle>General correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1989/2007" era="ce" calendar="gregorian">1989-2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle>General correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1995/2002" era="ce" calendar="gregorian">1995-2002</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle>General correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unittitle>1992 elections</unittitle> 
+				  <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unittitle>A Party Exploratory Committee</unittitle> 
+				  <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/16</container> 
+				  <unittitle>AFL-CIO</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1987" era="ce" calendar="gregorian">1985-1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/17</container> 
+				  <unittitle>Asian Pacific American Labor Alliance</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2001" era="ce" calendar="gregorian">1999-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/18</container> 
+				  <unittitle>Asian Pacific Islander Cultural Awareness
+					 Group</unittitle> 
+				  <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Casa Latina</unittitle> 
+				  <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/20</container> 
+				  <unittitle>Cement plant</unittitle> 
+				  <unitdate type="inclusive" normal="1986" era="ce" calendar="gregorian">1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/21</container> 
+				  <unittitle>Central America</unittitle> 
+				  <unitdate type="inclusive" normal="1988/1991" era="ce" calendar="gregorian">1988-1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/22</container> 
+				  <unittitle>Central America Peace Campaign membership</unittitle> 
+				  <unitdate type="inclusive" normal="Undated" era="ce" calendar="gregorian">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/23</container> 
+				  <unittitle>Central America protests</unittitle> 
+				  <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/24</container> 
+				  <unittitle>Civil rights</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/25</container> 
+				  <unittitle>Coalition of Labor Union Women</unittitle> 
+				  <unitdate type="inclusive" normal="1974/2001" era="ce" calendar="gregorian">1974-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/26</container> 
+				  <unittitle>Coalition of Labor Union Women - Puget Sound chapter
+					 newsletter</unittitle> 
+				  <unitdate type="inclusive" normal="1984/1993" era="ce" calendar="gregorian">1984-1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/27</container> 
+				  <unittitle>Colombia trade unions information</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/28</container> 
+				  <unittitle>Continental Airlines boycott</unittitle> 
+				  <unitdate type="inclusive" normal="1988" era="ce" calendar="gregorian">1988</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/29</container> 
+				  <unittitle>Criminal justice reform</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/30</container> 
+				  <unittitle>Death penalty</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/31</container> 
+				  <unittitle>Democratic Party</unittitle> 
+				  <unitdate type="inclusive" normal="2004/2006" era="ce" calendar="gregorian">2004-2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/32</container> 
+				  <unittitle>Diversity / outreach</unittitle> 
+				  <unitdate type="inclusive" normal="1996, undated" era="ce" calendar="gregorian">1996,
+					 undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/33</container> 
+				  <unittitle>Domingo-Viernes-Jefferson Award</unittitle> 
+				  <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/1</container> 
+				  <unittitle>El Salvador</unittitle> 
+				  <unitdate type="inclusive" normal="1985/2001" era="ce" calendar="gregorian">1985-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/2</container> 
+				  <unittitle>El Salvador and Central America leadership
+					 tour</unittitle> 
+				  <unitdate type="inclusive" normal="1986" era="ce" calendar="gregorian">1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/3</container> 
+				  <unittitle>The Evergreen State College Labor Center</unittitle> 
+				  <unitdate type="inclusive" normal="1986/1994" era="ce" calendar="gregorian">1986-1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/4</container> 
+				  <unittitle>Fair trade</unittitle> 
+				  <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/5</container> 
+				  <unittitle>Flags of convenience / Port of Seattle</unittitle> 
+				  <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/6</container> 
+				  <unittitle>Hands off My Neighbor symposium</unittitle> 
+				  <unitdate type="inclusive" normal="1986" era="ce" calendar="gregorian">1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unittitle>Healthcare advocacy</unittitle> 
+				  <unitdate type="inclusive" normal="1991/1993" era="ce" calendar="gregorian">1991-1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/8</container> 
+				  <unittitle>Dolores Huerta</unittitle> 
+				  <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/9</container> 
+				  <unittitle>Jobs with Justice</unittitle> 
+				  <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/10</container> 
+				  <unittitle>Kilusang Mayo Uno and Philippine activism</unittitle> 
+				  <unitdate type="inclusive" normal="1986/1989" era="ce" calendar="gregorian">1986-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/11</container> 
+				  <unittitle>Labor and politics articles and essays</unittitle> 
+				  <unitdate type="inclusive" normal="1980s" era="ce" calendar="gregorian">1980s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/12</container> 
+				  <unittitle>Labor Committee for Latin American
+					 Advancement</unittitle> 
+				  <unitdate type="inclusive" normal="1996/2001" era="ce" calendar="gregorian">1996-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/13</container> 
+				  <unittitle>Labor Committee on Central American
+					 (LACCA)</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1989" era="ce" calendar="gregorian">1985-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/14</container> 
+				  <unittitle>Labor history</unittitle> 
+				  <unitdate type="inclusive" normal="1967/2003" era="ce" calendar="gregorian">1967-2003</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/15</container> 
+				  <unittitle>Laborers International Union of North America
+					 (LIUNA)</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/16</container> 
+				  <unittitle>Laborers International Union of North America Local
+					 440</unittitle> 
+				  <unitdate type="inclusive" normal="1989/2004" era="ce" calendar="gregorian">1989-2004</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/17</container> 
+				  <unittitle>Martin Luther King / King County logo
+					 change</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2001" era="ce" calendar="gregorian">1999-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/18</container> 
+				  <unittitle>Mensa</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1992" era="ce" calendar="gregorian">1985-1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/19</container> 
+				  <unittitle>Metro-Miami Action Plan</unittitle> 
+				  <unitdate type="inclusive" normal="1993/1994" era="ce" calendar="gregorian">1993-1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/20</container> 
+				  <unittitle>Mothers for Police Accountability</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/21</container> 
+				  <unittitle>National Council of Senior Citizens</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/22</container> 
+				  <unittitle>National Rainbow Coalition</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1992" era="ce" calendar="gregorian">1985-1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/23</container> 
+				  <unittitle>Native Americans</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/24</container> 
+				  <unittitle>Nicaragua</unittitle> 
+				  <unitdate type="inclusive" normal="1984/1987" era="ce" calendar="gregorian">1984-1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/25</container> 
+				  <unittitle>Nicaragua</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1991" era="ce" calendar="gregorian">1985-1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/26</container> 
+				  <unittitle>Nicaragua activism</unittitle> 
+				  <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/27</container> 
+				  <unittitle>Nicaragua labor solidarity</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1990, 2000" era="ce" calendar="gregorian">1985-1990,
+					 2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/28</container> 
+				  <unittitle>Northwest Immigrant Rights Project</unittitle> 
+				  <unitdate type="inclusive" normal="Undated" era="ce" calendar="gregorian">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/29</container> 
+				  <unittitle>Northwest Labor and Employment Law Office
+					 (LELO)</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/30</container> 
+				  <unittitle>Nuclear arms race</unittitle> 
+				  <unitdate type="inclusive" normal="1984" era="ce" calendar="gregorian">1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/31</container> 
+				  <unittitle>Oxfam</unittitle> 
+				  <unitdate type="inclusive" normal="1980/1990" era="ce" calendar="gregorian">c. 1985</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/32</container> 
+				  <unittitle>Leonard Peltier</unittitle> 
+				  <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/33</container> 
+				  <unittitle>Persian Gulf crisis</unittitle> 
+				  <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/34</container> 
+				  <unittitle>Philippine Workers Support Committee</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1988" era="ce" calendar="gregorian">1985-1988</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/35</container> 
+				  <unittitle>Philippines</unittitle> 
+				  <unitdate type="inclusive" normal="1989/2001" era="ce" calendar="gregorian">1989-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/36</container> 
+				  <unittitle>Norma and Bob Kelsey personal writings and
+					 poetry</unittitle> 
+				  <unitdate type="inclusive" normal="1989/1994, undated" era="ce" calendar="gregorian">1989-1994,
+					 undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/1</container> 
+				  <unittitle>Poems</unittitle> 
+				  <unitdate type="inclusive" normal="1987, undated" era="ce" calendar="gregorian">1987,
+					 undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/2</container> 
+				  <unittitle>Political Rights Defense Fund</unittitle> 
+				  <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/3</container> 
+				  <unittitle>Politics (Washington State)</unittitle> 
+				  <unitdate type="inclusive" normal="1992/2009" era="ce" calendar="gregorian">1992-2009</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/4</container> 
+				  <unittitle>Port of Seattle</unittitle> 
+				  <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/5</container> 
+				  <unittitle>Press clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1982/2009" era="ce" calendar="gregorian">1982-2009</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/6</container> 
+				  <unittitle>Pro-union materials</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1990" era="ce" calendar="gregorian">1985-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/7</container> 
+				  <unittitle>Puget Sound Alliance for Retired Americans</unittitle>
+				  
+				  <unitdate type="inclusive" normal="2004/2009" era="ce" calendar="gregorian">2004-2009</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/8</container> 
+				  <unittitle>Ronald Reagan</unittitle> 
+				  <unitdate type="inclusive" normal="1980/1987" era="ce" calendar="gregorian">1980-1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/9</container> 
+				  <unittitle>Religious / Labor Coalition</unittitle> 
+				  <unitdate type="inclusive" normal="1998/2000" era="ce" calendar="gregorian">1998-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/10</container> 
+				  <unittitle>Sally Riccobono</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p>Restrict: privacy issues</p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/11</container> 
+				  <unittitle>Paul Robeson</unittitle> 
+				  <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/12</container> 
+				  <unittitle>Salvadorean Labor Defense Network</unittitle> 
+				  <unitdate type="inclusive" normal="1987/1989" era="ce" calendar="gregorian">1987-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/13</container> 
+				  <unittitle>Ricardo Sanchez campaign for Seattle City
+					 Council</unittitle> 
+				  <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/14</container> 
+				  <unittitle>Seattle Times strike</unittitle> 
+				  <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/15</container> 
+				  <unittitle>Seattle Worker Center</unittitle> 
+				  <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/16</container> 
+				  <unittitle>Service Employees International Union Local
+					 775</unittitle> 
+				  <unitdate type="inclusive" normal="1989/2007" era="ce" calendar="gregorian">1989-2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle>Service Employees International Union Local
+					 775</unittitle> 
+				  <unitdate type="inclusive" normal="2003" era="ce" calendar="gregorian">2003</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/18</container> 
+				  <unittitle>Service Employees International Union Local 775
+					 bargaining information</unittitle> 
+				  <unitdate type="inclusive" normal="2003" era="ce" calendar="gregorian">2003</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/19</container> 
+				  <unittitle>Shoreline Community College / University of
+					 Washington</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1986" era="ce" calendar="gregorian">1985-1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/20</container> 
+				  <unittitle>SOA Watch</unittitle> 
+				  <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/21</container> 
+				  <unittitle>Social Security reform</unittitle> 
+				  <unitdate type="inclusive" normal="1998/1999" era="ce" calendar="gregorian">1998-1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/22</container> 
+				  <unittitle>South Africa</unittitle> 
+				  <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/23</container> 
+				  <unittitle>Soviet Union</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1986" era="ce" calendar="gregorian">1985-1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/24</container> 
+				  <unittitle>Speakers bureau / media relations</unittitle> 
+				  <unitdate type="inclusive" normal="1987/1991" era="ce" calendar="gregorian">1987-1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/25</container> 
+				  <unittitle>Summer School for Trade Union Women</unittitle> 
+				  <unitdate type="inclusive" normal="1989" era="ce" calendar="gregorian">1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/26</container> 
+				  <unittitle>United Farm Workers</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1988" era="ce" calendar="gregorian">1985-1988</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/27</container> 
+				  <unittitle>United Farm Workers</unittitle> 
+				  <unitdate type="inclusive" normal="1998/2000" era="ce" calendar="gregorian">1998-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/28</container> 
+				  <unittitle>Washington State Communist Party USA
+					 convention</unittitle> 
+				  <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/29</container> 
+				  <unittitle>U.S. Nicaragua sister city conference</unittitle> 
+				  <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/30</container> 
+				  <unittitle>Washington Citizen Action</unittitle> 
+				  <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/31</container> 
+				  <unittitle>Washington Federation of State Employees Local 435,
+					 Fred Hyde</unittitle> 
+				  <unitdate type="inclusive" normal="2002" era="ce" calendar="gregorian">2002</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/32</container> 
+				  <unittitle>Washington State Alliance for Retired Americans
+					 convention</unittitle> 
+				  <unitdate type="inclusive" normal="2007" era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/33</container> 
+				  <unittitle>Washington State Labor Council AFL-CIO 1991 convention
+					 (part 1 of 3)</unittitle> 
+				  <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/34</container> 
+				  <unittitle>Washington State Labor Council AFL-CIO 1991 convention
+					 (part 2 of 3)</unittitle> 
+				  <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/35</container> 
+				  <unittitle>Washington State Labor Council AFL-CIO 1991 convention
+					 (part 3 of 3)</unittitle> 
+				  <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/36</container> 
+				  <unittitle>Washington State Labor Council AFL-CIO</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1993" era="ce" calendar="gregorian">1985-1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/37</container> 
+				  <unittitle>Washington State Labor Council Organizers' Committee
+					 materials</unittitle> 
+				  <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">c. 1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/38</container> 
+				  <unittitle>Washington Women United</unittitle> 
+				  <unitdate type="inclusive" normal="1986" era="ce" calendar="gregorian">1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/38</container> 
+				  <unittitle>White House Conference on Aging (part 1 of
+					 3)</unittitle> 
+				  <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/1</container> 
+				  <unittitle>White House Conference on Aging (part 2 of
+					 3)</unittitle> 
+				  <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/2</container> 
+				  <unittitle>White House Conference on Aging (part 3 of
+					 3)</unittitle> 
+				  <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/3</container> 
+				  <unittitle>White House Conference on Aging -- Washington State
+					 delegation</unittitle> 
+				  <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/4</container> 
+				  <unittitle>Women and labor / politics</unittitle> 
+				  <unitdate type="inclusive" normal="1987/1988" era="ce" calendar="gregorian">1987-1988</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/5</container> 
+				  <unittitle>Worker advocacy data</unittitle> 
+				  <unitdate type="inclusive" normal="1988" era="ce" calendar="gregorian">1988</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/6</container> 
+				  <unittitle>Workers, Unions and Electronic Surveillance
+					 Conference</unittitle> 
+				  <unitdate type="inclusive" normal="1986" era="ce" calendar="gregorian">1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/7</container> 
+				  <unittitle>World Trade Center mobilization</unittitle> 
+				  <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/8</container> 
+				  <unittitle>Artifacts and ephemera</unittitle> 
+				  <unitdate type="inclusive" normal="1975/1999" era="ce" calendar="gregorian">1975-1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <container type="box-folder">4/9-5/12</container> 
+				  <unitid type="uwsc">Subseries A</unitid> 
+				  <unittitle>RECORDS OF EL CENTRO DE LA RAZA ACTIVITIES</unittitle>
+				  
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+					 <unitdate type="bulk" era="ce" calendar="gregorian">1985/2004</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/9</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1985/1986" era="ce" calendar="gregorian">1985-1986</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/10</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/11</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1988" era="ce" calendar="gregorian">1988</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/12</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1989" era="ce" calendar="gregorian">1989</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/14</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/15</container> 
+					 <unittitle>El Centro de la Raza (part 1 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/16</container> 
+					 <unittitle>El Centro de la Raza (part 2 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/17</container> 
+					 <unittitle>El Centro de la Raza (part 1 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/18</container> 
+					 <unittitle>El Centro de la Raza (part 2 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/19</container> 
+					 <unittitle>El Centro de la Raza (part 1 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/20 </container> 
+					 <unittitle>El Centro de la Raza (part 2 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/21</container> 
+					 <unittitle>El Centro de la Raza (part 3 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/22</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/23</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/24</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/1</container> 
+					 <unittitle>El Centro de la Raza (part 1 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1997/1998" era="ce" calendar="gregorian">1997-1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/2</container> 
+					 <unittitle>El Centro de la Raza (part 2 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1997/1998" era="ce" calendar="gregorian">1997-1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/3</container> 
+					 <unittitle>El Centro de la Raza (part 3 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1997/1998" era="ce" calendar="gregorian">1997-1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/4</container> 
+					 <unittitle>El Centro de la Raza (part 1 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/5</container> 
+					 <unittitle>El Centro de la Raza (part 2 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/6</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/7</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/8</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/9</container> 
+					 <unittitle>El Centro de la Raza</unittitle> 
+					 <unitdate type="inclusive" normal="2003/2004" era="ce" calendar="gregorian">2003-2004</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/10</container> 
+					 <unittitle>Grievances with Head Start program</unittitle> 
+					 <unitdate type="inclusive" normal="1993/1994" era="ce" calendar="gregorian">1993-1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/11</container> 
+					 <unittitle>El Centro de la Raza community campaign</unittitle> 
+					 <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/12</container> 
+					 <unittitle>Roberto Maestas</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <container type="box-folder">5/13-6/18</container> 
+				  <unitid type="uwsc">Subseries B</unitid> 
+				  <unittitle>RECORDS OF KING COUNTY LABOR COUNCIL
+					 ACTIVITIES</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+					 <unitdate type="bulk" era="ce" calendar="gregorian">1991/2003</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/13</container> 
+					 <unittitle>King County Labor Council</unittitle> 
+					 <unitdate type="inclusive" normal="1991/1994" era="ce" calendar="gregorian">1991-1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/14</container> 
+					 <unittitle>Campaign for election to King County Labor Council
+						Board</unittitle> 
+					 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/15</container> 
+					 <unittitle>King County Labor Council</unittitle> 
+					 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/16</container> 
+					 <unittitle>King County Labor Council</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/17</container> 
+					 <unittitle>King County Labor Council</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/18</container> 
+					 <unittitle>King County Labor Council (part 1 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/19</container> 
+					 <unittitle>King County Labor Council (part 2 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/20</container> 
+					 <unittitle>King County Labor Council (part 3 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/21</container> 
+					 <unittitle>King County Labor Council (part 1 of 4)</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/22</container> 
+					 <unittitle>King County Labor Council (part 2 of 4)</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/23</container> 
+					 <unittitle>King County Labor Council (part 3 of 4)</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/24</container> 
+					 <unittitle>King County Labor Council (part 4 of 4)</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/1</container> 
+					 <unittitle>King County Labor Council</unittitle> 
+					 <unitdate type="inclusive" normal="2002/2003" era="ce" calendar="gregorian">2002-2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/2</container> 
+					 <unittitle>King County Labor Council Bylaws Committee (part 1
+						of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/3</container> 
+					 <unittitle>King County Labor Council Bylaws Committee (part 2
+						of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/4</container> 
+					 <unittitle>Organizing Committee / campaigns</unittitle> 
+					 <unitdate type="inclusive" normal="1998/2000" era="ce" calendar="gregorian">1998-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/5</container> 
+					 <unittitle>Political organizer position</unittitle> 
+					 <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/6</container> 
+					 <unittitle>Mobilization Committee</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/7</container> 
+					 <unittitle>Workers Memorial Subcommittee</unittitle> 
+					 <unitdate type="inclusive" normal="Undated" era="ce" calendar="gregorian">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/8</container> 
+					 <unittitle>Steve Williamson campaign</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/9</container> 
+					 <unittitle>Committee on Political Education (COPE) (part 1 of
+						2)</unittitle> 
+					 <unitdate type="inclusive" normal="1998/2000" era="ce" calendar="gregorian">1998-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/10</container> 
+					 <unittitle>Committee on Political Education (COPE) (part 2 of
+						2)</unittitle> 
+					 <unitdate type="inclusive" normal="1998/2000" era="ce" calendar="gregorian">1998-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/11</container> 
+					 <unittitle>Candidate interviews / election endorsements (part 1
+						of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/12</container> 
+					 <unittitle>Candidate interviews / election endorsements (part 2
+						of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/13</container> 
+					 <unittitle>King County Labor Council Political Action
+						Committee</unittitle> 
+					 <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/14</container> 
+					 <unittitle>King County Union Retirees Council,
+						AFL-CIO</unittitle> 
+					 <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/15</container> 
+					 <unittitle>King County Union Retirees Council,
+						AFL-CIO</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/16</container> 
+					 <unittitle>King County Union Retirees Council,
+						AFL-CIO</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/17</container> 
+					 <unittitle>King County Union Retirees Council,
+						AFL-CIO</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/18</container> 
+					 <unittitle>King County Union Retirees Council,
+						AFL-CIO</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <container type="box-folder">6/19-7/30</container> 
+				  <unitid type="uwsc">Subseries C</unitid> 
+				  <unittitle>RECORDS OF OFFICE AND PROFESSIONAL EMPLOYEES
+					 INTERNATIONAL UNION ACTIVITIES</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+					 <unitdate type="bulk" era="ce" calendar="gregorian">1984/2013</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/19</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1986/1989" era="ce" calendar="gregorian">1986-1989</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/20</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/21</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/22</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/23</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/24</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/25</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/26</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/27</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/28</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/1</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8 (part 1 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/2</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8 (part 2 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/3</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="2002/2007" era="ce" calendar="gregorian">2002-2007</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/4</container> 
+					 <unittitle>Office and Professional Employees International
+						Union Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="2006/2013" era="ce" calendar="gregorian">2006-2013</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/5</container> 
+					 <unittitle>Coalition to Save Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1984/1985" era="ce" calendar="gregorian">1984-1985</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/6</container> 
+					 <unittitle>Coalition for the Future of Local 8</unittitle> 
+					 <unitdate type="inclusive" normal="1985" era="ce" calendar="gregorian">1985</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/7</container> 
+					 <unittitle>Grievance Appeals Committee</unittitle> 
+					 <unitdate type="inclusive" normal="1993/1999" era="ce" calendar="gregorian">1993-1999</unitdate> 
+				  </did> 
+				  <accessrestrict> 
+					 <p>Restrict: privacy issues</p> 
+				  </accessrestrict> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/8</container> 
+					 <unittitle>Membership Action Committee</unittitle> 
+					 <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/9</container> 
+					 <unittitle>Organizing Committee</unittitle> 
+					 <unitdate type="inclusive" normal="1986/1997" era="ce" calendar="gregorian">1986-1997</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/10</container> 
+					 <unittitle>Political Action Committee</unittitle> 
+					 <unitdate type="inclusive" normal="1993/1999" era="ce" calendar="gregorian">1993-1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/11</container> 
+					 <unittitle>Executive Board retreat</unittitle> 
+					 <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/12</container> 
+					 <unittitle>Local 8 Constitution and Bylaws</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/13</container> 
+					 <unittitle>Financial information</unittitle> 
+					 <unitdate type="inclusive" normal="1984-1991" era="ce" calendar="gregorian">1984-1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/14</container> 
+					 <unittitle>Budget records (part 1 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1991/1992" era="ce" calendar="gregorian">1991-1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/15</container> 
+					 <unittitle>Budget records (part 2 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1991/1992" era="ce" calendar="gregorian">1991-1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/16</container> 
+					 <unittitle>Budget records (part 3 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1991/1992" era="ce" calendar="gregorian">1991-1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/17</container> 
+					 <unittitle>Policies, procedures and process
+						improvement</unittitle> 
+					 <unitdate type="inclusive" normal="1982/1999" era="ce" calendar="gregorian">1982-1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/18</container> 
+					 <unittitle>Union Representative interviews</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/19</container> 
+					 <unittitle>"Leadership that Works" coalition</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/20</container> 
+					 <unittitle>Local 8 elections</unittitle> 
+					 <unitdate type="inclusive" normal="1985/1990" era="ce" calendar="gregorian">1985-1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/21</container> 
+					 <unittitle>Local 8 elections protest</unittitle> 
+					 <unitdate type="inclusive" normal="1985/1990" era="ce" calendar="gregorian">1988-1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/22</container> 
+					 <unittitle>Officer elections</unittitle> 
+					 <unitdate type="inclusive" normal="1990/1991" era="ce" calendar="gregorian">1990-1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/23</container> 
+					 <unittitle>Local 8 elections protest</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/24</container> 
+					 <unittitle>Fremont Public Association dispute</unittitle> 
+					 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/25</container> 
+					 <unittitle>Office and Professional International Union Locals 8
+						and 23 staff agreement negotiations</unittitle> 
+					 <unitdate type="inclusive" normal="1989/1995" era="ce" calendar="gregorian">1989-1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/26</container> 
+					 <unittitle>Contract with Office and Professional International
+						Union locals</unittitle> 
+					 <unitdate type="inclusive" normal="1990/1993" era="ce" calendar="gregorian">1990-1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/27</container> 
+					 <unittitle>Trade Section master agreement</unittitle> 
+					 <unitdate type="inclusive" normal="1998/2001" era="ce" calendar="gregorian">1998-2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/28</container> 
+					 <unittitle>Trade Section contracts</unittitle> 
+					 <unitdate type="inclusive" normal="2007/2013" era="ce" calendar="gregorian">2007-2013</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/29</container> 
+					 <unittitle>Teresa Shannon grievance</unittitle> 
+					 <unitdate type="inclusive" normal="1998/2000" era="ce" calendar="gregorian">1998-2000</unitdate> 
+				  </did> 
+				  <accessrestrict> 
+					 <p>Restrict: privacy issues</p> 
+				  </accessrestrict> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/30</container> 
+					 <unittitle>Union ephemera</unittitle> 
+					 <unitdate type="inclusive" normal="2004, 2006" era="ce" calendar="gregorian">2004,
+						2006</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">7/31-8/3</container> 
+				  <unitid type="uwsc">Subseries D</unitid> 
+				  <unittitle>RECORDS OF PUGET SOUND ALLIANCE FOR RETIRED AMERICANS
+					 ACTIVITIES</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+					 <unitdate type="bulk" era="ce" calendar="gregorian">2000/2008</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/31</container> 
+					 <unittitle>Puget Sound Council of Senior Citizens</unittitle> 
+					 <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/32</container> 
+					 <unittitle>Puget Sound Alliance for Retired
+						Americans</unittitle> 
+					 <unitdate type="inclusive" normal="2004/2005" era="ce" calendar="gregorian">2004-2005</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/1</container> 
+					 <unittitle>Puget Sound Alliance for Retired
+						Americans</unittitle> 
+					 <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/2</container> 
+					 <unittitle>Puget Sound Alliance for Retired
+						Americans</unittitle> 
+					 <unitdate type="inclusive" normal="2006" era="ce" calendar="gregorian">2006</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/3</container> 
+					 <unittitle>Puget Sound Alliance for Retired
+						Americans</unittitle> 
+					 <unitdate type="inclusive" normal="2007/2008" era="ce" calendar="gregorian">2007-2008</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">8/4-9/15</container> 
+				  <unitid type="uwsc">Subseries E</unitid> 
+				  <unittitle>RECORDS OF WORLD TRADE ORGANIZATION ACCOUNTABILITY
+					 REVIEW COMMITTEE ACTIVITIES</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+					 <unitdate type="bulk" era="ce" calendar="gregorian">1999/2001</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/4</container> 
+					 <unittitle>World Trade Organization Ministerial Meeting:
+						protest organizing (part 1 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/5</container> 
+					 <unittitle>World Trade Organization Ministerial Meeting:
+						protest organizing (part 2 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/6</container> 
+					 <unittitle>Press clippings and downloads</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/7</container> 
+					 <unittitle>Public Safety Committee / World Trade Organization
+						conference / operation guide (part 1 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/8</container> 
+					 <unittitle>Public Safety Committee / World Trade Organization
+						conference / operation guide (part 2 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/9</container> 
+					 <unittitle>Panel 2 interview transcripts and related documents
+						(part 1 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/10</container> 
+					 <unittitle>Panel 2 interview transcripts and related documents
+						(part 2 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/11</container> 
+					 <unittitle>Panel 2 interview transcripts and related documents
+						(part 3 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/12</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee notes</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/13</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee Panel 2</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/14</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee Panel 2 correspondence, notes and minutes</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/15</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee Panel 2 policy</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/16</container> 
+					 <unittitle>World Trade Organization Ministerial Meeting Seattle
+						Host Committee</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/17</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee document database</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/18</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee budget</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/19</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee matrix / categories</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/20</container> 
+					 <unittitle>World Trade Organization ARC: permits</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/21</container> 
+					 <unittitle>World Trade Organization ARC: timelines</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/22</container> 
+					 <unittitle>World Trade Organization ARC: police
+						planning</unittitle> 
+					 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/23</container> 
+					 <unittitle>World Trade Organization Conference Public Safety
+						Committee (part 1 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/24</container> 
+					 <unittitle>World Trade Organization Conference Public Safety
+						Committee (part 2 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/25</container> 
+					 <unittitle>World Trade Organization Conference Public Safety
+						Committee (part 3 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/26</container> 
+					 <unittitle>WTO Accountability Review report to the Seattle City
+						Council</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/27</container> 
+					 <unittitle>R. M. McCarthy &amp; Associates. An Independent
+						review of the World Trade Organization disruptions in Seattle, Washington Nov.
+						29 - Dec 3, 1999</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/28</container> 
+					 <unittitle>Paul Richmond / National Lawyers Guild. Bringing in
+						an undemocratic institution brings an undemocratic response</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/1</container> 
+					 <unittitle>American Civil Liberties Union of Washington. Out of
+						control: Seattle's flawed response to protests against the World Trade
+						Organization</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/2</container> 
+					 <unittitle>Proposed City of Seattle legislation on events and
+						civil emergencies</unittitle> 
+					 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/3</container> 
+					 <unittitle>Seattle Police Department after-action report /
+						World Trade Organization Ministerial Conference</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/4</container> 
+					 <unittitle>Citizen group's response to Seattle's civil
+						emergency and World Trade Organization accountability review</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/5</container> 
+					 <unittitle>Washington Council on International Trade response
+						to World Trade Organization report</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/6</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee Preparations and Planning Panel final report - final
+						draft</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/7</container> 
+					 <unittitle>World Trade Organization Accountability Review
+						Committee Preparations and Planning Panel report</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/8</container> 
+					 <unittitle>Report to the Seattle City Council World Trade
+						Organization Accountability Review Committee by the Citizens Panel on World
+						Trade Organization Operations</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/9</container> 
+					 <unittitle>World Trade Organization Panel 2: questions (part 1
+						of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/10</container> 
+					 <unittitle>World Trade Organization Panel 2: questions (part 2
+						of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/11</container> 
+					 <unittitle>World Trade Organization Panel 2: matrix</unittitle>
+					 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/12</container> 
+					 <unittitle>World Trade Organization Panel 2: report draft
+						information (part 1 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/13</container> 
+					 <unittitle>World Trade Organization Panel 2: report draft
+						information (part 2 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/14</container> 
+					 <unittitle>World Trade Organization Panel 2: report draft
+						information (part 3 of 3)</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/15</container> 
+					 <unittitle>World Trade Organization N30 protest
+						anniversary</unittitle> 
+					 <unitdate type="inclusive" normal="2000" era="ce" calendar="gregorian">2000</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">9/16-10/14</container> 
+				  <unitid type="uwsc">SERIES 3</unitid> 
+				  <unittitle>PUBLICATIONS</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+					 <unitdate type="bulk" era="ce" calendar="gregorian">1980/2010</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/16</container> 
+					 <unittitle>AFL-CIO. Common sense economics: a group study
+						manual / facilitator's guide (part 1 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/17</container> 
+					 <unittitle>AFL-CIO. Common sense economics: a group study
+						manual / facilitator's guide (part 2 of 2)</unittitle> 
+					 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/18</container> 
+					 <unittitle>AFL-CIO. Common sense economics basic workshop
+						instructor's guide</unittitle> 
+					 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/19</container> 
+					 <unittitle>O.P.E.I.U. Local 8 Newsletter</unittitle> 
+					 <unitdate type="inclusive" normal="1983/1986" era="ce" calendar="gregorian">1983-1986</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/20</container> 
+					 <unittitle>Local 8 OPEIU Journal</unittitle> 
+					 <unitdate type="inclusive" normal="1986/1990" era="ce" calendar="gregorian">1986-1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/21</container> 
+					 <unittitle>Local 8 OPEIU Journal</unittitle> 
+					 <unitdate type="inclusive" normal="1991/1994" era="ce" calendar="gregorian">1991-1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/22</container> 
+					 <unittitle>Local 8 OPEIU Journal</unittitle> 
+					 <unitdate type="inclusive" normal="1995/1999" era="ce" calendar="gregorian">1995-1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/23</container> 
+					 <unittitle>Local 8 OPEIU Journal</unittitle> 
+					 <unitdate type="inclusive" normal="2000/2010" era="ce" calendar="gregorian">2000-2010</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/1</container> 
+					 <unittitle>Office and Professional Employee International Union
+						publications</unittitle> 
+					 <unitdate type="inclusive" normal="1989/1998" era="ce" calendar="gregorian">1989-1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/2</container> 
+					 <unittitle>King County Labor Council. Labor's Voice
+						(newsletter)</unittitle> 
+					 <unitdate type="inclusive" normal="1997/2003" era="ce" calendar="gregorian">1997-2003</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/3</container> 
+					 <unittitle>Puget Sound Council of Senior Citizens. Senior News
+						(newsletter)</unittitle> 
+					 <unitdate type="inclusive" normal="1998/2001" era="ce" calendar="gregorian">1998-2001</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/4</container> 
+					 <unittitle>Puget Sound Alliance for Retired Americans. The
+						Retiree Advocate (newsletter)</unittitle> 
+					 <unitdate type="inclusive" normal="2001/2005" era="ce" calendar="gregorian">2001-2005</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/5</container> 
+					 <unittitle>Puget Sound Alliance for Retired Americans. The
+						Retiree Advocate (newsletter)</unittitle> 
+					 <unitdate type="inclusive" normal="2007/2009" era="ce" calendar="gregorian">2007-2009</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/6</container> 
+					 <unittitle>Contra Watch</unittitle> 
+					 <unitdate type="inclusive" normal="1986" era="ce" calendar="gregorian">1986</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/7</container> 
+					 <unittitle>El Estiliano</unittitle> 
+					 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/8</container> 
+					 <unittitle>For Peace and Solidarity</unittitle> 
+					 <unitdate type="inclusive" normal="1985/1987" era="ce" calendar="gregorian">1985-1987</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/9</container> 
+					 <unittitle>Gente</unittitle> 
+					 <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/10</container> 
+					 <unittitle>The Monitor</unittitle> 
+					 <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/11</container> 
+					 <unittitle>Somos</unittitle> 
+					 <unitdate type="inclusive" normal="1985" era="ce" calendar="gregorian">1985</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/12</container> 
+					 <unittitle>Trabajadores</unittitle> 
+					 <unitdate type="inclusive" normal="1985" era="ce" calendar="gregorian">1985</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/13</container> 
+					 <unittitle>Nicaragua publications</unittitle> 
+					 <unitdate type="inclusive" normal="1980, undated" era="ce" calendar="gregorian">1980,
+						undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/14</container> 
+					 <unittitle>Laboreport on Latin America</unittitle> 
+					 <unitdate type="inclusive" normal="1985/1988" era="ce" calendar="gregorian">1985-1988</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">6231-002</unitid> 
+			 <unittitle>Norma L. Kelsey video recordings and papers</unittitle> 
+			 <unitdate type="inclusive" normal="1997/2018" certainty="approximate" era="ce" calendar="gregorian">approximately 1997-2018</unitdate> 
+			 <physdesc><extent>0.65 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>VHS Videotapes of news coverage of Norma Kelsey, World Trade
+				Organization protest (1999) news coverage and Accountability Commission tapes;
+				Common Sense Economics Trainings; Office and Professional Employees
+				International Union training tapes; and a video from Washington State Jobs With
+				Justice. Print materials include a 2017 Pacific Northwest Labor History
+				Association calendar; a speech on Kelsey's rank and file reform of OPEIU Local
+				8, and OPEIU Local 8 meeting materials and local information. </p> 
+		  </scopecontent><phystech> 
+		  <p>VHS video recordings. </p></phystech> 
+		  <accessrestrict> 
+			 <p>VHS cassettes are open for previewing onsite in the Special
+				Collections Reading Room only. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Status of the creator's copyrights is unknown; restrictions may
+				exist on copying, quotation, or publication. Users are responsible for
+				researching copyright status before use. </p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Donated by Norma Kelsey</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>Papers</unittitle> 
+				<unitdate type="inclusive" normal="2016" era="ce" calendar="gregorian">2016-2018</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle>OPEIU "Working Together" Issue</unittitle> 
+				  <unitdate type="inclusive" normal="2016" era="ce" calendar="gregorian">2016</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle>Labor History Calendar</unittitle> 
+				  <unitdate type="inclusive" normal="2017" era="ce" calendar="gregorian">2017</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle>OPEIU Local 8 meeting materials</unittitle> 
+				  <unitdate type="inclusive" normal="2017/2018" era="ce" calendar="gregorian">2017-2018</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<unittitle>VHS Tapes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1997-2000</unitdate> 
+			 </did> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>Institue for Community Leadership: Leadership
+					 Nonviolence Workshop</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>OPIEU Convention Opening "Leadership"</unittitle> 
+				  <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>WTO ARC - Panel Two Report</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">Aug 2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>WTO ARC</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">Sept 2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>WTO ARC</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">July 2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>WTO Accountability Review Committee</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">Aug 2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>Washington State: Jobs with Justice "Fighting
+					 Back"</unittitle> 
+				  <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>Common Sense Economics: Module #1: The Economy is not
+					 like the Weather</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>Economics Education: Module #2: Four Role
+					 Plays</unittitle> 
+				  <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>Norma on King TV; Norma on Town MTG</unittitle> 
+				  <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>Norma on King TV Town Meeting</unittitle> 
+				  <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>El Salvador; Edan Pastora Bombing, Frontline; Fire
+					 from the Mountain</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>National Partnership Video Conference</unittitle> 
+				  <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>Telenoticiero "Extravision"</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>The Battle in Seattle video slideshow (Collective
+					 Media)</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

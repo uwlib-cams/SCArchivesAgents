@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1130060639--><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+      <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BuildingConstructionTradesBremerton6278.xml" encodinganalog="identifier" identifier="80444/xv681304">BuildingConstructionTradesBremerton6278.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Guide to the Building and
+			 Construction Trades Council of Bremerton and Vicinity Records</titleproper>
+            <titleproper altrender="nodisplay" type="filing">Building and
+			 Construction Trades Council of Bremerton and Vicinity Records</titleproper>
+            <author encodinganalog="creator">Finding aid created by Elaine
+			 Speer</author>
+            <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+            <date encodinganalog="date" era="ce" calendar="gregorian" normal="20190715">© 2019</date>
+            <address>
+               <addressline>Seattle, WA 98195</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <revisiondesc>
+         <change>
+            <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+            <item><?xm-replace_text {Describe revision; include your name}?></item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21">
+      <did id="a1">
+         <repository>
+            <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea>
+            </corpname>
+            <address>
+               <addressline>Box 352900</addressline>
+               <addressline>Seattle, WA 98195-2900</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6278</unitid>
+         <unitid type="accession" countrycode="us" repositorycode="wauar">6278-001</unitid>
+         <origination>
+            <corpname role="creator" encodinganalog="110">Building and Construction
+			 Trades Council of Bremerton and Vicinity</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" type="collection">Building and
+		  Construction Trades Council of Bremerton and Vicinity records</unittitle>
+         <unitdate type="inclusive" normal="1948/1961" certainty="approximate" era="ce" calendar="gregorian">approximately 1948-1961</unitdate>
+         <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+         <physdesc>
+            <extent>0.42 cubic feet</extent>
+            <extent>1 box</extent>
+         </physdesc>
+         <abstract encodinganalog="5203_$a" altrender="nodisplay">Records of a
+		  council composed of building trades unions working in and near Bremerton,
+		  Washington</abstract>
+         <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial>
+         <dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/>
+      </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption 
+info inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z  
+No info needed in <resource> element--><daogrp linktype="extended">
+         <daodesc>
+            <p><?xm-replace_text {Image caption}?></p>
+         </daodesc>
+         <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.--><daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/>
+         <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/>
+      </daogrp>
+      <bioghist encodinganalog="5451_" id="a2">
+         <p>Records of a council composed of building trades unions working in and
+		  near Bremerton, Washington. Local building and construction councils coordinate
+		  the efforts of local unions that represent workers in the building and
+		  construction trades; lobby for policy impacting workers before the executive
+		  and legislative branches of state government; and deal with contractors,
+		  employer associations, project owners, and public bodies. The Executive Board
+		  sometimes acts on behalf of affiliate labor organizations in the legislative,
+		  regulatory, and judicial spheres in matters relating to wages, hours, working
+		  conditions, health and safety, regulation of work, and employment benefits.</p>
+      </bioghist>
+      <arrangement encodinganalog="351" id="a4">
+         <p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+      </arrangement>
+      <scopecontent>
+         <p>Meeting minutes, research files, correspondence, lawsuit and
+		  arbitration, financial records and other business records of the labor council
+		  for building trades unions in Bremerton, Washington and the surrounding area.
+		  The collection includes mailings and correspondence of the Washington State
+		  Building Trades Council, of which the Bremerton Council was an affiliate. Some
+		  materials include correspondence with legislators on building trades and
+		  labor-related issues and legislation that impacted the member unions of the
+		  council. </p>
+      </scopecontent>
+      <odd encodinganalog="500" id="a5">
+         <p><?xm-replace_text {Text of general note}?></p>
+      </odd>
+      <altformavail encodinganalog="530" id="a9">
+         <p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?><extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/>
+         </p>
+      </altformavail>
+      <phystech>
+         <p/>
+      </phystech>
+      <accessrestrict>
+         <p>No restrictions on access. </p>
+      </accessrestrict>
+      <userestrict>
+         <p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p>
+      </userestrict>
+      <acqinfo>
+         <p>Donated by Bob Gorman via International Brotherhood of Electrical
+		  Workers, Local 46</p>
+      </acqinfo>
+      <custodhist encodinganalog="561" id="a16">
+         <p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, 
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+      </custodhist>
+      <separatedmaterial encodinganalog="5440_$n" type="relocation">
+         <p>
+            <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+         </p>
+      </separatedmaterial>
+      <separatedmaterial encodinganalog="5441_$n" type="transfer">
+         <p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+      </separatedmaterial>
+      <bibliography id="a11" encodinganalog="581">
+         <p>
+            <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+         </p>
+      </bibliography>
+      <relatedmaterial encodinganalog="544__$n" id="a6">
+         <p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+      </relatedmaterial>
+      <appraisal id="a39" encodinganalog="583">
+         <p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+      </appraisal>
+      <controlaccess id="a12"><corpname role="subject" encodinganalog="610">Building and Construction Trades Council of Bremerton and Vicinity$vArchives</corpname>
+<corpname role="subject" encodinganalog="610">Washington State Building Trades Council</corpname>
+<subject encodinganalog="650">Labor$zWashington (State)$zBremerton</subject>
+<subject encodinganalog="650">Labor unions$zWashington (State)$zBremerton</subject>
+<subject encodinganalog="650">Labor movement$zWashington (State)$zBremerton</subject>
+<subject encodinganalog="650">Central labor councils$zWashington (State)$zBremerton</subject>
+<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform>
+<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform>
+<genreform source="lcgft" encodinganalog="655">Minutes (Records)</genreform>
+<genreform source="lcgft" encodinganalog="655">Law materials</genreform>
+<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">Wage scales sent to various
+				agencies (building trades)</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">Washington State Building and
+				Construction Trades Council</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">Constitution &amp; miscellaneous
+				materials</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">G. F. Pennington- Bremerton
+				</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">H. A.- B. T. Insurance, Medical
+				service plans</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">School Board</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">Planning Committee (Kitsap Co.
+				Industrial)</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">Washington State Labor
+				Council</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">Income Tax</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">Legislation</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle encodinganalog="245$a">Roll calls and minutes</unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {REQUIRED: Date or date span}?></unitdate>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

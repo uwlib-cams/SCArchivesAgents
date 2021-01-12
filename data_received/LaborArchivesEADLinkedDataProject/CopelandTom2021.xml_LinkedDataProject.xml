@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 123949870-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CopelandTom2021.xml" encodinganalog="identifier" identifier="80444/xv31320">CopelandTom2021.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Tom Copeland Research
+			 Materials on Elmer Smith and the Centralia Tragedy </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Copeland (Tom)
+			 Research Materials on Elmer Smith and the Centralia Tragedy </titleproper> 
+		  <sponsor>Full processing supported by the Labor Archives Fund and the
+			 Labor Archives of Washington State Budget</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20140214" era="ce" calendar="gregorian">©2014</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by Mark Carlson for Mass Finding Aids
+		  Creation Project, 
+		  <date era="ce" calendar="gregorian">2014</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised. March
+			 2020.</date> 
+		  <item>Merged materials from intake 2019112702. Emily Dominick</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised. April
+			 2020.</date> 
+		  <item>Updated box/folder inventory, arrangement note, scope and
+			 content, biographical note, and processing information. Crystal Rodgers</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid type="mss">2021</unitid> 
+		<unitid type="accession">2021-001</unitid> 
+		<origination> 
+		  <persname role="collector, compiler" encodinganalog="100" altrender="sync" source="lcnaf" rules="rda" authfilenumber="1756025">Copeland,
+			 Tom,$d1950-</persname> </origination> 
+		<unittitle>Tom Copeland research materials on Elmer Smith and the
+		  Centralia Tragedy </unittitle> 
+		<unitdate type="inclusive" normal="1905/1998" era="ce" calendar="gregorian">1905-1998</unitdate> 
+		<physdesc> <extent>1.95 cubic feet (3 boxes) plus 1 oversize vertical
+		  file</extent>
+		</physdesc>
+		<abstract altrender="nodisplay">Tom Copeland’s research materials on
+		  Elmer Smith, attorney for the Industrial Workers of the World involved in the
+		  Centralia Tragedy of 1919. </abstract> <langmaterial>Collection materials are
+		in <language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg, MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_"> 
+		<p>Tom Copeland is the author of 
+		<title linktype="simple">The Centralia Tragedy of 1919: Elmer Smith and
+		  the Wobblies</title> and has worked in the family childcare field since 1981.
+		</p> 
+	 </bioghist> 
+	 <odd type="hist"> 
+		<p>Elmer Smith, who is documented in this collection, was a progressive
+		  lawyer in Centralia, Washington who defended the Industrial Workers of the
+		  World members arrested following the Centralia Tragedy of 1919. Smith was a
+		  high school teacher before becoming an attorney. As an attorney he represented
+		  IWW members, loggers and miners. After hearing rumors of a planned attack on
+		  their IWW meeting hall, several Wobblies consulted with Smith about whether
+		  they had a right to defend themselves and their hall. Their previous hall had
+		  been attacked the year before during a parade. Smith contacted Washington’s
+		  governor and the IWW’s asked for protection from Centralia law enforcement.
+		  However, both attempts were denied as were IWW member efforts to plead for
+		  justice from town residents. Smith then advised the Wobblies it would be legal
+		  to physically defend themselves if attacked first.</p> 
+		<p>On November 11th, 1919, under the guise of an Armistice Day Parade,
+		  American Legionnaires attacked the Centralia IWW hall. IWW members shot and
+		  killed four Legionnaires during the attack and wounded several others. A posse
+		  later mistakenly killed one of their own. IWW member Wesley Everest fled the
+		  scene, killing one of the men pursuing him, and was put in jail. That night,he
+		  was pulled from his cell by a group of vigilantes and lynched on a bridge above
+		  the Chehalis River. Ten men, including Smith, were arrested and tried for
+		  murder during a trial that was heavy with fear and intimidation. Seven men were
+		  found guilty and one was judged insane. Smith was acquitted and spent the rest
+		  of his life advocating for their release. He was harassed, arrested and
+		  disbarred for his work. He was reinstated before he died.</p> 
+	 </odd> 
+	 <prefercite> 
+		<p> Labor Archives of Washington, University of Washington Libraries,
+		  Special Collections, Tom Copeland research materials on Elmer Smith and the
+		  Centralia Tragedy, 2021-001, box number, folder number</p> 
+	 </prefercite> 
+	 <arrangement encodinganalog="351"> 
+		<p>The collection is arranged in the following series and subseries: 
+		  <list> 
+			 <item>SERIES 1: SUBJECT FILES AND RESEARCH NOTES, 1905-1998 
+				<list> 
+				  <item>Subseries A: Edward Coll: Letters, Pamphlets, and
+					 Newspaper</item> 
+				  <item>Subseries B: Elmer Smith</item> 
+				  <item> Subseries C: Wesley Everest and Family</item> 
+				  <item> Subseries D: Radio Broadcast by Eugene Barnett</item> 
+				  <item>Subseries E: Centralia Tragedy and Trial</item> 
+				  <item>Subseries F: Scholarly Papers and Manuscripts</item> 
+				  <item>Subseries G: Newspaper and Magazine Articles</item> 
+				  <item>Subseries H: Smith Family Papers</item> 
+				</list> </item> 
+			 <item>SERIES 2: CORRESPONDENCE, 1942-1995</item> 
+			 <item>SERIES 3: ORAL HISTORY INTERVIEW MATERIALS, 1972-1990 
+				<list> 
+				  <item>Subseries A: Transcripts, Notes, and Correspondence</item> 
+				  <item>Subseries B: Interview Audio Cassette Recordings</item> 
+				  <item>Subseries C: Digital Copies of Interview Transcripts and
+					 Recordings</item> 
+				</list> </item> 
+		  </list> </p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>This collection contains Tom Copeland’s research materials on Elmer
+		  Smith, attorney for the Industrial Workers of the World involved in the
+		  Centralia Tragedy of 1919. These materials were used by Copeland in the writing
+		  of his book, 
+		<title linktype="simple">The Centralia Tragedy of 1919: Elmer Smith and
+		  the Wobblies</title> (1993). Also included are research materials from his 1986
+		article, "Wesley Everest, IWW Martyr" published in 
+		<title linktype="simple"> <emph render="italic">The Pacific Northwest
+		  Quarterly</emph> </title>. As a part of his research, Copeland conducted a
+		series of oral history interviews with Centralia residents in the 1970s,
+		including members of Smith’s family, IWW members, classmates, and others who
+		knew him. </p> 
+		<p>Collection contents include Copeland’s research notes as well as
+		  reproductions and originals gathered by Copeland from family members and
+		  archival repositories of news and magazine clippings, pamphlets,
+		  correspondence, and other primary sources, including papers and photographs
+		  from Elmer and the Smith family. The collection also contains several scholarly
+		  papers and manuscripts, including a draft with notes from Virginia Waddell,
+		  Smith’s daughter, of her in-progress biography of her father. Other research
+		  materials include correspondence between Copeland and people who knew Smith as
+		  well as a large series of oral history interview materials, including
+		  correspondence between Copeland and interviewees, paper and digital copies of
+		  transcriptions of some of the interviews, and analog and digital audio
+		  recordings of many of the interviews. </p> 
+		<p>See the Arrangement Note for a full list of series and subseries. More
+		  detailed description of each series is also included in the collection
+		  inventory, integrating Tom Copeland’s notes on the collection when
+		  available.</p> 
+	 </scopecontent> 
+	 <processinfo> 
+		<p>Preliminary inventory with rough intellectual arrangement was created
+		  by Conor Casey based on a donor provided inventory by Tom Copeland in May of
+		  2019. Initial rehousing of the collection and an improved, detailed inventory
+		  description was created by student Vida Wang in January 2020. Processing
+		  archivist Crystal Rodgers arranged the collection intellectually into series
+		  and subseries, using the donor provided inventory from Tom Copeland as a guide,
+		  and integrated this description into the archival finding aid in March and
+		  April 2020. </p> 
+	 </processinfo> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/> </p> 
+	 </altformavail> <phystech type="phys"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access for paper-based materials; however, no user
+		  access copies are currently available for audiocassettes or 7" reel. Users may
+		  obtain a reproduction of the media for a fee by contacting Special Collections.
+		  Access to CD-ROMs can be arranged by making an appointment with the Labor
+		  Archives curator prior to viewing. Contact UW Special Collections for more
+		  details or to request an appointment.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries.</p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Harvey O'Connor, 1972 (Biographical sketch of Elmer Smith); Tom
+		  Copeland, 2019.</p> 
+	 </acqinfo> 
+	 <controlaccess>
+		<persname role="subject" encodinganalog="600">Smith,
+		  Elmer,$d1888-1932$vSources</persname>
+		<subject encodinganalog="650">Lawyers$zWashington
+		  (State)$vSources</subject>
+		<subject encodinganalog="650">Centralia Massacre, Centralia, Wash.,
+		  1919$xHistory$vSources</subject>
+		<corpname role="subject" encodinganalog="610">Industrial Workers of the
+		  World$xHistory$vSources</corpname>
+		<subject encodinganalog="650">Trials (Murder)$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Trials (Riots)$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Riots$zWashington
+		  (State)$zCentralia$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor movement$zWashington
+		  (State)$xHistory$vSources</subject>
+		<genreform source="aat" encodinganalog="655">Transcripts</genreform>
+		<genreform source="aat" encodinganalog="655">Research notes</genreform>
+		<genreform source="aat" encodinganalog="655">Newspaper clippings</genreform>
+		<genreform source="aat" encodinganalog="655">Manuscripts</genreform>
+		<genreform source="aat" encodinganalog="655">Articles</genreform>
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform>
+		<genreform source="lcgft" encodinganalog="655">Facsimiles</genreform>
+		<genreform source="lcgft" encodinganalog="655">Interviews</genreform>
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+		<title role="creator" encodinganalog="700" linktype="simple">Centralia Tragedy of
+		  1919</title>
+		<corpname role="curator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/1, 1/4, 1/12-13, 1/17-18, 1/20,
+				1/22-28, 1/30-31, 1/35-36, 1/39-40, 1/42, 1/44, 1/45-46, 1/48-50, 2/1-7,
+				2/11-13, OSVF0203</container> 
+			 <unitid type="uwsc">SERIES 1</unitid> 
+			 <unittitle>SUBJECT FILES AND RESEARCH NOTES</unittitle> 
+			 <unitdate type="inclusive" normal="1905/1998" era="ce" calendar="gregorian">1905-1998</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains assorted research materials gathered by Tom Copeland,
+				some reproductions from archival repositories as well as originals. Pamphlets
+				located in Series 1 include: 
+				<list> 
+				  <item> 
+					 <title linktype="simple">A Survey of the Workings of the
+						Criminal Syndicalism Law in California</title> </item> 
+				  <item> 
+					 <title linktype="simple">Let Us Suppose</title> </item> 
+				  <item> 
+					 <title linktype="simple">Legion Officer and Over Seas Captain
+						Demands Release of Centralia Victims</title> </item> 
+				  <item> 
+					 <title linktype="simple">Schreckens-Herrschaft in
+						Amerika</title> </item> 
+				  <item> 
+					 <title linktype="simple">Three New Witnesses of Centralia
+						Tragedy </title> </item> 
+				  <item> 
+					 <title linktype="simple">Suppressed Evidence in The Centralia
+						Case</title> </item> 
+				  <item> 
+					 <title linktype="simple">Judicial Murder</title> </item> 
+				  <item> 
+					 <title linktype="simple">Lumber vs. Labor</title> </item> 
+				  <item> 
+					 <title linktype="simple">Elmer Smith Pleads of Liberty of
+						Centralia Men</title> </item> 
+				  <item> 
+					 <title linktype="simple">Equality Before the Law</title>
+					 </item> 
+				  <item> 
+					 <title linktype="simple">Washington's Legal Mockery</title>
+					 </item> 
+				  <item> 
+					 <title linktype="simple">Centralia Case</title> </item> 
+				  <item> 
+					 <title linktype="simple">Washington's Judicial Mockery</title>
+					 </item> 
+				  <item> 
+					 <title linktype="simple">The Centralia Case by an American
+						Legionnaire</title> </item> 
+				  <item> 
+					 <title linktype="simple">You Ought to Know</title> </item> 
+				  <item> 
+					 <title linktype="simple">Speeches by Elmer Smith </title>
+					 </item> 
+				  <item> 
+					 <title linktype="simple">Capt. Edward P. Coll on The Centralia
+						Case </title> </item> 
+				</list> </p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/20</container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries A</emph>
+				  </unitid> 
+				<unittitle>Edward Coll: Letters, Pamphlets, and
+				  Newspaper</unittitle> 
+				<unitdate type="inclusive" normal="1928/1929" era="ce" calendar="gregorian">1928-1929</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes original notebook of Coll's 1928 handwritten open
+				  letter to the American Legion and pamphlets regarding this letter.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/13, 1/23, 1/30, 1/35, 1/50, 2/2,
+				  2/4-6, 2/11-12, OSVF0203</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>Elmer Smith</unittitle> 
+				<unitdate type="inclusive" normal="1905/1990" era="ce" calendar="gregorian">1905-1990</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle>Newspaper Photocopies and Notes on Elmer
+					 Smith</unittitle> 
+				  <unitdate type="inclusive" normal="1919/1923" era="ce" calendar="gregorian">1919-1923</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Includes copies of 
+				  <title linktype="simple">Centralia Tribune</title>, 
+				  <title linktype="simple">Chehalis Bee Nugget</title>, the 
+				  <title linktype="simple">Montesano Vidette</title>, 
+				  <title linktype="simple">Morning Olympian</title>, 
+				  <title linktype="simple">New York Call</title>, and 
+				  <title linktype="simple">New York Times</title>. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/23</container> 
+				  <unittitle>Notes on Washington Archives Lewis County Criminal
+					 Court Files (1915-1939)</unittitle> 
+				  <unitdate type="inclusive" normal="1965/1993" era="ce" calendar="gregorian">approximately 1970-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/30</container> 
+				  <unittitle>Elmer Smith History at St. Paul College of
+					 Law</unittitle> 
+				  <unitdate type="inclusive" normal="1967/1977" era="ce" calendar="gregorian">approximately 1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/35, 1/50</container> 
+				  <unittitle>Federal Bureau of Investigation (FBI) Files on Elmer
+					 Smith</unittitle> 
+				  <unitdate type="inclusive" normal="1919/1923" era="ce" calendar="gregorian">1919-1923</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/2</container> 
+				  <unittitle>Virginia Waddell's Unpublished Manuscript Draft on Her
+					 Father, Elmer Smith</unittitle> 
+				  <unitdate type="inclusive" normal="1973/1974" era="ce" calendar="gregorian">1973-1974</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Includes Waddell's notes. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/4</container> 
+				  <unittitle>Elmer Smith's Correspondence with John Nicholas Beffel
+					 of the American Civil Liberties Union</unittitle> 
+				  <unitdate type="inclusive" normal="1924/1932" era="ce" calendar="gregorian">1924-1932</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/5</container> 
+				  <unittitle>Elmer Smith's Correspondence with Upton Sinclair of
+					 Indiana University</unittitle> 
+				  <unitdate type="inclusive" normal="1926/1931" era="ce" calendar="gregorian">1926-1931</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/6</container> 
+				  <unittitle>People of the State of California v. J.H. Casdorf and
+					 Earl Firey: Elmer Smith's Legal Defense Address</unittitle> 
+				  <unitdate type="inclusive" normal="19220410" era="ce" calendar="gregorian">1922 April 10</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/11</container> 
+				  <unittitle>Biographical Sketch of Elmer Smith</unittitle> 
+				  <unitdate type="inclusive" normal="1965/1975" era="ce" calendar="gregorian">approximately 1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/12</container> 
+				  <unittitle>Elmer Smith Disbarment Notes and Documents</unittitle>
+				  
+				  <unitdate type="inclusive" normal="1925/1995" era="ce" calendar="gregorian">approximately 1925, 1970-1990</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains Copeland's research notes on Elmer Smith's disbarment
+					 files held by the Washington State Supreme Court with photocopies of
+					 Plaintiff's exhibits of two of Smith's speeches used to disbar him and
+					 Defendant brief in support of Smith. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">OSVF0203</container> 
+				  <unittitle>Elmer Smith and Football Team Photograph</unittitle> 
+				  <unitdate type="inclusive" normal="1900/1920" era="ce" calendar="gregorian">approximately 1905-1915</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unitid type="uwsc">Subseries C</unitid> 
+				<unittitle>Wesley Everest and Family</unittitle> 
+				<unitdate type="inclusive" normal="1977/1998" era="ce" calendar="gregorian">1977-1998</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Contains note on Copeland's 
+				<title linktype="simple">Pacific Northwest Quarterly</title>
+				research article, "Wesley Everest: IWW Martyr"; letters from brother and
+				others; Evergreen State College magazine "ReView" on Centralia Mural Project
+				featuring Everest; flyer for dedication of the Wesley Everest mural on December
+				13, 1997; and speech given by Eugene Barnett's daughter, Esther Barnett
+				Goffinet, at mural dedication. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/44</container> 
+				<unitid type="uwsc">Subseries D</unitid> 
+				<unittitle>Radio Broadcast by Eugene Barnett</unittitle> 
+				<unitdate type="inclusive" normal="1935/1945" era="ce" calendar="gregorian">approximately 1940</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Transcript of radio broadcast in the 1940s on his life and the
+				  Centralia case</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/4, 1/18, 1/26, 1/36, 1/45-46, 2/3,
+				  2/7</container> 
+				<unitid type="uwsc">Subseries E</unitid> 
+				<unittitle>Centralia Tragedy and Trial</unittitle> 
+				<unitdate type="inclusive" normal="1916/1994" era="ce" calendar="gregorian">1916-1994</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle>National Archives Military Intelligence Division:
+					 Photocopy of Memo to Fay W. Brabson</unittitle> 
+				  <unitdate type="inclusive" normal="19210831" era="ce" calendar="gregorian">1921 August 31</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/18</container> 
+				  <unittitle>Centralia Publicity Committee </unittitle> 
+				  <unitdate type="inclusive" normal="1926/1929" era="ce" calendar="gregorian">1926-1929</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/26</container> 
+				  <unittitle>Evidence for the Centralia Case</unittitle> 
+				  <unitdate type="inclusive" normal="1917/1929" era="ce" calendar="gregorian">1917-1929</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/36</container> 
+				  <unittitle>"What We Fight For" Theatrical Play about Centralia
+					 Case by Park Goist</unittitle> 
+				  <unitdate type="inclusive" normal="1989/1999" era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/45</container> 
+				  <unittitle>American Civil Liberties Union (ACLU)
+					 Documents</unittitle> 
+				  <unitdate type="inclusive" normal="1922/1930" era="ce" calendar="gregorian">1922-1930</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/46</container> 
+				  <unittitle>Centralia Trial at Montesano</unittitle> 
+				  <unitdate type="inclusive" normal="1919/1920" era="ce" calendar="gregorian">1919-1920</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/3</container> 
+				  <unittitle>Documentation of the Montesano Trial </unittitle> 
+				  <unitdate type="inclusive" normal="1916/1975" era="ce" calendar="gregorian">1916-1975</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unittitle>Petition to the Acting Secretary of the Centralia
+					 Publicity Committee</unittitle> 
+				  <unitdate type="inclusive" normal="19320504" era="ce" calendar="gregorian">1932 May 4</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/22, 1/25, 1/40</container> 
+				<unitid type="uwsc">Subseries F</unitid> 
+				<unittitle>Scholarly Papers and Manuscripts</unittitle> 
+				<unitdate type="inclusive" normal="1960/1991" era="ce" calendar="gregorian">1960-1991</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/22</container> 
+				  <unittitle>Senior Research Paper, "The Centralia Massacre" by
+					 Lewis &amp; Clark College Student, Christine Edmands</unittitle> 
+				  <unitdate type="inclusive" normal="1955/1965" era="ce" calendar="gregorian">approximately 1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/25</container> 
+				  <unittitle>"George F. Vanderveer: A Summary of His Noted Cases
+					 and His Use of Labor Ideology and Civil Liberties in the Centralia Massacre
+					 Trial" by Robert Omberg</unittitle> 
+				  <unitdate type="inclusive" normal="19820601" era="ce" calendar="gregorian">1982 June 1</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/40</container> 
+				  <unittitle>"The Centralia Armistice Day Riot" Nomination to
+					 National Register of Historic Places by Robert R. Weyeneth, Ph.D.</unittitle> 
+				  <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains document to nominate various sites in Centralia to
+					 the National Register of Historic Places.</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/12, 1/24, 1/27-28, 1/31, 1/39, 1/42,
+				  1/49, 2/13</container> 
+				<unitid type="uwsc">Subseries G</unitid> 
+				<unittitle>Newspaper and Magazine Articles</unittitle> 
+				<unitdate type="inclusive" normal="1915/1974" era="ce" calendar="gregorian">1915-1974</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Contains photocopies and Copeland's notes, including typed and
+				  handwritten transcriptions of some articles. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle>Photocopies and Descriptions of 
+					 <title linktype="simple"> Industrial Worker</title>
+					 Magazine</unittitle> 
+				  <unitdate type="inclusive" normal="1920/1932" era="ce" calendar="gregorian">1920-1932</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/24</container> 
+				  <unittitle>Assorted Newspaper and Journal Articles on Centralia
+					 Case and Industrial Workers of the World (IWW)</unittitle> 
+				  <unitdate type="inclusive" normal="1919/1925" era="ce" calendar="gregorian">1919-1925</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/27</container> 
+				  <unittitle>Notes and Newspaper Articles from the 
+					 <title linktype="simple">Centralia Chronicle</title>
+					 </unittitle> 
+				  <unitdate type="inclusive" normal="1915/1974" era="ce" calendar="gregorian">1915-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/28</container> 
+				  <unittitle>Notes on 
+					 <title linktype="simple">Industrial Solidarity</title>
+					 </unittitle> 
+				  <unitdate type="inclusive" normal="1922/1925" era="ce" calendar="gregorian">1922-1925</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/31</container> 
+				  <unittitle> 
+					 <title linktype="simple">Industrialisti</title>
+					 Magazine</unittitle> 
+				  <unitdate type="inclusive" normal="1919/1920" era="ce" calendar="gregorian">1919-1920</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains copies of Finnish newspaper with articles covering
+					 the Montesano trial.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/39</container> 
+				  <unittitle> 
+					 <title linktype="simple">Seattle Union Record</title>
+					 </unittitle> 
+				  <unitdate type="inclusive" normal="1919/1924" era="ce" calendar="gregorian">1919-1924</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/42</container> 
+				  <unittitle>California Newspaper Coverage</unittitle> 
+				  <unitdate type="inclusive" normal="1917/1927" era="ce" calendar="gregorian">1922</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains copies of the 
+				  <title linktype="simple">Humboldt Times-Standard</title> and the 
+				  <title linktype="simple"> San Francisco Call-Bulletin</title>
+				  </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/49</container> 
+				  <unittitle>The 
+					 <title linktype="simple">Labor Defender </title> Newspaper
+					 Coverage of Centralia Leaders</unittitle> 
+				  <unitdate type="inclusive" normal="1927/1933" era="ce" calendar="gregorian">1927-1933</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/13</container> 
+				  <unittitle> 
+					 <title linktype="simple">The Farmer-Labor Call </title>
+					 Newspaper: Photocopies with Articles on Industrial Workers of the World Trial
+					 and Elmer Smith </unittitle> 
+				  <unitdate type="inclusive" normal="192010" era="ce" calendar="gregorian">1920 October</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/1, 1/48, 2/1</container> 
+				<unitid type="uwsc">Subseries H</unitid> 
+				<unittitle>Smith Family Papers</unittitle> 
+				<unitdate type="inclusive" normal="1914/1945" era="ce" calendar="gregorian">1914-1945</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle>Elmer Smith and Family: Letters, Records, and
+					 Certificates</unittitle> 
+				  <unitdate type="inclusive" normal="1909/1950" era="ce" calendar="gregorian">approximately 1914-1945</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Includes notes from the Smith family bible indicating birth
+					 and death dates of family members, Elmer Smith's death certificate, a copy of a
+					 high school essay on ethics written by Smith, his business card, a portion of a
+					 poster when he was running for Prosecuting Attorney with his signature, and a
+					 Macalester College Debate Society program. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/48</container> 
+				  <unittitle>Black and White Photo Reproductions of Elmer Smith,
+					 his office, Industrial Workers of the World (IWW) Members on Trial, and other
+					 Unidentified Individuals </unittitle> 
+				  <unitdate type="inclusive" normal="1910/1930" era="ce" calendar="gregorian">approximately 1915-1925</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/1</container> 
+				  <unittitle>Photographs and Negatives of Elmer Smith, Family, and
+					 Acquaintances</unittitle> 
+				  <unitdate type="inclusive" normal="1915/1925" era="ce" calendar="gregorian">approximately 1920</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/3, 1/5-6, 1/29, 1/37, 2/14</container>
+			 
+			 <unitid type="uwsc">SERIES 2</unitid> 
+			 <unittitle>CORRESPONDENCE</unittitle> 
+			 <unitdate type="inclusive" normal="1942/1995" era="ce" calendar="gregorian">1942-1995</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains letters to and from Copeland and members of Smith's
+				family and others who knew him, providing information about Smith's life and
+				feedback on Copeland's draft manuscript before and after publishing. </p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle>Assorted Letters to Tom Copeland about Smith and in
+				  Response to Book Publishing</unittitle> 
+				<unitdate type="inclusive" normal="1972/1994" era="ce" calendar="gregorian">1972-1994</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/29</container> 
+				<unittitle>Coll, Edward</unittitle> 
+				<unitdate type="inclusive" normal="1942/1981" era="ce" calendar="gregorian">1942-1981</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence to and from Edward Coll, including conversations
+				  with Tom Copeland. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>Edwards, Herb</unittitle> 
+				<unitdate type="inclusive" normal="1972/1977" era="ce" calendar="gregorian">1972-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/37</container> 
+				<unittitle>O' Connor, Harvey</unittitle> 
+				<unitdate type="inclusive" normal="1962/1977" era="ce" calendar="gregorian">1962-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>Smith, Stuart</unittitle> 
+				<unitdate type="inclusive" normal="1972/1995" era="ce" calendar="gregorian">1972-1995</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Correspondence between Elmer Smith's son Stuart and Tom
+				  Copeland</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>Thompson, Fred</unittitle> 
+				<unitdate type="inclusive" normal="1983/1986" era="ce" calendar="gregorian">1983-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/7-11, 1/14-16, 1/19, 1/32-34, 1/38,
+				1/41, 1/43, 1/47, 2/8-10, 3</container> 
+			 <unitid type="uwsc">SERIES 3</unitid> 
+			 <unittitle>ORAL HISTORY INTERVIEW MATERIALS</unittitle> 
+			 <unitdate type="inclusive" normal="1972/1990" era="ce" calendar="gregorian">1972-1990</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Copeland conducted a number of interviews with people who knew
+				Elmer Smith on cassette tapes and transcribed them. Later, Elmer Smith's
+				grandson digitized many of the tapes and transcriptions onto two CDs. Most of
+				Copeland's interviews were taped, but some were not and exist only as
+				transcripts or notes.</p> 
+			 <p>Interviewees and relation to Smith: 
+				<list> 
+				  <item>Baxter, Sam, Client of Elmer Smith</item> 
+				  <item>Beal, W.H., Classmate of Smith at Macalester</item> 
+				  <item>Beard, Nora, Smith's secretary</item> 
+				  <item>Behrbaum, Orville, Lewis County historian</item> 
+				  <item>Bell, William, Classmate of Smith at Macalester</item> 
+				  <item>Bertagnolli, Frank, IWW member and friend of Elmer
+					 Smith</item> 
+				  <item>Boyle, Harry, Classmate of Smith at Macalester</item> 
+				  <item>Burnley, Charlie, Classmate of Smith at Macalester</item> 
+				  <item> Cloud, Lucy Ann, IWW member</item> 
+				  <item>Coll, Edward P. and Aimee Coll (Spouses), American
+					 Legionnaire</item> 
+				  <item>Doty, Margaret, Classmate of Smith at Macalester</item> 
+				  <item>Drews, John, Classmate of Smith at Macalester</item> 
+				  <item>Dysart, Lloyd, Centralia lawyer</item> 
+				  <item> Edwards, Herb, IWW member</item> 
+				  <item>Faulkner, Bert, IWW member</item> 
+				  <item>Finan, A., Centralia resident</item> 
+				  <item>Fisk, Wilbur, Classmate of Smith at Macalester</item> 
+				  <item>Fusco, Marie, Centralia resident</item> 
+				  <item>Grundfossen, Iver "Swede", IWW member and logger</item> 
+				  <item>Harmon, Connor, Brother in law of Smith</item> 
+				  <item>Harris, Mabel, Sister in law of Smith</item> 
+				  <item>Heathcote, Hiney, IWW member</item> 
+				  <item>Hodgman, Stanley, Classmate of Smith at Macalester</item> 
+				  <item>Hurd, Loren</item> 
+				  <item>Johnson, John, Classmate of Smith at Macalester</item> 
+				  <item>Killen, Mary, Sister in law of Smith and wife of Smith's
+					 Brother Jim</item> 
+				  <item>Lipert, Helen, Centralia resident</item> 
+				  <item>Murphy, Joe, IWW member</item> 
+				  <item>Ruuttila, Julia, Journalist</item> 
+				  <item>Skinner, Grace, Sister in law of Smith</item> 
+				  <item>Skoog, Lawrence</item> 
+				  <item>Smith Nelson, Edna, Sister in law of Smith and wife of
+					 Elmer Smith's Brother Bill</item> 
+				  <item>Smith, Stuart, Son of Smith</item> 
+				  <item>Taylor, Elizabeth</item> 
+				  <item>Tripp, Oakley</item> 
+				  <item>Waddell, Virginia, Daughter of Smith</item> 
+				  <item>Willits, Laura, Smith's Wife</item> 
+				</list> </p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/7-11, 1/14-16, 1/19, 1/32-34, 1/38,
+				  1/41, 1/43, 1/47, 2/8</container> 
+				<unitid type="uwsc">Subseries A</unitid> 
+				<unittitle>Transcripts, Notes, and Correspondence</unittitle> 
+				<unitdate type="inclusive" normal="1972/1990" era="ce" calendar="gregorian">1972-1990</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/8 </container> 
+				  <unittitle>Copeland Interview Tapes Index with Notes from Elmer
+					 Smith's Grandson</unittitle> 
+				  <unitdate type="inclusive" normal="1967/1995" era="ce" calendar="gregorian">approximately 1972-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Baxter, Sam: Notes</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Beal, W. H.: Notes</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/47</container> 
+				  <unittitle>Beard, Nora: Transcript and Correspondence</unittitle>
+				  
+				  <unitdate type="inclusive" normal="1967/1977" era="ce" calendar="gregorian">approximately 1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Behrbaum, Orville: Transcript</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/38</container> 
+				  <unittitle>Bertagnolli, Frank: Notes from Interview</unittitle> 
+				  <unitdate type="inclusive" normal="19770610" era="ce" calendar="gregorian">1977 June 10</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unittitle>Cloud, Lucy Anne: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1973" era="ce" calendar="gregorian">1972-1973</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Includes photograph of Lucy.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Dysart, Lloyd: Notes</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/34</container> 
+				  <unittitle>Edwards, Herb: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="19721001" era="ce" calendar="gregorian">1972 October 1</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Faulkner, Bert: Notes of Phone
+					 Conversation</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Finan, A.: Notes</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Fusco, Maria: Notes</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle>Harmon, Connor: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1973" era="ce" calendar="gregorian">1972-1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle>Harris, Mabel: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1973/1977" era="ce" calendar="gregorian">1973-1977</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Includes photograph of Mabel and daughter Dorthy Jean West</p>
+				  
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/43</container> 
+				  <unittitle>Heathcote, Hiney: Transcript</unittitle> 
+				  <unitdate type="inclusive" normal="19720929" era="ce" calendar="gregorian">1974 September 29</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Hurd, Loren: Notes</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/16</container> 
+				  <unittitle>Killen, Mary: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1990" era="ce" calendar="gregorian">1972-1990</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Includes photograph of Mary.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Lipert, Helen: Transcript</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/41</container> 
+				  <unittitle>Macalester College Classmate</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1974" era="ce" calendar="gregorian">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/33</container> 
+				  <unittitle>Murphy, Joe: Notes</unittitle> 
+				  <unitdate type="inclusive" normal="19810727" era="ce" calendar="gregorian">1981 July 27</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle>Ruuttila, Julia: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1990" era="ce" calendar="gregorian">1972-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle>Skinner, Grace: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1979" era="ce" calendar="gregorian">1972-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/32</container> 
+				  <unittitle>Smith Nelson, Edna: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1990" era="ce" calendar="gregorian">1972-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle>Waddell, Virginia: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1972/1977" era="ce" calendar="gregorian">1972-1977</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unittitle>Willits, Laura: Transcript and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1973/1990" era="ce" calendar="gregorian">1973-1990</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/10, Box 3</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>Interview Audio Cassette Recordings</unittitle> 
+				<unitdate type="inclusive" normal="1972/1980" era="ce" calendar="gregorian">1972-1980</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Beard, Nora: Interview at Her Home </unittitle> 
+				  <unitdate type="inclusive" normal="19720917" era="ce" calendar="gregorian">1972 September 17</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>2 tapes</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Cloud, Lucy Anne</unittitle> 
+				  <unitdate type="inclusive" normal="19720824" era="ce" calendar="gregorian">1972 August 24</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>2 tapes</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Coll, Edward and Amy</unittitle> 
+				  <unitdate type="inclusive" normal="19741106" era="ce" calendar="gregorian">1974 November 6</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>2 tapes</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/10</container> 
+				  <unittitle>Edwards, Herb: Interview by Tracy Dalton</unittitle> 
+				  <unitdate type="inclusive" normal="19720212" era="ce" calendar="gregorian">1972 February 12</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>7" film reel</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Edwards, Herb: Interview at his Home</unittitle> 
+				  <unitdate type="inclusive" normal="19721001" era="ce" calendar="gregorian">1972 October 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>2 tapes</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Grundfossen, Iver "Swede": Interview at the Home of
+					 Edna Smith Nelson</unittitle> 
+				  <unitdate type="inclusive" normal="19720906" era="ce" calendar="gregorian">1972 September 6</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>1 tape</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Harmon, Connor: Interview at his Home </unittitle> 
+				  <unitdate type="inclusive" normal="19720909" era="ce" calendar="gregorian">1972 September 9</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>1 tape</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Heathcote, Hiney: Interview at his Home</unittitle> 
+				  <unitdate type="inclusive" normal="19740929" era="ce" calendar="gregorian">1974 September 29</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>2 tapes</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>IWW Member (Unidentified Interviewee)</unittitle> 
+				  <unitdate type="inclusive" normal="1967/1979" era="ce" calendar="gregorian">approximately 1972-1974</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>1 tape</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Killen, Mary: Interview at Her Home</unittitle> 
+				  <unitdate type="inclusive" normal="19720930" era="ce" calendar="gregorian">1972 September 30</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>2 tapes</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Ruuttila, Julia: Interview at the Home of Edna Smith
+					 Nelson</unittitle> 
+				  <unitdate type="inclusive" normal="19720907" era="ce" calendar="gregorian">1972 September 7</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>2 tapes</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Skinner, Grace: Interview at Extended Services for the
+					 Elderly</unittitle> 
+				  <unitdate type="inclusive" normal="19721002" era="ce" calendar="gregorian">1972 October 2</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>1 tape</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Skinner, Grace: Interview at the Seattle Public
+					 Library</unittitle> 
+				  <unitdate type="inclusive" normal="19730421" era="ce" calendar="gregorian">1973 April 21</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>1 tape</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Skoog, Lawrence</unittitle> 
+				  <unitdate type="inclusive" normal="1967/1979" era="ce" calendar="gregorian">approximately 1972-1974</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>1 tape</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Smith Nelson, Edna: Interview at Her Home</unittitle> 
+				  <unitdate type="inclusive" normal="19720909/19801013" era="ce" calendar="gregorian">1972 September 9; 1980 October 13</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>2 tapes</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Unidentified Interviewee</unittitle> 
+				  <unitdate type="inclusive" normal="19720906" era="ce" calendar="gregorian">1972 September 6</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>1 tape</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/9</container> 
+				<unitid type="uwsc">Subseries C</unitid> 
+				<unittitle>Digital Copies of Interview Transcripts and
+				  Recordings</unittitle> 
+				<unitdate type="inclusive" normal="1967/1995" era="ce" calendar="gregorian">approximately 1972-1990</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Contains 2 cd-roms with digital copies of interview transcripts
+				  and mp3 files of interview audio recordings for many of the individuals
+				  mentioned above. It is possible that these cds contain materials and recordings
+				  that only exist in digital form from interviews with individuals not listed
+				  above. </p> 
+			 </scopecontent> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Beard, Nora</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Behrbaum, Orville</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Bell, William</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Boyle, Harry</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Burnley, Charlie</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Cloud, Lucy Ann</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Coll, Edward and Coll, Aimee</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Doty, Margaret</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Drews, John</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Edwards, Herb</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Fisk, Wilbur</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Grundfossen, Iver</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Harmon, Connor</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Heathcote, Hiney</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Hodgman, Stanley</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Johnson, John</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Killen, Mary</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Lipert, Helen</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Ruuttila, Julia</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Skinner, Grace</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Smith Nelson, Edna</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Smith, Stuart</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Taylor, Elizabeth</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Tripp, Oakley</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle>Willits, Laura</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

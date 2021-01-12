@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"><eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CastleDel5730.xml" encodinganalog="identifier" identifier="80444/xv67352">CastleDel5730.xml</eadid><filedesc><titlestmt><titleproper encodinganalog="title">Guide to the Del Castle Papers
+			 </titleproper><titleproper type="filing" altrender="nodisplay">Castle (Del)
+			 Papers</titleproper><author encodinganalog="creator">Finding aid prepared by S.
+			 Kemp</author></titlestmt><publicationstmt><publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher><date encodinganalog="date" normal="20130211" era="ce" calendar="gregorian">© 2013</date><address><addressline>Seattle, WA 98195</addressline></address></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by S. Kemp 
+		  <date era="ce" calendar="gregorian">2012</date></creation><langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage><descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules></profiledesc><revisiondesc><change><date era="ce" calendar="gregorian"><?xm-replace_text {Enter date of substantial revision of finding aid, eg., July, 2008}?></date><item><?xm-replace_text {Describe revision; include your name}?></item></change></revisiondesc></eadheader><archdesc level="collection" type="inventory" relatedencoding="marc21"><did id="a1"><repository><corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname><address><addressline>Box 352900</addressline><addressline>Seattle, WA 98195-2900</addressline></address></repository><unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5730</unitid><unitid countrycode="us" repositorycode="wau-ar" type="accession">5730-001</unitid><origination><persname encodinganalog="100" role="creator" source="uwsc-naf" altrender="sync">Castle, Del,$d1915-2006</persname></origination><unittitle encodinganalog="245$a" type="collection">Del Castle
+		  papers</unittitle><unitdate type="inclusive" encodinganalog="245$f" normal="1979/1998" era="ce" calendar="gregorian">1979-1998, undated</unitdate><unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate><physdesc><extent encodinganalog="300$a">0.21 cubic feet</extent><extent encodinganalog="300$a">1 box</extent></physdesc><abstract encodinganalog="5203_$a" altrender="nodisplay">Writings by Del
+		  Castle, including reports, papers, ddrafts of articles and book chapters, and a
+		  letter to David Olson, Harry Bridges Chair in Labor Studies at the University
+		  of Washington</abstract><langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial></did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format:
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.--><daogrp linktype="extended"><daodesc><p><?xm-replace_text {Image caption}?></p></daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute the full URL of the image file.
+Eg,  http://www.lib.washington.edu/specialcoll/images/ead/MS3783.jpg. Also enter MIME type of digital file
+(eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute, eg. Image of Mike
+Lowry, 1982.--><daoloc role="image/jpeg" label="image" title="Image of " linktype="locator"/><arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/></daogrp><bioghist encodinganalog="5450_" id="a2" altrender="sync"><p>Castle (1915-2006) was a labor activist, union officer and member.
+		  Born in Spokane, Washington, Castle graduated from Broadview High School in
+		  Seattle and the University of Washington but worked mainly in blue collar jobs
+		  like lumber mills, railroad yards, steelmills, shipyards and longshoring.
+		  Castle first became a labor organizer in the 1930s, participating in strikes
+		  with the Sawmill and Timber Workers Union and an early farmworkers union. In
+		  1937, as co-chair of the King County Workers Alliance he helped organize a two
+		  week occupation of the King County Council chambers by hundreds of the
+		  unemployed seeking benefits. In 1942 he was elected secretary of the
+		  Shipscaler's Union. After WWII, he organized lumberworkers in Aberdeen. During
+		  the Korean War, Del was active in the anti-war movement, as he would be later
+		  during the Vietnam War and the Iraq wars. In 1957, Del became a longshoreman,
+		  joining ILWU, Local 19. He served on the Executive Board from 1963 until he
+		  retired in 1980. He was elected to one term as secretary of Local 19 in 1975.
+		  Following his retirement, he served as editor of the Rusty Hook, the newsletter
+		  for retired longshore workers, until, at age 89, he felt it was time to step
+		  down.</p></bioghist><arrangement encodinganalog="351" id="a4"><p>Arranged as received.</p></arrangement><scopecontent encodinganalog="5202_" id="a3"><p>Writings by Del Castle, including reports, papers, drafts of articles
+		  and book chapters, and a letter to David Olson, Harry Bridges Chair in Labor
+		  Studies at the University of Washington</p></scopecontent><odd encodinganalog="500" id="a5"><p><?xm-replace_text {Text of general note}?></p></odd><altformavail encodinganalog="530" id="a9"><p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?><extref role="text/html" actuate="actuatenone" show="new" linktype="simple"/></p></altformavail><phystech encodinganalog="340" id="a35"><p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p></phystech><accessrestrict encodinganalog="506" id="a14"><p>Open to all users.</p></accessrestrict><userestrict encodinganalog="540" id="a15"><p>The creators' literary rights have been transferred to the University
+		  of Washington Libraries.</p></userestrict><custodhist encodinganalog="561" id="a16"><p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p></custodhist><acqinfo encodinganalog="541" id="a19"><p>Donor: Michelle Drayton, November 21, 2012</p></acqinfo><separatedmaterial encodinganalog="544__$n" id="a7"><p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p></separatedmaterial><bibliography id="a11" encodinganalog="581"><p><bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p></bibliography><relatedmaterial encodinganalog="544__$n" id="a6"><p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p></relatedmaterial><appraisal id="a39" encodinganalog="583"><p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p></appraisal><controlaccess><persname encodinganalog="600" role="subject" source="uwsc-naf" altrender="sync">Castle, Del,$d1915-2006$vArchives</persname><corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname></controlaccess><controlaccess><subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject><subject source="archiveswest" altrender="nodisplay">Civic Activism</subject></controlaccess></archdesc></ead>

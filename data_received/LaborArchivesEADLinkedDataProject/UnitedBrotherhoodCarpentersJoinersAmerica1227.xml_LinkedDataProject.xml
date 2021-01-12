@@ -1,0 +1,2186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <!--OCLC 28410939-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" encodinganalog="identifier" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedBrotherhoodCarpentersJoinersAmerica1227.xml" identifier="80444/xv50500">UnitedBrotherhoodCarpentersJoinersAmerica1227.xml</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the United Brotherhood of
+			 Carpenters and Joiners of America, Local 1289 (Seattle, Washington) Records
+			 </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">United Brotherhood of
+			 Carpenters and Joiners of America Local 1289</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20110131" era="ce" calendar="gregorian">©2011</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by Mark Carlson via Millennium to EAD
+		  conversion. 
+		  <date era="ce" calendar="gregorian">2011</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content Standard</title>).
+		</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised April 6, 2016</date> 
+		  <item>Added -001 Inventory - Jenn Parent</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">1227</unitid> 
+		<unitid countrycode="us" repositorycode="wau-ar" type="accession">1227-001</unitid> 
+		<origination> 
+		  <corpname encodinganalog="110" role="creator" authfilenumber="1958666" altrender="sync" source="lcnaf" rules="aacr2">United Brotherhood of Carpenters
+			 and Joiners of America.$bLocal 1289 (Seattle, Wash.)</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">United Brotherhood of
+		  Carpenters and Joiners of America Local 1289 records </unittitle> 
+		<unitdate type="inclusive" normal="1911/1958" era="ce" calendar="gregorian">1911-1958</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">64 cubic feet</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records of a
+		  trade union organization of Seattle, Washington</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>. </langmaterial> 
+	 </did> 
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/> 
+		<daoloc role="image/jpeg" title="Image of " label="image" linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist id="ARN1958666" encodinganalog="5451_" altrender="sync"> 
+		<p>Trade union organization. Local 1289 is a Seattle affiliate of the
+		  United Brotherhood of Carpenters and Joiners of America.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Correspondence, 1920-1946; financial records and ephemera,
+		  1911-1951.</p> 
+		<p>Also includes papers of the Central Labor council of Seattle and
+		  Vicinity, 1923-1930; Seattle Building Trades Council, 1923-1944; and Washington
+		  State Council of United Brotherhood of Carpenters and Joiners of America,
+		  1922-1958.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" linktype="simple"/> </p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Access restricted: For terms of access contact repository.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Creator's literary rights not transferred to the University of
+		  Washington Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg,
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Merlin C. Brown, Secretary, Carpenters Local 1289, UBC and Joiners of
+		  America, Seattle;, September 10, 1969</p> 
+	 </acqinfo> 
+	 <processinfo encodinganalog="544__$n" type="reloc"> 
+		<p><?xm-replace_text {State if visual materials were relocated, give title and if available photo coll. no.; see manual for details }?></p>
+		
+	 </processinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess>
+		<corpname role="subject" encodinganalog="610">United Brotherhood of
+		  Carpenters and Joiners of America.$bLocal 1289 (Seattle,
+		  Wash.)$vArchives</corpname>
+		<subject encodinganalog="650">Carpenters$zWashington (State) </subject>
+		<subject encodinganalog="650">Woodworkers$zWashington (State) </subject>
+		<subject encodinganalog="650">Carpenters$xLabor unions$zWashington
+		  (State) </subject>
+		<subject encodinganalog="650">Woodworkers$xLabor unions$zWashington
+		  (State) </subject>
+		<subject encodinganalog="650">Building trades$zWashington (State)
+		  </subject>
+		<subject encodinganalog="650">Building trades$xEmployees$xLabor
+		  unions$zWashington (State) </subject>
+		<corpname role="creator" encodinganalog="710">Central Labor Council of
+		  Seattle and Vicinity</corpname>
+		<corpname role="creator" encodinganalog="710">Seattle Building Trades
+		  Council</corpname>
+		<corpname role="creator" encodinganalog="710">United Brotherhood of
+		  Carpenters and Joiners of America.$bWashington State Council</corpname>
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc> 
+		
+		  <c01 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="boldunderline">1/1-1/7</emph></container> 
+				<unitid type="uwsc"><emph render="boldunderline">Subgroup A
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="boldunderline">Building Trades Council, Seattle</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922-1945</emph></unitdate> 
+			 </did> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">1/1-1/4</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES I
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">MINUTES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922-1930</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/">1923</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1930/">1930</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/">1924</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">1/5</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES II
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">FINANCIAL RECORDS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/"><emph render="bolditalic">1944</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Wage Scale</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">1/6</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES III
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">LEGAL
+					 DOCUMENTS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924,/"><emph render="bolditalic">1924,
+					 1940</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Agreements</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924,/">1924, 1940</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">1/7</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES IV
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">RESOLUTIONS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/"><emph render="bolditalic">1923</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Resolutions</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923,/">1923, 1945</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+		  </c01> 
+		  <c01 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="boldunderline">1/8-2/3</emph></container> 
+				<unitid type="uwsc"><emph render="boldunderline">Subgroup B
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="boldunderline">Carpenters District Council of Seattle and
+				  Vicinity</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922-1945</emph></unitdate> 
+			 </did> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">1/8</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES I
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">ORGANIZATIONAL RECORDS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/"><emph render="bolditalic">Undated</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Trade Rules</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">2/3</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES II
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">RESOLUTIONS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Resolutions</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+		  </c01> 
+		  <c01 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="boldunderline">2/4-11/21</emph></container> 
+				<unitid type="uwsc"><emph render="boldunderline">Subgroup C
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="boldunderline">Carpenters, Local 1289</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1911/"><emph render="bolditalic">1911-1948</emph></unitdate> 
+			 </did> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">2/4-2/5</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES I
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">ORGANIZATIONAL RECORDS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922-1944</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Bylaws</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="c. 1920s/">c. 1920s</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Joint Council of City
+						  Employees Bylaws</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="c. 1920s/">c. 1920s-1944</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">2/6-3/5</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES II
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">CORRESPONDENCE - Incoming Letters</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922-1948</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">American Federation of
+						  Labor</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">American Red Cross, Seattle
+						  King Co. Chapter</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Bone, Homer T.</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Building Service Employees'
+						  International</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Building Trades Council,
+						  Seattle</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/11</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Carpenters, District
+						  Council of Seattle and Vicinity</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/12</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Carpenters, Various
+						  District Councils</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/13</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Carpenters, United
+						  Brotherhood of Carpenters and Joiners</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1940</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/14</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Carpenters, United
+						  Brotherhood of Carpenters and Joiners</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/">1941-1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/15</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Carpenters, United
+						  Brotherhood of Carpenters and Joiners, Various Locals</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943-1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/16</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Carpenters, Washington
+						  State Council of</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/">1924-1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/17</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Carpenters, Washington
+						  State Council of</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/18</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Central Labor Council of
+						  Seattle and Vicinity</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/19</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Daniels and Brinton, West
+						  Seattle Undertakers</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923,/">1923, 1941</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/20</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">De Lacy, Hugh</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1946/">1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/21</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Electrical Workers,
+						  International Brotherhood of</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924,/">1924, 1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/22</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Farmer Labor
+						  Party</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1923</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/23</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Friends of Soviet
+						  Russia</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/24</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Furniture Workers, Unions
+						  1506 and 1719</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/">1940</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/25</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">General Defense Committee
+						  (Centrailia I.W.W. Defense)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/">1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/26</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Machinists, International
+						  Association of</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/27</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Magnuson, Warren
+						  G.</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/28</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Salvation Army</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/29</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Seattle Labor
+						  College</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/">1923-1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/30</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Seattle Muncipal Defense
+						  Commission</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/31</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Seattle Union
+						  Record</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/32</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">State Power
+						  Conference</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/">1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/33</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">U.S. Labor Department,
+						  Office of Price Administration</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/">1945-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/34</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">U.S. Treasury
+						  Department</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922,/">1922, 1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/35</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Wallgren, Senator Mon
+						  C.</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/36</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Washington State Federation
+						  of Labor</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/37</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Washington State Federation
+						  of Labor - Building and Construction Trades Section</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944-1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous
+						  A-D</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/">1923-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous
+						  E-K</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/">1940-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous
+						  L-N</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous
+						  P-S</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/">1940-1948</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous
+						  T-Y</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1945</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">3/6</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES III
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">CORRESPONDENCE - Outgoing Letters</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924,/"><emph render="bolditalic">1924,
+					 1948</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Outgoing
+						  Letters</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"/> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">3/7</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES IV
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">CORRESPONDENCE - Interoffice</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/"><emph render="bolditalic">1924-1946</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Interoffice
+						  Letters</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"/> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">3/8-5/6</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES V
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">MINUTES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1911/"><emph render="bolditalic">1911-1946</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes
+						  (Journal)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1911/">1911-1912</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes
+						  (Journal)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1913/">1913-1915</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes
+						  (Journal)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1915/">1915-1919</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/11</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes
+						  (Journal)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/">1919-1920</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/12</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes
+						  (Journal)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1920/">1920-1923</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/">1924-1926</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/">1927</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1928/">1928</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1929/">1929</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1930/">1930</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1931/">1931-1932</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1934/">1934</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1935/">1935</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936/">1936</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1937/">1937</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/11</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1938/">1938</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/12</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1939/">1939</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/">1940</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/">1941</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes - Miscellaneous
+						  Organizations</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943-1946</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">5/7-8/9</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES VI
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">FINANCIAL RECORDS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1910/"><emph render="bolditalic">1910-1947</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Bank book (West Seattle
+						  State Bank)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1918/">1918-1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Bank Resolutions and
+						  certificates for association</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936/">1936-1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Expenditures</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1947</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Expenditures and
+						  Income</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1910/">1910-1916</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/11</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Expenditures and
+						  Income</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1916/">1916-1921</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/12</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Expenditures and
+						  Income</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1921/">1921-1925</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/13</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Expenditures and
+						  Income</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1926/">1926-1930</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Expenditures and
+						  Income</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1931/">1931-1936</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Expenditures and
+						  Income</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936/">1936-1940</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Expenditures and
+						  Income</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/">1940-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Financial
+						  Statements</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Income Tax
+						  Returns</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1933/">1933-1935</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Receipts, Bank (Safety
+						  deposit box)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1938/">1938-1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Receipts, Building
+						  Operations</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1939/">1939-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Receipts, Carpenters,
+						  District Council</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1932/">1932-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Receipts, Carpenters,
+						  United Brotherhood</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/">1941-1943</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Receipts, Carpenters,
+						  Washington State Council</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1932/">1932-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Receipts, Financial
+						  Secretary</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/">1941-1943</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Receipts,
+						  Miscellany</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/">1923-1939</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1916/">1916-1918</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/">1919</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1930/">1930</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1932/">1932-1933</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1934/">1934-1935</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936/">1936-1937</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/11</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1938/">1938</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/12</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1939/">1939-1940</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/13</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/">1941</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/14</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/15</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/16</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/17</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/">1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/18</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1946/">1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/19</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Reports, Monthly
+						  Financial</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1947/">1947</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Sick Benefits</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/">1940-1947</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Sick Benefits</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943-1949</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Social Security
+						  Reports</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936/">1936-1941</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Tax Statement, Real
+						  Estate</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1929/">1929-1940</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Treasurer's Notice, City of
+						  Seattle</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1931/">1931-1935</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Trustee's Report
+						  (Semi-Annual)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1921/">1921-1936</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Wage Scale,
+						  Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/">1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Washington State Federation
+						  of Labor, Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/">1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1921/">1921-1943</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">8/10-10/7</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES VII
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">MEMBERSHIP</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1911/"><emph render="bolditalic">1911-1944</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1911/">1911</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/11</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1916/">1916-1918</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/12</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/">1919</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/13</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1920/">1920</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/">1923</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/">1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1925/">1925</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1926/">1926</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/">1927</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1928/">1928</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1929/">1929</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1930/">1930</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1931/">1931</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">9/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1932/">1932</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1933/">1933-1934</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1935/">1935-1937</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1938/">1938</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1939/">1939</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Membership
+						  Records</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">10/8-11/1</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES VIII
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">CLEARANCE CARDS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/"><emph render="bolditalic">1942-1951</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Clearance Cards</unittitle>
+						
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Clearance Cards</unittitle>
+						
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944-1951</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Members called to Military
+						  Service</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/2</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES IX
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">LEGAL
+					 DOCUMENTS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/"><emph render="bolditalic">Undated</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Agreements</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/3-11/4</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 X</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">REPORTS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/"><emph render="bolditalic">1942-1945</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Committee
+						  Reports</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous
+						  Reports</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943-1945</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/5</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES XI
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SPEECHES AND WRITINGS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/"><emph render="bolditalic">1943</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/6</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES XII
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">NEWS
+					 RELEASES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/"><emph render="bolditalic">1943</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/7</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 XIII</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">CLIPPINGS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1954/"><emph render="bolditalic">1954</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Seattle Post-Intelligencer
+						  (Pg 3-4)</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1954/">1954</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/8-11/11</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 XIV</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">LEGISLATION</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1938/"><emph render="bolditalic">1938-1946</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Executive Order
+						  9240</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Initiative 198 "Right to
+						  Work"</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1947/">1947</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Voluntary Labor
+						  Stablization Plan</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/11</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1938/">1938-1946</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/12-11/15</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 XV</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">ELECTIONS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/"><emph render="bolditalic">1924-1945</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/12</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Ballots</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/13</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Campaign
+						  Material</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="c.1940s/">c.1940s</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/14</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">General
+						  Elections</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/">1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/15</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Washington State Federation
+						  of Labor: Run-Off Election Laws</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/">1945</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/16</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 XVI</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">CONVENTIONS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1957/"><emph render="bolditalic">1957-1958</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/16</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Washington State Federation
+						  of Labor and Washington State Building and Construction Trades
+						  Council</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1957/">1957-1958</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/17-11/19</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 XVII</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">EPHEMERA</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/"><emph render="bolditalic">1923-1946</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/17</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Carpenters United
+						  Brotherhood Circulars</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1945</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/18</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Shops Fair to Labor
+						  lists</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/">1941-1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/19</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/">1923-1946</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/20-11/21</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 XVII</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">EPHEMERA</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/"><emph render="bolditalic">1941-1946</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/20</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Resolutions</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/">1941-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/21</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Miscellaneous</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922-1946</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+		  </c01> 
+		  <c01 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="boldunderline">11/22-12/9</emph></container> 
+				<unitid type="uwsc"><emph render="boldunderline">Subgroup D
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="boldunderline">Carpenters, Washington State Council
+				  of</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922-1958</emph></unitdate> 
+			 </did> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/22-11/23</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 I</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">ORGANIZATION</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/"><emph render="bolditalic">Undated</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/22</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Constitution</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/23</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Constitutional
+						  Revisions</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/24</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 II</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">MINUTES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/"><emph render="bolditalic">1942-1943</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/24</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Board Meeting</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1943</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/25</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 III</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">FINANCIAL RECORDS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/25</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Receipts and
+						  Expenses</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/26</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 IV</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">MEMBERSHIP</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/"><emph render="bolditalic">1945</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/26</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Delinquent Dues</unittitle>
+						
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/">1945</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/27</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 V</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">LEGAL
+					 DOCUMENTS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/"><emph render="bolditalic">1945</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/27</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Western Washington Heavy
+						  Construction Agreement</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/">1945</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">11/28-11/32</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 VI</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">REPORTS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/"><emph render="bolditalic">1940-1946</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/28</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">President's Financial and
+						  Activity Reports</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/">1940-1941</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/29</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">President's Financial and
+						  Activity Reports</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1943</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/30</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">President's Financial and
+						  Activity Reports</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944-1946</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/31</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Shipbuilding and Zoning
+						  Conference</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">11/32</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Western Washington Heavy
+						  Construction Agreement</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/">1945</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">12/1</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 VII</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">NEWS
+					 RELEASES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/"><emph render="bolditalic">1944</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/1</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Office of War
+						  Information</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1944/">1944</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">12/2</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 VIII</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">LEGISLATION</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/"><emph render="bolditalic">1922</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/2</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Referendum</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/">1922</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">12/3-12/4</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 IX</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">CONVENTIONS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1939/"><emph render="bolditalic">1939</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/3</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Convention
+						  Proceedings</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1939/">1939-1942</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/4</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Convention
+						  Proceedings</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/">1943-1944</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">12/5-12/8</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 X</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">EPHEMERA</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/"><emph render="bolditalic">1953-1958</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/5</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">State Labor Directory
+						  Yearbook</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/">1953</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/6</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">State Labor Directory
+						  Yearbook</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/">1955</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/7</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">State Labor Directory
+						  Yearbook</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1956/">1956</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/8</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">State Labor Directory
+						  Yearbook</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1958/">1958</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">12/9</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 VI</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">MISCELLANY</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/"><emph render="bolditalic">1942-1946</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/9</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Resolutions</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942-1946</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+		  </c01> 
+		  <c01 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="boldunderline">12/10-12/14</emph></container> 
+				<unitid type="uwsc"><emph render="boldunderline">Subgroup E
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="boldunderline">Seattle Central Labor Council</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/"><emph render="bolditalic">1923-1930</emph></unitdate> 
+			 </did> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">12/10-12/12</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 I</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">MINUTES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/"><emph render="bolditalic">1923-1930</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/10</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/">1923</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/11</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1924/">1924</unitdate> 
+				  </did> 
+				</c03> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/12</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Minutes</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1930/">1930</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">12/13</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 II</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">REPORTS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/"><emph render="bolditalic">Undated</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/13</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Political Welfare
+						  Committee</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+			 <c02 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bolditalic">12/14</emph></container> 
+				  <unitid type="uwsc"><emph render="bolditalic">SERIES
+					 III</emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">MISCELLANY</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/"><emph render="bolditalic">1923-1924</emph></unitdate> 
+				</did> 
+				<c03 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/14</container> 
+					 <unitid type="uwsc"/> 
+						<unittitle encodinganalog="245$a">Unfair Lists</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/">1923-1924</unitdate> 
+				  </did> 
+				</c03> 
+			 </c02> 
+		  </c01> 
+		
+	 </dsc> 
+  </archdesc>
+</ead>

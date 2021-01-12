@@ -1,0 +1,3444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1122857498-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" encodinganalog="identifier" identifier="80444/xv987578">RIDGE6295.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the RIDGE
+			 Records</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">RIDGE
+			 Records</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Kate
+			 Miller</author> 
+		  <sponsor encodinganalog="contributor">Full processing supported by the
+			 Labor Archives Fund and the Labor Archives of Washington State Budget</sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20191014">© 2019</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised in October
+			 2020.</date> 
+		  <item>Finding aid updated by Abbey Maynard following additional
+			 processing, including an intellectual arrangement of the collection inventory
+			 and series level scope and content notes added; revised collection-level scope
+			 and content, arrangement, biographical, abstract, and processing notes.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" audience="external"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6295</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6295-001</unitid> 
+		<origination> 
+		  <corpname role="creator" encodinganalog="110" altrender="sync" source="local" rules="local">RIDGE (Organization)</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">RIDGE
+		  records</unittitle> 
+		<unitdate type="inclusive" normal="1987/2012" era="ce" calendar="gregorian">1923-2015</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian">1987-2014</unitdate> 
+		<physdesc> <extent>9.66 cubic feet</extent>
+		  <extent>10 boxes, 2 oversize folders, 4 tubes, 39 CD-roms, 1 DVD, 8
+		  videocassettes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records of
+		  RIDGE, a Roslyn-based community organization focused on environmental and land
+		  use activism in Upper Kittitas County, Washington from 1988 until 2014. Records
+		  in the collection include litigation material related to the development of the
+		  Suncadia Resort, RIDGE office files, newspaper clippings documenting RIDGE’s
+		  projects and activism, land use maps, and RIDGE promotional material.
+		  </abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="a2" altrender="sync"> 
+		<p>RIDGE was a community organization in Roslyn, Washington formed in
+		  1988. Ellie Belew and Douglas Kilgore were leaders of the organization, which
+		  engaged in activism around forestry and land use issues during the late 1980s
+		  and into the early 2010s. RIDGE partnered with labor groups-- especially the
+		  building trades unions-- in a long fight to block the development of what is
+		  now the Suncadia Resort, the first Master Planned Resort in Washington State.
+		  Master Planned Resort [MPR] is a type of zoning distinction defined by the
+		  Washington State Growth Management [GMA] Act. MPRs are self-contained and fully
+		  integrated planned unit developments, in a setting of significant natural
+		  amenities, with primary focus on destination resort facilities consisting of
+		  short-term visitor accommodations associated with a range of developed on-site
+		  indoor or outdoor recreational facilities. The plan allows urban development
+		  outside of urban areas and connection to municipal wastewater connections but
+		  requires the MPR to be separated from surrounding communities.</p> 
+		<p>RIDGE used a variety of tactics to attempt to block Suncadia’s
+		  development including: litigation, land use mapping, water rights, community
+		  meetings, and zoning changes. Later, RIDGE engaged with Futurewise to litigate
+		  and organize for reforms to the Kittitas County Comprehensive Plan. RIDGE
+		  dissolved in 2014.</p> 
+		<p>RIDGE members warned of the negative environmental and economic
+		  effects typical of the boom and bust cycles of logging on local economies. The
+		  boom and bust cycle of a town dominated by a major extractive industry was a
+		  familiar cycle in Roslyn, founded in 1886 as a mining company town initiated
+		  and platted by the Northern Pacific Coal Company, a subsidiary of the Northern
+		  Pacific Railway. The last mine closed in Roslyn in 1963, and the bust
+		  contributed to an economic downturn and population decline. After the loss of
+		  mining jobs, the town’s demographics were largely composed of retired mining
+		  families and older white people who moved to Roslyn to complete tree-planting
+		  contracts.</p> 
+		<p>RIDGE’s connection to labor organizing is unique among other
+		  environmental groups of the time. RIDGE challenged the notion that extractive
+		  economy workers and environmentalists have competing interests, and instead
+		  sought to harmonize the need for a sustainable forest economy among workers and
+		  those concerned with the environment. RIDGE joined a coalition with the
+		  building trades unions after Suncadia expressed interest in bringing in open
+		  shop contractors to build the resort and that they had no intention of
+		  utilizing a responsible contract. Once it was evident Suncadia was going to be
+		  built despite efforts to block the development, the coalition fought for and
+		  obtained a pledge for employing union workers in its construction. The
+		  organization’s leaders also have strong ties with the labor movement. Doug
+		  Kilgore is connected to the labor movement in Washington State, and Ellie Belew
+		  has researched and authored several books in collaboration with labor unions
+		  and labor activists. </p> 
+		<p><emph render="bold">Timeline of RIDGE’s History: </emph></p> 
+		<list> 
+		  <item><emph render="bold">Spring 1988:</emph> Cle Elum Chamber of
+			 Commerce hosts community meetings about the future of Upper Kittitas County,
+			 and land use and sustainable forestry emerge as a community concern </item> 
+		  <item><emph render="bold">Summer 1988:</emph> RIDGE founded by school
+			 teachers Doug Johnson and Susan Willis Johnson with a goal to build a
+			 sustainable forest economy and ecosystem </item> 
+		  <item><emph render="bold">Fall 1988:</emph> RIDGE learns Plum Creek
+			 Timber Company plans to log approximately 15,000 acres of timber near Roslyn,
+			 Washington</item> 
+		  <item><emph render="bold">Winter 1988:</emph> Doug Kilgore and Ellie
+			 Belew join RIDGE</item> 
+		  <item><emph render="bold">February 1989:</emph> RIDGE presents concerns
+			 about overcutting in the Yakima Basin to the Forest Practices Board [FPB]
+			 </item> 
+		  <item><emph render="bold">October 1989:</emph> RIDGE facilitates first
+			 state-wide coalition meeting to discuss overcutting on private forest lands
+			 </item> 
+		  <item><emph render="bold">1988-1989:</emph> RIDGE hosts community
+			 meetings, gathers signatures to oppose Plum Creek’s logging plans</item> 
+		  <item><emph render="bold">1989-1990:</emph> RIDGE participates in
+			 Sustainable Forestry Roundtable [SFR] and SFR subcommittees </item> 
+		  <item><emph render="bold">Fall 1990:</emph>RIDGE formally appeals
+			 logging plans in L.T. Murray Recreation Area and focuses on documenting
+			 side-by-side land parcels in L.T. Murray and how the cumulative effects of
+			 logging are not accounted for in Forest Practices Applications </item> 
+		  <item><emph render="bold">Fall 1990:</emph> SFR does not reach
+			 consensus for proposing legislative package to Washington State
+			 Legislature</item> 
+		  <item><emph render="bold">1990:</emph> Growth Management Act [GMA]
+			 passes in Washington State Legislature, Kittitas County adopts GMA </item> 
+		  <item><emph render="bold">Early 1990s:</emph> Previously logged land
+			 parcels in Upper Kittitas County are proposed for development. RIDGE expands
+			 focus to include broader land use focus and uses GMA and other planning
+			 regulations to advocate for zoning designations of resource lands of long-term
+			 commercial significance </item> 
+		  <item><emph render="bold">1992:</emph> Appeals process for L.T. Murray
+			 Recreation Area ends, and the area changes from private logging to public
+			 management </item> 
+		  <item><emph render="bold">1992-1995:</emph> RIDGE appeals Plum Creek
+			 Timber Company’s application for Washington State’s first Master Planned Resort
+			 [MPR] </item> 
+		  <item><emph render="bold">April 3 1995:</emph> 14,000 acres of forest
+			 land in Upper Kittitas County are declared resource lands of long-term
+			 commercial significance by Growth Management Hearings Board for Eastern
+			 Washington </item> 
+		  <item><emph render="bold">1996:</emph> Plum Creek Timber Company sells
+			 7,600 acres of land to Trendwest Resorts for development of MPR</item> 
+		  <item><emph render="bold">Mid-to-late 1990s:</emph> RIDGE rallies
+			 community members to identify potential impacts to human and natural
+			 communities if MPR is developed </item> 
+		  <item><emph render="bold">April - September 2001:</emph> RIDGE and
+			 Trendwest (now Suncadia) engage in litigation to mitigate effects of MPR on
+			 surrounding communities and agree upon Settlement Agreement for MPR</item> 
+		  <item><emph render="bold">2001 - 2008:</emph> RIDGE enforces and
+			 monitors Settlement Agreement. Four amendments added to agreement and Suncadia
+			 attempts to dissolve agreement through legal processes </item> 
+		  <item><emph render="bold">2009:</emph> Several RIDGE board members form
+			 a new community group called R-Town</item> 
+		  <item><emph render="bold">December 8 2009:</emph> RIDGE and Suncadia go
+			 to court over enforcement of the Settlement Agreement’s terms</item> 
+		  <item><emph render="bold">July 15, 2013:</emph> Kittitas County Judge
+			 Scott R. Sparks terminates the Settlement Agreement and all remaining claims
+			 </item> 
+		  <item><emph render="bold">August 5, 2013:</emph> RIDGE announces no
+			 further plans to pursue an appeal </item> 
+		  <item><emph render="bold">2014:</emph> RIDGE dissolves</item> 
+		</list> 
+		<p>Source: 
+		  <extref href="https://www.blackpast.org/african-american-history/roslyn-washington/" show="new" actuate="onrequest" linktype="simple">https://www.blackpast.org/african-american-history/roslyn-washington/</extref>
+		  </p> 
+		<p>Source: 
+		  <extref show="new" actuate="onrequest" href="https://web.archive.org/web/20170314072214/http://www.roslynridge.org/history.php" linktype="simple">https://web.archive.org/web/20170314072214/http://www.roslynridge.org/history.php</extref>
+		  </p> 
+		<p>Source: 
+		  <extref href="https://app.leg.wa.gov/rcw/default.aspx?cite=36.70a.360" show="new" actuate="onrequest" linktype="simple">https://app.leg.wa.gov/rcw/default.aspx?cite=36.70a.360</extref></p>
+		
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>The collection has been arranged into the following series and
+		  subseries</p> 
+		<list> 
+		  <item>SERIES 1: LAND TRUSTS, 1997-2008 
+			 <list> 
+				<item>Subseries A: Projects, 1997-2008</item> 
+				<item>Subseries B: Standards and Practices, 2000-2007</item> 
+			 </list></item> 
+		  <item>SERIES 2: RIDGE OFFICE FILES, 1989-2015 
+			 <list> 
+				<item>Subseries A: Educational and Training Material,
+				  2004-2008</item> 
+				<item>Subseries B: Meeting Minutes and Notes, 1989-2015</item> 
+				<item>Subseries C: Correspondence and Newsletters, 1989-2010</item>
+				
+				<item>Subseries D: RIDGE Organizational History, 1989-2001</item> 
+				<item>Subseries E: Promotional Material, Website, and Meeting
+				  Notices, 1992-2014</item> 
+				<item>Subseries F: Maps, Trails, and Directions, 2000-2008</item> 
+			 </list></item> 
+		  <item>SERIES 3: SUSTAINABLE FORESTRY AND LAND USE, 1938, 1980-2013 
+			 <list> 
+				<item>Subseries A: Sustainable Forestry Working Groups and
+				  Coalitions, 1987-2000</item> 
+				<item>Subseries B: Kittitas County and Kittitas City Planning and
+				  Politics, 1994-2009</item> 
+				<item>Subseries C: Water and Sewerage Project Materials,
+				  1985-2013</item> 
+				<item>Subseries D: Newspaper Clippings Regarding Floods, Droughts,
+				  and Land Use, 1990-2009</item> 
+				<item>Subseries E: Land Use Proposals and Applications, 1938,
+				  1980-2009</item> 
+				<item>Subseries F: Oversize Maps, 1986-2013</item> 
+			 </list></item> 
+		  <item>SERIES 4: NEWSPAPER CLIPPINGS, PROMOTIONAL MATERIAL AND PRESS,
+			 1977, 1984-2009 
+			 <list> 
+				<item>Subseries A: RIDGE, 1977, 1984-2009</item> 
+				<item>Subseries B: Suncadia/Trendwest and Plum Creek Timber
+				  Company, 1994-2006</item> 
+			 </list></item> 
+		  <item>SERIES 5: GRANTS, NONPROFIT, AND INTERNAL REVENUE SERVICE [IRS]
+			 DOCUMENTS, 1988-2015 
+			 <list> 
+				<item>Subseries A: General, 1988-2015</item> 
+				<item>Subseries B: RIDGE Dissolution, 2009-2014</item> 
+			 </list></item> 
+		  <item>SERIES 6: RIDGE/SUNCADIA LITIGATION, 1923, 1988-2013 
+			 <list> 
+				<item>Subseries A: RIDGE Contract Advice, 2007-2011</item> 
+				<item>Subseries B: Compliance Contract Auditing, 2005-2008</item> 
+				<item>Subseries C: Settlement Drafts, Agreements, Amendments, and
+				  Easements, 1991-2010</item> 
+				<item>Subseries D: Correspondence, 1923, 1993-2009</item> 
+				<item>Suberies E: Negotiation and Proposals, 1988-2007</item> 
+				<item>Subseries F: General Suncadia Files, 1999-2013</item> 
+			 </list></item> 
+		  <item>SERIES 7: AUDIOVISUAL MATERIAL, 1984-2014</item> 
+		</list> 
+	 </arrangement> 
+	 <prefercite> 
+		<p>Labor Archives of Washington, University of Washington Libraries,
+		  Special Collections, RIDGE Records, 6295-001, [box number], [folder number]</p>
+		
+	 </prefercite> 
+	 <scopecontent> 
+		<p>This collection contains the organizational records of RIDGE during
+		  their years of operation from 1988 to 2014. Records include litigation files
+		  and other assorted materials regarding the development of the Suncadia Resort;
+		  lawsuit materials; RIDGE office files; RIDGE promotional materials, including
+		  newsletters and flyers; correspondence; oversize land use maps; photographs;
+		  news clippings and media coverage; contract drafts and contract negotiation
+		  notes; and several videocassettes. The records are mostly paper-based, but also
+		  include a large number of CD-roms containing additional digital files.</p> 
+		<p> See the arrangement note in the administrative information section
+		  for a detailed list of series and subseries. More detailed scope and content
+		  information is also included at the series level in the box/folder inventory.
+		  </p> 
+		<p>This collection contains references to the Yakama Nation. In the mid
+		  1990s, the Yakama Nation renamed itself from “Yakima” to “Yakama” to more
+		  closely represent pronunciation in their native language. All mentions of the
+		  Yakama Nation in this collection have been updated to reflect this change in
+		  spelling, though original documents may still have the outdated spelling,
+		  depending on the age of the materials. </p> 
+		<p>Source: 
+		  <extref show="new" actuate="onrequest" href="http://www.yakamanation-nsn.gov/history3.php" linktype="simple">http://www.yakamanation-nsn.gov/history3.php</extref>
+		  </p> 
+	 </scopecontent> 
+	 <relatedmaterial> 
+		<p>Web crawls of RIDGE’s former website, 
+		  <extref href="https://web.archive.org/web/2019*/roslynridge.org" show="new" actuate="onrequest" linktype="simple">roslynridge.org</extref>, can be found on the
+		  Wayback Machine’s internet archive. </p> 
+	 </relatedmaterial> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/> </p> 
+	 </altformavail> 
+	 <processinfo> 
+		<p>Abbey Maynard described and intellectually arranged this collection
+		  into series and subseries in September 2020 using existing inventory as a
+		  guide. Funding for Abbey’s internship was provided by Northwest Archivist’s
+		  Archivist-in-Residence program. JoAnn Keenan physically rehoused and
+		  inventoried the collection in September 2019.</p> 
+	 </processinfo><phystech> 
+	 <p/> </phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access for paper-based materials. VHS cassettes and
+		  CDs are closed until processed. No user access copy is available for material
+		  on VHS or CDs. Users may be able to obtain a reproduction of the media for a
+		  fee. Contact Special Collections for more information. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <odd> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <acqinfo> 
+		<p>Donated by Douglas Kilgore and Ellie Belew. </p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+		  </p> 
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<corpname role="subject" encodinganalog="610">RIDGE
+		  (Organization)$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610">RIDGE (Organization)$xPress
+		  coverage</corpname> 
+		<corpname role="subject" encodinganalog="610">Suncadia
+		  (Resort)$xHistory$vSources</corpname> 
+		<subject encodinganalog="650">Environmentalism$zWashington (State)
+		  </subject> 
+		<subject encodinganalog="650">Conservation of natural
+		  resources$zWashington (State) </subject> 
+		<subject encodinganalog="650">Forest conservation$zWashington (State)
+		  </subject> 
+		<subject encodinganalog="650">Land use$zWashington (State) </subject> 
+		<subject encodinganalog="650">Labor$zWashington (State) </subject> 
+		<subject encodinganalog="650">Labor unions$zWashington (State) </subject>
+		
+		<subject encodinganalog="650">Labor movement$zWashington (State)
+		  </subject> 
+		<persname role="subject" encodinganalog="600">Johnson, Douglas
+		  A..$d1948-</persname> 
+		<persname role="subject" encodinganalog="600">Johnson, Susan
+		  Willis</persname> 
+		<persname role="subject" encodinganalog="600">Belew, Ellie</persname> 
+		<persname role="subject" encodinganalog="600">Kilgore, Douglas
+		  H.</persname> 
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Minutes (Records)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Contracts</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Maps</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Photographs</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Aerial photographs</genreform> 
+		<corpname role="curator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Environmental Activism</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Forestry and Forestry Products</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Washington (State)</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/1-8, 3/2-4, 4/24</container> 
+			 <unitid type="uwsc">SERIES 1</unitid> 
+			 <unittitle>LAND TRUSTS</unittitle> 
+			 <unitdate type="inclusive" normal="1997/2008" era="ce" calendar="gregorian">1997-2008</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Land trust project material including maps, notes, correspondence,
+				easements, and land trust standards and practices. Additional material related
+				to conservation easements can be found in SERIES 6: RIDGE/SUNCADIA
+				LITIGATION.</p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/1-2, 1/4, 1/6-8, 3/2-4,
+				  4/24</container> 
+				<unitid type="uwsc">Subseries A</unitid> 
+				<unittitle>Projects</unittitle> 
+				<unitdate type="inclusive" normal="1997/2008" era="ce" calendar="gregorian">1997-2008</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle>Roslyn Ridge Project: Map, Notes, Articles, and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="2005/2008" era="ce" calendar="gregorian">2005-2008</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle>The Cascade Agenda and Kittitas Land Conservancy:
+					 Correspondence, Notes, Publications, and Maps with Transparency </unittitle> 
+				  <unitdate type="inclusive" normal="2005/2008" era="ce" calendar="gregorian">2005-2008</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle>Conservation Trust Materials Concerning Development of
+					 Trendwest Resorts, Sapphire Skies, and Cle Elum</unittitle> 
+				  <unitdate type="inclusive" normal="1997/2001" era="ce" calendar="gregorian">1997-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle>Mountains to Sound Greenway Trust and Kittitas
+					 Caucus</unittitle> 
+				  <unitdate type="inclusive" normal="20041115" era="ce" calendar="gregorian">2004 November
+					 15</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle>Mountains to Sound Greenway Trust, Correspondence from
+					 Ken Konigsmark to Ellie Belew, 2001 Report to Donors, Meeting Notes</unittitle>
+				  
+				  <unitdate type="inclusive" normal="19991123/20011001" era="ce" calendar="gregorian">1999
+					 November 23-2001 October 1</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle>Correspondence and Draft Proposal for Ridge to River
+					 Land Trust</unittitle> 
+				  <unitdate type="inclusive" normal="1995/2005" era="ce" calendar="gregorian">approximately
+					 2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/2</container> 
+				  <unittitle>Kittitas Conservation Trust Phase 2, Grant of
+					 Conservation Easement</unittitle> 
+				  <unitdate type="inclusive" normal="20070323" era="ce" calendar="gregorian">2007 March
+					 23</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/3</container> 
+				  <unittitle>Kittitas Conservation Trust Stream C Corridor Grant of
+					 Conservation Easement (1 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20041008/20070116" era="ce" calendar="gregorian">2004
+					 October 8-2007 January 16</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Stream C Corridor was a parcel of land included in the RIDGE
+					 Settlement Agreement that was subject to conservation easements and other
+					 protection from development. After the termination of the RIDGE Settlement
+					 Agreement, Stream C and other parcels of land were taken out of protection and
+					 are being built upon as of 2020.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/4</container> 
+				  <unittitle>Kittitas Conservation Trust Stream C Corridor Grant of
+					 Conservation Easement (2 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20041008/20070116" era="ce" calendar="gregorian">2004
+					 October 8-2007 January 16</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/24</container> 
+				  <unittitle>Ridge to River Land Trust Draft and Position Paper by
+					 Douglas Kilgore</unittitle> 
+				  <unitdate type="inclusive" normal="1992/2003" era="ce" calendar="gregorian">approximately
+					 1997-1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/3, 1/5</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>Standards and Practices</unittitle> 
+				<unitdate type="inclusive" normal="2000/2007" era="ce" calendar="gregorian">2000-2007</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle>Newspaper Articles, Notes, Correspondence, Fundraising
+					 Materials, and Land Trust Pamphlet </unittitle> 
+				  <unitdate type="inclusive" normal="2000/2005" era="ce" calendar="gregorian">2000-2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5 </container> 
+				  <unittitle>Publications and Assorted Material Regarding Land
+					 Trust Standards and Practices, Land Conservation Options for Landowners in
+					 Kittitas County, Washington</unittitle> 
+				  <unitdate type="inclusive" normal="2004/2007" era="ce" calendar="gregorian">2004-2007</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains draft deed of conservation easement on Cascade Land
+					 Conservancy</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/11-13, 2/9-10, 2/14-16, 2/30-31,
+				2/37-39, 3/8, 4/26-27, 5/2-4, 5/6, 5/12, 5/15-17, 5/19, 5/21, 5/31, 7/5-9,
+				7/16-22, 8/1, 8/7, 8/9-11, 8/13-14, 8/21-22, 8/36, 9/1, 10</container> 
+			 <unitid type="uwsc">SERIES 2</unitid> 
+			 <unittitle>RIDGE OFFICE FILES</unittitle> 
+			 <unitdate type="inclusive" normal="1989/2015" era="ce" calendar="gregorian">1989-2015</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Educational and training material, meeting minutes, notes,
+				correspondence, newsletters, promotional material, news clippings and press,
+				organizational history, promotional materials, website documentation and
+				updates, meeting notices, trails and directions. Oversize maps, oversize
+				newsprint, and electronic records appear throughout this series. More news
+				clippings and press regarding RIDGE can be found in SERIES 4: NEWSPAPER
+				CLIPPINGS, PROMOTIONAL MATERIAL, AND PRESS. More material related to RIDGE
+				organizational records can be found in SERIES 5: GRANTS, NONPROFIT, AND
+				INTERNAL REVENUE SERVICE [IRS] DOCUMENTS.</p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/11, 1/13, 7/9</container> 
+				<unitid type="uwsc">Subseries A</unitid> 
+				<unittitle>Educational and Training Material</unittitle> 
+				<unitdate type="inclusive" normal="2004/2008" era="ce" calendar="gregorian">2004-2008</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle>John E. Perkins Consensus Governance Workshop
+					 Handouts</unittitle> 
+				  <unitdate type="inclusive" normal="20080517/20080518" era="ce" calendar="gregorian">2008 May
+					 17-18</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle>Subcommittee and Consensus Training Materials,
+					 Including Booklet "Get Off the Dime" by John E. Perkins</unittitle> 
+				  <unitdate type="inclusive" normal="2004/2005" era="ce" calendar="gregorian">2004-2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/9</container> 
+				  <unittitle>Assessment and Training Exercises and Open Space Trail
+					 Tour Planning</unittitle> 
+				  <unitdate type="inclusive" normal="20040708/20050719" era="ce" calendar="gregorian">2004 July
+					 8-2005 July 19</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/12, 2/37, 3/8, 5/15, 5/31, 7/5-8,
+				  7/19-20, 8/7, 8/13-14, 8/36, 10</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>Meeting Minutes and Notes</unittitle> 
+				<unitdate type="inclusive" normal="1989/2015" era="ce" calendar="gregorian">1989-2015</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle>Meetings with Consultant Sam Collins</unittitle> 
+				  <unitdate type="inclusive" normal="1998/2009" era="ce" calendar="gregorian">approximately
+					 2003-2004</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/37</container> 
+				  <unittitle>Assorted RIDGE Business Notes</unittitle> 
+				  <unitdate type="inclusive" normal="2008/2018" era="ce" calendar="gregorian">approximately
+					 2013</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/8</container> 
+				  <unittitle>RIDGE Board Meeting Agenda</unittitle> 
+				  <unitdate type="inclusive" normal="20090210/20090226" era="ce" calendar="gregorian">2009
+					 February 10-26</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/15</container> 
+				  <unittitle>Statewide Meeting Minutes, Agenda, Mailing Lists,
+					 Notes, and Political Action Committee Information</unittitle> 
+				  <unitdate type="inclusive" normal="19891021" era="ce" calendar="gregorian">1989 October
+					 21</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/31</container> 
+				  <unittitle>RIDGE Meeting Minutes and Assorted
+					 Materials</unittitle> 
+				  <unitdate type="inclusive" normal="20000703/2015" era="ce" calendar="gregorian">2000 July
+					 3-approximately 2015</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains Roslyn City Council resolution for forest
+					 stewardship, Suncadia lawsuit material, and developers' resort development
+					 plan</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/5</container> 
+				  <unittitle>Notes, Meeting Minutes, Promotional Material, Public
+					 Notices, Kittitas County Development Services Materials, and Assorted Material
+					 (1 of 4)</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2006" era="ce" calendar="gregorian">1999-2006</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains transmittal memorandum from Suncadia and memoranda
+					 related to Kittitas County Community Development Services</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/6</container> 
+				  <unittitle>Notes, Meeting Minutes, Promotional Material, Public
+					 Notices, Kittitas County Development Services Materials, and Assorted Material
+					 (2 of 4)</unittitle> 
+				  <unitdate type="inclusive" normal="1999-2006" era="ce" calendar="gregorian">1999-2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/7</container> 
+				  <unittitle>Notes, Meeting Minutes, Promotional Material, Public
+					 Notices, Kittitas County Development Services Materials, and Assorted Material
+					 (3 of 4)</unittitle> 
+				  <unitdate type="inclusive" normal="1999-2006" era="ce" calendar="gregorian">1999-2006</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains planning commission findings and comprehensive plan
+					 map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/8</container> 
+				  <unittitle>Notes, Meeting Minutes, Promotional Material, Public
+					 Notices, Kittitas County Development Services Materials, and Assorted Material
+					 (4 of 4)</unittitle> 
+				  <unitdate type="inclusive" normal="1999-2006" era="ce" calendar="gregorian">1999-2006</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains planning committee executive statement</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/19</container> 
+				  <unittitle>General Suncadia Meeting, Agenda, Correspondence, and
+					 Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="20061023/20061202" era="ce" calendar="gregorian">2006
+					 October 23-December 2</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/20</container> 
+				  <unittitle>Meeting Notes, Correspondence, Memos, Maps, and
+					 Kittitas Department of Labor and Industries Wage List</unittitle> 
+				  <unitdate type="inclusive" normal="20050729/20060707" era="ce" calendar="gregorian">2005 July
+					 29-2006 July 7</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder"> 8/7</container> 
+				  <unittitle>Community Notices, Newspaper Clippings,
+					 Correspondence, Notes, and Material from Roslyn City Council and Kittitas
+					 County</unittitle> 
+				  <unitdate type="inclusive" normal="20020306/20051206" era="ce" calendar="gregorian">2002 March
+					 6-2005 December 6</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-rom and oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/13</container> 
+				  <unittitle>Minutes, Notes, and Newspaper Clipping</unittitle> 
+				  <unitdate type="inclusive" normal="20040419/20060416" era="ce" calendar="gregorian">2004 April
+					 19-2006 April 16</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/14</container> 
+				  <unittitle>Newspaper Clippings, Notices, Minutes, Notes,
+					 Correspondence, and Plat Maps</unittitle> 
+				  <unitdate type="inclusive" normal="20030701/200811" era="ce" calendar="gregorian">2003 July
+					 1-2008 November</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/36</container> 
+				  <unittitle>RIDGE Meeting Notes, Maps, Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="20020219/20030521" era="ce" calendar="gregorian">2002
+					 February 19-2003 May 21</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 17-19: RIDGE Documentation: Maps, Report Booklets,
+					 Master Planned Resort [MPR], and Urban Growth Area [UGA]</unittitle> 
+				  <unitdate type="inclusive" normal="20140422/20141003" era="ce" calendar="gregorian">2014 April
+					 22-October 3</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/9-10, 2/14, 2/16, 2/30, 4/26-27,
+				  5/2-3, 5/16-17, 8/10</container> 
+				<unitid type="uwsc">Subseries C</unitid> 
+				<unittitle>Correspondence and Newsletters</unittitle> 
+				<unitdate type="inclusive" normal="1989/2010" era="ce" calendar="gregorian">1989-2010</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/9</container> 
+				  <unittitle>Fund Letters</unittitle> 
+				  <unitdate type="inclusive" normal="199811/199905" era="ce" calendar="gregorian">1998
+					 November-1999 May</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/10</container> 
+				  <unittitle>RIDGE Line Newsletter</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/14</container> 
+				  <unittitle>Newsletters</unittitle> 
+				  <unitdate type="inclusive" normal="20001025/2003" era="ce" calendar="gregorian">2000 October
+					 25-2003</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/16</container> 
+				  <unittitle>Newspaper Clippings, RIDGE Line Newsletters, Flyers,
+					 and RIDGE Position Paper on RIDGE Settlement Agreement </unittitle> 
+				  <unitdate type="inclusive" normal="19971204/20070715" era="ce" calendar="gregorian">1997
+					 December 4-2007 July 15</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/30</container> 
+				  <unittitle>Mailing List and Contacts</unittitle> 
+				  <unitdate type="inclusive" normal="20090122/20101127" era="ce" calendar="gregorian">2009
+					 January 22-2010 November 27</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-roms</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/26</container> 
+				  <unittitle>RIDGE Fundraising Letter</unittitle> 
+				  <unitdate type="inclusive" normal="19910211" era="ce" calendar="gregorian">1991 February
+					 11</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/27</container> 
+				  <unittitle>David D. Kinghorn Memorial Communication</unittitle> 
+				  <unitdate type="inclusive" normal="1989/1991" era="ce" calendar="gregorian">1989-1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/2</container> 
+				  <unittitle>Assorted Correspondence from RIDGE Treasurer Jim
+					 Fisk</unittitle> 
+				  <unitdate type="inclusive" normal="19920228/19930228" era="ce" calendar="gregorian">1992
+					 February 28-1993 February 28</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/3</container> 
+				  <unittitle>Estate of Gary I. Parson</unittitle> 
+				  <unitdate type="inclusive" normal="20010412/20010614" era="ce" calendar="gregorian">2001 April
+					 12-June 14</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Gary I. Parson included RIDGE in his estate</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/16</container> 
+				  <unittitle>Newsletters, Correspondence, and Newspaper
+					 Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="199304-199505" era="ce" calendar="gregorian">1993 April-1995
+					 May</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/17</container> 
+				  <unittitle>Correspondence from Jeffrey Jacobs to Susan WIllis
+					 Johnson and Doug Kilgore and Partial Copy of Jeffrey Jacobs' "New Pioneers",
+					 Chapter 8 "Save Roslyn Ridge"</unittitle> 
+				  <unitdate type="inclusive" normal="19930515/19960102" era="ce" calendar="gregorian">1993 May
+					 15-1996 January 2</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/10</container> 
+				  <unittitle>RIDGE Line Quarterly Newsletter</unittitle> 
+				  <unitdate type="inclusive" normal="2008" era="ce" calendar="gregorian">2008</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">5/6, 5/12, 5/21</container> 
+				<unitid type="uwsc">Subseries D</unitid> 
+				<unittitle>RIDGE Organizational History</unittitle> 
+				<unitdate type="inclusive" normal="1989/2001" era="ce" calendar="gregorian">1989-2001</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/6</container> 
+				  <unittitle>Draft of New Plan for Organizational Structure of
+					 RIDGE</unittitle> 
+				  <unitdate type="inclusive" normal="1996/2006" era="ce" calendar="gregorian">approximately
+					 2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/12</container> 
+				  <unittitle>Community Meeting Agenda, History, and Talking
+					 Points</unittitle> 
+				  <unitdate type="inclusive" normal="19901119/19901120" era="ce" calendar="gregorian">1990
+					 November 19-20</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains material about forest management</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/21</container> 
+				  <unittitle>Notes and Historical Information about
+					 RIDGE</unittitle> 
+				  <unitdate type="inclusive" normal="1984/1997" era="ce" calendar="gregorian">approximately
+					 1989-1992</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/15, 2/31, 2/38-39, 5/4, 5/19,
+				  8/21-22, 9/1</container> 
+				<unitid type="uwsc">Subseries E</unitid> 
+				<unittitle>Promotional Material, Website, and Meeting
+				  Notices</unittitle> 
+				<unitdate type="inclusive" normal="1992/2014" era="ce" calendar="gregorian">1992-2014</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/15</container> 
+				  <unittitle>RIDGE Meeting Notices, Newspaper Clippings,
+					 Correspondence, and Assorted Material</unittitle> 
+				  <unitdate type="inclusive" normal="19930417/19930618" era="ce" calendar="gregorian">1993 April
+					 17-June 18</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/31</container> 
+				  <unittitle>Ridge Website Transfer: Notes, Notices, and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="20130812/20140630" era="ce" calendar="gregorian">2013 August
+					 12-2014 June 30</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/38</container> 
+				  <unittitle>RIDGE Website Updates: Design and Related
+					 Documentation</unittitle> 
+				  <unitdate type="inclusive" normal="200810/201111" era="ce" calendar="gregorian">2008
+					 October-2011 November</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/39</container> 
+				  <unittitle>RIDGE Website Updates: Design and Related
+					 Documentation</unittitle> 
+				  <unitdate type="inclusive" normal="20060612/20091215" era="ce" calendar="gregorian">2006 June
+					 12-2009 December 15</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/4</container> 
+				  <unittitle>Fundraising Materials for RIDGE</unittitle> 
+				  <unitdate type="inclusive" normal="19920216/1994" era="ce" calendar="gregorian">1992 February
+					 16-1994</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains Susan Willis Johnson letter to Northern Kittitas
+					 County Tribune</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/19</container> 
+				  <unittitle>New Member Packet</unittitle> 
+				  <unitdate type="inclusive" normal="1994/1996" era="ce" calendar="gregorian">1994-1996</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/21</container> 
+				  <unittitle>Douglas Kilgore and Ellie Belew's World Affairs
+					 Council Presentation</unittitle> 
+				  <unitdate type="inclusive" normal="20090929" era="ce" calendar="gregorian">2009 September
+					 29</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/22</container> 
+				  <unittitle>Postcards, Handouts, Reports, Maps, RIDGE Line
+					 Newsletters, Washington Environmental Council "Voices" Newsletter</unittitle> 
+				  <unitdate type="inclusive" normal="20020723/20051025" era="ce" calendar="gregorian">2002 July
+					 23-2005 October 25</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/1</container> 
+				  <unittitle>RIDGE Leaflets</unittitle> 
+				  <unitdate type="inclusive" normal="19890131/2013" era="ce" calendar="gregorian">approximately
+					 1994 January 31-2008</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">7/16-18, 7/21-22, 8/1, 8/9,
+				  8/11</container> 
+				<unitid type="uwsc">Subseries F</unitid> 
+				<unittitle>Trails, Maps, and Directions</unittitle> 
+				<unitdate type="inclusive" normal="2000/2008" era="ce" calendar="gregorian">2000-2008</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/16</container> 
+				  <unittitle> Trails</unittitle> 
+				  <unitdate type="inclusive" normal="20030103/20080516" era="ce" calendar="gregorian">2003
+					 January 3-2008 May 16</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/17</container> 
+				  <unittitle>Suncadia Phase Maps</unittitle> 
+				  <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/18</container> 
+				  <unittitle>Assorted Onsite Suncadia Mapping</unittitle> 
+				  <unitdate type="inclusive" normal="1998/2008" era="ce" calendar="gregorian">approximately
+					 2003</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/21</container> 
+				  <unittitle>Trailhead Interpreter Center</unittitle> 
+				  <unitdate type="inclusive" normal="20040627" era="ce" calendar="gregorian">2004 June
+					 27</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/22</container> 
+				  <unittitle>Trails and MountainStar Master Planned Resort
+					 [MPR]</unittitle> 
+				  <unitdate type="inclusive" normal="200010/20070812" era="ce" calendar="gregorian">2000
+					 October-2007 August 12</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-roms and oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/1</container> 
+				  <unittitle>State Route 903 Spur, RIDGE Line Newsletter, Meeting
+					 Sign-in List, and List of Adjacent Property Owners</unittitle> 
+				  <unitdate type="inclusive" normal="2004/2008" era="ce" calendar="gregorian">2004-2008</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/9</container> 
+				  <unittitle>Driving Tour Directions and Maps for Roslyn Ridge
+					 Area</unittitle> 
+				  <unitdate type="inclusive" normal="20060415" era="ce" calendar="gregorian">2006 April
+					 15</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/11</container> 
+				  <unittitle>Directions from Suncadia to Roslyn,
+					 Washington</unittitle> 
+				  <unitdate type="inclusive" normal="2003/2013" era="ce" calendar="gregorian">approximately
+					 2008</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/14-27, 2/33, 3/5-7, 4/4-11, 4/13-16,
+				4/18-22, 5/1, 5/7-9, 5/11, 5/13-14, 5/18, 5/32, 8/2-6, 8/8, 8/16-17, 8/29-32,
+				9/2-5, 10, OS Folder 1-2, Tube 1-3, Tube 5</container> 
+			 <unitid type="uwsc">SERIES 3</unitid> 
+			 <unittitle>SUSTAINABLE FORESTRY AND LAND USE</unittitle> 
+			 <unitdate type="inclusive" normal="1938/2013" era="ce" calendar="gregorian">1938,
+				1980-2013</unitdate> 
+			 <unitdate type="bulk" normal="1980/2013" era="ce" calendar="gregorian">1980-2013</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Material related to sustainable forestry working groups and
+				coalitions, Kittitas County and Kittitas City planning and politics, water and
+				sewerage projects, news clippings and press, and land use proposals, plans, and
+				applications. Types of material include notes, charts, photographs,
+				correspondence, legal documents, reports, meeting minutes, and Washington State
+				Legislative bills. Oversize maps, oversize newsprint, and electronic records
+				appear throughout this series. More information related to land use on the site
+				of Suncadia Resort can be found in SUBSERIES 6: RIDGE/SUNCADIA LITIGATION.</p> 
+		  </scopecontent> 
+		  <bioghist> 
+			 <p>RIDGE participated in the Sustainable Forestry Roundtable [SFR]
+				and various SFR subcommittees from 1989-1990. SFR sought to create a
+				legislative package through consensus of all participating groups and propose
+				legislation to state lawmakers. SFR was unable to achieve consensus when RIDGE
+				and several national and local Audubon Society chapters rejected the
+				legislative packet because of its lack of coverage of sustainable forestry and
+				forest rates of harvest.</p> 
+			 <p> RIDGE monitored and mapped forestry practices in L.T. Murray
+				Recreation Area managed by the Department of Wildlife from 1990 to 1992. RIDGE
+				did this to demonstrate how Forest Practice Applications did not take into
+				account cuts in side-by-side locations of forested areas by using Kittitas
+				County’s recently-adopted Washington State’s Growth Management Act [GMA], other
+				planning regulations, and legal action to advocate for designating traditional
+				forest, mining, and agricultural lands as “resource lands of long-term
+				commercial significance”. RIDGE advocated for zoning and other land use
+				regulations and policies that supported their goal of a sustainable forest
+				economy. The appeal for logging plans they filed in L.T. Murray is sometimes
+				called “The Hitchcock Case” in some records in the collection. </p> 
+			 <p>Source: 
+				<extref href="https://web.archive.org/web/20160420143053/http://www.roslynridge.org/history.php" show="new" actuate="onrequest" linktype="simple">https://web.archive.org/web/20160420143053/http://www.roslynridge.org/history.php</extref></p>
+			 
+		  </bioghist> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">4/13-16, 4/18-22, 5/7, 5/9, 5/11,
+				  5/14</container> 
+				<unitid type="uwsc">Subseries A</unitid> 
+				<unittitle>Sustainable Forestry Working Groups and
+				  Coalitions</unittitle> 
+				<unitdate type="inclusive" normal="1987/2000" era="ce" calendar="gregorian">1987-2000</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/13</container> 
+				  <unittitle>Sustainable Forestry Roundtable</unittitle> 
+				  <unitdate type="inclusive" normal="199004" era="ce" calendar="gregorian">1990 April</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/14</container> 
+				  <unittitle>Sustainable Forestry Roundtable and Correspondence to
+					 Members</unittitle> 
+				  <unitdate type="inclusive" normal="19900222/19900710" era="ce" calendar="gregorian">1990
+					 February 22-July 10</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/15</container> 
+				  <unittitle>Draft Proposals, Correspondence, Charts, and
+					 Notes</unittitle> 
+				  <unitdate type="inclusive" normal="19900514/19901023" era="ce" calendar="gregorian">1990 May
+					 14-1990 October 23</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/16</container> 
+				  <unittitle>Washington State Senate Bill 5616, Washington State
+					 House Bill 1923, Press Releases, Notes, and Letters of Support</unittitle> 
+				  <unitdate type="inclusive" normal="19901010/19910211" era="ce" calendar="gregorian">1990
+					 October 10-1991 February 11</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/18</container> 
+				  <unittitle>Sustainable Forestry Roundtable Notes, Proposals,
+					 Tables, and Charts</unittitle> 
+				  <unitdate type="inclusive" normal="198708/19900610" era="ce" calendar="gregorian">1987
+					 August-1990 June 10</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains rate of forest harvest, watershed hydrology
+					 information, draft proposals and analysis of proposals</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/19</container> 
+				  <unittitle>Sustainable Forestry Roundtable Working Group (1 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="1987/1990" era="ce" calendar="gregorian">
+					 1987-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/20</container> 
+				  <unittitle>Sustainable Forestry Roundtable Working Group (2 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="1987/1990" era="ce" calendar="gregorian">1987-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/21</container> 
+				  <unittitle>Susan Willis Johnson: Rate of Harvest, Uneven-Age
+					 Management, Tables and Charts, Proposals, and Washington State Regulations
+					 Regarding Non-Industrial Forest Stewardship on Private Land</unittitle> 
+				  <unitdate type="inclusive" normal="19900201/19900705" era="ce" calendar="gregorian">1990
+					 February 1-July 5</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/22</container> 
+				  <unittitle>Sustainable Forestry Roundtable Summit
+					 Meeting</unittitle> 
+				  <unitdate type="inclusive" normal="19900625/19900828" era="ce" calendar="gregorian">1990 June
+					 25-August 28</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/7</container> 
+				  <unittitle>Forest Practices and the Timber Fish and Wildlife
+					 [TFW] Process</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1995" era="ce" calendar="gregorian">approximately
+					 1990</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize topographic maps. Also contains information
+					 about RIDGE forest practices appeal involving land in the L.T. Murray
+					 Recreation Area</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/9</container> 
+				  <unittitle>Forest Practices Bill, Mailing Lists, Meeting Sign-In
+					 Sheet and Notes</unittitle> 
+				  <unitdate type="inclusive" normal="1984/2005" era="ce" calendar="gregorian">approximately
+					 1989-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/11</container> 
+				  <unittitle>Sustain: Coalition of Forest Sustainability Group
+					 Correspondence, Mailing Lists, Meeting Agenda and Minutes</unittitle> 
+				  <unitdate type="inclusive" normal="19891127/19900417" era="ce" calendar="gregorian">1989
+					 November 27-1990 April 17</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>"Sustain" was a coalition of organizations aimed at reforming
+					 forest practices regulations on private land in Washington State. Sustain was
+					 mostly a collection of smaller organizations, though some larger organizations
+					 were also members</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/14</container> 
+				  <unittitle>Sustain: Coalition of Forest Sustainability
+					 Groups</unittitle> 
+				  <unitdate type="inclusive" normal="19900224/19901006" era="ce" calendar="gregorian">1990
+					 February 24-October 6</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/14-27, 4/4, 5/1, 5/32, 8/8, 8/30,
+				  10</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>Kittitas City and Kittitas County Planning and
+				  Politics</unittitle> 
+				<unitdate type="inclusive" normal="1994/2009" era="ce" calendar="gregorian">1994-2009</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unittitle>Paula Thompson's Campaigns</unittitle> 
+				  <unitdate type="inclusive" normal="2003/2014" era="ce" calendar="gregorian">approximately
+					 2008-2009</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Paula Thompson ran for Kittitas County District 2 County
+					 Commissioner in 2008. She was a member of Kittitas County Conservation
+					 Coalition [KCCC]</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unittitle>Comprehensive Plan Amendments</unittitle> 
+				  <unitdate type="inclusive" normal="2008" era="ce" calendar="gregorian">2008</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/16</container> 
+				  <unittitle>Meeting Notes and Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="2005/20071006" era="ce" calendar="gregorian">2005-2007
+					 October 6</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/17</container> 
+				  <unittitle>RIDGE Amendments, Copy of Resolution and Letters of
+					 Recommendation</unittitle> 
+				  <unitdate type="inclusive" normal="20060627/20061003" era="ce" calendar="gregorian">2006 June
+					 27-October 3</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/18</container> 
+				  <unittitle>Comprehensive Plan Bullets from 2006
+					 Amendment</unittitle> 
+				  <unitdate type="inclusive" normal="20060816/20060821" era="ce" calendar="gregorian">2006 August
+					 16-21</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>American Forest Resources and Teanaway Comprehensive
+					 Plan</unittitle> 
+				  <unitdate type="inclusive" normal="200606/200608" era="ce" calendar="gregorian">2006
+					 June-August</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>The Teanaway Comprehensive Plan is in reference to Kittitas
+					 County's revision to the county's comprehensive plan after American Forest
+					 Resources [AFR] purchased Boise Cascade-owned forest land in the Teanaway
+					 Valley. AFR sought to rezone large sections of the Teanaway Valley for a Master
+					 Planned Resort/residential development. RIDGE, along with the Washington
+					 Department of Fish and Wildlife, Friends of the Teanaway and Futurewise
+					 intervened via the Kittitas County Planning Department, who decided that the
+					 rezone would require an environmental impact statement [EIS]. After the EIS was
+					 required, AFR did not pursue the proposal for rezoning, and they sold the land
+					 to the Department of Natural Resources [DNR].</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/20</container> 
+				  <unittitle>American Forest Resources Application
+					 Materials</unittitle> 
+				  <unitdate type="inclusive" normal="20060630/20060821" era="ce" calendar="gregorian">2006 June
+					 30-August 21</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains DVD and oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/21</container> 
+				  <unittitle>Kittitas County Council of Governments Subcommittee
+					 and Upper Kittitas Vision Plan</unittitle> 
+				  <unitdate type="inclusive" normal="200503/20050531" era="ce" calendar="gregorian">2005
+					 March-May 31</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/22</container> 
+				  <unittitle>Resource Lands Advisory Committee, Development Rights
+					 Recommendation, and Land Use Plan </unittitle> 
+				  <unitdate type="inclusive" normal="2001/2006" era="ce" calendar="gregorian">2001-2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/23</container> 
+				  <unittitle>Kittitas County Conservation Coalition
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="20060721" era="ce" calendar="gregorian">2006 July
+					 21</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/24</container> 
+				  <unittitle>Correspondence and Notes</unittitle> 
+				  <unitdate type="inclusive" normal="20060520/20060612" era="ce" calendar="gregorian">2006 May
+					 20-June 12</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/25</container> 
+				  <unittitle>Comprehensive Plan Amendment and Newspaper
+					 Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="20050629/20051115" era="ce" calendar="gregorian">2005 June
+					 29-November 15</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/26</container> 
+				  <unittitle>Kittitas County Community Group</unittitle> 
+				  <unitdate type="inclusive" normal="20050115/20050125" era="ce" calendar="gregorian">2005
+					 January 15-25</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/27</container> 
+				  <unittitle>Kittitas County Comprehensive Plan and Public Meeting
+					 Announcement in Cle Elum, Washington</unittitle> 
+				  <unitdate type="inclusive" normal="1998/2010" era="ce" calendar="gregorian">approximately
+					 2003-2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/4</container> 
+				  <unittitle>Kittitas County Development Activities Application for
+					 Trendwest</unittitle> 
+				  <unitdate type="inclusive" normal="19970307" era="ce" calendar="gregorian">1997 March
+					 7</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/1</container> 
+				  <unittitle>Kittitas County Board of Commissioners Decision on Cle
+					 Elum River Property Designation as Forest Land of Long-Term Commercial
+					 Significance</unittitle> 
+				  <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/32</container> 
+				  <unittitle>Assorted Legal Documents, Covenants, Press, and
+					 Newspaper Clippings Regarding Kittitas County Land Use</unittitle> 
+				  <unitdate type="inclusive" normal="19930322/20150701" era="ce" calendar="gregorian">2000-2008</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder"> 8/8</container> 
+				  <unittitle>Public Outreach Process Pre Hearings and Kittitas
+					 County Comprehensive Plan Meeting Agenda</unittitle> 
+				  <unitdate type="inclusive" normal="20060214/20060601" era="ce" calendar="gregorian">2006
+					 February 14-June 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains letter from Mayor Porter of Cle Elum to Darryl Piercy
+					 of Ellensburg regarding Roslyn City Council meeting</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/30</container> 
+				  <unittitle>Kittitas County Easement Survey Documents and
+					 Maps</unittitle> 
+				  <unitdate type="inclusive" normal="2001/2011" era="ce" calendar="gregorian">approximately
+					 2006</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 5: Roslyn City Council Meeting</unittitle> 
+				  <unitdate type="inclusive" normal="20101109" era="ce" calendar="gregorian">2010 November
+					 9</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 13-14: Roslyn City Council Meeting</unittitle> 
+				  <unitdate type="inclusive" normal="20091110" era="ce" calendar="gregorian">2009 November
+					 10</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">3/5-7, 4/5-11, 5/8, 8/29, 8/31-32,
+				  10</container> 
+				<unitid type="uwsc">Subseries C</unitid> 
+				<unittitle>Water and Sewerage Project Materials</unittitle> 
+				<unitdate type="inclusive" normal="1985/2013" era="ce" calendar="gregorian">1985-2013</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/5</container> 
+				  <unittitle>Water Quality Monitoring (1 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="2001/2018" era="ce" calendar="gregorian">approximately
+					 2006-2013</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/6</container> 
+				  <unittitle>Water Quality Monitoring (2 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="2001/2018" era="ce" calendar="gregorian">approximately
+					 2006-2013</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/7</container> 
+				  <unittitle>Suncadia Water Quality Monitoring Reports</unittitle> 
+				  <unitdate type="inclusive" normal="20080303/20100504" era="ce" calendar="gregorian">2008 March
+					 3-2010 May 4</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/5</container> 
+				  <unittitle>Draft of Cle Elum Regional Sewerage Facilities
+					 Plan</unittitle> 
+				  <unitdate type="inclusive" normal="200205" era="ce" calendar="gregorian">2002 May</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/6</container> 
+				  <unittitle>Draft of Environmental Impact Statement, Cle Elum
+					 Regional Sewerage Facilities Plan, and Yakima River Restoration
+					 Projects</unittitle> 
+				  <unitdate type="inclusive" normal="200207" era="ce" calendar="gregorian">2002 July</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/7</container> 
+				  <unittitle>Addendum to the Final Environmental Impact Statement
+					 for Cle Elum Regional Sewerage Facility and Yakima River Restoration Projects,
+					 Washington State Growth Strategies Commission Report, and Cle Elum River
+					 Properties Report </unittitle> 
+				  <unitdate type="inclusive" normal="1990/2003" era="ce" calendar="gregorian">1990-2003</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains Destination Resort Handbook by the Oregon Department
+					 of Land Conservation and Development</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/8</container> 
+				  <unittitle>Photographs of Little Creek: Black and White
+					 Photograph of Vista for Thorp Mt. Lookout (1 of 4)</unittitle> 
+				  <unitdate type="inclusive" normal="1980/2005" era="ce" calendar="gregorian">approximately
+					 1985-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/9</container> 
+				  <unittitle>Photographs of Little Creek: Black and White
+					 Photographs (2 of 4)</unittitle> 
+				  <unitdate type="inclusive" normal="1980/2005" era="ce" calendar="gregorian">approximately
+					 1985-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/10</container> 
+				  <unittitle>Photographs of Little Creek: Color Photographs of
+					 Clearcutting (3 of 4)</unittitle> 
+				  <unitdate type="inclusive" normal="1990/2015" era="ce" calendar="gregorian">approximately
+					 1995-2010</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/11</container> 
+				  <unittitle>Photographs of Little Creek: Color Photographs of
+					 Salmon La Sac Road/State Route 903 (4 of 4)</unittitle> 
+				  <unitdate type="inclusive" normal="1990/2015" era="ce" calendar="gregorian">approximately
+					 1995-2010</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/8</container> 
+				  <unittitle>Cle Elum River Properties</unittitle> 
+				  <unitdate type="inclusive" normal="1992/1993" era="ce" calendar="gregorian">1992-1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/29</container> 
+				  <unittitle>Unsigned Declaration for Existing Public Road Easement
+					 for Winston Road, Material Concerning Settlement Protecting Domerie Creek
+					 Watershed</unittitle> 
+				  <unitdate type="inclusive" normal="200102/201102" era="ce" calendar="gregorian">approximately
+					 2006 February</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/31</container> 
+				  <unittitle>Upper Cle Elum River Restoration Correspondence,
+					 Proposals, Draft Contracts, and Public Meeting Flyer</unittitle> 
+				  <unitdate type="inclusive" normal="20050209/20060808" era="ce" calendar="gregorian">2005
+					 February 9-2006 August 8</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/32</container> 
+				  <unittitle>Washington Department of Fish and Wildlife Big Creek
+					 Project Communications, Maps, and 2002 Bonneville Power Administration
+					 Review</unittitle> 
+				  <unitdate type="inclusive" normal="20010727/20050113" era="ce" calendar="gregorian">2001 July
+					 27-2005 January 13</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 16: Trendwest Properties: Cle Elum Urban Growth
+					 Area [UGA] Final Environmental Impact Statement, Appendix B Water Supply
+					 Technical Report Supplement</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2015" era="ce" calendar="gregorian">approximately
+					 2005-2010</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">5/13, 8/3-5, 8/17</container> 
+				<unitid type="uwsc">Subseries D</unitid> 
+				<unittitle>Newspaper Clippings Regarding Floods, Droughts, and Land
+				  Use</unittitle> 
+				<unitdate type="inclusive" normal="1990/2009" era="ce" calendar="gregorian">1990-2009</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/13</container> 
+				  <unittitle>Flooding in Autumn 1990</unittitle> 
+				  <unitdate type="inclusive" normal="199012" era="ce" calendar="gregorian">1990
+					 December</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains road closure lists from flooding</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/3</container> 
+				  <unittitle>Newspaper Clippings and Domerie Creek
+					 Diversion</unittitle> 
+				  <unitdate type="inclusive" normal="20030116/20090504" era="ce" calendar="gregorian">2003
+					 January 16-2009 May 4</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/4</container> 
+				  <unittitle>Black Rock Dam Flyers and Newspaper
+					 Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="20030125/20050507" era="ce" calendar="gregorian">2003
+					 January 25-2005 May 7</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/5</container> 
+				  <unittitle>Yakima Valley Drought Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="20050308/20050316" era="ce" calendar="gregorian">2005 March
+					 8-16</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/17</container> 
+				  <unittitle>Newspaper Clippings about Teanaway Solar
+					 Farm</unittitle> 
+				  <unitdate type="inclusive" normal="20080826/20090716" era="ce" calendar="gregorian">2008 August
+					 26-2009 July 16</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/33, 5/18, 8/2, 8/6, 8/16, 9/2-5,
+				  10</container> 
+				<unitid type="uwsc">Subseries E</unitid> 
+				<unittitle>Land Use Proposals, Plans, Applications and Assorted
+				  Material</unittitle> 
+				<unitdate type="inclusive" normal="1938/2009" era="ce" calendar="gregorian">1938,
+				  1980-2009</unitdate> 
+				<unitdate type="bulk" normal="1980/2009" era="ce" calendar="gregorian">bulk 1980-2009</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/33</container> 
+				  <unittitle>Roslyn Forest Land Stewardship Plan</unittitle> 
+				  <unitdate type="inclusive" normal="20080708/20090724" era="ce" calendar="gregorian">2008 July
+					 8-2009 July 24</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/18</container> 
+				  <unittitle>Assorted Newspaper Clippings, Advertisements,
+					 Photographs, Newsletters and Flyers Related to Forest Practices and Land
+					 Use</unittitle> 
+				  <unitdate type="inclusive" normal="19900823/19911210" era="ce" calendar="gregorian">1990 August
+					 23-1991 December 10</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains unsigned Settlement Agreement and Hitchcock Appeal,
+					 oversize newsprint, and recommendation from RIDGE to Roslyn Mayor Jack Denning
+					 and Roslyn City Council about designation of environmental officer to review
+					 actions under SEPA [State Environmental Policy Act]</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/2</container> 
+				  <unittitle>Forest Practices Application</unittitle> 
+				  <unitdate type="inclusive" normal="20030303/20030707" era="ce" calendar="gregorian">2003 March
+					 3-July 7</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder"> 8/6</container> 
+				  <unittitle>Land Use Committee and Cascadia Land Conservancy
+					 Report</unittitle> 
+				  <unitdate type="inclusive" normal="20040901/20090716" era="ce" calendar="gregorian">2004
+					 September 1-2009 July 16</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/16</container> 
+				  <unittitle>Forest Practices Application, Notification to the
+					 Washington State Department of Natural Resources</unittitle> 
+				  <unitdate type="inclusive" normal="20090918/20090923" era="ce" calendar="gregorian">2009
+					 September 18-23</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/2</container> 
+				  <unittitle>Maps, Photographs, and Contracts Related to Land
+					 Deeds, Northern Pacific Railway, and Plum Creek Timber Company</unittitle> 
+				  <unitdate type="inclusive" normal="19380824/1988" era="ce" calendar="gregorian">1938 August
+					 24-1988</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/3</container> 
+				  <unittitle>Petition Regarding Rate of Timber Harvest</unittitle> 
+				  <unitdate type="inclusive" normal="1975/2000" era="ce" calendar="gregorian">approximately
+					 1980-1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/4</container> 
+				  <unittitle>Photograph: Elum Lake on Left, Cle Elum in Middle,
+					 Ellensburg on Right, I-90 Along Bottom of Photograph [?] </unittitle> 
+				  <unitdate type="inclusive" normal="1980/2005" era="ce" calendar="gregorian">approximately
+					 1985-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/5</container> 
+				  <unittitle>Acreages and Photographs</unittitle> 
+				  <unitdate type="inclusive" normal="1975/2005" era="ce" calendar="gregorian">approximately
+					 1980-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 6: Roslyn Urban Forest Land Stewardship
+					 Plan</unittitle> 
+				  <unitdate type="inclusive" normal="20060825" era="ce" calendar="gregorian">2006 August
+					 25</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>contact person[?] James Begley listed on exterior of CD</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 7: Roslyn Urban Forest Land Stewardship Plan
+					 Draft</unittitle> 
+				  <unitdate type="inclusive" normal="20061003" era="ce" calendar="gregorian">2006 October
+					 3</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>contact person[?] James Begley listed on exterior of CD</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 15: Roslyn Urban Forest Land Stewardship Plan
+					 Draft</unittitle> 
+				  <unitdate type="inclusive" normal="20070306" era="ce" calendar="gregorian">2007 March
+					 6</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box">OS Folder 1-2, Tube 1-3, Tube 5</container> 
+				<unitid type="uwsc">Subseries F</unitid> 
+				<unittitle>Oversize Maps</unittitle> 
+				<unitdate type="inclusive" normal="1986/2013" era="ce" calendar="gregorian">1986-2013</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">OS Folder 1</container> 
+				  <unittitle>Oversize Maps</unittitle> 
+				  <unitdate type="inclusive" normal="1988/2013" era="ce" calendar="gregorian">1988-2013[?]</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">OS Folder 2</container> 
+				  <unittitle>Relative Stability of Soils in the Upper Yakima Basin
+					 map</unittitle> 
+				  <unitdate type="inclusive" normal="1988/2013" era="ce" calendar="gregorian">1988-2013[?]</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="tube">Tube 1</container> 
+				  <unittitle>Laminated Map Overlays</unittitle> 
+				  <unitdate type="inclusive" normal="1988/2013" era="ce" calendar="gregorian">1988-2013[?]</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="tube">Tube 2</container> 
+				  <unittitle>Wenatchee National Forest South with Map
+					 Overlays</unittitle> 
+				  <unitdate type="inclusive" normal="1988/2013" era="ce" calendar="gregorian">1988-2013[?]</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="tube">Tube 3</container> 
+				  <unittitle>Yakima North Central Washington Region</unittitle> 
+				  <unitdate type="inclusive" normal="198606" era="ce" calendar="gregorian">June 1986
+					 Edition</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="tube">Tube 5</container> 
+				  <unittitle>Wenatchee National Forest South with Map
+					 Overlays</unittitle> 
+				  <unitdate type="inclusive" normal="1988/2013" era="ce" calendar="gregorian">1988-2013[?]</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">1/28-35, 2/1-8, 2/11-13, 2/17-18, 2/20,
+				4/3, 4/17, 5/10, 8/23, 8/33-35, 8/37</container> 
+			 <unitid type="uwsc">SERIES 4</unitid> 
+			 <unittitle>NEWSPAPER CLIPPINGS, PROMOTIONAL MATERIAL, AND
+				PRESS</unittitle> 
+			 <unitdate type="inclusive" normal="1977/2009" era="ce" calendar="gregorian">1977,
+				1984-2009</unitdate> 
+			 <unitdate type="bulk" normal="1990/2001" era="ce" calendar="gregorian">1990-2001</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Newspaper clippings, promotional material, and press regarding
+				various RIDGE projects. Also includes newspaper clippings, resort brochures and
+				job postings, promotional material and advertisements regarding Plum Creek
+				Timber Company and Trendwest/MountainStar/Suncadia Resort. Oversize newsprint
+				appears throughout the series. Additional newspaper clippings about RIDGE can
+				be found in SERIES 2: RIDGE OFFICE FILES. Related material about Suncadia
+				Resort can be found in SUBSERIES 6: RIDGE/SUNCADIA LITIGATION.</p> 
+		  </scopecontent> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">1/28-35, 2/1-8, 2/11-13, 2/17-18,
+				  2/20, 5/10</container> 
+				<unitid type="uwsc">Subseries A</unitid> 
+				<unittitle>RIDGE</unittitle> 
+				<unitdate type="inclusive" normal="1997/2009" era="ce" calendar="gregorian">1977,
+				  1984-2009</unitdate> 
+				<unitdate type="bulk" normal="1990/2001" era="ce" calendar="gregorian">bulk 1990-2001</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/28</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="19840601/19950325" era="ce" calendar="gregorian">1984 June
+					 1-1995 March 25</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize items and material related to Growth
+					 Management Area [GMA] Forest Appeal</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/29</container> 
+				  <unittitle>RIDGE Press Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="19940105/19940201" era="ce" calendar="gregorian">1994
+					 January 5-February 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newspaper clippings</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/30</container> 
+				  <unittitle>Newspaper Clippings and Related Materials</unittitle> 
+				  <unitdate type="inclusive" normal="20010624/20050205" era="ce" calendar="gregorian">1977, 2001
+					 June 24-2005 February 5</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint and chapter from "A Pattern
+					 Language: Towns, Buildings, Construction", Oxford University Press 1977</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/31</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="19930913/19990211" era="ce" calendar="gregorian">1993 Sept
+					 13-1999 February 11</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/32</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize items</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/33</container> 
+				  <unittitle>Wall Street Journal Letter from RIDGE Committee to
+					 Editor</unittitle> 
+				  <unitdate type="inclusive" normal="19900710" era="ce" calendar="gregorian">1990 July
+					 10</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/34</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="19930818/19990722" era="ce" calendar="gregorian">1993 August
+					 18-1999 July 22</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/35</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="199309/19991229" era="ce" calendar="gregorian">1993
+					 September-1999 December 29</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/1</container> 
+				  <unittitle>Daily Record Newspapers, Ellensburg, Washington (1 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="19911122/19911127" era="ce" calendar="gregorian">1991
+					 November 22-27</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/2</container> 
+				  <unittitle>Daily Record Newspapers, Ellensburg, Washington (2 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="19911122/19911127" era="ce" calendar="gregorian">1991
+					 November 22-27</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/3</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/4</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/5</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1993/19950402" era="ce" calendar="gregorian">1993-1995 April
+					 2</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/6</container> 
+				  <unittitle>Newspaper Clippings </unittitle> 
+				  <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1983/1998" era="ce" calendar="gregorian">approximately
+					 1988-1993</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/8</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1985/2000" era="ce" calendar="gregorian">approximately
+					 1990-1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/11</container> 
+				  <unittitle>Press Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="20040427/20090730" era="ce" calendar="gregorian"> 2004 April
+					 27-2009 July 30</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize items</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/12</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="19921022/19940119" era="ce" calendar="gregorian">1992 Oct
+					 22-1994 January 19</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/13</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="19930304/19940119" era="ce" calendar="gregorian">1993 March
+					 4-1994 January 19</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/17</container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="19961107/20010213" era="ce" calendar="gregorian">1996
+					 November 7-2001 February 13</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint and RIDGE/Trendwest Agreement
+					 Capsule Summary</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/18</container> 
+				  <unittitle>RIDGE and Plum Creek Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="19860604/19940113" era="ce" calendar="gregorian">1986 June
+					 4-1994 January 13</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/20</container> 
+				  <unittitle>Newspaper Clippings and Flyers</unittitle> 
+				  <unitdate type="inclusive" normal="19920116/19970310" era="ce" calendar="gregorian">1992
+					 January 16-1997 March 10</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/10</container> 
+				  <unittitle>Seattle Times Article, "Timber-pact Moderators Blasted
+					 for Lobbying"</unittitle> 
+				  <unitdate type="inclusive" normal="19901107" era="ce" calendar="gregorian">1990 November
+					 7</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">4/3, 4/17, 8/23, 8/33-35,
+				  8/37</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>Suncadia/Trendwest and Plum Creek Timber
+				  Company</unittitle> 
+				<unitdate type="inclusive" normal="1994/2006" era="ce" calendar="gregorian">1994-2006</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/3</container> 
+				  <unittitle>Trendwest and MountainStar Resort
+					 Brochures</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2001" era="ce" calendar="gregorian">1999-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/17</container> 
+				  <unittitle>Plum Creek Timber Company Press Releases and Newspaper
+					 Clipping</unittitle> 
+				  <unitdate type="inclusive" normal="19940104/19950406" era="ce" calendar="gregorian">1994
+					 January 4-1995 April 6</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/23</container> 
+				  <unittitle>Suncadia News Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="200902/20090705" era="ce" calendar="gregorian">2009
+					 February-July 5</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/33</container> 
+				  <unittitle>Suncadia Resort Advertisements, Reports, Job Postings,
+					 and Newspaper Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1996/2006" era="ce" calendar="gregorian">1996-2006</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint and advertisements</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/34</container> 
+				  <unittitle>Advertisements and Articles about Golf
+					 Resorts</unittitle> 
+				  <unitdate type="inclusive" normal="20050701/20051024" era="ce" calendar="gregorian">2005 July
+					 1-October 24</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/35</container> 
+				  <unittitle>Newspaper Clippings Regarding JELD-WEN Windows and
+					 Doors and Possible Privatization of the Oregon Institute of Technology in
+					 Klamath Falls, Oregon</unittitle> 
+				  <unitdate type="inclusive" normal="199702/200702" era="ce" calendar="gregorian">approximately
+					 2002 February</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>JELD-WEN Windows and Doors was owned by Richard Wendt and the
+					 Wendt family from 1960 until the company was sold to Onex Corporation in 2011
+					 after the housing market crisis in 2007. The Wendt family were the principal
+					 owners and investors of the Suncadia Resort and several other Oregon resorts
+					 before the housing market crisis</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/37</container> 
+				  <unittitle>Puget Sound Business Journal Article, "Golf Resort
+					 Delays Second Course", Ad Describing Preliminary Site Plan for
+					 MountainStar</unittitle> 
+				  <unitdate type="inclusive" normal="1998/2008" era="ce" calendar="gregorian">approximately
+					 2003</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">2/19, 2/21-24, 2/29, 2/32, 2/34, 4/12,
+				4/25, 5/5, 5/22-30</container> 
+			 <unitid type="uwsc">SERIES 5</unitid> 
+			 <unittitle>GRANTS, NONPROFIT, AND INTERNAL REVENUE SERVICE [IRS]
+				DOCUMENTS</unittitle> 
+			 <unitdate type="inclusive" normal="1988/2015" era="ce" calendar="gregorian">1988-2015</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Grant materials, nonprofit applications and documentation, tax
+				documents, and material related to RIDGE’s dissolution. Related RIDGE office
+				material can be found in SERIES 2: RIDGE OFFICE FILES.</p> 
+		  </scopecontent> 
+		  <bioghist> 
+			 <p>When RIDGE dissolved in 2014, Futurewise absorbed RIDGE’s rights
+				and obligations concerning the 2014 Settlement Agreement with Kittitas County
+				over water issues. Conservation Northwest took over RIDGE’s rights and
+				obligations related to the Roslyn Urban Forest Land Stewardship Plan. RIDGE’s
+				cultural programs were transferred to Oyez Roslyn!, a Roslyn-based charity.
+				</p> 
+		  </bioghist> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/19, 2/22-24, 2/29, 2/32, 4/12, 4/25,
+				  5/5, 5/22-30</container> 
+				<unitid type="uwsc">Subseries A</unitid> 
+				<unittitle>General</unittitle> 
+				<unitdate type="inclusive" normal="1988/2015" era="ce" calendar="gregorian">1988-2015</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/19</container> 
+				  <unittitle>Grant Drafts, Newspaper Clippings, Flyers, and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="1988/19920605" era="ce" calendar="gregorian">1988-1992 June
+					 5</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint. Also contains Bullit grant drafts
+					 and article about Plum Creek Timber Company clearcutting north of Missoula,
+					 Montana</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/22</container> 
+				  <unittitle> Internal Revenue Service 501C3
+					 Application</unittitle> 
+				  <unitdate type="inclusive" normal="19950522/19950606" era="ce" calendar="gregorian">1995 May
+					 22-June 6</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/23</container> 
+				  <unittitle>Receipts for Legal Expenses</unittitle> 
+				  <unitdate type="inclusive" normal="20140213/20140610" era="ce" calendar="gregorian">2014
+					 February 13-June 10</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/24</container> 
+				  <unittitle>Incorporation of R Town Community
+					 Organization</unittitle> 
+				  <unitdate type="inclusive" normal="20100926/20110123" era="ce" calendar="gregorian">2010
+					 September 26-2011 January 23</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/29</container> 
+				  <unittitle>RIDGE Data Universal Number System [DUNS]</unittitle> 
+				  <unitdate type="inclusive" normal="20120812/20150504" era="ce" calendar="gregorian">2012 August
+					 12-2015 May 4</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/32</container> 
+				  <unittitle>Tax Letters</unittitle> 
+				  <unitdate type="inclusive" normal="19950619/20090813" era="ce" calendar="gregorian">1995 June
+					 19-2009 August 13</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/12</container> 
+				  <unittitle>Internal Revenue Service [IRS] Documents</unittitle> 
+				  <unitdate type="inclusive" normal="19950616/20041123" era="ce" calendar="gregorian">1995 June
+					 16-2004 November 23</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/25</container> 
+				  <unittitle>Internal Revenue Service Ruling on Request for 501
+					 ©)(3) Exemption for RIDGE</unittitle> 
+				  <unitdate type="inclusive" normal="19950630" era="ce" calendar="gregorian">1995 June
+					 30</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/5</container> 
+				  <unittitle>Grants</unittitle> 
+				  <unitdate type="inclusive" normal="20010919/20010925" era="ce" calendar="gregorian">2001
+					 September 19-25</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/22</container> 
+				  <unittitle> RIDGE 501©)(4) Application and Assorted
+					 Materials</unittitle> 
+				  <unitdate type="inclusive" normal="19890519/20020202" era="ce" calendar="gregorian">1989 May
+					 19-2002 February 2</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains color photographs of RIDGE community meeting</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/23</container> 
+				  <unittitle>RIDGE Association Tax Documents</unittitle> 
+				  <unitdate type="inclusive" normal="19931203/20050408" era="ce" calendar="gregorian">1993
+					 December 3-2005 April 8</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/24</container> 
+				  <unittitle>Grant Application Materials for Northwest Fund for the
+					 Environment </unittitle> 
+				  <unitdate type="inclusive" normal="20090917/20101116" era="ce" calendar="gregorian">2009
+					 September 17-2010 November 16</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/25</container> 
+				  <unittitle>Grant Material for Northwest Fund for the
+					 Environment</unittitle> 
+				  <unitdate type="inclusive" normal="20100211/20100612" era="ce" calendar="gregorian">2010
+					 February 11-June 12</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/26</container> 
+				  <unittitle>Grant Administration Materials for Northwest Fund for
+					 the Environment </unittitle> 
+				  <unitdate type="inclusive" normal="19921011/20120405" era="ce" calendar="gregorian">1992
+					 October 11-2012 April 5</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/27</container> 
+				  <unittitle>RIDGE Organizing Documents and Tax Exemption
+					 Information</unittitle> 
+				  <unitdate type="inclusive" normal="19950619/19950630" era="ce" calendar="gregorian">1995 June
+					 19-30</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/28</container> 
+				  <unittitle>Tax Documents and Organization Identification
+					 Documents</unittitle> 
+				  <unitdate type="inclusive" normal="19910213/20020630" era="ce" calendar="gregorian">1991
+					 February 13-2002 June 30</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/29</container> 
+				  <unittitle>Non-Profit Paperwork for RIDGE Association</unittitle>
+				  
+				  <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/30</container> 
+				  <unittitle>Nonprofit Corporation Annual Report</unittitle> 
+				  <unitdate type="inclusive" normal="19890619/20100625" era="ce" calendar="gregorian">1989 June
+					 19-2010 June 25</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/21, 2/34</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>RIDGE Dissolution</unittitle> 
+				<unitdate type="inclusive" normal="2009/2014" era="ce" calendar="gregorian">2009-2014</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/21</container> 
+				  <unittitle>RIDGE Dissolution Records</unittitle> 
+				  <unitdate type="inclusive" normal="20090724/20141029" era="ce" calendar="gregorian">2009 July
+					 24-2014 October 29</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/34</container> 
+				  <unittitle>RIDGE and Kittitas County Settlement Agreement and
+					 RIDGE Successorship </unittitle> 
+				  <unitdate type="inclusive" normal="20140206/20140703" era="ce" calendar="gregorian">2014
+					 February 6-July 3</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder">2/25-28, 2/36, 3/1, 3/9-22, 4/1-2, 4/23,
+				5/20, 5/33-34, 6/1-13, 7/1-4, 7/10-15, 8/12, 8/15, 8/18-20, 8/24-28, 8/38-40,
+				10, Tube 4</container> 
+			 <unitid type="uwsc">SERIES 6</unitid> 
+			 <unittitle>RIDGE/SUNCADIA LITIGATION</unittitle> 
+			 <unitdate type="inclusive" normal="1923/2013" era="ce" calendar="gregorian">1923,
+				1988-2013</unitdate> 
+			 <unitdate type="bulk" normal="1988/2013" era="ce" calendar="gregorian">1988-2013</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contract advice, negotiation files for RIDGE/Suncadia litigation,
+				contract compliance auditing, correspondence, proposals, lawsuit material, and
+				material related to the RIDGE/Suncadia Settlement Agreement including drafts,
+				amendments and easements. Oversize maps, oversize documents and newsprint, and
+				electronic records appear throughout the series. Land trusts related to
+				RIDGE/Suncadia Litigation can be found in SERIES 1: LAND TRUSTS. Related
+				material about zoning and planning can be found in SERIES 3: SUSTAINABLE
+				FORESTRY AND LAND USE. Newspaper clippings about Suncadia Resort can be found
+				in SERIES 4: NEWSPAPER CLIPPINGS, PROMOTIONAL MATERIAL, AND PRESS.</p> 
+		  </scopecontent> 
+		  <bioghist> 
+			 <p>The 2001 RIDGE Settlement Agreement was negotiated to mitigate the
+				impacts of development on the 7,600 acres owned by Suncadia and their secondary
+				development in Upper Kittitas County. A Second Amendment to the Agreement was
+				signed in 2004. Suncadia negotiated with RIDGE for modifications to address its
+				changing development needs. In exchange, RIDGE negotiated for Suncadia’s
+				purchase and subsequent donation of approximately 330 acres of forested lands
+				to the city of Roslyn, now called the Roslyn Urban Forest. A Fourth Amendment
+				to the Agreement was signed in 2006, which allowed the Master Planned Resort
+				[MPR] to incorporate lands that were formerly the site of the Nelson Dairy.
+				Some of these lands were added to the MPR’s buildable footprint and significant
+				portions were added to open space managed for wildlife, habitat, and passive
+				recreation in perpetuity as part of the Stream C Corridor that continues on to
+				the Cle Elum River.</p> 
+			 <p> RIDGE pursued additional litigation about the proposed Suncadia
+				Resort that focused on the water rights Suncadia would need to supply the
+				resort. RIDGE was concerned the resort would deplete the resources of the
+				Yakima Basin. As a result of this litigation, the Department of Ecology
+				regulated the water so that whatever water Suncadia acquired and used would be
+				balanced out by other water left running in the stream. </p> 
+			 <p>Ownership of the resort property changed hands and names several
+				times during and before negotiations. Plum Creek Timber Company sold the MPR to
+				Trendwest, which then became MountainStar, which then became Suncadia. All
+				material marked “RIDGE Settlement Agreement” is in reference to the agreement
+				that RIDGE negotiated with the owners of the resort property, regardless of who
+				owned the property at the time. </p> 
+		  </bioghist> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/25-28</container> 
+				<unitid type="uwsc">Subseries A</unitid> 
+				<unittitle>RIDGE Contract Advice</unittitle> 
+				<unitdate type="inclusive" normal="2007/2011" era="ce" calendar="gregorian">2007-2011</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/25</container> 
+				  <unittitle>RIDGE Contract Advice and Client Documents (1 of
+					 4)</unittitle> 
+				  <unitdate type="inclusive" normal="20070317/20110115" era="ce" calendar="gregorian">2007 March
+					 17-2011 January 15</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-roms</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/26</container> 
+				  <unittitle>RIDGE Contract Advice and Client Documents (2 of
+					 4)</unittitle> 
+				  <unitdate type="inclusive" normal="20070317/20110115" era="ce" calendar="gregorian">2007 March
+					 17-2011 January 15</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/27</container> 
+				  <unittitle>RIDGE Contract Advice and Client Documents (3 of
+					 4)</unittitle> 
+				  <unitdate type="inclusive" normal="20070317/20110115" era="ce" calendar="gregorian">2007 March
+					 17-2011 January 15</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/28</container> 
+				  <unittitle>RIDGE Contract Advice and Client Documents (4 of
+					 4)</unittitle> 
+				  <unitdate type="inclusive" normal="20070317/20110115" era="ce" calendar="gregorian">2007 March
+					 17-2011 January 15</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">3/14, 7/10-15</container> 
+				<unitid type="uwsc">Subseries B</unitid> 
+				<unittitle>Contract Compliance Auditing</unittitle> 
+				<unitdate type="inclusive" normal="2005/2008" era="ce" calendar="gregorian">2005-2008</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/14</container> 
+				  <unittitle>Agreement between Suncadia, Adolfson Associates, and
+					 Douglas Kilgore</unittitle> 
+				  <unitdate type="inclusive" normal="20050509" era="ce" calendar="gregorian">2005 May
+					 9</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/10</container> 
+				  <unittitle>Adolfson Associates Inc.,: Contract Compliance Audit
+					 for Suncadia Contract and RIDGE Settlement Agreement (1 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize material</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/11</container> 
+				  <unittitle>Adolfson Associates Inc.,: Contract Compliance Audit
+					 for Suncadia Contract and RIDGE Settlement Agreement (2 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/12</container> 
+				  <unittitle>Adolfson Associates Inc.,: Contract Compliance Audit
+					 for Suncadia Contract and RIDGE Settlement Agreement</unittitle> 
+				  <unitdate type="inclusive" normal="2007" era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize material. Some material in the folder may be
+					 referred to as "The Matrix", a list of topics analyzed and verified by Adolfson
+					 Associates during the contract compliance audit of the RIDGE Settlement
+					 Agreement</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/13</container> 
+				  <unittitle>Adolfson Associates Inc.,: Contract Compliance Audit
+					 for Suncadia Contract and RIDGE Settlement Agreement </unittitle> 
+				  <unitdate type="inclusive" normal="20051014/20070117" era="ce" calendar="gregorian">2005
+					 October 14-2007 January 17</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-rom and oversize material. Some material in the
+					 folder may be referred to as "The Matrix", a list of topics analyzed and
+					 verified by Adolfson Associates during the contract compliance audit of the
+					 RIDGE Settlement Agreement</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/14</container> 
+				  <unittitle>Adolfson Associations Inc.,: Contract Compliance Audit
+					 for Suncadia Contract, Suncadia Information, Meeting Notes, Charts, and
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="20051203/20081101" era="ce" calendar="gregorian">2005
+					 December 3-2008 November 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Some material in the folder may be referred to as "The
+					 Matrix", a list of topics analyzed and verified by Adolfson Associates during
+					 the contract compliance audit of the RIDGE Settlement Agreement</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/15</container> 
+				  <unittitle>Suncadia Landscape Review with Contract Compliance
+					 Auditor</unittitle> 
+				  <unitdate type="inclusive" normal="20080812/20080905" era="ce" calendar="gregorian">2008 August
+					 12-September 5</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-roms</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">3/9-13, 3/15-22, 4/1-2, 5/33-34,
+				  6/11-13, 7/1-4, 8/19-20, 10</container> 
+				<unitid type="uwsc">Subseries C</unitid> 
+				<unittitle>Settlement Drafts, Agreements, Amendments, and
+				  Easements</unittitle> 
+				<unitdate type="inclusive" normal="1991/2010" era="ce" calendar="gregorian">1991-2010</unitdate> 
+				<unitdate type="bulk" normal="2000/2010" era="ce" calendar="gregorian">bulk 2000-2010</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/9</container> 
+				  <unittitle>First Amendment of RIDGE Settlement Agreement and
+					 Second Agreement for MountainStar Master Planned Resort [MPR]</unittitle> 
+				  <unitdate type="inclusive" normal="20030313/20040419" era="ce" calendar="gregorian">2003 March
+					 13-2004 April 19</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/10</container> 
+				  <unittitle>Original RIDGE Settlement Agreement (1 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20040501" era="ce" calendar="gregorian">2004 May
+					 1</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/11</container> 
+				  <unittitle>Original RIDGE Settlement Agreement (2 of 2)
+					 </unittitle> 
+				  <unitdate type="inclusive" normal="20040501" era="ce" calendar="gregorian">2004 May
+					 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize enlargements of site plans</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/12</container> 
+				  <unittitle>Cooperative Agreement (1 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20030401/200412" era="ce" calendar="gregorian">2003 April
+					 1-2004 December </unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize enlargements of site plans</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/13</container> 
+				  <unittitle>Cooperative Agreement (2 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20030401/200412" era="ce" calendar="gregorian">2003 April
+					 1-2004 December </unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize enlargements</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/15</container> 
+				  <unittitle>MountainStar and Stream C Draft Land Stewardship Plans
+					 and Cooperative Agreement between Washington Department of Fish and Wildlife,
+					 Yakama Nation, and Trendwest Resorts, Inc.</unittitle> 
+				  <unitdate type="inclusive" normal="200301/200511" era="ce" calendar="gregorian">2003
+					 January-2005 November</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/16</container> 
+				  <unittitle>Mountainstar Land Stewardship Plan and Stream "C"
+					 Addendum Reports (1 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20030715/20060825" era="ce" calendar="gregorian">2003 July
+					 15-2006 August 25</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-rom</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle>Mountainstar Land Stewardship Plan and Stream "C"
+					 Addendum Reports (2 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20030715/20060825" era="ce" calendar="gregorian">2003 July
+					 15-2006 August 25</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 22: Roslyn Land Stewardship Plan, Prepared by James
+					 Begley of Central Washington University</unittitle> 
+				  <unitdate type="inclusive" normal="20070518" era="ce" calendar="gregorian">2007 May
+					 18</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/18</container> 
+				  <unittitle>Trendwest Resorts, Inc. and RIDGE Agreement (1 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20060617" era="ce" calendar="gregorian">2006 June
+					 17</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/19</container> 
+				  <unittitle>Trendwest Resorts, Inc. and RIDGE Agreement (2 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20060617" era="ce" calendar="gregorian">2006 June
+					 17</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/20</container> 
+				  <unittitle>First Amendment to Phase 3 Managed Open Space
+					 Conservation Easement</unittitle> 
+				  <unitdate type="inclusive" normal="20060621" era="ce" calendar="gregorian">2006 June
+					 21</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/21</container> 
+				  <unittitle>Stream C Corridor Grant of Conservation
+					 Easement</unittitle> 
+				  <unitdate type="inclusive" normal="20060613" era="ce" calendar="gregorian">2006 June
+					 13</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/22</container> 
+				  <unittitle>RIDGE and Washington First Law Center's Mountainwest
+					 Settlement and Upper Teanaway Subarea Plan Agreement</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2014" era="ce" calendar="gregorian">approximately
+					 2004-2009</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/1</container> 
+				  <unittitle>Development Resolution for Roslyn,
+					 Washington</unittitle> 
+				  <unitdate type="inclusive" normal="20030325" era="ce" calendar="gregorian">2003 March
+					 25</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/2</container> 
+				  <unittitle>RIDGE Settlement Agreement Amendments, Modifications,
+					 Dispute Resolutions, and Final Documents</unittitle> 
+				  <unitdate type="inclusive" normal="20020918/20060508" era="ce" calendar="gregorian">2002
+					 September 18-2006 May 8</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/33</container> 
+				  <unittitle>RIDGE Settlement Agreement</unittitle> 
+				  <unitdate type="inclusive" normal="19910113/20061221" era="ce" calendar="gregorian">1991
+					 January 13-2006 December 21</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps and blueprints</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/34</container> 
+				  <unittitle>Recorded Easements</unittitle> 
+				  <unitdate type="inclusive" normal="20030820/20060128" era="ce" calendar="gregorian">2003 August
+					 20-2006 January 28</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize material</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/11</container> 
+				  <unittitle>Signed Trendwest/RIDGE Contract</unittitle> 
+				  <unitdate type="inclusive" normal="20010408/20010515" era="ce" calendar="gregorian">2001 April
+					 8-May 15</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/12</container> 
+				  <unittitle>Douglas Kilgore: Implementation of Provision 1.56 (Big
+					 Creek) of RIDGE Settlement Agreement</unittitle> 
+				  <unitdate type="inclusive" normal="2003/2004" era="ce" calendar="gregorian">2003-2004</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/13</container> 
+				  <unittitle>RIDGE Settlement Agreement Amendments and Dispute
+					 Resolution Documents (1 of 5)</unittitle> 
+				  <unitdate type="inclusive" normal="2002/2010" era="ce" calendar="gregorian">2002-2010</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-roms and oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/1</container> 
+				  <unittitle>RIDGE Settlement Agreement Amendments and Dispute
+					 Resolution Documents (2 of 5) </unittitle> 
+				  <unitdate type="inclusive" normal="2002/2010" era="ce" calendar="gregorian">2002-2010</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/2</container> 
+				  <unittitle>RIDGE Settlement Agreement Amendments and Dispute
+					 Resolution Documents (3 of 5) </unittitle> 
+				  <unitdate type="inclusive" normal="2002/2010" era="ce" calendar="gregorian">2002-2010</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/3</container> 
+				  <unittitle>RIDGE Settlement Agreement Amendments and Dispute
+					 Resolution Documents (4 of 5)</unittitle> 
+				  <unitdate type="inclusive" normal="2002/2010" era="ce" calendar="gregorian">2002-2010</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/4</container> 
+				  <unittitle>RIDGE Settlement Agreement Amendments and Dispute
+					 Resolution Documents (5 of 5)</unittitle> 
+				  <unitdate type="inclusive" normal="2002/2010" era="ce" calendar="gregorian">2002-2010</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/19</container> 
+				  <unittitle> Cooperation Agreement Meeting Minutes, Cle Elum River
+					 Site Map</unittitle> 
+				  <unitdate type="inclusive" normal="20001204/20030723" era="ce" calendar="gregorian">2000
+					 December 4-2003 July 23</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/20</container> 
+				  <unittitle>Timeline of Second Amendment to RIDGE Settlement
+					 Agreement, MountainStar Report, Cle Elum Urban Growth Area, Map</unittitle> 
+				  <unitdate type="inclusive" normal="20020909/20040504" era="ce" calendar="gregorian">2002
+					 September 9-2004 May 4</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 1-3: Index and First Amendment</unittitle> 
+				  <unitdate type="inclusive" normal="20051031/20061103" era="ce" calendar="gregorian">2005
+					 October 31-2006 November 3</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>contact person listed on exterior of digital files is Maura
+					 Woodwell</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 20: Transmittal Memo, Rational, Amended Development
+					 Agreement, Amended County Conditions of Approval, Exhibit J and Exhibit
+					 M</unittitle> 
+				  <unitdate type="inclusive" normal="20070809/20070810" era="ce" calendar="gregorian">2007 August
+					 9-10</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">4/23, 8/12, 8/15, 8/18</container> 
+				<unitid type="uwsc">Subseries D</unitid> 
+				<unittitle>Correspondence</unittitle> 
+				<unitdate type="inclusive" normal="1923/2009" era="ce" calendar="gregorian">1923,
+				  1993-2009</unitdate> 
+				<unitdate type="bulk" normal="1993/2009" era="ce" calendar="gregorian">bulk 1993-2009</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/23</container> 
+				  <unittitle>Correspondence, Maps, and Land Transfer Documents
+					 Related to Trendwest Development</unittitle> 
+				  <unitdate type="inclusive" normal="1923/1997" era="ce" calendar="gregorian">1923,
+					 1993-1997</unitdate> 
+				  <unitdate type="bulk" normal="1993/1997" era="ce" calendar="gregorian">1993-1997</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps, oversize site plans, and
+					 correspondence from Bill Hunt to Douglas Kilgore</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/12</container> 
+				  <unittitle>Road Access, Suncadia Master Planned Resort [MPR]
+					 Zoning Correspondence</unittitle> 
+				  <unitdate type="inclusive" normal="20080825/20080826" era="ce" calendar="gregorian">2008 August
+					 25-26</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/15</container> 
+				  <unittitle>Suncadia Plans Correspondence, Notes, and Outstanding
+					 Issues Dispute Process Documents</unittitle> 
+				  <unitdate type="inclusive" normal="20080721/20090114" era="ce" calendar="gregorian">2008 July
+					 21-2009 January 14</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/18</container> 
+				  <unittitle>Correspondence from Douglas Kilgore Concerning Dispute
+					 between Suncadia and Cle Elum, Legal Documents Concerning Easement, and Deed of
+					 Trust at Plum Creek</unittitle> 
+				  <unitdate type="inclusive" normal="20020505/20090522" era="ce" calendar="gregorian">2002 May
+					 5-2009 May 22</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">6/1, 6/3-10, 6/14, 8/38-40,
+				  10</container> 
+				<unitid type="uwsc">Subseries E</unitid> 
+				<unittitle>Negotiation and Proposals</unittitle> 
+				<unitdate type="inclusive" normal="1988/2007" era="ce" calendar="gregorian">1988-2007</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/1</container> 
+				  <unittitle>RIDGE Board Member Andy Januzkiewicz's Notes for
+					 Negotiations with Trendwest</unittitle> 
+				  <unitdate type="inclusive" normal="1999/2002" era="ce" calendar="gregorian">1999-2002</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize items</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/3</container> 
+				  <unittitle>RIDGE and Trendwest Negotiation (1 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="19970627/20040301" era="ce" calendar="gregorian">1997 June
+					 27-2004 March 1</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/14</container> 
+				  <unittitle>RIDGE and Trendwest Negotiation (2 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="19970627/20040301" era="ce" calendar="gregorian">1997 June
+					 27-2004 March 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize meeting wall charts</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/4</container> 
+				  <unittitle>RIDGE Proposals (1 of 3)</unittitle> 
+				  <unitdate type="inclusive" normal="200106/200107" era="ce" calendar="gregorian">2001
+					 June-July</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/5</container> 
+				  <unittitle>RIDGE Proposals (2 of 3)</unittitle> 
+				  <unitdate type="inclusive" normal="200106/200107" era="ce" calendar="gregorian">2001
+					 June-July</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/6</container> 
+				  <unittitle>RIDGE Proposals (3 of 3)</unittitle> 
+				  <unitdate type="inclusive" normal="200106/200107" era="ce" calendar="gregorian">2001
+					 June-July</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/7</container> 
+				  <unittitle>Douglas Kilgore: RIDGE/Trendwest Negotiation (1 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="200107/200108" era="ce" calendar="gregorian">2001
+					 July-August</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/8</container> 
+				  <unittitle>Douglas Kilgore: RIDGE/Trendwest Negotiation (2 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" normal="200107/200108" era="ce" calendar="gregorian">2001
+					 July-August</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/9</container> 
+				  <unittitle>Douglas Kilgore: Trendwest/RIDGE Negotiation File and
+					 Final RIDGE Settlement Agreement (1 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20010909/20010912" era="ce" calendar="gregorian">2001
+					 September 9-12</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize items</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/10</container> 
+				  <unittitle>Douglas Kilgore: Trendwest/RIDGE Negotiation File and
+					 Final RIDGE Settlement Agreement (2 of 2)</unittitle> 
+				  <unitdate type="inclusive" normal="20010909/20010912" era="ce" calendar="gregorian">2001
+					 September 9-12</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/38</container> 
+				  <unittitle>Miller Property: Proposal Notes and Documents,
+					 Proposal by RIDGE to Suncadia, Open Space Analysis, and Traffic
+					 Impacts</unittitle> 
+				  <unitdate type="inclusive" normal="20050419/20050601" era="ce" calendar="gregorian">2005 April
+					 19-June 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps. The Miller Property was land located
+					 adjacent to both the planned Suncadia Resort and Roslyn, Washington. In 2006
+					 and 2007, RIDGE and Suncadia entered into negotiations to add the Miller
+					 Property to the resort and to protect large portions of that land in a
+					 conservation easement. Suncadia sought to terminate the RIDGE Settlement
+					 Agreement, and ultimately succeeded when the Kittitas County Superior Court
+					 Judge Scott Sparks terminated the agreement in 2013, voiding the Miller
+					 Property conservation easement as well. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/39</container> 
+				  <unittitle>Miller Property: Notes and CD with Satellite
+					 Photographs [?]</unittitle> 
+				  <unitdate type="inclusive" normal="1988/20070301" era="ce" calendar="gregorian">1988-2007 March
+					 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-rom</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/40</container> 
+				  <unittitle>Miller Property and Fourth Amendment of Settlement
+					 Agreement: Revisions, Correspondence, Notes, Reports, and Maps</unittitle> 
+				  <unitdate type="inclusive" normal="20050601/20070612" era="ce" calendar="gregorian">2005 June
+					 1-2007 June 12</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-rom and oversize maps</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 9-10: Suncadia Cle Elum River Corridor, Stream C
+					 Corridor, Phases 1-3</unittitle> 
+				  <unitdate type="inclusive" normal="2002/2012" era="ce" calendar="gregorian">approximately
+					 2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 11-12: Stream C Land Stewardship Plan</unittitle> 
+				  <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder">2/36, 3/1, 5/20, 6/2, 8/24-28, 10,
+				  Tube 4</container> 
+				<unitid type="uwsc">Subseries F</unitid> 
+				<unittitle>General Suncadia Files</unittitle> 
+				<unitdate type="inclusive" normal="1999/2013" era="ce" calendar="gregorian">1999-2013</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/1</container> 
+				  <unittitle>Suncadia Settlement Agreement Presentation to Kittitas
+					 County Court</unittitle> 
+				  <unitdate type="inclusive" normal="1996/2018" era="ce" calendar="gregorian">approximately
+					 2001-2013</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize maps and site plans and correspondence from
+					 Bill Hunt to Douglas Kilgore.</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/36</container> 
+				  <unittitle>Resource Media Proposal for RIDGE and Suncadia Case
+					 Study</unittitle> 
+				  <unitdate type="inclusive" normal="2007/2017" era="ce" calendar="gregorian">approximately
+					 2012</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/20</container> 
+				  <unittitle>Topographical Maps with Notations of Legal Land
+					 Boundary Descriptions</unittitle> 
+				  <unitdate type="inclusive" normal="19990422/19991025" era="ce" calendar="gregorian">1999 April
+					 22-October 25</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize marked topographical map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/2</container> 
+				  <unittitle>Successorship of Trendwest to MountainStar</unittitle>
+				  
+				  <unitdate type="inclusive" normal="20020417/20040301" era="ce" calendar="gregorian">2002 April
+					 17-2004 March 1</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/24</container> 
+				  <unittitle>Suncadia Mass Wasting Event, Erosion and Sediment,
+					 Correspondence, Notes, Memorandum, and Stormwater Compliance Inspection
+					 Report</unittitle> 
+				  <unitdate type="inclusive" normal="20061116/20070228" era="ce" calendar="gregorian">2006
+					 November 16-2007 February 28</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains CD-rom</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/25</container> 
+				  <unittitle>Open Space on Master Planned Resort [MPR] Zoning,
+					 Notes on Trails</unittitle> 
+				  <unitdate type="inclusive" normal="2000/2012" era="ce" calendar="gregorian">approximately
+					 2005-2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/26</container> 
+				  <unittitle>Draft of Suncadia Resort Golf Course Management Plan,
+					 Correspondence, and Notes</unittitle> 
+				  <unitdate type="inclusive" normal="20060101/20060418" era="ce" calendar="gregorian">2006
+					 January 1-April 18</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/27</container> 
+				  <unittitle>Suncadia: Notice of Plat Application and Public
+					 Hearing, Memorandum from Kittitas County Community Development, Newspaper
+					 Clippings, and Correspondence from Ellie Belew, Douglas Kilgore, and Deron
+					 Lozano </unittitle> 
+				  <unitdate type="inclusive" normal="20060301/20060713" era="ce" calendar="gregorian">2006 March
+					 1-July 13</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/28</container> 
+				  <unittitle>Suncadia Newspaper Clippings, Maps, Correspondence,
+					 and Memorandum from Notary Regarding Agreement between TrendWest and
+					 RIDGE</unittitle> 
+				  <unitdate type="inclusive" normal="20030303/20060810" era="ce" calendar="gregorian">2003 March
+					 3-2006 August 10</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Contains oversize newsprint and map</p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 4: Suncadia Site Development Plan Application,
+					 Lower River Corridor Paths and Trails</unittitle> 
+				  <unitdate type="inclusive" normal="20070712" era="ce" calendar="gregorian">2007 July
+					 12</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 8: Suncadia Path and Trail Master Planning
+					 Map</unittitle> 
+				  <unitdate type="inclusive" normal="20070216" era="ce" calendar="gregorian">2007 February
+					 16</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>CD 21: Suncadia Path and Trail Master Planning Map,
+					 Dawson Associates</unittitle> 
+				  <unitdate type="inclusive" normal="20080229" era="ce" calendar="gregorian">2008 February
+					 29</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="tube">Tube 4</container> 
+				  <unittitle>Aerial photograph of land SE of Cle Elum Lake:
+					 Laminated Photographs Taped Together to form a Large Aerial View of the Land
+					 Now Occupied by Suncadia Resort</unittitle> 
+				  <unitdate type="inclusive" normal="1988/2013" era="ce" calendar="gregorian">1988-2013[?]</unitdate> 
+				</did> 
+				<scopecontent> 
+				  <p>Restricted until digital version is available.</p> 
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <unitid type="uwsc">SERIES 7</unitid> 
+			 <unittitle>AUDIOVISUAL MATERIAL</unittitle> 
+			 <unitdate type="inclusive" normal="1984/2014" era="ce" calendar="gregorian">1984-2014</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Videocassettes on assorted topics related to RIDGE.</p> 
+		  </scopecontent> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="video">Video 1</container> 
+				<unittitle>RIDGE Compliance Study Sessions</unittitle> 
+				<unitdate type="inclusive" normal="19941019/19941021" era="ce" calendar="gregorian">1994 October
+				  19-21</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="video">Video 2</container> 
+				<unittitle>RIDGE Yakima Basin Aerial Video</unittitle> 
+				<unitdate type="inclusive" normal="1979/2015" era="ce" calendar="gregorian">approximately
+				  1984-2014</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="video">Video 3</container> 
+				<unittitle>MountainStar Master Planned Resort [MPR] Zoning Site
+				  Visit, Judge Susan Hahn and Counsel</unittitle> 
+				<unitdate type="inclusive" normal="20010412" era="ce" calendar="gregorian">2001 April
+				  12</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="video">Video 4</container> 
+				<unittitle>Unmarked VHS</unittitle> 
+				<unitdate type="inclusive" normal="1990/2010" era="ce" calendar="gregorian">approximately
+				  1995-2005</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="video">Video 5</container> 
+				<unittitle>Plum Creek Timber Company, RIDGE Interview, and Town
+				  Meeting</unittitle> 
+				<unitdate type="inclusive" normal="1990/2010" era="ce" calendar="gregorian">approximately
+				  1995-2005</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="video">Video 6</container> 
+				<unittitle>Dick Rieman at the High School</unittitle> 
+				<unitdate type="inclusive" normal="1990/2010" era="ce" calendar="gregorian">approximately
+				  1995-2005</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="video">Video 7</container> 
+				<unittitle>Thanksgiving Day</unittitle> 
+				<unitdate type="inclusive" normal="1989" era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="video">Video 8</container> 
+				<unittitle>"The West", Show #109</unittitle> 
+				<unitdate type="inclusive" normal="1979/2015" era="ce" calendar="gregorian">approximately
+				  1984-2014</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

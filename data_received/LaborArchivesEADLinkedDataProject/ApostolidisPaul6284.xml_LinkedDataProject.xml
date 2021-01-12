@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <!--OCLC 1143850464-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ApostolidisPaul6284.xml" encodinganalog="identifier" identifier="80444/xv870665">ApostolidisPaul6284.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Paul Apostolidis
+			 Interviews and Research Materials On Pasco Meatpacking Plant
+			 Workers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Apostolidis (Paul)
+			 Interviews and Research Materials on Pasco Meatpacking Plant
+			 Workers</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Kate
+			 Miller</author> 
+		  <sponsor encodinganalog="contributor">Full processing supported by the
+			 Labor Archives Fund and the Labor Archives of Washington State Budget</sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20200311">© 2020</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised March
+			 2020</date> 
+		  <item>Revised by Labor Archivist for Processing, Crystal Rodgers,
+			 adding a collection inventory and updating description, including access
+			 restrictions, scope and content, date ranges, arrangement, and processing
+			 information.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6284</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6284-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100" altrender="sync">Apostolidis, Paul,$d1965-</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Paul Apostolidis
+		  interviews and research materials on Pasco meatpacking plant
+		  workers</unittitle> 
+		<unitdate type="inclusive" normal="1980/2006" era="ce" calendar="gregorian">1980-2006</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian" normal="1997/2006">1997-2006</unitdate> 
+		<physdesc><extent>4.31 cubic feet</extent>
+		  <extent>4 boxes </extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Interviews and
+		  research materials gathered by Apostolidis regarding immigrant meatpacking
+		  workers in Pasco, Washington</abstract><langmaterial>Collection materials are
+		in <language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Paul Apostolidis teaches in the Government Department at the London
+		  School of Economics and Political Science in London, UK. Apostolidis was
+		  previously the T. Paul Chair of Political Science at Whitman College in Walla
+		  Walla, Washington where he taught classes on political theory and U.S.
+		  politics. His research focused on Latinx migrant laborers' work experiences,
+		  political organizations, and languages of collective action. His books include 
+		  <emph render="italic">The Fight for Time: Migrant Day Laborers and the Politics
+		  of Precarity</emph> (Oxford University Press, 2019), <emph render="italic">Breaks in the Chain: What Immigrant Workers Can Teach America
+		  about Democracy</emph> (University of Minnesota Press, 2010), and 
+		  <emph render="italic">Stations of the Cross: Adorno and Christian Right
+		  Radio</emph> (Duke University Press, 2000). Paul is co-editor of 
+		  <emph render="italic">Public Affairs: Politics in the Age of Sex Scandals
+		  </emph> (Duke University Press, 2005). His current research explores neoliberal
+		  power relations via an analysis of work experiences and political organizing
+		  among migrant day laborers.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Collection is currently arranged as it was received upon donation,
+		  divided into the following two series: 
+		  <list> 
+			 <item>SERIES 1: PAPERS</item> 
+			 <item>SERIES 2: AUDIOVISUAL MATERIAL</item> 
+		  </list></p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>The collection contains interviews and research materials created and
+		  gathered by Paul Apostolidis which formed the basis for his 2010 book 
+		  <emph render="italic"> Breaks in the Chain: What Immigrant Workers Can Teach
+		  America about Democracy.</emph></p> 
+		<p>Paper-based research materials include print transcriptions, newspaper
+		  articles, scholarly papers, materials from courses taught by Apostolidis at
+		  Whitman College, legal records, and correspondence with Teamsters, Tyson, and
+		  research team members. </p> 
+		<p>Audiovisual material consists primarily of original recordings on
+		  audiocassettes and minicassettes of about 40 interviews with immigrant
+		  meatpacking workers in Pasco who were members of International Brotherhood of
+		  Teamsters, Local 556 (the local represented workers at the Tyson/IBP beef plant
+		  in Wallula, WA just outside Pasco; in 2005, Tyson destroyed the union through
+		  company-engineered decertification elections). Other audiovisual materials
+		  include VHS tapes, a DVD of news coverage, and depositions of employees.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access for paper-based materials; however, no user
+		  access copy is currently available for VHS tapes and audiocassette. Users may
+		  obtain a reproduction of the media for a fee by contacting Special
+		  Collections.</p> 
+		<p>Access to VHS tapes and interview audiocassette is restricted. An
+		  appointment with the Labor Archives curator is required prior to viewing.
+		  Contact UW Special Collections for more details or to request an
+		  appointment.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Restrictions may exist on copying, quotation, or publication. Contact
+		  University of Washington Libraries Special Collections for details. </p> 
+	 </userestrict> 
+	 <prefercite> 
+		<p>Labor Archives of Washington, University of Washington Libraries,
+		  Special Collections, Paul Apostolidis interviews and research materials on
+		  Pasco meatpacking plant workers, 6284-001, box number, folder number.</p> 
+	 </prefercite> 
+	 <acqinfo> 
+		<p>Donated by Paul Apostolidis. </p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p> 
+		  <extref href="https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP7196703970001451" show="new" actuate="onrequest" linktype="simple">Apostolidis, Paul. 2010. <emph render="italic">
+			 Breaks in the Chain : What Immigrant Workers Can Teach America About
+			 Democracy</emph>. Minneapolis: University of Minnesota Press.</extref></p> 
+	 </relatedmaterial> 
+	 <processinfo> 
+		<p>The collection was rehoused and inventoried by Labor Archives
+		  Volunteer, JoAnn Keenan, with no further arrangement imposed on the collection
+		  beyond a paper and audiovisual series.</p> 
+	 </processinfo> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname role="subject" encodinganalog="600">Apostolidis,
+		  Paul,$d1965-$vArchives</persname> 
+		<title role="subject" encodinganalog="600" linktype="simple">Breaks in the
+		  chain$vSources</title> 
+		<corpname role="subject" encodinganalog="610">International Brotherhood
+		  of Teamsters.$bLocal 556 (Pasco, Wash.)$xHistory$vSources</corpname> 
+		<corpname role="subject" encodinganalog="610">Tyson
+		  (Firm)$xHistory$vSources</corpname> 
+		<corpname role="subject" encodinganalog="610">Tyson
+		  (Firm)$xEmployees$xHistory$vSources</corpname> 
+		<subject encodinganalog="650">Meat industry and trade$zWashington
+		  (State)$zPasco$xHistory$vSources</subject> 
+		<subject encodinganalog="650">Packing-house workers$zWashington
+		  (State)$zPasco$xHistory$vSources</subject> 
+		<subject encodinganalog="650">Packing-house workers$xLabor
+		  unions$zWashington (State)$zPasco$xHistory$vSources</subject> 
+		<subject encodinganalog="650">Packing-houses$zWashington
+		  (State)$zPasco$xHistory$vSources</subject> 
+		<subject encodinganalog="650">Labor$zWashington
+		  (State)$zPasco$xHistory$vSources</subject> 
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$zPasco$xHistory$vSources</subject> 
+		<subject encodinganalog="650">Labor movement$zWashington
+		  (State)$zPasco$xHistory$vSources</subject> 
+		<genreform source="lcgft" encodinganalog="655">Course materials</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Law materials</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Interviews</genreform> 
+		<genreform source="aat" encodinganalog="655">Newspaper clippings</genreform> 
+		<corpname role="curator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Washington (State)</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Sound Recordings</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="otherlevel" otherlevel="series"> 
+		  <did> 
+			 <unittitle encodinganalog="245$a">SERIES 1: PAPERS</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1990-2006</unitdate> 
+			 <unitdate type="bulk" encodinganalog="245$f" era="ce" calendar="gregorian">1997-2006</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>Letters: Martinez et al vs. International Brotherhood of
+				  Teamsters </unittitle> 
+				<unitdate type="inclusive" normal="19991102/20000403" era="ce" calendar="gregorian">1999 November
+				  2-2000 April 3</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>References David Mark, James P. Hoffa, and Allen Hobart</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2-1/4</container> 
+				<unittitle>Letters, notices, handwritten ballot counts, news
+				  articles: Wallula, WA strike and boycott</unittitle> 
+				<unitdate type="inclusive" normal="19990628/20000303" era="ce" calendar="gregorian">1999 June
+				  28-2000 March 3</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes information about Teamsters Local 556 vs. IBP, Inc.
+				  (Joint Council of Teamsters, JC-28, Food Processing Division) </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>"Pasco 200 Years in the Making," Ben Sadler and Alison
+				  Wallisch (brief history of events from 1805-2003)</unittitle> 
+				<unitdate type="inclusive" normal="2004" era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>Voting behavior in Franklin County, Washington (from
+				  election data, 1989-2003)</unittitle> 
+				<unitdate type="inclusive" normal="20041029" era="ce" calendar="gregorian">2004 October
+				  29</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle>Demographic Analysis: Columbia and Benton Counties (1990
+				  and 2000) with brief note to reader, census data</unittitle> 
+				<unitdate type="inclusive" normal="1990/2000" era="ce" calendar="gregorian">1990-2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle>Local candidates for Franklin County: candidate
+				  interviews, receipts and expenditures, registration forms</unittitle> 
+				<unitdate type="inclusive" normal="20041029" era="ce" calendar="gregorian">2004 October
+				  29</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>References Griffith, Johnson, and Vaux</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9</container> 
+				<unittitle>United States naturalization and citizenship training
+				  information</unittitle> 
+				<unitdate type="inclusive" normal="1999/2009" era="ce" calendar="gregorian">approximately
+				  2004</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes Whitman College politics resource guide, INS
+				  examination, test questions, instructions, and requirements</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle>"Greasing the Wheels of Pork Barrel Politics," Max
+				  Hensley, Kyle Krohn</unittitle> 
+				<unitdate type="inclusive" normal="20041029" era="ce" calendar="gregorian">2004 October
+				  29</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle>The Race to the Finish: Federal Election Candidates
+				  2004: US Campaigns and Elections, Whitman College</unittitle> 
+				<unitdate type="inclusive" normal="20041027" era="ce" calendar="gregorian">2004 October
+				  27</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle>"Political Activity among Latinos in Pasco, Washington:
+				  A Case Study in Power", thesis by Matthew P. Osdol</unittitle> 
+				<unitdate type="inclusive" normal="20040420" era="ce" calendar="gregorian">2004 April
+				  20</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/13-1/17</container> 
+				<unittitle>Final Report of the Community-Based Learning
+				  Partnership</unittitle> 
+				<unitdate type="inclusive" normal="20021208" era="ce" calendar="gregorian">2002 December
+				  8</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes transcripts of IBP worker interviews on occupational
+				  safety and health problems, light duty experiences, and food safety and
+				  corporate research on Tyson/IBP</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle>University of Oregon, Effective Joint Labor-Management
+				  Health and Safety Committees</unittitle> 
+				<unitdate type="inclusive" normal="200209" era="ce" calendar="gregorian">2002
+				  September</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/19</container> 
+				<unittitle>LERC (Labor Education and Research Center), University
+				  of Oregon: Training materials in Spanish</unittitle> 
+				<unitdate type="inclusive" normal="2002" era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/20</container> 
+				<unittitle>Poultry Worker Justice Legal Advocacy Conference,
+				  Nashville, Tennessee</unittitle> 
+				<unitdate type="inclusive" normal="200111" era="ce" calendar="gregorian">2001 November</unitdate>
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/21-1/22</container> 
+				<unittitle>Memorandum, Law Office of David N. Mark: Teamster
+				  trusteeship document production, Local 556 membership meetings</unittitle> 
+				<unitdate type="inclusive" normal="19990329/19990728" era="ce" calendar="gregorian">1999 March 29
+				  - July 28</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/23</container> 
+				<unittitle>Local 556: complaint sheets, notices, newsletters, news
+				  articles</unittitle> 
+				<unitdate type="inclusive" normal="20000922/20021001" era="ce" calendar="gregorian">2000
+				  September 22-2002 October 1</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/24</container> 
+				<unittitle>Teamsters Local 556: handwritten notes, letters,
+				  newspaper articles</unittitle> 
+				<unitdate type="inclusive" normal="1996/2007" era="ce" calendar="gregorian">approximately
+				  2001-2002</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes issue of Spanish language Teamster newspaper ¡Adelante!
+				  and Su Periódico La Voz</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/25-1/26</container> 
+				<unittitle>Final Report of the Community-Based Learning
+				  Partnership</unittitle> 
+				<unitdate type="inclusive" normal="20021208" era="ce" calendar="gregorian">2002 December
+				  8</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes transcript of IBP worker interviews on occupational
+				  safety and health problems, light duty experiences, and food safety. Prepared
+				  for Teamsters Local 556 by Students in Paul Apostolidis' Politics 313 course at
+				  Whitman College.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1-2/3</container> 
+				<unittitle>Final report of the Whitman College/Teamsters Local 556
+				  Community Partnership: research on Tyson Fresh Meats, Incorporated and Smith
+				  Frozen Foods</unittitle> 
+				<unitdate type="inclusive" normal="200405" era="ce" calendar="gregorian">2004 May</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes Apostolidis' Politics 313 Course Introduction, Latina
+				  Policy and Issues Brief, Tyson wages handout, and 2 short student papers on
+				  health and safety and consumer advocacy</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/4</container> 
+				<unittitle>Teamsters Local 556/Tyson Fresh Meats: flyers, other
+				  communication regarding health care cost changes</unittitle> 
+				<unitdate type="inclusive" normal="2004" era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/5</container> 
+				<unittitle>Teamsters Local 556 contract proposals to Tyson Fresh
+				  Meats, Pasco, Washington</unittitle> 
+				<unitdate type="inclusive" normal="2004" era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/6</container> 
+				<unittitle>International Brotherhood of Teamsters Research
+				  Department Agreement Summary Report</unittitle> 
+				<unitdate type="inclusive" normal="19971110/20060225" era="ce" calendar="gregorian">1997 November
+				  10-2006 February 25</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Contains information on EXCEL Corporation, IBP Inc., and
+				  bargaining agreement between Smith Frozen Foods and Teamsters Local 556</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/7</container> 
+				<unittitle>International Brotherhood of Teamsters: election
+				  letters, hearing documents, flyer, news item regarding dispute of Maria
+				  Martinez and Maria Sauceda vs. Allen Hobart </unittitle> 
+				<unitdate type="inclusive" normal="1999/2000" era="ce" calendar="gregorian">1999-2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/8</container> 
+				<unittitle>Land title of Walla Walla County property inquiry:
+				  Teamsters Local 556 property at 1750 Portland Ave., Walla Walla,
+				  Washington</unittitle> 
+				<unitdate type="inclusive" normal="20040204" era="ce" calendar="gregorian">2004 February
+				  4</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/9</container> 
+				<unittitle>Order from Chief United States District Judge, Eastern
+				  District of Washington: Maria Martinez and Maria Sauceda vs. International
+				  Brotherhood of Teamsters</unittitle> 
+				<unitdate type="inclusive" normal="20000303" era="ce" calendar="gregorian">2000 March
+				  3</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/10</container> 
+				<unittitle>Copies of letters, petitions regarding Martinez vs. the
+				  International Brotherhood of Teamsters, Local 556: Fax transmissions from Ken
+				  Pedersen to David N. Mark</unittitle> 
+				<unitdate type="inclusive" normal="20000114" era="ce" calendar="gregorian">2000 January
+				  14</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/11</container> 
+				<unittitle>General Teamsters, Warehousemen, and Cannery Workers,
+				  Local Union 556: consolidated financial statement</unittitle> 
+				<unitdate type="inclusive" normal="19981231" era="ce" calendar="gregorian">1998 December
+				  31</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/12</container> 
+				<unittitle>Meeting with members of Local 556: International
+				  Brotherhood of Teamsters, AFL-CIO, Pasco, Washington</unittitle> 
+				<unitdate type="inclusive" normal="19990809" era="ce" calendar="gregorian">1999 August
+				  9</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/13</container> 
+				<unittitle>Teamsters Local 556, Walla Walla, WA: Legal documents,
+				  Trustee's reports, labor organization reports</unittitle> 
+				<unitdate type="inclusive" normal="1997/1999" era="ce" calendar="gregorian">1997-1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle>Local 556 Communication: letters, depositions, statement
+				  of assets and liabilities, copy of settlement agreement regarding Martinez et.
+				  al v. the International Brotherhood of Teamsters</unittitle> 
+				<unitdate type="inclusive" normal="19980615/20000821" era="ce" calendar="gregorian">1998 June
+				  16-2000 August 21</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/15</container> 
+				<unittitle>Trusteeship 0556: petitions in support, letters, and
+				  information requests (07/12/1999)</unittitle> 
+				<unitdate type="inclusive" normal="199907/200001" era="ce" calendar="gregorian">1999 July-2000
+				  January</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/16</container> 
+				<unittitle>Color photographs: Teamsters Local 556 </unittitle> 
+				<unitdate type="inclusive" normal="1995/2005" era="ce" calendar="gregorian">approximately
+				  2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/17</container> 
+				<unittitle>Meatpacking Industry Workers Bill of Rights </unittitle>
+				
+				<unitdate type="inclusive" normal="20000727/20040630" era="ce" calendar="gregorian">2000 July 27-
+				  2004 June 30</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes letter from Governor Johanns</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/18</container> 
+				<unittitle>Research Education Advocacy People (REAP) General
+				  Profile on Tyson Foods, Inc. and IBP, Inc.</unittitle> 
+				<unitdate type="inclusive" normal="200112" era="ce" calendar="gregorian">2001 December</unitdate>
+				
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/19</container> 
+				<unittitle>Letter from Rick Bender, President of Washington State
+				  Labor Council, opposing ballot measures</unittitle> 
+				<unitdate type="inclusive" normal="20030421" era="ce" calendar="gregorian">2003 April
+				  21</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes flyers concerning Initiatives 807 (to reimpose state
+				  spending limits) and 841 (to impose new supermajority requirement for tax
+				  increases or repealing business tax breaks)</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/20</container> 
+				<unittitle>Organizing to Win Strong Contracts, TDU Annual
+				  Convention, Detroit, Michigan: printed materials and notes</unittitle> 
+				<unitdate type="inclusive" normal="20031026" era="ce" calendar="gregorian">2003 October
+				  26</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/21</container> 
+				<unittitle>Teamsters Local 556: letters from Maria Martinez
+				  supporting contract bargaining, proposal list, copies of supporting published
+				  articles</unittitle> 
+				<unitdate type="inclusive" normal="1998/2004" era="ce" calendar="gregorian">1998-2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/22</container> 
+				<unittitle>Tyson Foods and Jefferson Strike: flyer and
+				  articles</unittitle> 
+				<unitdate type="inclusive" normal="2000/2003" era="ce" calendar="gregorian">2000-2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/23</container> 
+				<unittitle>"Road to Freedom" Tri-City Herald article</unittitle> 
+				<unitdate type="inclusive" normal="20030924" era="ce" calendar="gregorian">2003 September
+				  24</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Relates to Freedom Ride from Seattle to Washington, D.C. to draw
+				  attention to Civil Rights issues faced by immigrants</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/24</container> 
+				<unittitle>Meeting with Walla Walla community, Walla Walla
+				  Community College and Alliance for Workplace Justice</unittitle> 
+				<unitdate type="inclusive" normal="2003/2005" era="ce" calendar="gregorian">2003-2005</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes materials from Whitman/Community Forums and related
+				  organizing items as well as agendas, news articles, feedback letter from Paul
+				  Apostolidis, follow-up articles, flyers, and notes</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/25</container> 
+				<unittitle>Teamsters Local 556: letters, articles calling for
+				  support for local 556 workers, including outreach to Japanese workers and
+				  consumers</unittitle> 
+				<unitdate type="inclusive" normal="20040624/20040731" era="ce" calendar="gregorian">2004 June
+				  24-July 31</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/26</container> 
+				<unittitle>One Million Voices Campaign materials on immigrant
+				  workers' rights</unittitle> 
+				<unitdate type="inclusive" normal="2002" era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/27</container> 
+				<unittitle>Paul Apostolidis documents: letters and writings
+				  concerning Local 556 decertification election</unittitle> 
+				<unitdate type="inclusive" normal="20040311/20050225" era="ce" calendar="gregorian">2004 March
+				  11-2005 February 25</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/28</container> 
+				<unittitle>Agreement summary reports/ food processing: pay
+				  schedules, job brackets</unittitle> 
+				<unitdate type="inclusive" normal="1997/2006" era="ce" calendar="gregorian">1997-2006</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>References Great Bend Meat Packing, Excel Corporation,
+				  Clougherty Packing Company, and IBP, Inc.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/29</container> 
+				<unittitle>Evaluation of worker health and safety, food safety, and
+				  humane slaughter at the Tyson Fresh Meats Plant in Pasco,
+				  Washington</unittitle> 
+				<unitdate type="inclusive" normal="20050128" era="ce" calendar="gregorian">2005 January
+				  28</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes English and Spanish surveys for workers. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/30</container> 
+				<unittitle>Work safety, food processing, wages, and Initiative 841:
+				  news items, articles, flyers</unittitle> 
+				<unitdate type="inclusive" normal="2003/2004" era="ce" calendar="gregorian">2003-2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/31</container> 
+				<unittitle>Tyson and Meatpacking news clippings</unittitle> 
+				<unitdate type="inclusive" normal="19980522/20070318" era="ce" calendar="gregorian">1998 May
+				  22-2007 March 18</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/32</container> 
+				<unittitle>Safe Works/Safe Food: incorporation documents, minutes,
+				  supporting documents and letters</unittitle> 
+				<unitdate type="inclusive" normal="20040604/20040804" era="ce" calendar="gregorian">2004 June 4 -
+				  August 4</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/33</container> 
+				<unittitle>Immigrant Workers Freedom Ride: news
+				  clippings</unittitle> 
+				<unitdate type="inclusive" normal="20030917/20031006" era="ce" calendar="gregorian">2003
+				  September 17-October 6</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/34</container> 
+				<unittitle>Immigrant Workers Freedom Ride: news clippings, color
+				  photographs</unittitle> 
+				<unitdate type="inclusive" normal="200309" era="ce" calendar="gregorian">2003
+				  September</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/35</container> 
+				<unittitle>Immigrant Workers Freedom Ride: organizing
+				  materials</unittitle> 
+				<unitdate type="inclusive" normal="2003/2004" era="ce" calendar="gregorian">2003-2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/36</container> 
+				<unittitle>Immigrant Workers Freedom Ride: Media packet and
+				  handouts, IWFR, Walla Walla</unittitle> 
+				<unitdate type="inclusive" normal="200309" era="ce" calendar="gregorian">2003
+				  September</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/37</container> 
+				<unittitle><emph render="italic">Labor Notes</emph> newspaper
+				  issues</unittitle> 
+				<unitdate type="inclusive" normal="200111/200212" era="ce" calendar="gregorian">2001
+				  November-2002 December</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/38</container> 
+				<unittitle>Newspaper articles reporting labor issues</unittitle> 
+				<unitdate type="inclusive" normal="19990607/20060417" era="ce" calendar="gregorian">1999 June
+				  7-2006 April 17</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/39</container> 
+				<unittitle>Campaign materials, Teamsters Local 556</unittitle> 
+				<unitdate type="inclusive" normal="1994/2008" era="ce" calendar="gregorian">approximately
+				  2001-2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/40</container> 
+				<unittitle>Labor Agreements, Teamsters Local 556, with IBP, Inc.
+				  and Lamb-Weston</unittitle> 
+				<unitdate type="inclusive" normal="19990708/20020401" era="ce" calendar="gregorian">1999 July
+				  8-2002 April 1</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes legal declaration supporting Maria Ramirez and Maria
+				  Saucedo.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle encodinganalog="245$a">SERIES 2: AUDIOVISUAL
+				MATERIAL</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1980-2005</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>John Carter Deposition (3 VHS Tapes)</unittitle> 
+				<unitdate type="inclusive" normal="20000110" era="ce" calendar="gregorian">2000 January
+				  10</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p>Access Restricted</p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>Al Hobart Deposition (3 VHS tapes) </unittitle> 
+				<unitdate type="inclusive" normal="20000111" era="ce" calendar="gregorian">2000 January
+				  11</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p>Access Restricted</p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>"Can't Take No More", U.S. Department of Labor (VHS
+				  Tape) </unittitle> 
+				<unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>"Safety Pays" (VHS Tape) </unittitle> 
+				<unitdate type="inclusive" normal="1975/2005" era="ce" calendar="gregorian">approximately
+				  1980-2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>"The Prophetic Witness", National Interfaith Committee
+				  for Worker Justice (VHS Tape) </unittitle> 
+				<unitdate type="inclusive" normal="2002" era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>NOW with Bill Moyers. Tyson Strike (VHS
+				  Tape)</unittitle> 
+				<unitdate type="inclusive" normal="2003" era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>"Get On the Bus": Remarks by Dr. Bennie Mitchell,
+				  National Baptist Convention - USA, Inc. to the United Food and Commercial
+				  Workers International Union 5th Regular Convention (VHS Tape)</unittitle> 
+				<unitdate type="inclusive" normal="20030801" era="ce" calendar="gregorian">2003 August
+				  1</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>Tyson Fresh Meats, Inc., Un Mensaje Importante para
+				  usted y su familia, "Una Trayectoriia Nueva Junto" (VHS Tape)</unittitle> 
+				<unitdate type="inclusive" normal="1998/2008" era="ce" calendar="gregorian">approximately 2002 -
+				  2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>"Tyson 'No'" (DVD)</unittitle> 
+				<unitdate type="inclusive" normal="2002/2005" era="ce" calendar="gregorian">approximately
+				  2002-2005</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>Teamsters Local 556 Migrant Worker Interview Audio
+				  Recordings</unittitle> 
+				<unitdate type="inclusive" normal="2002-2005" era="ce" calendar="gregorian">2002-2005</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p>Access Restricted</p> 
+			 </accessrestrict> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

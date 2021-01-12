@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1201549475--><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+      <eadid countrycode="us" mainagencycode="wau-ar" encodinganalog="identifier" url="" identifier="80444/xv550261">OReillyClaudeScrapbook6328.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Guide to the Claude O'Reilly
+			 Scrapbook of American Federation of Labor Annual Convention In Seattle,
+			 1941</titleproper>
+            <titleproper type="filing" altrender="nodisplay">O'Reilly (Claude)
+			 Scrapbook of American Federation of Labor Annual Convention in Seattle,
+			 1941</titleproper>
+            <author encodinganalog="creator">Finding aid created by Kate Miller
+			 </author>
+            <sponsor encodinganalog="contributor">Full processing supported by the
+			 Labor Archives Fund and the Labor Archives of Washington State Budget</sponsor>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+            <date encodinganalog="date" era="ce" calendar="gregorian" normal="20201026">© 2020</date>
+            <address>
+               <addressline>Seattle, WA 98195</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <revisiondesc>
+         <change>
+            <date era="ce" calendar="gregorian">Finding aid revised in October
+			 2020.</date>
+            <item>Finding aid updated by Abbey Maynard. Changes include an updated
+			 abstract, preferred citation, and sponsor note.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21">
+      <did id="a1">
+         <repository>
+            <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea>
+            </corpname>
+            <address>
+               <addressline>Box 352900</addressline>
+               <addressline>Seattle, WA 98195-2900</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6328</unitid>
+         <unitid type="accession" countrycode="us" repositorycode="wauar">6328-001</unitid>
+         <origination>
+            <persname role="creator" encodinganalog="100">O'Reilly,
+			 Claude</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" type="collection">Claude O'Reilly
+		  Scrapbook of American Federation of Labor Annual Convention in
+		  Seattle</unittitle>
+         <unitdate type="inclusive" normal="1941" era="ce" calendar="gregorian">1941</unitdate>
+         <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+         <physdesc>
+            <extent>0.61 cubic feet</extent>
+            <extent>1 box</extent>
+         </physdesc>
+         <abstract encodinganalog="5203_$a" altrender="nodisplay">Materials from
+		  an American Federation of Labor Annual Convention held in Seattle in 1941.
+		  Claude O'Reilly was chairman of the convention.</abstract>
+         <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial>
+         <dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/>
+      </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.--><daogrp linktype="extended">
+         <daodesc>
+            <p><?xm-replace_text {Image caption}?></p>
+         </daodesc>
+         <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.--><daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/>
+         <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/>
+      </daogrp>
+      <bioghist encodinganalog="5450_" id="a2">
+         <p>Claude O'Reilly was the chairman of the American Federation of Labor
+		  annual convention in Seattle, Washington, on October 6-18, 1941.</p>
+      </bioghist>
+      <arrangement encodinganalog="351" id="a4">
+         <p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+      </arrangement>
+      <scopecontent>
+         <p>The scrapbook was put together and presented to Claude O'Reilly, the
+		  chairman of the American Federation of Labor annual convention, held at Senator
+		  Auditorium in Seattle, Washington, on October 6-18, 1941. The collection
+		  consists of the contents of a scrapbook regarding the American Federation of
+		  Labor annual convention in Seattle. The collection contains: a xerographic copy
+		  of the cover of the scrapbook; twenty black and white photographs; convention
+		  memorabilia; pages from the American Federationist magazine (October, November
+		  issues); and newspaper clippings from the Seattle Times, the Seattle
+		  Post-Intelligencer, and the Seattle Star (September 25-October 18). The
+		  photographs show scenes of convention proceedings, delegates touring the
+		  Government Locks in Seattle (October 8), a dinner honoring the A.F.L. Executive
+		  Council at the Olympic Hotel (October 6), and a Conference of Teamsters banquet
+		  (October 3). Convention memorabilia includes: the official program, convention
+		  and reception committee ribbons, three different meal invitations (two dinners
+		  and a luncheon), a coupon booklet for convention activities, a special
+		  sightseeing ticket, a sheet of letterhead, and a roll call of delegates (16
+		  pages).</p>
+      </scopecontent>
+      <odd encodinganalog="500" id="a5">
+         <p>Forms part of the Labor Archives of Washington.</p>
+      </odd>
+      <altformavail encodinganalog="530" id="a9">
+         <p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?><extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/>
+         </p>
+      </altformavail>
+      <phystech>
+         <p/>
+      </phystech>
+      <accessrestrict>
+         <p>No restrictions on access. </p>
+      </accessrestrict>
+      <userestrict>
+         <p>Status of creator's copyrights is unknown; restrictions may exist on
+		  copying, quotation, or publication. Users are responsible for researching
+		  copyright status before use. </p>
+      </userestrict>
+      <prefercite>
+         <p>Labor Archives of Washington, University of Washington Libraries,
+		  Special Collections, Claude O'Reilly Scrapbook of American Federation of Labor
+		  Annual Convention in Seattle, 6328-001, [box number], [folder number]</p>
+      </prefercite>
+      <acqinfo>
+         <p>Donated by the Special Collections of the University of Alaska
+		  Anchorage during de-accessioning. They had no additional provenance
+		  information. </p>
+      </acqinfo>
+      <custodhist encodinganalog="561" id="a16">
+         <p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+      </custodhist>
+      <separatedmaterial encodinganalog="5440_$n" type="relocation">
+         <p>
+            <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+         </p>
+      </separatedmaterial>
+      <separatedmaterial encodinganalog="5441_$n" type="transfer">
+         <p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+      </separatedmaterial>
+      <bibliography id="a11" encodinganalog="581">
+         <p>
+            <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+         </p>
+      </bibliography>
+      <relatedmaterial encodinganalog="544__$n" id="a6">
+         <p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+      </relatedmaterial>
+      <appraisal id="a39" encodinganalog="583">
+         <p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+      </appraisal>
+      <controlaccess id="a12"><persname role="subject" encodinganalog="600">O'Reilly, Claude, $e Archives</persname>
+<corpname role="subject" encodinganalog="610">American Federation of Labor</corpname>
+<corpname role="subject" encodinganalog="610">American Federation of Labor.$bAnnual Convention $n (61st :$d1941 :$cSeattle, Washington)$vPhotographs</corpname>
+<corpname role="subject" encodinganalog="610">American Federation of Labor</corpname>
+<subject encodinganalog="650">Labor$zUnited States$xCongresses</subject>
+<subject encodinganalog="650">Labor unions$zUnited States$xCongresses</subject>
+<subject encodinganalog="650">Labor movement$zUnited States$xCongresses</subject>
+<geogname encodinganalog="651">Seattle (Wash.)$vPhotographs.
+</geogname>
+<geogname encodinganalog="651">Hiram M. Chittenden Locks (Seattle, Wash.)$vPhotographs.
+</geogname>
+<corpname role="subject" encodinganalog="610">Olympic Hotel (Seattle, Wash.)$vPhotographs</corpname>
+<genreform source="lcgft" encodinganalog="655">Albums (Books)</genreform>
+<genreform source="lcgft" encodinganalog="655">Conference materials</genreform>
+<genreform source="lcgft" encodinganalog="655">Photographs</genreform>
+<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+<genreform source="aat" encodinganalog="655">Newspaper clippings</genreform>
+<corpname role="host institution" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname>
+         <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Seattle</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Scrapbooks</subject>
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="file">
+            <did>
+               <container type="box-folder">1/1</container>
+               <unittitle>Xerographic Copy of Scrapbook Cover</unittitle>
+               <unitdate type="inclusive" normal="1941" era="ce" calendar="gregorian">1941</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box-folder">1/2</container>
+               <unittitle>Photographs</unittitle>
+               <unitdate type="inclusive" normal="1941" era="ce" calendar="gregorian">1941</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box-folder">1/3</container>
+               <unittitle>Memorabilia</unittitle>
+               <unitdate type="inclusive" normal="1941" era="ce" calendar="gregorian">1941</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box-folder">1/4</container>
+               <unittitle>American Federationist Pages</unittitle>
+               <unitdate type="inclusive" normal="1941" era="ce" calendar="gregorian">1941</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box-folder">1/5-7</container>
+               <unittitle>Newspaper Clippings</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

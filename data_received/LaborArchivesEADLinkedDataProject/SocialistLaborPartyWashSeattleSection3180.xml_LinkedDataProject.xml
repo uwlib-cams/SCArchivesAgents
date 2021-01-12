@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"><eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SocialistLaborPartyWashSeattleSection3180.xml" encodinganalog="identifier" identifier="80444/xv47555">SocialistLaborPartyWashSeattleSection3180.xml</eadid><filedesc><titlestmt><titleproper encodinganalog="title">Guide to the Socialist Labor Party
+			 Seattle Section Records </titleproper><titleproper altrender="nodisplay" type="filing">Socialist Labor Party
+			 Seattle Section records</titleproper><sponsor encodinganalog="contributor">Funding for encoding this finding
+			 aid was partially provided through a grant awarded by the National Endowment
+			 for the Humanities.</sponsor></titlestmt><publicationstmt><publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher><date encodinganalog="date" normal="20070713" era="ce" calendar="gregorian">©2007</date><address><addressline>Seattle, WA 98195</addressline></address></publicationstmt></filedesc><profiledesc><creation audience="internal">Finding aid encoded by Mark Carlson,
+		  ArchProteus 
+		  <date audience="external" era="ce" calendar="gregorian">2006</date></creation><langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage><descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules></profiledesc><revisiondesc><change><date era="ce" calendar="gregorian">Finding aid revised in January 2007.</date><item>Reviewed and edited by Jody Hendrickson.</item></change></revisiondesc></eadheader><archdesc level="collection" type="inventory" relatedencoding="marc21" altrender="context"><did id="a1"><repository><corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname><address><addressline>Box 352900</addressline><addressline>Seattle, WA 98195-2900</addressline></address></repository><unitid type="mss" encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar">3180</unitid><unitid type="accession" countrycode="us" repositorycode="wau-ar" encodinganalog="099">3180-001</unitid><origination><corpname role="creator" encodinganalog="110" source="lcnaf" rules="aacr2">Socialist Labor Party (Wash.).$bSeattle Section</corpname></origination><unittitle type="collection">Socialist Labor Party Seattle Section
+		  records</unittitle><unitdate normal="1930/1962" type="inclusive" era="ce" calendar="gregorian">1930-1962</unitdate><physdesc><extent encodinganalog="300$a">2.73 cubic feet</extent><extent>7 boxes</extent></physdesc><abstract encodinganalog="5203_$a" altrender="nodisplay">Records of a
+		  Seattle political labor organization</abstract><langmaterial>Collection
+		materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial></did><bioghist id="a2" encodinganalog="5451_"><p>The Seattle Section of the Socialist Labor Party (SLP) was founded in
+		  the early 1890's as a branch of the Socialist Labor Party of America. The SLP
+		  was founded as a Marxist political party in 1876, the first nationwide
+		  socialist party in the United States. The party promoted the doctrines of
+		  Daniel DeLeon, theorist of the SLP, which advocated a classless, stateless,
+		  industrial democracy in which private property would be abolished and all
+		  natural resources and means of production would be operated by the workers
+		  through Socialist Industrial Unions. The SLP planned to achieve its goals
+		  through national and local elections and by capturing the trade union movement.
+		  However, the party's narrow sectarian ideology, its insistence on doctrinal
+		  unity and party discipline, together with its rejection of social reform
+		  alienated it from the trade union movement. After modest success in the 1890s,
+		  the party declined and never numbered more than a few thousand. It survived
+		  however, and continued to run candidates for national and state office.</p><p>The Socialist Labor Party was the first socialist organization of any
+		  importance in the Pacific Northwest but it never established ties with the
+		  labor movement and never developed beyond a small cadre. During the period
+		  documented by these papers, 1930-1962, the Section frequently consisted of
+		  fewer than six active members and at times, particularly in the early 1950s,
+		  nearly ceased to exist. Section Seattle experienced frequent internal dissent,
+		  occasionally expelled members and was, in 1944, itself censured, expelled from
+		  the Party and reorganized. The business of the Section was carried on by an
+		  organizer who was democratically chosen and who reported to the secretary of
+		  the State Executive Committee. The State Executive Committee answered to the
+		  National Executive Committee which was headed by the National Secretary, an
+		  office held by Arnold Peterson throughout this period. The official organ of
+		  the Party was the 
+		<title render="italic" linktype="simple">Weekly People</title>, which the Section sold
+		through subscriptions and newstands. Its other activities included the sale of
+		SLP pamphlets, distribution of leaflets, lectures, classes and social
+		activities. The SLP in Washington held an annual convention and also
+		conventions to nominate candidates for state elections.</p></bioghist><arrangement encodinganalog="351" id="a4"><p>Arranged in 4 series:</p><p><list><item>Administrative records</item><item>Primary conventions</item><item>State Executive Committee</item><item>Spokane Section</item></list></p></arrangement><scopecontent id="a3" encodinganalog="5202_"><p>Correspondence, minutes, financial records, conventions and ephemera
+		  of the Seattle branch of a Marxist, socialist political party; 1930-1962 (bulk
+		  1943-1962).</p><p> Includes records of the Washington State Executive Committee
+		  (SEC)(1944-1962) and the Spokane Section (1943-1944). The records of the SEC
+		  Secretary consist primarily of SEC Minutes and the 1949 correspondence of
+		  Theodore Bossie, who was then SEC Secretary but also a longtime member and
+		  former organizer of Section Seattle. Bossie apparently kept his SEC files at
+		  the Seattle Section, and his correspondence coincides with a gap in the Seattle
+		  correspondence.</p><p>Major correspondents and approximate dates of service:</p><p>Section Seattle: 
+		  <list><item>George Bennett - section organizer, 1940-November 1943</item><item>Oscar Lindberg - section organizer, November 1943-January
+				1945</item><item>Ray Solie - section organizer, January 1945-July 1945</item><item>Erven O. Hebert - section organizer, July 1945-1949</item><item>Alexander Merson - section organizer, October 1950-Augist
+				1951</item><item>Ray Berner - section organizer, January-July 1957</item><item>Jack Ceder - section organizer, July 1957-July 1959</item><item>Donald Orcutt - section organizer, August 1959-1960</item><item>Charles W. Turner - financial secretary, 1957-1960</item></list></p><p>State Secretary: 
+		  <list><item>Frank Daniels, 1943-1944</item><item>Al Meenk, 1944</item><item>Theodore Bossie, 1944-1949</item><item>Ernest O. Sturm, 1951-1957</item><item>Henry Killman, 1957-1960</item></list></p><p>National Socialist Labor Party: 
+		  <list><item>Arnold Peterson - National Secretary</item><item>Herb Steiner - Regional representative circa 1944</item></list></p></scopecontent><otherfindaid><p><extref href="3180-001.pdf" role="pdf-uwsc" arcrole="application/pdf" show="new" actuate="onrequest" linktype="simple">View inventory/container list</extref></p></otherfindaid><accessrestrict encodinganalog="506" id="a14"><p>Open to all users.</p></accessrestrict><userestrict encodinganalog="540" id="a15"><p>Creator's literary rights not transferred to the University of
+		  Washington Libraries.</p></userestrict><acqinfo id="a19" encodinganalog="541"><p>Gift of Budget Rent-A-Car, May 8, 1981.</p><p>The records of Section Seattle of the Socialist Labor Party were
+		  discovered in a closet of the International Order of Good Templars Hall by
+		  members of the lodge and were offered to the Library. After approval was
+		  granted by Budget Rent-A-Car, the purchaser of the property, the material was
+		  transferred to the Library in May 1981, shortly before the building's
+		  demolition. Why or when the records were abandoned is not known.</p></acqinfo><processinfo id="a20" encodinganalog="583"><p>The records had no discernible order when they were received. During
+		  processing, records of the State Executive Committee (SEC) Secretary were
+		  discovered and were separated as a series. All the SEC minutes were put into
+		  this series. </p><p>There are unaccountable gaps in all the record series; the period
+		  1933-1937, 1953-1956, as well as pre-1930 are completely undocumented. The
+		  records end abruptly in June 1962 without explanation. At one point, in 1952,
+		  the Section sent some of its "historical" records to the national headquarters
+		  and this may have been its practice at other times.</p></processinfo><separatedmaterial encodinganalog="544__$n" id="a7"><p> Issues of the 
+		<title render="italic" linktype="simple">Weekly People</title> which were received with the
+		papers were relocated to the University of Washington Libraries' Microform and
+		Newspaper Collection. Books from the SLP library were added to the University
+		of Washington Libraries' main collection.</p></separatedmaterial><controlaccess><persname encodinganalog="600" role="subject" source="lcnaf" rules="aacr2">Socialist Labor Party (Wash.).$bSeattle
+		  Section$vArchives</persname><persname role="subject" encodinganalog="600" source="lcnaf" rules="aacr2"> Bossie, Theodore$vCorrespondence</persname><persname role="subject" encodinganalog="600" source="lcnaf" rules="aacr2"> Petersen, Arnold, 1885-1976$vCorrespondence</persname><persname role="subject" encodinganalog="600" source="lcnaf" rules="aacr2">Steiner, Herbert$vCorrespondence</persname><corpname role="subject" encodinganalog="610" source="lcnaf" rules="aacr2"> Socialist Labor Party (Wash.).$bSpokane Section</corpname><corpname role="creator" encodinganalog="610" rules="aacr2" source="lcnaf">Socialist Labor Party (Wash.).$bState Executive
+		  Committee</corpname><corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname><geogname source="lcsh" role="subject" encodinganalog="651">Spokane
+		  (Wash.)$xPolitics and government</geogname><geogname>Washington (State)$xPolitics and
+		  government$y1889-1950</geogname><geogname> Washington (State)$xPolitics and government$y1951-</geogname><subject source="lcsh" encodinganalog="650"> Political
+		  parties$zWashington (State)$zSeattle$vArchives</subject><subject source="lcsh" encodinganalog="650">Socialist parties$zWashington
+		  (State)$zSeattle$vArchives</subject><subject source="lcsh" encodinganalog="650"> Political
+		  conventions$zWashington (State)</subject><subject source="lcsh" encodinganalog="650"> Political
+		  parties$zWashington (State)</subject><subject>Socialist parties$zWashington (State)</subject><subject source="lcsh" encodinganalog="650">
+		  Socialism$vPeriodicals</subject><genreform source="aat" encodinganalog="655"> Correspondence</genreform><genreform source="aat" encodinganalog="655"> Ephemera</genreform><genreform source="aat" encodinganalog="655"> Financial
+		  records</genreform><genreform source="aat" encodinganalog="655"> Minutes</genreform><genreform>Proceedings</genreform><title encodinganalog="630" rules="aacr2" linktype="simple"> Weekly People</title></controlaccess><controlaccess><subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject><subject altrender="nodisplay" source="nwda" encodinganalog="690">Political Campaigns</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject><subject source="archiveswest" altrender="nodisplay">Politics and Politicians</subject></controlaccess><dsc id="a23" type="combined"><c01 level="series"><did><unittitle encodinganalog="245$a">Administrative records</unittitle></did><c02 level="file"><did><container type="box-folder">1/1</container><unittitle encodinganalog="245$a">Organizational
+				  features</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1943, 1945</unitdate></did></c02><c02 level="file"><did><container type="box-folder">1/2-2/7</container><unittitle encodinganalog="245$a">General
+				  correspondence</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1933, 1942-1962</unitdate></did></c02><c02 level="file"><did><unittitle encodinganalog="245$a">Intra-organizational
+				  correspondence</unittitle></did><c03 level="file"><did><container type="box-folder">2/8-3/20</container><unittitle encodinganalog="245$a"> National Executive Committee
+					 (Arnold Petersen, National Secretary)</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1938/1962">1938-1962</unitdate></did></c03><c03 level="file"><did><container type="box-folder">3/21-25</container><unittitle encodinganalog="245$a"><title render="italic" linktype="simple">Weekly People</title></unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1961">1943-1961</unitdate></did></c03></c02><c02 level="file"><did><unittitle encodinganalog="245$a">Minutes</unittitle></did><c03 level="file"><did><container type="box-folder">3/26-4/7</container><container type="box-folder">4/7</container><unittitle encodinganalog="245$a">Section Seattle (bound
+					 volumes)</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1930/1952">1930-1952</unitdate></did></c03><c03 level="file"><did><container type="box-folder">4/8</container><unittitle encodinganalog="245$a">Washington State
+					 Convention</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1962">1943-1962</unitdate></did></c03><c03 level="file"><did><container type="box-folder">4/9</container><unittitle encodinganalog="245$a">National Convention</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1948, 1950, 1951, 1960</unitdate></did></c03></c02><c02 level="file"><did><unittitle encodinganalog="245$a">Financial records</unittitle></did><c03 level="file"><did><container type="box-folder">4/10-5/5</container><unittitle encodinganalog="245$a">Audit records (bound
+					 volumes)</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1940/1964">1940-1964</unitdate></did></c03><c03 level="file"><did><container type="box-folder">5/6</container><unittitle encodinganalog="245$a">Annual reports</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1942/1961">1942-1961</unitdate></did></c03><c03 level="file"><did><container type="box-folder">5/7</container><unittitle encodinganalog="245$a">Membership dues</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1941/1949">1941-1949</unitdate></did></c03><c03 level="file"><did><container type="box-folder">5/8</container><unittitle encodinganalog="245$a">Membership
+					 contributions</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1937/1943">1937-1943</unitdate></did></c03><c03 level="file"><did><container type="box-folder">5/9</container><unittitle encodinganalog="245$a">Miscellany</unittitle><unitdate era="ce" calendar="gregorian">undated</unitdate></did></c03></c02><c02 level="file"><did><unittitle encodinganalog="245$a">Reports</unittitle></did><c03 level="file"><did><container type="box-folder">5/10</container><unittitle encodinganalog="245$a">Local organizer
+					 report</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1943">1943</unitdate></did></c03><c03 level="file"><did><container type="box-folder">5/11-15</container><unittitle encodinganalog="245$a">Section activity
+					 report</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1961">1943-1961</unitdate></did></c03><c03 level="file"><did><container type="box-folder">5/16</container><unittitle encodinganalog="245$a">Grievance committee</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate></did></c03><c03 level="file"><did><container type="box-folder">5/17-19</container><unittitle encodinganalog="245$a">Miscellany</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1961">1943-1961</unitdate></did></c03></c02><c02 level="file"><did><container type="box-folder">5/20</container><unittitle encodinganalog="245$a">Speeches and writings</unittitle><unitdate era="ce" calendar="gregorian">undated</unitdate></did></c02><c02 level="file"><did><container type="box-folder">5/21-6/2</container><unittitle encodinganalog="245$a">Newsletters</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1962">1943-1962</unitdate></did></c02><c02 level="file"><did><unittitle encodinganalog="245$a">Elections</unittitle></did><c03 level="file"><did><container type="box-folder">6/3</container><unittitle encodinganalog="245$a">Vote tally</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1960">1943-1960</unitdate></did></c03><c03 level="file"><did><container type="box-folder">6/4</container><unittitle encodinganalog="245$a">National Party
+					 Constitution</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1942/1960">1942-1960</unitdate></did></c03><c03 level="file"><did><container type="box-folder">6/5</container><unittitle encodinganalog="245$a">National Executive
+					 Committee</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1942/1962">1942-1962</unitdate></did></c03></c02><c02 level="file"><did><container type="box-folder">6/6-7</container><unittitle encodinganalog="245$a">Clippings</unittitle><unitdate era="ce" calendar="gregorian">undated</unitdate></did></c02><c02 level="file"><did><container type="box-folder">6/8-11</container><unittitle encodinganalog="245$a">Ephemera</unittitle><unitdate era="ce" calendar="gregorian">undated</unitdate></did></c02></c01><c01 level="series"><did><unittitle encodinganalog="245$a">Primary conventions</unittitle></did><c02 level="file"><did><container type="box-folder">6/12</container><unittitle encodinganalog="245$a">Minutes</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1942/1948">1942-1948</unitdate></did></c02><c02 level="file"><did><container type="box-folder">6/13-15</container><unittitle encodinganalog="245$a">Certificates of nomination and
+				  related papers</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1944/1948">1944-1948</unitdate></did></c02></c01><c01 level="series"><did><unittitle encodinganalog="245$a">State Executive
+				Committee</unittitle></did><c02 level="file"><did><container type="box-folder">6/16-19</container><unittitle encodinganalog="245$a">General
+				  correspondence</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1944/1949">1944-1949</unitdate></did></c02><c02 level="file"><did><container type="box-folder">6/20-24</container><unittitle encodinganalog="245$a">Intra-organizational
+				  correspondence - National Executive Committee</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate></did></c02><c02 level="file"><did><container type="box-folder">6/25-7/4</container><unittitle encodinganalog="245$a">Minutes</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1962">1943-1962</unitdate></did></c02><c02 level="file"><did><unittitle encodinganalog="245$a">Reports</unittitle></did><c03 level="file"><did><container type="box-folder">7/5</container><unittitle encodinganalog="245$a">Section activity
+					 reports</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate></did></c03><c03 level="file"><did><container type="box-folder">7/6</container><unittitle encodinganalog="245$a">Biennial convention</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1958/1960">1958-1960</unitdate></did></c03></c02></c01><c01 level="series"><did><container type="box-folder">7/7</container><unittitle encodinganalog="245$a">Spokane Section minutes</unittitle><unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1944">1943-1944</unitdate></did></c01></dsc></archdesc></ead>

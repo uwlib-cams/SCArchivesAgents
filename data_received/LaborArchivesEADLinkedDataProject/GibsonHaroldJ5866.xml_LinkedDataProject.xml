@@ -1,0 +1,2465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GibsonHaroldJ5866.xml" encodinganalog="identifier" identifier="80444/xv72970">GibsonHaroldJ5866.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Harold J. Gibson
+			 Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Gibson (Harold J.)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Ashley
+			 Lindsey</author> 
+		  <sponsor encodinganalog="contributor">Processing funded by the Friends
+			 of the University of Washington Libraries Award, 2016</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20150508" era="ce" calendar="gregorian">© 2015</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc audience="external"> 
+		<change> 
+		  <date era="ce" calendar="gregorian">June 2016</date> 
+		  <item>Final finding aid completed by Ashley Lindsey and marked up into
+			 final EAD by Conor Casey. </item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5866</unitid> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="accession">5866-001</unitid> 
+		<origination> 
+		  <persname encodinganalog="100" role="creator" altrender="sync" source="local">Gibson, Harold J.,$d1913-1984</persname> </origination> 
+		<unittitle type="collection">Harold J. Gibson papers </unittitle> 
+		<unitdate type="inclusive" normal="1910/2002" certainty="approximate" era="ce" calendar="gregorian">circa 1910s-2002</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" normal="1930/1980" era="ce" calendar="gregorian">1930-1980</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">15.17 cubic feet (19
+		  boxes)</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Materials
+		  relating to Harold Gibson's life and his career as an officer in the
+		  International Association of Machinists, District 751</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Harold J. Gibson was an important leader in the history of the
+		  International Association of Machinists, and an influential figure in labor
+		  politics, both in the Pacific Northwest and nationally. Born in Idaho in 1913,
+		  he moved to Washington State as a child, eventually graduating from Lake
+		  Washington High School in Kirkland, WA in 1931. After graduation, Gibson joined
+		  the Army for a time before beginning work at Boeing in 1936. In 1941, he was
+		  elected a Business Representative of his local District Lodge 751, and in 1943,
+		  a short two years later, he was elected District President, a position he would
+		  hold for the next 13 years. During World War II, Gibson reenlisted, taking a
+		  leave of absence from his post to serve as a sergeant in Patton’s Third Army.
+		  In his tenure after the war, he led a successful strike in 1948, ended
+		  government freezes on aircraft workers’ wages, helped the district win its
+		  first all-inclusive health and welfare plan, and significantly increased union
+		  membership. In 1956, Gibson was elected to nationwide office as a General Vice
+		  President of the International Association of Machinists, and held the position
+		  through the mid-1960s. Gibson was influential not only as a labor leader, but
+		  as a political figure as well. He was well connected with longtime state
+		  Senators Warren Magnuson and Henry "Scoop" Jackson, Governor Al Rosellini, and
+		  Bill Boeing. He was an active participant in the Democratic Party, and sat on
+		  many committees and commissions. Harold Gibson passed away in 1984 at the age
+		  of 71. </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Materials relating to Harold Gibson's life and his career as an
+		  officer in the International Association of Machinists, District 751. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p></phystech>
+	 
+	 <accessrestrict> 
+		<p>Open to all users. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Status of creator's copyrights is unknown; restrictions may exist on
+		  copying, quotation, or publication. Users are responsible for researching
+		  copyright status before use.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<corpname role="subject" encodinganalog="610" altrender="sync">
+		  International Association of Machinists.$bAeronautical Industrial District
+		  Lodge 751</corpname> 
+		<persname source="lcnaf" rules="rda" role="subject" encodinganalog="600" altrender="sync">Gibson, Harold J.,$d1913-1984$vArchives</persname> 
+		<corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610" altrender="sync">International Association of Machinists and Aerospace
+		  Workers$vConstitution</corpname> 
+		<corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610" altrender="sync">International Association of Machinists and Aerospace
+		  Workers$vCongresses</corpname> 
+		<corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610" altrender="sync">International Association of Machinists and Aerospace
+		  Workers.$bDistrict 751</corpname> 
+		<corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610" altrender="sync">Boeing Aircraft Company$xEmployees.</corpname> 
+		<corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610" altrender="sync">Washington State Federation of Labor$vCongresses.</corpname> 
+		<corpname source="lcnaf" rules="rda" role="host institution" encodinganalog="710" altrender="sync">Labor Archives of Washington (University
+		  of Washington)</corpname> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  unions$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  movement$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor$zWashington
+		  (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor union
+		  members$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Collective
+		  bargaining$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Machinists$xLabor
+		  unions$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Aviation
+		  mechanics (Persons)$xLabor unions$zWashington (State)</subject> 
+		<genreform encodinganalog="655" source="lcgft">Constitutions</genreform> 
+		<genreform encodinganalog="655" source="lcgft">Conference
+		  materials</genreform> 
+		<genreform encodinganalog="655" source="lcgft">Personal
+		  correspondence</genreform> 
+		<genreform encodinganalog="655" source="lcgft">Business
+		  correspondence</genreform> 
+		<genreform encodinganalog="655" source="lcgft">Scrapbooks</genreform> 
+		<genreform encodinganalog="655" source="lcgft">Ephemera</genreform> 
+		<genreform encodinganalog="655" source="aat">Photographs</genreform> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690"><?xm-replace_text {NWDA 
+		  browsing term}?></subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">
+				1/1-2/18</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES 1
+				</emph></unitid> 
+			 <unittitle><emph render="bolditalic">COLLECTION OF BOOKS AND
+				PUBLISHED WORKS</emph></unittitle> 
+			 <unitdate type="inclusive" normal="1944/1990" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1944-1990</emph></unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>Instructions to Committeemen Aeronautical Industrial
+				  District Lodge No. 751</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c. 1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>In Memoriam: Franklin Delano Roosevelt- from Warren G.
+				  Magnuson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1946</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>Collective Bargaining Agreement- Boeing and
+				  International Association of Machinists and Aerospace Workers 1992</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle>Collective Bargaining Agreement- Boeing and
+				  International Association of Machinists and Aerospace Workers 1983</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>Labor Relations Agreement between Boeing Aircraft
+				  Company and International Association of Machinists and Aeronautical Industrial
+				  District Lodge No. 751</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1944</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>Collective Bargaining Agreement between Boeing Airplane
+				  Company and Aeronautical Industrial District Lodge No. 751, and Banana River
+				  Lodge 2061, and the International Association of Machinists 1958</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists and Aerospace
+				  Workers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists and Aerospace
+				  Workers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/13</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists and Aerospace
+				  Workers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists and Aerospace
+				  Workers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists and Aerospace
+				  Workers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle>1957 Legislative Manual</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unittitle>1965 Legislative Manual</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/19</container> 
+				<unittitle>Constitution and Statutes- Order of Elks
+				  1952-1953</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1952-1953</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/20</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/21</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists and Aerospace
+				  Workers-Helen Gibson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/22</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists and Aerospace
+				  Workers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/23</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/24</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/25</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/26</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and the International Association of Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/27</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and Aeronautical Industrial District Lodge No. 751 International
+				  Association of Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/28</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/29</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and Aeronautical Industrial District Lodge No. 751 International
+				  Association of Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/30</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and Aeronautical Industrial District Lodge No. 751 International
+				  Association of Machinists - Jerry Hall</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/31</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and Aeronautical Industrial District Lodge No. 751 International
+				  Association of Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1953</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/32</container> 
+				<unittitle>Collective Bargaining Agreement between The Boeing
+				  Company and Aeronautical Industrial District Lodge No. 751 International
+				  Association of Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1951</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/33</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/34</container> 
+				<unittitle>Agreement between the Boeing Airplane Company, Wichita
+				  Division and the International Association of Machinists District Lodge No. 70-
+				  Stockinger</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/35</container> 
+				<unittitle>Collective Bargaining Agreement between the Boeing
+				  Company, Seattle and International Association of Machinists and Aerospace
+				  Workers- Helen Gibson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/36</container> 
+				<unittitle>Directory Democratic National Convention Chicago 1956-
+				  Sketch by Daryl Brothman (Delegate from Tacoma)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/37</container> 
+				<unittitle>Chicago Tourist Brochure</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/38</container> 
+				<unittitle>The Harriman Digest - Averill Harriman Campaign
+				  Brochure</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c. 1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/39</container> 
+				<unittitle>A Decade of Progress - Containing contracts
+				  1950-1960</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950-1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/40</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/41</container> 
+				<unittitle>1959 Legislative Manual</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/42</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/43</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/44</container> 
+				<unittitle>The Fighting Machinists: A Century of Struggle by Robert
+				  G Rodden</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">post 1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/45</container> 
+				<unittitle>We Build Them Right: Collective Bargaining Agreement
+				  Between the Boeing Company and the International Association of Machinists and
+				  Aerospace Workers AFL/CIO 1995</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/46</container> 
+				<unittitle>Working Together into the Millennium: Collective
+				  Bargaining Agreement 1999 Between the Boeing Company and the International
+				  Association of Machinist and Aerospace Workers AFL-CIO</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/47</container> 
+				<unittitle>Collective Bargaining Agreement 2002 Between
+				  International Association of Machinists and Aerospace Workers AFL-CIO and the
+				  Boeing Company</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/48</container> 
+				<unittitle>The Union Member Speaks- Book based on survey done by
+				  Institute of Labor and Industrial Relations at the University of Illinois on
+				  member's opinions on IAM District 9's policies</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/49</container> 
+				<unittitle>Proceedings of Third International Conference Aircraft
+				  and Guided Missile Lodges</unittitle> 
+				<unitdate type="inclusive" normal="1954/6/7/1954/6/9" era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/50</container> 
+				<unittitle>Proceedings Fourth International Aircraft and Guided
+				  Missile Conference</unittitle> 
+				<unitdate type="inclusive" normal="1955/5/23/1955/5/25" era="ce" calendar="gregorian">1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/51</container> 
+				<unittitle>Recommendations Fifth International Aircraft and Guided
+				  Missile Conference</unittitle> 
+				<unitdate type="inclusive" normal="1956/7/11/1956/7/13" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/52</container> 
+				<unittitle>Proceedings of the 29th International Association of
+				  Machinists and Aerospace Workers Grand Lodge Convention</unittitle> 
+				<unitdate type="inclusive" normal="1976/9/7/1976/9/17" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/53</container> 
+				<unittitle>IAM Officer's' Guide</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/54</container> 
+				<unittitle>District Lodge 751 Booklet: Your Security Under: Health
+				  and Welfare Plan, Retirement Plan, Workmen's Compensation, Unemployment
+				  Compensation, Old Age and Survivors Insurance</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/55</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Pension Plans for Grand Lodge Officers, Representatives and
+				  Employees</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/56</container> 
+				<unittitle>1st Constitutional Convention Proceedings-
+				  AFL-CIO</unittitle> 
+				<unitdate type="inclusive" normal="1955/12/5/1955/12/8" era="ce" calendar="gregorian">1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/57</container> 
+				<unittitle>Washington State Federation of Labor Proceedings of the
+				  51st Annual Convention</unittitle> 
+				<unitdate type="inclusive" normal="1953/7/13/1953/7/16" era="ce" calendar="gregorian">1953</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/58</container> 
+				<unittitle>Washington State Federation of Labor Proceedings of the
+				  52st Annual Convention</unittitle> 
+				<unitdate type="inclusive" normal="1954/7/12/1954/7/15" era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/59</container> 
+				<unittitle>Washington State Federation of Labor Proceedings of the
+				  53st Annual Convention</unittitle> 
+				<unitdate type="inclusive" normal="1955/7/11/1954/7/14" era="ce" calendar="gregorian">1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/60</container> 
+				<unittitle>Washington State Federation of Labor Proceedings of the
+				  54st Annual Convention</unittitle> 
+				<unitdate type="inclusive" normal="1956/7/9/1956/7/12" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/61</container> 
+				<unittitle>Stewards Manual</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/62</container> 
+				<unittitle>No Retreat from Tomorrow - Gift from President
+				  Johnson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1</container> 
+				<unittitle>Olympia 1936- Olympic Souvenir Book, note inside: points
+				  for inspection 14 sept 1945 company B 83rd Armored Reconnaissance Battalion APO
+				  253 US Army</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/2</container> 
+				<unittitle>Signed 1965 International Association of Machinists and
+				  Aerospace Workers Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/3</container> 
+				<unittitle>Deutschland Erwacht (1933)- Book about Nazi Germany in
+				  German, Correspondence with Admiral Richard E. Byrd</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/4</container> 
+				<unittitle>Pacific Northwest Goes to War- State of
+				  Washington</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1944</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/5</container> 
+				<unittitle>Proceedings of International Association of Machinists
+				  and Aerospace Workers Convention, Cincinnati, OH</unittitle> 
+				<unitdate type="inclusive" normal="1980/9/" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/6</container> 
+				<unittitle>Proceedings of International Association of Machinists
+				  and Aerospace Workers Convention, Los Angeles, CA</unittitle> 
+				<unitdate type="inclusive" normal="1972/9/" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/7</container> 
+				<unittitle>Proceedings of International Association of Machinists
+				  and Aerospace Workers Convention, Hollywood, FL</unittitle> 
+				<unitdate type="inclusive" normal="1976/9/" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/8</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Official Circulars</unittitle> 
+				<unitdate type="inclusive" normal="1944/1/17/1968/12/23" era="ce" calendar="gregorian">1944-1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/9</container> 
+				<unittitle>Boeing Airplane Company Telephone Directory</unittitle> 
+				<unitdate type="inclusive" normal="1957/2/15/" era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/10</container> 
+				<unittitle>Proceedings of International Association of Machinists
+				  and Aerospace Workers Convention, Chicago, IL</unittitle> 
+				<unitdate type="inclusive" normal="1968/9/3/" era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/11</container> 
+				<unittitle>Ferrovia Del Gottardo E I Tre Laghi: Sent from Sgt
+				  Gibson to Mrs. Harold J Gibson</unittitle> 
+				<unitdate type="inclusive" normal="1945/11/20/" era="ce" calendar="gregorian">1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/12</container> 
+				<unittitle>Pacific Northwest Goes to War: Sent from Associated
+				  Editors to Harold Gibson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1944</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/13</container> 
+				<unittitle>Absenteeism in Seattle War Plants- Henry T. Buechel-
+				  Sponsored by Seattle Civilian War Commission and College of Economics and
+				  Business</unittitle> 
+				<unitdate type="inclusive" normal="1943/8/" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle>Officers' Report - Grand Lodge International Association
+				  of Machinists and Aerospace Workers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/15</container> 
+				<unittitle>Roster of the International Association of Machinists
+				  and Ladies Auxiliary, IAM</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/16</container> 
+				<unittitle>Speaker of the House: The Political Career and Times of
+				  John L. O'Brien by Daniel Jack Chasan- Signed</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/17</container> 
+				<unittitle>Blood in the Water: A History of District Lodge 751 of
+				  the International Association of Machinists and Aerospace Workers by John
+				  McCann</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/18</container> 
+				<unittitle>Report of the Aerospace Dispute</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">3/1-3/15</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES
+				2</emph></unitid> 
+			 <unittitle><emph render="bolditalic">PERSONAL RECORD
+				BOOKS</emph></unittitle> 
+			 <unitdate type="inclusive" normal="1943/1971" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1943-1971</emph></unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/1</container> 
+				<unittitle>Cash Ledger</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950-1951</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/2</container> 
+				<unittitle>Cash Ledger</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1953-1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/3</container> 
+				<unittitle>Cash Ledger</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1960-1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/4</container> 
+				<unittitle>Cash Ledger</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c.1948</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/5</container> 
+				<unittitle>Account Ledger</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968-1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/6</container> 
+				<unittitle>Day Book</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957-1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/7</container> 
+				<unittitle>Datebook 1943, used through March</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/8</container> 
+				<unittitle>Desk Diary- Daily schedule log</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/9</container> 
+				<unittitle>Desk Diary- Daily schedule log</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/10</container> 
+				<unittitle>Desk Diary- Daily schedule log- Incomplete</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/11</container> 
+				<unittitle>Desk Diary- Daily Schedule Log</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/12</container> 
+				<unittitle>Desk Diary- Daily Schedule Log</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/13</container> 
+				<unittitle>Desk Diary- Daily Schedule Log</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/14</container> 
+				<unittitle>Desk Diary- Daily Schedule Log</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/15</container> 
+				<unittitle>Desk Diary- Daily Schedule Log</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1964</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">3/17-8/16</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES 3
+				</emph></unitid> 
+			 <unittitle><emph render="bolditalic">DOCUMENTS RELATED TO THE
+				ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS, DEMOCRATIC PARTY POLITICS, AND
+				PERSONAL LIFE</emph></unittitle> 
+			 <unitdate type="inclusive" normal="1900/2012" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">c. 1910s-2012</emph></unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/17</container> 
+				<unittitle>Scrapbook Box</unittitle> 
+			 </did> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle>Box: 1/5 Aerospace Industrial District Lodge 751
+					 Absence Authorization Slips- Helen Gibson</unittitle> 
+				  <unitdate type="inclusive" normal="1973/9/17/1989/5/17" era="ce" calendar="gregorian">1973-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle>Box: 2/5 Delegate's Credential- 23rd Convention Grand
+					 Lodge of International Association of Machinists, Kansas City, MO</unittitle> 
+				  <unitdate type="inclusive" normal="1952/7/28/" era="ce" calendar="gregorian">1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle>Box: 3/5 Elect Harold J. Gibson, General Vice
+					 President- Campaign Fliers</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle>Box: 4/5 Paycheck Receipts/Stubs Helen Gibson, Inc.
+					 1985 Switch to Boeing Employee Credit Union</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1981-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="item"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle>Box: 5/5 District Lodge 751- Dues Book
+					 1983-1984</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1983-1984</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/1</container> 
+				<unittitle>Joe Addison (Plaintiff) vs. Grand Lodge of the I.A.M.,
+				  1962</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/2</container> 
+				<unittitle>Personal Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962-1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/3</container> 
+				<unittitle>Correspondence- Invitations as General Vice
+				  President</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1961-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/4</container> 
+				<unittitle>Personal Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1960-1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/5</container> 
+				<unittitle>Shareowner Information- Federated American Insurance
+				  Company</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1959-1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/6</container> 
+				<unittitle>Correspondence- Gift Fund, Northwest
+				  Territory</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1958-1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/7</container> 
+				<unittitle>Correspondence- A.J. Hayes, International
+				  President</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/8</container> 
+				<unittitle>Personal Correspondence/Veterans Brochures</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1964-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/9</container> 
+				<unittitle>Monte-Copter Shareholder Information</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/10</container> 
+				<unittitle>Public Service Award for Service on the United Jobs
+				  Corps Committee, Biographical Information</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1959-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/11</container> 
+				<unittitle>General and Political Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1958-1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/12</container> 
+				<unittitle>Life Insurance, Retirement Benefits
+				  Information</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957-1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/13</container> 
+				<unittitle>District Lodge #751 Grand Lodge Auditor's Report
+				  1954-1957 and Related Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954-1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/14</container> 
+				<unittitle>Income Tax Records-1/3: Airplane Tickets, Hotel Tickets,
+				  Expenses for Travel</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956-1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/15</container> 
+				<unittitle>Income Tax Records- 2/3 Gas, Car, Parking
+				  Receipts</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/16</container> 
+				<unittitle>Income Tax Records- 3/3 Expenses: Florists, Taxes,
+				  Telegrams, Clothing, Entertainment, and Club Dues and Donations</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/16</container> 
+				<unittitle>District 751 Aero Mechanic Vol 64, Vol 66</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2009-2011</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/18</container> 
+				<unittitle>District 751 Aero Mechanic Vol 63, Vol 65, Vol
+				  67</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">2008-2012</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/19</container> 
+				<unittitle>Apollo 11 Souvenir Book, "Footprints on the
+				  Moon"</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/20</container> 
+				<unittitle>American Labor Magazine</unittitle> 
+				<unitdate type="inclusive" normal="1969/7/1969/8" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/21</container> 
+				<unittitle>A Tribute from the International Association of
+				  Machinists and Aerospace Workers AFL-CIO: Retirement Ceremony for P.L. (Roy)
+				  Siemiller and Matthew DeMore</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/22</container> 
+				<unittitle>Baseball Team Correspondence, Telegram to Sen. Mon C.
+				  Wallgren</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1942-1944</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/23</container> 
+				<unittitle>Seattle Civilian War Commission, Correspondence
+				  (Military Service, Warren Magnuson) Union Campaign Materials, Meeting
+				  Minutes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1944-1946</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/24</container> 
+				<unittitle>Papers Re: House Un-American Activities Committee,
+				  Correspondence with General Secretary Treasurer Eric Peterson, IAM Executive
+				  Council Meeting Minutes, District Council Delegates</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954-1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/25</container> 
+				<unittitle>Correspondence with IAM President, Vice President and
+				  Secretary Treasurer</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/26</container> 
+				<unittitle>Personal Papers Including Correspondence, Daily
+				  Schedule, Speech Drafts</unittitle> 
+				<unitdate type="inclusive" normal="1943/1/1943/6" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/27</container> 
+				<unittitle>Pamphlet Supporting Subscription Television</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/28</container> 
+				<unittitle>Personal Papers- Correspondence re: War Related Issues,
+				  Congratulatory Correspondence for Election to Presidency</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1941-1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/29</container> 
+				<unittitle>Correspondence with H.W. Brown, IAM
+				  President</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1934-1941</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/30</container> 
+				<unittitle>Correspondence, Lists of Local Lodge Officers, District
+				  Council Delegates, District Committees</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950-1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/31</container> 
+				<unittitle>History of District Lodge 751, Chapter 7</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1948</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/1</container> 
+				<unittitle>Personal Papers: Blueprint, Lease Information, Contacts,
+				  Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1942-1947</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/2</container> 
+				<unittitle>Political and Public Involvement: 'How to Spot a
+				  Communist' Flier, Labor in Israel, 1947 AI Lodge 751-F Election, VP Campaign
+				  Fliers, 1951, 1953 Collective Bargaining Agreements, 'Liberty: Magazine for
+				  Religious Freedom', Radio Address Supporting Prop C (1950), Labor Roundtable
+				  Radio Script (1941), Newspaper Clippings</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1941-1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/3</container> 
+				<unittitle>War Time Papers: Civilian War Commission Dissolution,
+				  Currency Exchange Control Book, Postcard from France (1944), Transcript-
+				  Gibson/Casttigan re: Wages at Boeing following War Board Decision (esp. re:
+				  women's wages)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1944-1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/4</container> 
+				<unittitle>"Hoat's Papers and Receipts, etc."- Insurance 1941,
+				  Baseball Team, US Civil Service Utilities Engineering Institute, Auto Repair
+				  and Licensing, Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1938-1941</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/5</container> 
+				<unittitle>Public Relations- Induction into Army, Interview as
+				  Business Agent for Lodge 751, Correspondence (Sen. Magnuson, Rep. Coffee, War
+				  Chest)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1942-1944</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/6</container> 
+				<unittitle>Newspaper Clippings and "Union Scrapbook," Rock Mosaic
+				  IAM Emblem, 'Our American Government'</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943-1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/7</container> 
+				<unittitle>World War II Service- National War Labor Board, Letters
+				  of Recommendation</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943-1944</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/8</container> 
+				<unittitle>Event Invitations and Programs</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1931-1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/9</container> 
+				<unittitle>World War II Newspaper Clippings- National War Labor
+				  Board, Boeing Navy 'E' Award</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1942-1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/10</container> 
+				<unittitle>Bank Loans, Pay Stubs, Tax Information, Receipts,
+				  'Training in the Aircraft Industry', Transcript of Minutes IAM
+				  Conference</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954-1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/11</container> 
+				<unittitle>Personal Papers- Car Insurance, Receipts, Correspondence
+				  (Rep. John O'Brien)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/12</container> 
+				<unittitle>Personal Papers- Insurance Papers, Personal
+				  Correspondence, Dept. of Public Lands- Mineral Lease</unittitle> 
+				<unitdate type="inclusive" normal="1950/5/30/1951/11/19" era="ce" calendar="gregorian">1950-1951</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/13</container> 
+				<unittitle>Correspondence Re: Organizing Campaigns (Detroit,
+				  Georgia), Contract Negotiations, Negotiations in Wichita, KS</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1952</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/14</container> 
+				<unittitle>Personal Calendar</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/15</container> 
+				<unittitle>Election Rules, Personal Correspondence -Union
+				  Organizers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/16</container> 
+				<unittitle>Records of Entrances/Exits by Business Representatives,
+				  Christmas Mailing List and Addresses</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/17</container> 
+				<unittitle>District Lodge 751 Expense Vouchers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950-1953</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/18</container> 
+				<unittitle>Lodge Election Data, Results, and Newspaper
+				  Clippings</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954-1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/19</container> 
+				<unittitle>1955 Lodge 751 Election- Kirkpatrick and Knight Dispute-
+				  Correspondence with Hayes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/20</container> 
+				<unittitle>Correspondence from Harvey W. Brown, International
+				  President, Newspaper Clippings 1942</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1942-1944</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/21</container> 
+				<unittitle>Personal Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956-1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/22</container> 
+				<unittitle>General Vice President Election- Endorsements Opponents'
+				  Posters, Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/23</container> 
+				<unittitle>Officers' Vacation Schedule</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/24</container> 
+				<unittitle>Elections- December 1952 and January 1953</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/25-26</container> 
+				<unittitle>General Vice President Election-
+				  Endorsements</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/27</container> 
+				<unittitle>Proceedings of 21st Convention of International
+				  Association of Machinists- New York City-Leo Frison</unittitle> 
+				<unitdate type="inclusive" normal="1945/10/29/" era="ce" calendar="gregorian">1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/1</container> 
+				<unittitle>Vice President's Weekly Report</unittitle> 
+				<unitdate type="inclusive" normal="1959/6/1962/4" era="ce" calendar="gregorian">1959-1962</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/2</container> 
+				<unittitle>Vice President's Weekly Report</unittitle> 
+				<unitdate type="inclusive" normal="1962/12/1963/1" era="ce" calendar="gregorian">1957-1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/3</container> 
+				<unittitle>New Machinists Building, 1960 Convention Postcards,
+				  Financial Papers and Shareholder Information- Montecopter, Inc. and Sea-Elk
+				  Corp.</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1940-1998</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/4</container> 
+				<unittitle>Survey of Fringe Benefits Airframe Industry', 'The
+				  Economic Outlook of the Aircraft Industry', 'Administration Manual- Insurance
+				  Benefits Plan', Business Cards</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950-1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/5</container> 
+				<unittitle>Newspaper Clippings- Contract Negotiations, Western
+				  States Conference of Machinists 1954, Salt Lake City, UT</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954-1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/6</container> 
+				<unittitle>The Truth About the Taft-Hartley Law and its
+				  Consequences to the Labor Movement', Brief in Support of General Wage Increase
+				  for Boeing Employees, IAM Convention Roll Call 1956, San Francisco,
+				  CA</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1948-1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/7</container> 
+				<unittitle>Correspondence- Office Employees International Union
+				  Local #8</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/8</container> 
+				<unittitle>Harold Gibson Speeches</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950-1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/9</container> 
+				<unittitle>Correspondence- President's Office, Wage Negotiations,
+				  etc.</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1951</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/10</container> 
+				<unittitle>Correspondence with President's Office</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/11</container> 
+				<unittitle>Newspaper Clippings from 1965 Strike, Aero Mechanic
+				  1951, 1957</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1951-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/12</container> 
+				<unittitle>Land Complaint, Newspaper Clippings, CBS Democratic
+				  Convention Report, Franco Allied Goodwill Committee, Telegram from Jackson Re:
+				  Federal Government Job, Kennedy Inauguration Invitation, Programs- Jefferson
+				  Jackson Day, Western Conference of Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/1</container> 
+				<unittitle>Newspaper Clippings, Family Pictures, Letters,
+				  Announcements</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1910s-1960s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/2-3</container> 
+				<unittitle>Proceedings -IAM Convention, San Francisco (1956),
+				  Pamphlets, Wage Data</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/4</container> 
+				<unittitle>Newspaper Clippings</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1951-1942</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/5</container> 
+				<unittitle>Tom Tippet's History of Lodge 751- With brief history of
+				  project in front</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/6</container> 
+				<unittitle>Tourist Fliers, Mementos, Resolutions and Proposed
+				  Amendments from 1972 18th IAM Convention (Originally in corresponding bag in
+				  Box 19)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/7</container> 
+				<unittitle>John L. O'Brien Tribute Dinner Pamphlet</unittitle> 
+				<unitdate type="inclusive" normal="1993/3/8/" era="ce" calendar="gregorian">1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/8</container> 
+				<unittitle>International Association of Machinists 75th Anniversary
+				  Program</unittitle> 
+				<unitdate type="inclusive" normal="1963/5/5/" era="ce" calendar="gregorian">1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/9</container> 
+				<unittitle>1956 Democratic Convention, Service Award Dinner (Hayes,
+				  Walker), IAM 75th Anniversary, Roster of the International Association of
+				  Machinists and Aerospace Workers, Western States Conference of
+				  Machinists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/10</container> 
+				<unittitle>Financial Officer Manual, Voting Information/Fliers,
+				  Pension/SS Info, 'Structure, Organization and Services of the IAM'</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1947-1950</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/11</container> 
+				<unittitle>Collective Bargaining Educational Information, Public
+				  Notices</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/12-13</container> 
+				<unittitle>Newspaper Clippings 1989 Strike, 1989</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/14</container> 
+				<unittitle>Copies of Portrait Photos - Unnamed Subject</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/15</container> 
+				<unittitle>IAM Staff Conference Winpisinger Speech, 751 Industry
+				  Report, Harriman Campaign Folder, Newspaper Clippings, Democratic National
+				  Convention 1956 Delegate Card</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943-1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/16</container> 
+				<unittitle>Democratic National Convention- Roll of Delegates,
+				  Platform, Party Invitations</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/17</container> 
+				<unittitle>Political Event Programs- Hubert Humphrey, Shop
+				  Committeeman Dinner, Jefferson-Jackson Day Speech</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c. 1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/18</container> 
+				<unittitle>Vice President's Weekly Reports</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/19</container> 
+				<unittitle>Vice President's Weekly Reports </unittitle> 
+				<unitdate type="inclusive" normal="1964/1/1965/6" era="ce" calendar="gregorian">1964-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/20</container> 
+				<unittitle>Vice President's Weekly Reports</unittitle> 
+				<unitdate type="inclusive" normal="1958/1/1958/6" era="ce" calendar="gregorian">1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/21</container> 
+				<unittitle>Expense Reimbursement Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1959-1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/22</container> 
+				<unittitle>Vice President's Weekly Reports</unittitle> 
+				<unitdate type="inclusive" normal="1961/1/1961/12" era="ce" calendar="gregorian">1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/23</container> 
+				<unittitle>Vice President's Weekly Reports and Expense
+				  Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/24</container> 
+				<unittitle>Vice President's Weekly Reports</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/1</container> 
+				<unittitle>Pay Stubs- Helen and Harold Gibson</unittitle> 
+				<unitdate type="inclusive" normal="1943/1/4/1955/1/5" era="ce" calendar="gregorian">1943-1955</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/2</container> 
+				<unittitle>International Association of Machinists and Aerospace
+				  Workers Convention Planning Information, Boeing 307 Stratoliner Print,
+				  Address/phone list, IAM Retired Staff Reunion, Obituary page</unittitle> 
+				<unitdate type="inclusive" normal="1984/8/26/2006/8" era="ce" calendar="gregorian">1984-2006</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/3</container> 
+				<unittitle>District 571 Aero Mechanic</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1945-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/4</container> 
+				<unittitle>Draft of the History of District Lodge 571 by Tom
+				  Tippett</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/5</container> 
+				<unittitle>Draft of History of District Lodge 571 Continued,
+				  'Portrait of a Trade Unionist'- Biography of Wabern Gartin</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">After 1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/6</container> 
+				<unittitle>Labor Relations Reporter- Decisions of the National
+				  Labor Relations Board</unittitle> 
+				<unitdate type="inclusive" normal="1988/1/4/1988/4/25" era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/7</container> 
+				<unittitle>Job Erosion District 751- Union Erosion
+				  Committee</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1969-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/8</container> 
+				<unittitle>Office Instructions, Employee Lists and Information,
+				  Contacts</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1987-1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/9</container> 
+				<unittitle>Pension Plan</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/10-11</container> 
+				<unittitle>Office and Professional Employees Local no. 8
+				  Agreements, Constitution, Correspondence, Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/12</container> 
+				<unittitle>Office and Professional Employees, Local 8, Agreements,
+				  By-Laws, Meeting Minutes, Elections</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977-1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/13</container> 
+				<unittitle>IAM Pension Fund, Medical Coverage Contract Information
+				  Helen Gibson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1984-1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/14</container> 
+				<unittitle>Office and Professional Employees Union Local #8-
+				  Agreements, Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977-1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/15</container> 
+				<unittitle>Office and Professional Employees Union Local #8 Budget,
+				  Newsletters, Contracts, Papers re: Merger 1975-1988</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/16</container> 
+				<unittitle>Aero Mechanic- Harold Gibson Obituary</unittitle> 
+				<unitdate type="inclusive" normal="1984/8/" era="ce" calendar="gregorian">1984</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">
+				9/1-18/3</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES
+				4</emph></unitid> 
+			 <unittitle><emph render="bolditalic">NEWSPAPER AND SCRAPBOOK
+				COLLECTION</emph></unittitle> 
+			 <unitdate type="inclusive" normal="1939/1993" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1939-1993</emph></unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/1</container> 
+				<unittitle>The Aero Mechanic Annual</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1939-1941</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/2</container> 
+				<unittitle>The Aero Mechanic Aug '93 Article re: Wabern Gartin, Ed
+				  Carrig, Louie O'Callaghan, Harry Edwards</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/3</container> 
+				<unittitle>The IAM Machinist, Aero Mechanic Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/4</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/5</container> 
+				<unittitle>Aero Mechanic, Local Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/6-7</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/8</container> 
+				<unittitle>Aero Mechanic Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1960</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/9</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/10</container> 
+				<unittitle>Aero Mechanic Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/11</container> 
+				<unittitle>IAM Machinist, Aero Mechanic Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/12</container> 
+				<unittitle>IAM Machinist, Aero Mechanic Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/13</container> 
+				<unittitle>IAM Machinist, Aero Mechanic Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/14</container> 
+				<unittitle>IAM Machinist, Aero Mechanic Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/15</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/16</container> 
+				<unittitle>Aero Mechanic, Local Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/17</container> 
+				<unittitle>IAM Machinist, Aero Mechanic Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/18</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/19</container> 
+				<unittitle>Aero Mechanic, Other Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/20</container> 
+				<unittitle>IAM Machinist, Aero Mechanic Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/21</container> 
+				<unittitle>Aero Mechanic Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/1</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/2</container> 
+				<unittitle>Aero Mechanic Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/3</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/4</container> 
+				<unittitle>Aero Mechanic, Local Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/5</container> 
+				<unittitle>IAM Machinist, Aero Mechanic Newspapers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/6</container> 
+				<unittitle>Aero Mechanic Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/7-8</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/9</container> 
+				<unittitle>IAM Machinist Newspaper</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">11/1</container> 
+				<unittitle>Loose Newspaper Clippings from Scrapbook- Including 1948
+				  Strike</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1948</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">11/2</container> 
+				<unittitle>Newspapers Covering WWII, Flying Fortress Production,
+				  WLB Conflict</unittitle> 
+				<unitdate type="inclusive" normal="1943/2/26/1943/5/16" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">11/3</container> 
+				<unittitle>Scrapbook- World War II Service and Return Home, 1948
+				  Strike, Baseball</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1944-1948</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">12/1</container> 
+				<unittitle>Scrapbook- World War II Newspapers and 1948 Strike,
+				  conflict with War Labor Board</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1942-1948</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">12/2</container> 
+				<unittitle>Seattle Newspapers Re: WWII War Labor Board
+				  Disputes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">13</container> 
+				<unittitle>Newspaper Collection</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1940s-1960s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">14/1</container> 
+				<unittitle>Union Shop Vote, Elections Newspaper Clippings
+				  1950s</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">14/2</container> 
+				<unittitle>Elections Fliers, World War II Bulletins</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1944-1961</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">14/3</container> 
+				<unittitle>Newspaper Collection 1940s-1960s (Wartime Papers,
+				  Recruitment)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1940s-1960s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">15/1</container> 
+				<unittitle>Telegrams, Election Fliers, Speeches</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1942</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">15/2</container> 
+				<unittitle>Newspaper Collection, Mostly WWII- Recruitment, War
+				  Labor Board</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1940-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">16</container> 
+				<unittitle>Scrapbook of Newspaper Clippings from 1949 Boeing
+				  Strike</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1949-1950</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/1</container> 
+				<unittitle>Fliers, Strike Bulletin - 1948 Strike</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/2</container> 
+				<unittitle>Photocopied pictures, Certificates of Committee
+				  Memberships, Awards, and Appreciations</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954-1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/3</container> 
+				<unittitle>Newspaper Clippings- 1943 WWII and Flying Fortress
+				  Drive</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/4</container> 
+				<unittitle>Rainier: The Epic of the Mountain by Dan Ward
+				  Gibson</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/5</container> 
+				<unittitle>Print of Boeing B-17E Flying Fortress</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c. 1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/6</container> 
+				<unittitle>Boeing Family Day Brochure</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/7</container> 
+				<unittitle>Seattle Post Intelligencer- Work Stoppage at
+				  Boeing</unittitle> 
+				<unitdate type="inclusive" normal="1943/2/26/" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/8</container> 
+				<unittitle>Seattle Daily Times- No Strike Monday at
+				  Boing</unittitle> 
+				<unitdate type="inclusive" normal="1943/2/26/" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/9</container> 
+				<unittitle>Seattle Post Intelligencer- Boeing Awarded New Contract
+				  for Huge Transports</unittitle> 
+				<unitdate type="inclusive" normal="1945/7/6/" era="ce" calendar="gregorian">1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/10</container> 
+				<unittitle>Seattle Post Intelligencer- Boeing Plants Shut Down
+				  Indefinitely by Cutback</unittitle> 
+				<unitdate type="inclusive" normal="1945/9/6/" era="ce" calendar="gregorian">1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/11</container> 
+				<unittitle>Seattle Daily Times- War Labor Board Racked by
+				  Strife</unittitle> 
+				<unitdate type="inclusive" normal="1943/2/27/" era="ce" calendar="gregorian">1943</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/12</container> 
+				<unittitle>Seattle Post Intelligencer- Millions in Boeing Contracts
+				  Hinge on CAB Rulings</unittitle> 
+				<unitdate type="inclusive" normal="1945/9/12/" era="ce" calendar="gregorian">1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">17/13</container> 
+				<unittitle>Seattle Post Intelligencer- Boeing Plans 2 New Planes
+				  For Commercial Transport</unittitle> 
+				<unitdate type="inclusive" normal="1945/9/22/" era="ce" calendar="gregorian">1945</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">18/1</container> 
+				<unittitle>The Machinist Vol. 16</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1961-1962</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">18/2</container> 
+				<unittitle>The Machinist Vol. 17</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962-1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">18/3</container> 
+				<unittitle>The Machinist Vol. 18</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1963-1964</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">
+				19/1-19/14</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES
+				5</emph></unitid> 
+			 <unittitle><emph render="bolditalic">OBJECT
+				COLLECTION</emph></unittitle> 
+			 <unitdate type="inclusive" normal="1956/1990" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1956-1980s</emph></unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/1</container> 
+				<unittitle>Addressograph Proposal</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/2</container> 
+				<unittitle>Bag from IAM 26th G.L. Convention, Miami Beach,
+				  Florida</unittitle> 
+				<unitdate type="inclusive" normal="1964/9/8/9/18/1964" era="ce" calendar="gregorian">1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/3</container> 
+				<unittitle>Bag from IAM 24th Convention San Francisco,
+				  CA</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/4</container> 
+				<unittitle>Bag, Machinists Non-Partisan Political
+				  League</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/5</container> 
+				<unittitle>Bag from IAM 18th Convention, Los Angeles,
+				  CA</unittitle> 
+				<unitdate type="inclusive" normal="1972/09/05/" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/6</container> 
+				<unittitle>Travel Case- 25th IAM Convention, St. Louis</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1960-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/7</container> 
+				<unittitle>Lodge 751 Clock</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/8</container> 
+				<unittitle>IAM Toolset</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/9</container> 
+				<unittitle>Copper Name Plate</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/10</container> 
+				<unittitle>Wallet from IAM 18th Convention, Los Angeles,
+				  CA</unittitle> 
+				<unitdate type="inclusive" normal="1972/09/05/" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/11</container> 
+				<unittitle>IAM Pins</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970s-1980s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/12</container> 
+				<unittitle>Leather International Association of Machinists
+				  Sleeve</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/13</container> 
+				<unittitle>IAM Pen</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/14</container> 
+				<unittitle>Name Stamp</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">
+				19/15-19/22</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES
+				6</emph></unitid> 
+			 <unittitle><emph render="bolditalic">PHOTOGRAPHS</emph></unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> <emph render="bolditalic">1940-1960s</emph></unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/15</container> 
+				<unittitle>Photograph of Car with Sign, Re: Release of the Grand
+				  Lodge Auditors Report Issue</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954-1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/16</container> 
+				<unittitle>King County National Defense Council Card, Issued August
+				  20, 1940</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1940</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/17-18</container> 
+				<unittitle>Photograph of International Association of Machinists
+				  Rock Mosaic Emblem</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/19</container> 
+				<unittitle>Photograph of Harold Gibson and William M. Allen (Boeing
+				  President)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/20-21</container> 
+				<unittitle>Photograph, Gibson and Unknown Man at Podium</unittitle>
+				
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1960s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">19/22</container> 
+				<unittitle>Harold Gibson, C.L. Bentley (Grand Lodge
+				  Representative), and William M. Allen (Boeing President) Signing
+				  Contract</unittitle> 
+				<unitdate type="inclusive" normal="1948/02/16/" era="ce" calendar="gregorian">1948</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

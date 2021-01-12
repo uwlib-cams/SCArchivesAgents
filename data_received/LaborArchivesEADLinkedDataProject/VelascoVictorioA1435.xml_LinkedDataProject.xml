@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/VelascoVictorioA1435.xml" encodinganalog="identifier" identifier="80444/xv62872">VelascoVictorioA1435.xml</eadid> 
+	 <filedesc> 
+		<titlestmt id="edit-complete"> 
+		  <titleproper encodinganalog="title"> Guide to the Victorio A. Velasco
+			 Papers </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Velasco (Victorio A.)
+			 Papers</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20070918" era="ce" calendar="gregorian">©2007</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date>
+		  </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised <?xm-replace_text {Enter date of revision of finding aid, if any, eg., July, 2005}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid type="mss" encodinganalog="099">1435</unitid> 
+		<unitid type="accession" encodinganalog="099">1435-003</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100">Velasco, Victorio A., d.
+			 1968</persname> </origination> 
+		<unittitle type="collection">Victorio A. Velasco papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1920/1968">1920-1968</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">15.17 cubic feet (15
+		  boxes)</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Journalist,
+		  labor organization leader, civic leader, poet</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>After immigrating in the 1920s, Victorio Velasco became a participant
+		  and leader in many facets of Filipino-American life over the next half century.
+		  Velasco was perhaps best known as a leader of Seattle’s Filipino community. He
+		  published and edited the local <emph render="italic">Filipino Forum</emph> and
+		  served as the head of numerous Seattle Filipino community organizations.
+		  Because of his leadership in the Filipino community, many local and statewide
+		  organizations seeking to improve race relations sought him out to serve on
+		  their boards and committees. In addition to his leadership among Seattle’s
+		  Filipinos, Velasco also participated in the Filipino American labor movement.
+		  Like many other Filipinos during his time, Velasco spent most of his summers
+		  working in Alaska canneries and participated in the cannery unions’ turbulent
+		  internal politics.</p> 
+		<p>Velasco was born in Asingan, Pangasinan, The Philippines, ca. 1903.
+		  After graduating from high school he taught in Manila and worked as a reporter
+		  for the <emph render="italic">Manila Times</emph> before emigrating to the U.S.
+		  in 1924. There he attended five colleges in Washington State before earning his
+		  B.A., M.A., and fulfilling some of the requirements for a Ph.D. at the
+		  University of Washington. Velasco had begun writing poetry in high school and
+		  early on was successful at finding publishers for his work. By the time of his
+		  death Velasco’s poetry had appeared in eleven anthologies and various
+		  newspapers and magazines.</p> 
+		<p>After coming to the U.S., Velasco spent his summers working in the
+		  canneries alongside other Filipinos, who had begun filling most cannery
+		  positions after the loss of Japanese immigrants in the 1920s. Cannery work was
+		  known for being particularly strenuous and the employers often tried to take
+		  advantage of their Asian immigrant laborers, but the Filipinos developed a
+		  strong union to engage in collective bargaining with the employers. The Seattle
+		  branch of the Cannery Workers’ and Farm Laborers’ Union was organized in 1933
+		  and represented Filipino-American cannery workers. However, the Filipino
+		  workers became frustrated with the AFL because of its stand on racial issues
+		  and in 1937 affiliated themselves with the CIO’s United Cannery, Agricultural,
+		  Packinghouse and Allied Workers of America, Local 7. </p> 
+		<p>With union representation, the cannery workers were able to win
+		  concessions and improve wages and working conditions, but Local 7’s internal
+		  politics were often bitter. Many of the union elections featured personal
+		  insults and redbaiting. Velasco was involved in many of the elections both as a
+		  candidate and as a supporter of others running for office, but until the late
+		  1940s, his attempts at winning a union office were unsuccessful. Velasco also
+		  was involved in a major split in Local 7 during the immediate postwar period.
+		  Many Local 7 members accused officers of corruption, which led to an
+		  investigation by its international union, which suspended or expelled three of
+		  Local 7’s top officers. These ousted officers formed a rival organization, the
+		  Seafood Workers’ Union (SFWU) and conducted a membership drive to try to
+		  displace Local 7. Although Velasco was not implicated in the Local 7
+		  investigation, he joined the SFWU and became its secretary. There are a number
+		  of possibilities for why he might have joined. </p> 
+		<p>One factor might have been the persistent regionalism within the
+		  Filipino-American community. Many of the people who joined the SFWU were from
+		  Velasco’s region of the Philippines. Ideology and politics may also have been a
+		  factor in Velasco’s decision, as members of the SFWU used anti-Communist
+		  rhetoric to attack Local 7. Velasco’s politics were consistently conservative
+		  and he saw Communism as a grave threat.</p> 
+		<p>After merging with the AFL Alaska Fish Cannery Workers’ Union, the
+		  SFWU was able to enter a NLRB election that would allow cannery workers to
+		  determine which union would represent them. Redbaiting became a weapon in the
+		  campaign against Local 7, which affiliated with the International
+		  Longshoremen’s and Warehousemen’s Union (ILWU). In 1950 the ILWU finally won
+		  collective bargaining rights and subsequently became Local 37 of the ILWU.
+		  Velasco then joined Local 37 and remained a member for the rest of his life,
+		  serving frequently as a delegate and as secretary-treasurer.</p> 
+		<p>Newspaper publishing was also a large component of Velasco’s life. In
+		  the early 1920s Velasco worked as editor for the <emph render="italic">Philippine Seattle Colonist</emph> and as the Seattle
+		  correspondent for the <emph render="italic">Philippine Republic</emph>. In 1928
+		  he became the founder, editor, and publisher of the <emph render="italic">Filipino Forum</emph>, which served as a newspaper for the
+		  Seattle Filipino community. In 1937 Velasco had to suspend publication, but
+		  resumed printing the <emph render="italic">Forum</emph> after the outbreak of
+		  World War II. During the interim he published or wrote for various other
+		  Filipino newspapers, including the <emph render="italic">Seattle Filipino
+		  Outlook</emph>, <emph render="italic">Northwest Forum</emph>, 
+		  <emph render="italic">Philippine Review</emph>, and the <emph render="italic">Philippine Advocate</emph>.</p> 
+		<p>Throughout his life in Seattle Velasco was heavily involved in local
+		  civic organizations, mostly within the Filipino community. In 1928 he was part
+		  of a group of UW Filipino students who founded the Seattle Filipino Clubhouse
+		  Fund. The Fund was intended to raise enough money to build a center for
+		  Filipino students at the university, but the plans never materialized. However,
+		  Velasco later changed the organization’s name to Filipino Community of Seattle,
+		  Inc., and set out to build a center for the entire Seattle Filipino community.
+		  Decades later, in 1965, the center was finally completed and was open for
+		  social events and recreation. Velasco also was a founder, president, and board
+		  member of the UW Filipino Alumni Association after World War II and founded
+		  both the Pangasinan Association of the Pacific Northwest and the Asinganian
+		  Club, which were comprised of people who came from his region of the
+		  Philippines.</p> 
+		<p>Velasco also served other civic organizations that were not targeted
+		  specifically at Filipinos. Many of these groups were trying to reach out to the
+		  city’s and state’s diverse groups to try to improve race relations. He helped
+		  found the Jackson Street Community Council in 1946 and served as its first
+		  secretary and then as a board member. Other community organizations that
+		  Velasco served include the King County Advisory Council of the Washington State
+		  Board Against Discrimination, and the Board of Trustees of the Neighborhood
+		  House, which served inner-city youth.</p> 
+		<p>Velasco died in Waterfall Alaska in 1968. He had been working at a
+		  cannery there when the bunkhouse caught on fire. After escaping safely, Velasco
+		  went back to retrieve his typewriter but was unable to escape a second
+		  time.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe arrangement or organization of materials}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Correspondence, a diary, speeches and writings, ephemera, programs,
+		  newsletters, newspapers, minutes, reports, and personal papers and records from
+		  Velasco’s civic and labor organizations. The accession is divided into personal
+		  papers and subgroups based on the organizations that Velasco served.</p> 
+		<p>The <emph render="italic">Filipino Forum</emph> subgroup consists
+		  mainly of materials intended for publication in the newspaper: news releases,
+		  speeches, photographs, and letters to the editor. This subgroup also includes
+		  records of the <emph render="italic">Philippine Advocate</emph> and other
+		  publications that Velasco edited or contributed to, including the 
+		  <emph render="italic">Philippine Seattle Colonist</emph> (1927), and the 
+		  <emph render="italic">Velasco News Service</emph>.</p> 
+		<p>Campaign materials from local union elections are in subgroups
+		  throughout the accession. Much of the literature is polemical and appears to
+		  come from candidates whom Velasco supported, as well as from Velasco
+		  himself.</p> 
+		<p>Personal Papers consist of materials that could not be subgrouped.
+		  Included are Velasco’s poems, letters to family and friends, schoolwork, date
+		  books, and other materials. The remainder of the Personal Papers consists of
+		  publications that he collected, speeches and writings, newspapers and ephemera
+		  from Filipino community organizations. </p> 
+		<p>Major correspondents include New England Fish Company, Philippines
+		  Consulate, and Alaska Salmon Industry. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p>Some of the newspapers in this accession are available on microfilm in
+		  the Microform and Newspaper Collection. Microfilm A4137 has the Filipino Forum
+		  and A5612 has other Filipino-American newspapers from Washington State.</p> 
+	 </altformavail> 
+	 <altformavail> 
+		<p> 
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" xpointer="1435-003" linktype="simple">View selections from this
+			 collection in digital format.</extref></p> 
+	 </altformavail> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Creator's literary rights not transferred to the University of
+		  Washington Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>The bulk of the papers came from Velasco’s wife, Josefina, in 1970 and
+		  1972. Rufino F. Cacabelos donated a small addition in 1977.</p> 
+	 </acqinfo> 
+	 <processinfo audience="internal"> 
+		<p>Processed by <?xm-replace_text {Enter the name of the person who processed the coll.}?></p>
+		
+	 </processinfo> 
+	 <processinfo id="a20" encodinganalog="583"> 
+		<processinfo encodinganalog="544__$n" type="reloc"> 
+		  <p>950 photographs were transferred to the Visual Materials Collection
+			 in Special Collections in 1997, consisting of both personal photos as well as
+			 ones probably intended for the newspaper.</p> 
+		</processinfo> 
+	 </processinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <otherfindaid encodinganalog="555" id="a8" audience="internal"> 
+		<p><?xm-replace_text {If visual materials were relocated to a graphics collection,
+		provide finding aid title and link if available, changing default wording if needed; give filename of EAD finding aid in href attribute of archref element}?>
+		  The visual materials that form part of this collection are described
+		  and indexed in 
+		  <archref show="new" role="ph" actuate="onrequest" arcrole="text/xml" linktype="simple">A Guide to the <?xm-replace_text {Enter name of visual materials coll.; and enter filename in HREF
+		  attribute, eg. SmithJohnPHColl885.xml}?></archref>.</p> 
+		<p><?xm-replace_text {Separate note on other available, non-EAD finding tools such as card files, lists, etc.  }?></p>
+		
+		<p altrender="preliminary">Inventory/container list available in Special
+		  Collections. 
+		  <extptr href="1435-003.pdf" role="pdf-ms" arcrole="application/pdf" altrender="pdf-autolink" show="new" actuate="onrequest" linktype="simple"/>
+		  </p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p>The Cannery Workers and Farm Laborers’ Union, Local No. 7 
+		  <extref href="http://digital.lib.washington.edu/findingaids/view?docId=CanneryWorkersandFarmLaborersUnionLocal7SeattleWash3927.xml;query=;brand=default" actuate="onrequest" linktype="simple"> (Acc. 3927)</extref> also contains files that Velasco kept
+		  while he was an officer.</p> 
+		<p>The Pinoy Archives in Seattle also contains records related to Seattle
+		  Filipino American history and the cannery workers. </p> 
+	 </relatedmaterial> 
+	 <controlaccess id="a12"> 
+		<controlaccess id="persname"> 
+		  <persname encodinganalog="600" role="subject">Velasco, Victorio A., d.
+			 1968$vArchives</persname> 
+		  <persname role="subject" encodinganalog="600"><?xm-replace_text {Additional name of person who is an important subject of the coll.; surname first}?></persname>
+		  
+		  <persname role="creator" encodinganalog="700"><?xm-replace_text {Additional creator, personal}?></persname>
+		  
+		  <persname role="subject" encodinganalog="600" source="lcnaf" rules="aacr2">Dominguez, Maria Louisa</persname> 
+		</controlaccess> 
+		<controlaccess id="corpname"> 
+		  <corpname role="subject" encodinganalog="610"><?xm-replace_text {Additional corporate name that is an important subject of the coll.}?></corpname>
+		  
+		  <corpname role="creator" encodinganalog="710">Labor Archives of
+			 Washington (University of Washington)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Jackson Street Community Council (Seattle, Wash.)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Seafood
+			 Workers' Union</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Cannery
+			 Workers' and Farm Laborers' Union. Local 77 (Seattle, Wash.)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Alaska
+			 Fish Cannery Workers' Union of the Pacific (SIU-AFL)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">International Longshoremen's And Warehousemen's Union. Local 37
+			 (Seattle, Wash.)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Civic Unity Committee (Seattle, Wash.)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Seattle (Wash.). Council of Social Agencies</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Council
+			 On Aging For Seattle And King County</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">University of Washington. Filipino Alumni Association</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Filipino-American Intercommunity Council of the Pacific
+			 Northwest</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Neighborhood House (Seattle, Wash.)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Pangasinan Association of the Pacific Northwest</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Washington State Board Against Discrimination</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Philippine Commonwealth Council Of Seattle</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Filipino Nacionalista Party in America</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Avon
+			 House Publishers</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Filipino Students Christian Movement In America</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Alaska
+			 Salmon Industry, Inc.</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Caballeros De Dimas-Alang (Fraternity)</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Filipino and American Community of Puget Sound</corpname> 
+		  <corpname role="creator" encodinganalog="710" source="uwsc-naf">Filipino Youth Activities of Seattle</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <geogname source="lcsh" role="subject" encodinganalog="651">Philippines$xPolitics and government</geogname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Immigrant, ethnic, and racial groups</subject> 
+		  <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <genreform source="lcsh" encodinganalog="655"><?xm-replace_text {Form or genre term, eg, Photographs. Use lcsh, aat, or gmgpc terms}?></genreform>
+		  
+		  <genreform source="lcsh" encodinganalog="655"><?xm-replace_text {Form or genre term, eg, Photographs. Use lcsh, aat, or gmgpc terms}?></genreform>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <title encodinganalog="630" rules="aacr2" linktype="simple" render="italic">Filipino Forum</title> 
+		  <title render="italic" linktype="simple">Japanese Exclusion League journal</title> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined"> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Personal Papers</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>Biographical Features</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1937-68</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>Organizational Features - Various
+				  Organizations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1939-65</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Incoming Letters</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle>Abella, Sebastian</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1932</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle>Acosta, Leonarda</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1925-37</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle>Aldaba, Dalisay</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1951-59</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle>Aquino, Marco A.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1930-36</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle>Aquino, Sixta V.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1922-25</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle>Arroyo, Simeon Doria</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1931-39</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle>Avon House Publishers</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1937-41</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle>Baylon, Tel I.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1938-48</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle>Bryant, Alice Franklin</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1951-66</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle>Filipino Students Christian Movement in America -
+					 Manuel Adeva</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1932-36</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle>Garrott, Jane (“Mother”)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1926-27</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unittitle>Lincoln, Annie</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1927-29</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unittitle>Lincoln, E.H. (“Mother”)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1927-29</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/16</container> 
+				  <unittitle>Marsh, Ruth</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1925-26</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/17</container> 
+				  <unittitle>Martinez, Mercedes</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/18</container> 
+				  <unittitle>Mattmueller, Eleanor</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1926-29</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unittitle>Micu, Bernardo</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1937-38</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/20</container> 
+				  <unittitle>Milanio, M.P.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1931-32</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/21</container> 
+				  <unittitle>Panelle, Michael Anthony</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1933-34</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/22</container> 
+				  <unittitle>parades, Quintin (Resident Commissioner of the
+					 Phlippines)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1936</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/23</container> 
+				  <unittitle>Pagkalinawan, E.A. (“Carnation”)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1957-59</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/24</container> 
+				  <unittitle>Pelly, Thomas M.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1958-59</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/25</container> 
+				  <unittitle>Philippines (Government)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1922-58</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/26</container> 
+				  <unittitle>Querubin, Josefina</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1923-60</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/27</container> 
+				  <unittitle>Rueca, Lolita</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1949-50</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/28</container> 
+				  <unittitle>Sevidal, Benigno S.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928-38</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/29</container> 
+				  <unittitle>Velasco, Auring</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1940-51</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/30</container> 
+				  <unittitle>Velasco, Gregorio B.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928-59</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/31</container> 
+				  <unittitle>Velasco Leonor</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1936-51</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/32</container> 
+				  <unittitle>Wechel, Edith Van</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1929-30</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/33-52</container> 
+				  <unittitle>A-Z</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1925-67</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">1/53-55</container> 
+				<unittitle>Outgoing Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1927-67</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">1/56-58</container> 
+				<unittitle>General Correspondence - Delphine Brooks</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1930-37</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">1/59</container> 
+				<unittitle>Minutes - Various Organizations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1928-62</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Subject Series</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/60</container> 
+				  <unittitle>Legionarios Del Trabajo</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1945-65</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle>Maria Louisa Dominguez</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/1-10</container> 
+					 <unittitle>General Correspondence</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1950-65</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/11</container> 
+					 <unittitle>Divorce Records</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1953-55</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/12</container> 
+					 <unittitle>Libel Suit</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1956</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/13</container> 
+				  <unittitle>United Good Neighbors</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1952-59</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">2/14,15</container> 
+				<unittitle>Engagement Calendars</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1942-66</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">2/16</container> 
+				<unittitle>Address Books</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1942-56</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">2/17</container> 
+				<unittitle>Account Books</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1928, 65</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">2/18</container> 
+				<unittitle>Diaries</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1924-55</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">2/19-24, 3/1-2</container> 
+				<unittitle>Reports</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1940-65</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Speeches And Writings</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/3-9</container> 
+				  <unittitle>V.A. Velasco</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1920-67</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/10,11</container> 
+				  <unittitle>Philippine President</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1935-53</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/12</container> 
+				  <unittitle>Redadtrini, Ildefonso - “Skid Road
+					 Philosopher”</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/13</container> 
+				  <unittitle>Rojo, Trinidad</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/14-20</container> 
+				  <unittitle>Others</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1935-64</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Newsletters</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/21-23</container> 
+				  <unittitle>Bataan</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1953-62</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/24</container> 
+				  <unittitle>The Chomly Spectator (cannery newsletter)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1927</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/25</container> 
+				  <unittitle>Filipino Student/Bulletin</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1932-41</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/26</container> 
+				  <unittitle>The Informer, Pullman, WA</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1929</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/27</container> 
+				  <unittitle>Larawan</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1956-63</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/28</container> 
+				  <unittitle>Moral Re-Armament</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1959-62</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/29</container> 
+				  <unittitle>Mother’s Bulletin (International House,
+					 UW)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1926</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/30</container> 
+				  <unittitle>Northern Light - Washington Committee For Protection
+					 of Foreign Born</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1957-58</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/31</container> 
+				  <unittitle>Nu’s Letter - Phi Delta Kappa</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1945-66</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/32,33</container> 
+				  <unittitle>The Philippine Newsletter</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1956-61</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14/1</container> 
+				  <unittitle>Philippine Seattle Colonist</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1927</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/34-35,4/1-4</container> 
+				  <unittitle>Philippine Weekly Economic Review</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1959-67</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/5</container> 
+				  <unittitle>Philippines Panorama</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1957-58</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/6</container> 
+				  <unittitle>Prism</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1946-47</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/7</container> 
+				  <unittitle>Racial Equality Bulletin</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1951-64</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/8</container> 
+				  <unittitle>The Sea Gull News (Alaska)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/9</container> 
+				  <unittitle>Seattle Pacific College Bulletin / Alumni
+					 Magazine</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1948-65</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/10</container> 
+				  <unittitle>Seattle Filipino Outlook - University of
+					 Washington</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1930</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/11</container> 
+				  <unittitle>Varsity Filipino Weekly</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1926</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/12-21</container> 
+				  <unittitle>Miscellaneous</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1926-64</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Newspapers</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">14</container> 
+				  <unittitle>Filipino American from Washington State
+					 OVERSIZED</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928-55</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">13</container> 
+				  <unittitle>Filipino American from Other States
+					 OVERSIZED</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928-55</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Programs And Announcements</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/22</container> 
+				  <unittitle>Caballeros De Dimas-Alang</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928-66</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/23</container> 
+				  <unittitle>Churches</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928-66</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/24</container> 
+				  <unittitle>Concerts and Plays</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1942-59</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/25</container> 
+				  <unittitle>Filipino and American Community of Puget
+					 Sound</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1941-63</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/26</container> 
+				  <unittitle>Filipino Columbians</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1954-62</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/27,28</container> 
+				  <unittitle>Filipino Events</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1931-65</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/29,30</container> 
+				  <unittitle>Filipino Events, Out of State</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1939-65</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/1</container> 
+				  <unittitle>Filipino Lodges</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1949-66</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/2-5</container> 
+				  <unittitle>Rizal Days</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1920-64</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/6-9</container> 
+				  <unittitle>Miscellaneous (Non-Filipino)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1932-65</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Ephemera</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/10</container> 
+				  <unittitle>Cards (Identification and Business)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/11</container> 
+				  <unittitle>Filipino Related</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1946-60</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/12</container> 
+				  <unittitle>Filipino Youth Activities of Seattle</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1959-63</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/13</container> 
+				  <unittitle>Literary</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/14,15</container> 
+				  <unittitle>Philippine Tourist Brochures</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/16</container> 
+				  <unittitle>Political</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1948-60</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/17</container> 
+				  <unittitle>University of Washington</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1936-59</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/18,19</container> 
+				  <unittitle>Miscellaneous</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/20</container> 
+				<unittitle>Invitations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1930-64</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">5/21-27,6/1-5</container> 
+				<unittitle>Pamphlets</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1910-64</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/6</container> 
+				<unittitle>Financial Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/7,8</container> 
+				<unittitle>Conferences And Conventions</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1958-62</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/9</container> 
+				<unittitle>Court Papers</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1953-58</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/10</container> 
+				<unittitle>Resolutions</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1954-60</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/11</container> 
+				<unittitle>Legislation</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1930-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/12</container> 
+				<unittitle>Lists</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1954-62</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/13</container> 
+				<unittitle>Yearbook - The Shocsonian</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1921</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/14,15</container> 
+				<unittitle>Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1930-61</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/16-19</container> 
+				<unittitle>Miscellany</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1935-63</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/20</container> 
+				<unittitle>Questionnaires - Filipinos In America Today</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/21</container> 
+				<unittitle>Certificates</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1948-70</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">12</container> 
+				<unittitle>Schoolwork</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1935-48</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Cannery Workers’ And Farm Laborers’ Union. Local
+				  #7</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/22</container> 
+				<unittitle>Organization</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1940</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/23</container> 
+				<unittitle>Incoming Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1938-48</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/24</container> 
+				<unittitle>Outgoing Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1940-48</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/25</container> 
+				<unittitle>Intra-organizational Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1935-48</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/26</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1946</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/27</container> 
+				<unittitle>Contracts - Alaska Salmon Industry, Inc.</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-48</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/28</container> 
+				<unittitle>Speeches And Writings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/29</container> 
+				<unittitle>Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1938</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/30</container> 
+				<unittitle>Membership</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1940-41</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/31</container> 
+				<unittitle>Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1946</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/32</container> 
+				<unittitle>Newsletter- “local 7 News”</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1945-49</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Seafood Workers’ Union</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Incoming Letters</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/33</container> 
+				  <unittitle>Alaska Salmon Industry, Inc.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1948</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/34-36</container> 
+				  <unittitle>A-Z</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1947-48</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/37,38</container> 
+				<unittitle>Outgoing Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-48</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/39</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-48</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/40</container> 
+				<unittitle>Financial Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1948</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/41,42</container> 
+				<unittitle>Membership</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-49</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/43</container> 
+				<unittitle>Memoranda</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/44</container> 
+				<unittitle>Requisitions</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1948</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/45</container> 
+				<unittitle>Newsletter- “the Truth”</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Alaska Fish Cannery Workers’ Union Of The Pacific
+				  (SIU-AFL)</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/46</container> 
+				<unittitle>Organization</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/47</container> 
+				<unittitle>General Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1949-52</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/48</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1949</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">6/49</container> 
+				<unittitle>Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1949</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Longshoremen’s And Warehousemen’s Union, International.
+				  Local #37</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/1</container> 
+				<unittitle>Organization</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1951</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/2</container> 
+				<unittitle>Incoming Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1953-68</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/3</container> 
+				<unittitle>Outgoing Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1953-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/4</container> 
+				<unittitle>Intra-organizational Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1951-60</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/5</container> 
+				<unittitle>General Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1953-58</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/6</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1949-52</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/7</container> 
+				<unittitle>Financial Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1951-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/8</container> 
+				<unittitle>Negotiations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1948-68</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/9,10</container> 
+				<unittitle>Contracts - Alaska Salmon Industry, Inc.</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1951-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/11</container> 
+				<unittitle>Reports</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1953-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/12</container> 
+				<unittitle>Crew List</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/13</container> 
+				<unittitle>Speeches And Writings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/14</container> 
+				<unittitle>Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1953</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/15-17</container> 
+				<unittitle>Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1940-57</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Subject Series - Biennial Convention</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/18</container> 
+				  <unittitle>Minutes</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1953, 57</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/19</container> 
+				  <unittitle>Resolutions</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/20</container> 
+				  <unittitle>Reports/Rules</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Civic Unity Committee</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/21</container> 
+				<unittitle>Organization</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/22</container> 
+				<unittitle>Incoming Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1958-63</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/23-26</container> 
+				<unittitle>Outgoing Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1950-64</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/27-29</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1953-64</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/30-34</container> 
+				<unittitle>Reports</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1955-63</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/35</container> 
+				<unittitle>Newsletters - Fair Play</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1958-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/36</container> 
+				<unittitle>Financial Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1958-60</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/37</container> 
+				<unittitle>Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-59</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">7/38</container> 
+			 <unittitle>Council Of Social Agencies</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1947-58</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">7/39</container> 
+			 <unittitle>Council On Aging For Seattle And King County</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1957-68</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">7/40</container> 
+			 <unittitle>Filipino Alumni Association (UW)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1947-67</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Filipino Community Of Seattle</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/41</container> 
+				<unittitle>Historical Features</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1939-66</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/42</container> 
+				<unittitle>Constitution And Bylaws</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1939-52</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/43</container> 
+				<unittitle>Incoming Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1933-66</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/44</container> 
+				  <unittitle>Philippine Consulate</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1945-65</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/45-48</container> 
+				  <unittitle>Philippine Government Embassy</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1933-66</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/49</container> 
+				  <unittitle>Miscellaneous A-Z</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1944-66</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">7/49</container> 
+				<unittitle>Outgoing Letters</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/1</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1956-63</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Speeches And Writings</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/2</container> 
+				  <unittitle>Velasco, Victorio</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/3</container> 
+				  <unittitle>Angeles, Mariano B.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/4</container> 
+				  <unittitle>Philippine Counsul</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1952-60</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/5</container> 
+				  <unittitle>Rojo, Trinidad</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/6,7</container> 
+				  <unittitle>Misc.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1946-58</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/8</container> 
+				<unittitle>Financial Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1941-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/9</container> 
+				<unittitle>Lists</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/10</container> 
+				<unittitle>Newsletters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1959</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/11</container> 
+				<unittitle>Reports</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1958-62</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/12</container> 
+				<unittitle>Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1948-61</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/13</container> 
+				<unittitle>Miscellany</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1949-65</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/14</container> 
+				<unittitle>Elections</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-64</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/15-17</container> 
+				<unittitle>Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1948-66</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/18</container> 
+				<unittitle>Newsletters- “queen Contest Courier”</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1946</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Filipino Forum</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/19</container> 
+				<unittitle>Historical Features</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1946</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Incoming Letters</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928-65</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/20</container> 
+				  <unittitle>Angeles, Mariano B.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1936-59</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/21</container> 
+				  <unittitle>Aquino, Marco A.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1929-38</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/22</container> 
+				  <unittitle>Christian Friends For Racial Equality</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/23</container> 
+				  <unittitle>Dionisio, Johnny R.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1950-51</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/24</container> 
+				  <unittitle>Malasarte, Blas D. and Jean. O.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1962-67</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/25</container> 
+				  <unittitle>Philippine Government</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1943-64</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/26</container> 
+				  <unittitle>Rustia, Manuel S.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1926-28</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/27</container> 
+				  <unittitle>Yap, Diosdado M.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1935-57</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/28-38</container> 
+				  <unittitle>A-Y</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1928-65</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/39</container> 
+				  <unittitle>Unidentified</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1929-66</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/40-45</container> 
+				<unittitle>Outgoing Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1928-67</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/46</container> 
+				<unittitle>Legislation</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1944-63</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8/47,48</container> 
+				<unittitle>Financial Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1944-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">8</container> 
+				<unittitle>Ledger</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1946-48</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">9/1,2</container> 
+				<unittitle>Lists</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1948-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>News Releases</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/3</container> 
+				  <unittitle>Anti-Tuberculosis League of King County</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1958-63</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/4-6</container> 
+				  <unittitle>Columbo Conference, Seattle</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">977</container> 
+				  <unittitle>Jackson Street Community Council</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1949-66</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/8-10</container> 
+				  <unittitle>Philippine Commonwealth</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/11</container> 
+				  <unittitle>Philippine Consulates</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1948-64</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/12-14</container> 
+				  <unittitle>Philippine Government</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1942-63</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/15,16</container> 
+				  <unittitle>Philippine Embassy</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1958-64</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/17</container> 
+				  <unittitle>Philippine Resident Commissioner to the United
+					 States</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1945-46</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/18</container> 
+				  <unittitle>Seattle World’s Fair</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/19-25</container> 
+				  <unittitle>Miscellaneous</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1943-65</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Newsletters</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/26</container> 
+				  <unittitle>Philippine Affairs</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1948-58</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/27</container> 
+				  <unittitle>Philippine News</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1948-53</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/28,29</container> 
+				  <unittitle>Philippine News Briefs</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1948-53</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/30</container> 
+				  <unittitle>Phillipine News Digest</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1945-49</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/31</container> 
+				  <unittitle>Philippines Consulates</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1927-58</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/32</container> 
+				  <unittitle>Phillipine Government</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1943-58</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/33</container> 
+				  <unittitle>Miscellaneous</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1927-58</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">15</container> 
+				<unittitle>Newspapers - Filipino Forum Oversized</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1943-69</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle>Speeches And Writings</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/34</container> 
+				  <unittitle>V.A. Velasco</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1926-65</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/35</container> 
+				  <unittitle>Auburn News</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/36</container> 
+				  <unittitle>Bremerton News</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1929-30</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/37</container> 
+				  <unittitle>Yap, Diosdado M.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1936-44</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/1-9</container> 
+				  <unittitle>Others</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1930-66</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/10</container> 
+				<unittitle>Notes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1957-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/11</container> 
+				<unittitle>Subject Series - Queen Contest</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/12</container> 
+				<unittitle>Reports - Columbo Plan</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/13-19</container> 
+				<unittitle>Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1925-67</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/20</container> 
+				<unittitle>Miscellany</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/21,22</container> 
+				<unittitle>Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1934-65</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">10/23</container> 
+			 <unittitle>Filipino Inter-Community Council Of The Pacific
+				Northwest</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1953-59</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">10/24</container> 
+			 <unittitle>Filipino Nacionalista Party In America</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1949-52</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder"/> 
+				<unittitle>Jackson Street Community Council</unittitle> 
+		  </did> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/25</container> 
+				<unittitle>Organization</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1945-59</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/26</container> 
+				<unittitle>Incoming Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1943-61</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/27-32</container> 
+				<unittitle>Outgoing Letters</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1946-64</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">10/33,11/1-13</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1946-65</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/14</container> 
+				<unittitle>News Releases</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1952-62</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/15-17</container> 
+				<unittitle>Financial Records</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-64</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/18</container> 
+				<unittitle>Membership Lists</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1946-60</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/19</container> 
+				<unittitle>Legislation</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1956-58</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/20,21</container> 
+				<unittitle>Speeches And Writings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1955-60</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/22,23</container> 
+				<unittitle>Newsletters - Jackson Street Community
+				  Newsletter</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1956-64</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/24-26</container> 
+				<unittitle>Reports</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-61</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/27</container> 
+				<unittitle>Clippings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/28</container> 
+				<unittitle>Miscellany</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947-61</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder">11/29</container> 
+				<unittitle>Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1951-64</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">11/30-33</container> 
+			 <unittitle>Neighborhood House</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1950-61</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">11/34</container> 
+			 <unittitle>Pangasinan Association 0f The Pacific Northwest.
+				(Asinganian Club)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1939-68</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">11/35</container> 
+			 <unittitle>Philippine Commonwealth Council Of Seattle</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1935-36</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="subgrp"> 
+		  <did> 
+			 <container type="box-folder">11/36-39</container> 
+			 <unittitle>Washington State Board Against Discrimination</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1957-64</unitdate> 
+		  </did> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

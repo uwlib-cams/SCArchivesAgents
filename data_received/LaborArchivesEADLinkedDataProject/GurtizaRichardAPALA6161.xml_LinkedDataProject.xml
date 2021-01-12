@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GurtizaRichardAPALA6161.xml" encodinganalog="identifier" identifier="80444/xv03021">GurtizaRichardAPALA6161.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Richard Gurtiza
+			 Collection On Asian Pacific American Labor Alliance</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Gurtiza (Richard)
+			 Collection On Asian Pacific American Labor Alliance</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Elizabeth
+			 Heu</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20171027">© 2017</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6161</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6161-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100">Gurtiza,
+			 Richard</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Richard Gurtiza
+		  collection on Asian Pacific American Labor Alliance</unittitle> 
+		<unitdate type="inclusive" normal="1987/2001" era="ce" calendar="gregorian">1987-2001</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian" normal="1992/2000">1992-2000</unitdate> 
+		<physdesc><extent>.87 cubic ft.</extent>
+		  <extent>2 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Materials
+		  related to the national APALA organization and the Seattle APALA chapter
+		  </abstract><langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Richard Gurtiza is a Filipino American labor union activist and union
+		  officer originally from Wapato, Washington. Gurtiza is president of Region 37,
+		  Inlandboatman's Union of the Pacific, the marine division of the International
+		  Longshre and Warehouse Union. The union represents Alaska cannery workers, who
+		  from the 1930s onwards were largely Filipino Americans and Asian Americans.
+		  Gurtiza became a member of Local 37 in 1977 and became Regional Director of the
+		  IBU 1993. </p> 
+		<p>Gurtiza was born in the small farming community of Wapato, Washington
+		  in the 1950s. Gurtiza was a founder of the local chapter of the Asian Pacific
+		  American Labor Alliance (APALA), an American Federation of Labor-Congress of
+		  Industrial Organizations constituency organization for Asian American and
+		  Pacific Islander labor union members. Gurtiza was also on the national
+		  Executive Board of APALA</p> 
+		<p>In the late 1970s, Gurtiza was part of a rank and file reform movement
+		  of activist Local 37 cannery workers to reform the union and fight for better
+		  working conditions. Gurtiza worked with Silme Domingo and Gene Viernes—the
+		  leaders of the Alaska Cannery Workers Association—to build the reform movement.
+		  After Domingo and Viernes were murdered in 1981, Gurtiza and other reformers
+		  won leadership positions and transformed Local 37.</p> 
+		<p>Gurtiza remains active in the IBU/ILWU, the King County Labor Council,
+		  and the Washington State Labor Council. </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Collection of mailings, newsletters, convention and conference
+		  materials collected by Seattle Filipino American labor activist and union
+		  officer Richard Gurtiza. Gurtiza was a founder of the local chapter of the
+		  Asian Pacific American Labor Alliance (APALA), an American Federation of
+		  Labor-Congress of Industrial Organizations constituency organization for Asian
+		  American and Pacific Islander labor union members. Gurtiza was also on the
+		  national Executive Board of APALA, and some of the materials consist of
+		  convention materials from the national organizations' founding in 1992,
+		  leadership and education conferences; correspondence and newsletters. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech> 
+	 <p>Records stored off site; advance notice required for use.</p></phystech>
+	 
+	 <accessrestrict> 
+		<p>No restrictions on access. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>2017-01-04</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal><!--Terms assigned by cataloger:-->
+	 <controlaccess> 
+		<persname role="subject" encodinganalog="600" altrender="sync">Gurtiza,
+		  Richard$vArchives</persname> 
+		<corpname role="subject" encodinganalog="610" altrender="sync">Asian
+		  Pacific American Labor Alliance</corpname> 
+		<corpname role="host institution" encodinganalog="710" altrender="sync">Labor Archives of Washington (University of
+		  Washington)</corpname> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor$zWashington
+		  (State)$zSeattle</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  movement$zWashington (State)$zSeattle</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  unions$zWashington (State)$zSeattle</subject> 
+		<genreform encodinganalog="655" source="lcgft">Records
+		  (Documents)</genreform> 
+	 </controlaccess><!--Terms assigned locally:-->
+	 <controlaccess id="a12"> 
+		<corpname encodinganalog="710">Labor Archives of Washington (University
+		  of Washington) </corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">Series I</unitid> 
+			 <unittitle encodinganalog="245$a">NEWSLETTERS</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1992-1999</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>APALA News</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992, 1993, 1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>Asianweek: Siding with Organized Labor</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1996</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>Fliers and pamphlets </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1996-1999</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">Series II</unitid> 
+			 <unittitle encodinganalog="245$a">MAILINGS AND FORMS</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">undated</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle>APALA New York Chapter jacket form</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>Membership renewal</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>AFL-CIO applications</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES III</unitid> 
+			 <unittitle encodinganalog="245$a">SEATTLE APALA CHAPTER</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1993-1999</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle>Seattle Chapter meetings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle>Seattle Chapter By-Laws</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9-1/10</container> 
+				<unittitle>Binder 1: APALA Seattle 1 of 2</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1997</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Chapter information, political action, correspondence</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle>Binder 1: APALA Seattle 2 of 2</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1997</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Miscellaneous and membership</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle>Retreat Agenda and evaluations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">Series 4</unitid> 
+			 <unittitle encodinganalog="245$a">Memorandums</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1992-1993</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle>Executive Board members</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/13</container> 
+				<unittitle>Draft Model By-Laws</unittitle> 
+				<unitdate era="ce" calendar="gregorian"> July 13, 1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle>Memo and ballot</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle>January APALA/ Organizing Institute Training
+				  Program</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle>Materials available, Start-up funding</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unittitle>Memorandums</unittitle> 
+				<unitdate era="ce" calendar="gregorian">February, 1993</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES V</unitid> 
+			 <unittitle encodinganalog="245$a">PROPOSALS AND POLICIES</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1987-1993</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle>Policy on Clearance of Targets: Texas Triangle
+				  Organizing Committee</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/19</container> 
+				<unittitle>Proposal Draft: The "Seattle Plan" Organizing Immigrant
+				  and Ethnic Communities</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1993</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES VI</unitid> 
+			 <unittitle encodinganalog="245$a">CONVENTION MATERIALS</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1992-2001</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/20</container> 
+				<unittitle>National Convention invitations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992, 1993, 1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/21</container> 
+				<unittitle>Founding Convention resolution</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/22</container> 
+				<unittitle>Founding Convention brochures</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/23</container> 
+				<unittitle>National Convention Materials: Los Angeles</unittitle> 
+				<unitdate era="ce" calendar="gregorian">August, 1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/24</container> 
+				<unittitle>National Convention Materials: New York City</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">August, 1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/25</container> 
+				<unittitle>National Convention Materials: San Francisco</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">August, 1997</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/26</container> 
+				<unittitle>National Convention Materials: Washington,
+				  D.C.</unittitle> 
+				<unitdate era="ce" calendar="gregorian">August, 1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/27</container> 
+				<unittitle>National Convention Materials: Honolulu,
+				  Hawaii</unittitle> 
+				<unitdate era="ce" calendar="gregorian">August, 2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1</container> 
+				<unittitle>Binder 2: APALA Founding Convention: Making an Impact 1
+				  of 2</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Convention agenda, convention floorplan, rules and procedures,
+				  APALA constitution</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/2</container> 
+				<unittitle>Binder 2: APALA Founding Convention: Making an Impact 2
+				  of 2</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1992</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Convention resolutions, APALA chapter, AFL-CIO, Convention
+				  pre-registration list</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES VII</unitid> 
+			 <unittitle encodinganalog="245$a">LEADERSHIP AND EDUCATION
+				CONFERENCE</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/3</container> 
+				<unittitle>Invitations and program</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1994</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/4</container> 
+				<unittitle>Conference materials</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1994</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES IIX</unitid> 
+			 <unittitle encodinganalog="245$a">ELECTIONS</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">2000</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/5</container> 
+				<unittitle>Election 2000 and Beyond</unittitle> 
+				<unitdate era="ce" calendar="gregorian">August, 2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/6</container> 
+				<unittitle>APALA Vote 2000</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES IX</unitid> 
+			 <unittitle encodinganalog="245$a">EXECUTIVE BOARD
+				MEETINGS</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1998-2001</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/7</container> 
+				<unittitle>Executive Board Meeting, Los Angeles,
+				  California</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1998</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/8-2/9</container> 
+				<unittitle>Executive Board Meeting, Las Vegas, Nevada</unittitle> 
+				<unitdate era="ce" calendar="gregorian">March, 1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/10</container> 
+				<unittitle>Executive Board Meeting, Washington, D.C.</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/11</container> 
+				<unittitle>Executive Board Meeting, Honolulu, Hawaii</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES X</unitid> 
+			 <unittitle encodinganalog="245$a">MISCELLANEOUS</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1993</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/12</container> 
+				<unittitle>Settings, manual</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/13</container> 
+				<unittitle>Letter</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle>APALA note pages </unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" encodinganalog="identifier" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedBrotherhoodCarpentersJoinersAmerica1228.xml" identifier="80444/xv66036">UnitedBrotherhoodCarpentersJoinersAmerica1228.xml</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the United Brotherhood of
+			 Carpenters and Joiners of America, Local 131 (Seattle, Washington) Records 
+			 <date normal="1888/1960" era="ce" calendar="gregorian"> 1888-1960</date> </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing"> United Brotherhood of
+			 Carpenters and Joiners of America Local 131 records</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20110131" era="ce" calendar="gregorian">©2011</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by Mark Carlson via Millennium to EAD
+		  conversion. 
+		  <date era="ce" calendar="gregorian">2011</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content Standard</title>).
+		</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised May 2014. </date> 
+		  <item>Conor Casey and Molly Malone marked up legacy inventory into EAD,
+			 added box/folder level inventory to the container listing, and named record
+			 groups, series, and subseries and removed link to scanned legacy print
+			 inventory. </item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised May 13, 2014. </date> 
+		  <item>Nan Cohen moved above inventory to accession level and updated
+			 top level information</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">1228</unitid> 
+		<origination> 
+		  <corpname encodinganalog="110" role="creator">United Brotherhood of
+			 Carpenters and Joiners of America.$bLocal 131 (Seattle, Wash.)</corpname>
+		  </origination> 
+		<unittitle encodinganalog="245$a" type="collection">United Brotherhood of
+		  Carpenters and Joiners of America, Local 131 Records </unittitle> 
+		<unitdate normal="1888/1960" type="inclusive" era="ce" calendar="gregorian">1888-1960</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">12 cubic feet</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Trade union
+		  organization</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>. </langmaterial> 
+	 </did> 
+	 <bioghist id="a2" encodinganalog="5451_"> 
+		<p>Trade union organization. Local 131 is a Seattle affiliate of the
+		  United Brotherhood of Carpenters and Joiners of America.</p> 
+	 </bioghist> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" linktype="simple"/> </p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Creator's literary rights not transferred to the University of
+		  Washington Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg,
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+		
+	 </custodhist> 
+	 <processinfo id="a20" encodinganalog="583" audience="internal"> 
+		<p>Processed by <?xm-replace_text {Enter the name of the person/s who processed the coll. if known}?>;
+		  processing completed in <?xm-replace_text {Record the year when processing was completed along with other processing-related information}?></p>
+		
+		<processinfo encodinganalog="544__$n" type="reloc"> 
+		  <p><?xm-replace_text {State if visual materials were relocated, give title and if available photo coll. no.; see manual for details }?></p>
+		  
+		</processinfo> 
+	 </processinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12"> 
+		<controlaccess> 
+		  <persname encodinganalog="600" role="subject"><?xm-replace_text {Name of person who is an important subject of the coll.; surname first}?></persname>
+		  
+		  <persname role="subject" encodinganalog="600"><?xm-replace_text {Additional name of person who is an important subject of the coll.; surname first}?></persname>
+		  
+		  <persname role="creator" encodinganalog="700"><?xm-replace_text {Additional creator, personal}?></persname>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <corpname role="subject" encodinganalog="610">United Brotherhood of
+			 Carpenters and Joiners of America.Local 131 (Seattle, Wash.)$vArchives
+			 </corpname> 
+		  <corpname encodinganalog="610" role="subject">Washington Benevolent
+			 Association</corpname> 
+		  <corpname role="subject" encodinganalog="610"><?xm-replace_text {Additional corporate name that is an important subject of the coll.}?></corpname>
+		  
+		  <corpname role="creator" encodinganalog="710">Labor Archives of
+			 Washington (University of Washington)</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <geogname source="lcsh" role="subject" encodinganalog="651"><?xm-replace_text {LC place heading, with subheading if appropriate}?></geogname>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Broad topical browse heading taken from
+		  UW Special Collections term list; add more if needed}?></subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+			 History</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+			 Unions</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <genreform source="lcsh" encodinganalog="655"><?xm-replace_text {Form or genre term, eg, Photographs. Use lcsh, aat, or gmgpc terms}?></genreform>
+		  
+		  <genreform source="lcsh" encodinganalog="655"><?xm-replace_text {Form or genre term, eg, Photographs. Use lcsh, aat, or gmgpc terms}?></genreform>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <title encodinganalog="630" rules="aacr2" linktype="simple"><?xm-replace_text {Title of publication included/described in collection}?></title>
+		  
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" encodinganalog="099">1228-001</unitid> 
+			 <unittitle>United Brotherhood of Carpenters and Joiners of America
+				Local 131 Records</unittitle> 
+			 <unitdate normal="1888/1960" era="ce" calendar="gregorian">1888-1960</unitdate> 
+			 <physdesc><extent>12 cubic feet</extent>
+				<extent>10 boxes and 2 ledgers</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_" id="a3"> 
+			 <p>Correspondence, minutes, financial records, ephemera;
+				1888-1960.</p> 
+			 <p>Includes Washington Benevolent Association records and minutes of
+				the Portland, Seattle, and Tacoma Building Trades Councils.</p> 
+		  </scopecontent> 
+		  <acqinfo encodinganalog="541" id="a19"> 
+			 <p>Robert Simon, Secretary, Carpenters Local 131, United Brotherhood
+				of Carpenters and Joiners of America, September 10, 1969</p> 
+		  </acqinfo> 
+		  <arrangement encodinganalog="351" id="a4"> 
+			 <p>The records have been divided into two record groups according to
+				creator:</p> 
+			 <list> 
+				<item><emph render="boldunderline">RECORD GROUP 1: CARPENTERS AND
+				  JOINERS OF AMERICA, LOCAL 131</emph></item> 
+				<item><emph render="boldunderline">RECORD GROUP 2: WASHINGTON
+				  BENEVOLENT ASSOCIATION.</emph></item> 
+			 </list> 
+			 <p><emph render="boldunderline">RECORD GROUP 1 </emph> is divided
+				into seven series and subseries to reflect the records formats and activities
+				of the union. As well, this record group has two subgroups that reflect the
+				creating committee within Carpenters Local 131.</p> 
+			 <list> 
+				<item><emph render="boldunderline">RECORD SUBGROUP A: CARPENTERS
+				  AND JOINERS OF AMERICA. LOCAL 131. WAYS AND MEANS COMMITTEE</emph></item> 
+				<item><emph render="boldunderline">RECORD SUBGROUP B: CARPENTERS
+				  AND JOINERS OF AMERICA. LOCAL 131. CARPENTERS UNION BUILDING
+				  COMPANY.</emph></item> 
+			 </list> 
+		  </arrangement> 
+		  <c02 level="recordgrp"> 
+			 <did> 
+				<unittitle encodinganalog="245$a"><emph render="boldunderline">RECORD GROUP 1: CARPENTERS AND JOINERS OF AMERICA, LOCAL
+				  131</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1888/1960"><emph render="boldunderline">1888-1960</emph></unitdate> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES I: ORGANIZATIONAL FEATURES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1890/1936">1890-1936</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/1</container> 
+					 <unittitle encodinganalog="245$a">Organizational
+						Features</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1890/1936">1890-1936</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">1/2-1/11</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES II: INCOMING LETTERS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/1952"><emph render="bolditalic">1919-1952</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/2</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1919/1930">1919-1930</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/3</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1932">1932</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/4</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters and
+						Newsletters - Hardy, J.L.(local 131), Duffy, Frank (National Sec.)</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1938/1939">1938-1939</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/5</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters and
+						Newsletters - Hardy, J.L.(local 131), Duffy, Frank (National Sec.)</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940">1940</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/6</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters and
+						Newsletters - Hardy, J.L.(local 131), Duffy, Frank (National Sec.)</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/1942">1941-1942</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/7</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters and
+						Newsletters - Hardy, J.L.(local 131) and Gen Exec Board</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/1948">1943-1948</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/8</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters and
+						Newsletters</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1948">1948</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/9</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters and
+						Newsletters</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="194901/194906">January 1949-June 1949</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/10</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters and
+						Newsletters</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="194907/194912">July 1949-December 1949</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/11</container> 
+					 <unittitle encodinganalog="245$a">Incoming Letters and
+						Newsletters</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1950/195201">1950-January 1952</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">1/12-1/14</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES III: GENERAL CORRESPONDENCE</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1937/1947"><emph render="bolditalic">1939-1947</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/12</container> 
+					 <unittitle encodinganalog="245$a">General
+						Correspondence</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1939/1943">1939-1943</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/13</container> 
+					 <unittitle encodinganalog="245$a">General
+						Correspondence</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/1946">1945-1946</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/14</container> 
+					 <unittitle encodinganalog="245$a">General
+						Correspondence</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1947">1947-1947</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES IV: APPLICATIONS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1932/1933"><emph render="bolditalic">1932-1933</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/15</container> 
+					 <unittitle encodinganalog="245$a">Applications to Retirement
+						Home Lakeland, Florida</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1932/1933">1932-1933</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">1/16</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES V: TRIAL PROCEEDINGS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1925"><emph render="bolditalic">1925</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/16</container> 
+					 <unittitle encodinganalog="245$a">Trail Proceeding</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19250808">August 8, 1925</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">1/17-2/7</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES VI: MINUTES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1908/1960"><emph render="bold">1908-1960</emph></unitdate> 
+				</did> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <container type="box-folder">1/17-1/20, 2/4-2/7</container> 
+					 <unittitle encodinganalog="245$a"><emph render="bold">SUBSERIES
+						A: MINUTES OF UBCJA LOCAL 131</emph></unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1908/1960"><emph render="bold">1908-1960</emph></unitdate> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/17</container> 
+						<unittitle encodinganalog="245$a">Minutes of Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1908/190910">1908-October 1909</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/18</container> 
+						<unittitle encodinganalog="245$a">Minutes of Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="190911/191305">November 1909-May 1913</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/19</container> 
+						<unittitle encodinganalog="245$a">Minutes of Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="191306/19180702">June 1913-July 2, 1918</unitdate>
+						
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/20</container> 
+						<unittitle encodinganalog="245$a">Minutes of Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19180709/19240617">July 9, 1918-June 17,
+						  1924</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/4</container> 
+						<unittitle encodinganalog="245$a">Minutes of Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="192406/193303">June 1924-March 1933</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/5</container> 
+						<unittitle encodinganalog="245$a">Minutes of Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="193304/194008">April 1933-August 1940</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/6</container> 
+						<unittitle encodinganalog="245$a">Minutes of Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="194506/195005">June 1945-May 1950</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/7</container> 
+						<unittitle encodinganalog="245$a">Minutes of Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="195006/196012">June 1950-December 1960</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <container type="box-folder">2/1-2/3</container> 
+					 <unittitle encodinganalog="245$a"><emph render="bold">SUBSERIES
+						B: MINUTES OF OTHERS</emph></unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="192304/192312"><emph render="bold">April
+						1923-December 1923</emph></unitdate> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/1</container> 
+						<unittitle encodinganalog="245$a">Minutes of Portland
+						  District Council of Carpenters</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="192304/192312">April 1923-December 1923</unitdate>
+						
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/2</container> 
+						<unittitle encodinganalog="245$a">Minutes of the Seattle
+						  Building Trades Council</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="192808/192903">August 1928-March 1929</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/3</container> 
+						<unittitle encodinganalog="245$a">Minutes of Tacoma District
+						  Council of Carpenters</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="192306/192312">June 1923-December 1923</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">3/1-3/13, 4/1-4/2, 4/5-4/10, 4/12,
+					 4/14-4/16, 5/1-6/7, 6/9, 7/1-8/3 , Oversize Boxes 9/1-10/1, 10/4-10/5,
+					 11/2-11/5</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES VII: FINANCIAL RECORDS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal=""><emph render="bolditalic">1888-1954</emph></unitdate> 
+				</did> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <container type="box-folder">3/1-3/13, 4/1, 4/5-4/10,
+						4/14-4/16</container> 
+					 <unittitle encodinganalog="245$a"><emph render="bold">SUBSERIES
+						A: FINANCIAL RECORDS CONVENTIONAL SIZE</emph></unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="189710/1954"><emph render="bold">October
+						1897-1954</emph></unitdate> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/1</container> 
+						<unittitle encodinganalog="245$a">Sick Benefits</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="190208/191004">August 1902-April 1910</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/2</container> 
+						<unittitle encodinganalog="245$a">Donations / Locker
+						  Rentals</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19030401/19161231">April 1, 1903-December 31,
+						  1916</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/3</container> 
+						<unittitle encodinganalog="245$a">Employee Tax, Payroll Taxes
+						  for Local 131 and Wash Benevolent Association</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/1951">1943-1951</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/4</container> 
+						<unittitle encodinganalog="245$a">Financial Secretary's
+						  Report</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1913/1945">1913-1945</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/5</container> 
+						<unittitle encodinganalog="245$a">Warrants for Contingent
+						  Funds</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1908/1911">1908-1911</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/6</container> 
+						<unittitle encodinganalog="245$a">General Fund Check
+						  Register</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1922/1925">1922-1925</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/7</container> 
+						<unittitle encodinganalog="245$a">Treasurer's Receipt
+						  Book</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="189710/189908">October 1897-August 1899</unitdate>
+						
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/8</container> 
+						<unittitle encodinganalog="245$a">Treasurer's Cash
+						  Book</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="190007/190106">July 1900-June 1901</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/9</container> 
+						<unittitle encodinganalog="245$a">Treasurer's Cash
+						  Book</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="190107/190206">July 1901-June 1902</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/10</container> 
+						<unittitle encodinganalog="245$a">Treasurer's Cash
+						  Book</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="190207/190212">July 1902-December 1902</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/11</container> 
+						<unittitle encodinganalog="245$a">Fines and
+						  Expulsions</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1901/1923">1901-1923</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/12</container> 
+						<unittitle encodinganalog="245$a">Initiation Fees</unittitle>
+						
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1904/1906">1904-1906</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/13</container> 
+						<unittitle encodinganalog="245$a">Application
+						  Fees</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1910/1914">1910-1914</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/1</container> 
+						<unittitle encodinganalog="245$a">Rental Records For
+						  Hall</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1906/1924">1906-1924</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/5</container> 
+						<unittitle encodinganalog="245$a">Local 131 Check
+						  Register</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="193203/193608">March 1932-August 1936</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/6</container> 
+						<unittitle encodinganalog="245$a">Membership
+						  Directory</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">Undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/7</container> 
+						<unittitle encodinganalog="245$a">Membership
+						  Directory</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">Undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/8</container> 
+						<unittitle encodinganalog="245$a">Membership
+						  Directory</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="">Undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/9</container> 
+						<unittitle encodinganalog="245$a">Edison Tech Training
+						  Courses</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1950/1950">1950-1950</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/10</container> 
+						<unittitle encodinganalog="245$a">Minutes of the Ways and
+						  Means Committee</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1910/1911">1910-1911</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/14</container> 
+						<unittitle encodinganalog="245$a">State Labor
+						  Directories</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1954">1953-1954</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/15</container> 
+						<unittitle encodinganalog="245$a">Convention Annual and
+						  Reports</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1913/1953">1913-1953</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/16</container> 
+						<unittitle encodinganalog="245$a">Lease
+						  Agreements</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1909/1931">1909-1931</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="subseries"> 
+				  <did> 
+					 <container type="box-folder">5/1-6/7, 6/9, 7/1-8/3, 9/1-10/1,
+						10/4-10/5, 11/2-11/5</container> 
+					 <unittitle encodinganalog="245$a"><emph render="bold">SUBSERIES
+						B: OVERSIZE FINANCIAL RECORDS</emph></unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1888/194212"><emph render="bold">1888-1942</emph></unitdate> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/1</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1888/1890">1888-1890</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/2</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1889/1899">1888-1899</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/3</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1891/1898">1891-1898</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/4</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments [ Ledger #1]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1900">1900</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/5</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1901">1901</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/6</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="190205/190211">May 1902-November 1902</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">5/7</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1903">1903</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/1</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments [Ledger #2]</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1900">1900</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/2</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1908/1909">1908-1909</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/3</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1914/1922">1914-1922</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/4</container> 
+						<unittitle encodinganalog="245$a">Expense Book</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1901">1901</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/5</container> 
+						<unittitle encodinganalog="245$a">Expense Book</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1902">1902</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/6</container> 
+						<unittitle encodinganalog="245$a">Ledger of Income and
+						  Expenses Local 131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="190305/190312">May 1903-December 1903</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/7</container> 
+						<unittitle encodinganalog="245$a">Warrant Book, Local
+						  131</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1904/1906">1904-1906</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">6/9</container> 
+						<unittitle encodinganalog="245$a">General Fund
+						  Ledger</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="193803/194212">March 1938-December 1942</unitdate>
+						
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">7/1</container> 
+						<unittitle encodinganalog="245$a">Financial
+						  Ledger</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1889">1889</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">7/2</container> 
+						<unittitle encodinganalog="245$a">Financial
+						  Ledger</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1888">1888</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">7/3</container> 
+						<unittitle encodinganalog="245$a">Financial
+						  Ledger</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1910/1913">1910-1913</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">7/4</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1926/1929">1926-1929</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">8/1</container> 
+						<unittitle encodinganalog="245$a">Financial
+						  Ledger</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1916/1942">1916-1942</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">8/2</container> 
+						<unittitle encodinganalog="245$a">Financial
+						  Ledger</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1905/1916">1905-1916</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">8/3</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1902/1902">1902-1902</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">9/1</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1916/1918">1916-1918</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">9/2</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1904/1907">1904-1907</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">10/1</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1921">1921</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">10/4</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19050102/19051230">January 2, 1905-December 30,
+						  1905</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">10/5</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19040101/19041231">January 1, 1904-December 31,
+						  1904</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/2</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19290123/19310630">January 23, 1929-June 30,
+						  1931</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/3</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19070101/19080825">January 1, 1907-August 25,
+						  1908</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/4</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19090826/19100726">August 26, 1909-July 26,
+						  1910</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/5</container> 
+						<unittitle encodinganalog="245$a">Ledger of Dues and
+						  Assessments</unittitle> 
+						<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="19200929/19231127">September 29, 1920-November 27,
+						  1923</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subgrp"> 
+				<did> 
+				  <container type="box-folder">4/2</container> 
+				  <unittitle encodinganalog="245$a"><emph render="boldunderline">RECORD SUBGROUP A: CARPENTERS AND JOINERS OF AMERICA.
+					 LOCAL 131. WAYS AND MEANS COMMITTEE</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1910/1911"><emph render="bold">1910-1911</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle encodinganalog="245$a">Accounts Payable</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1917/1933">1917-1933</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="subgrp"> 
+				<did> 
+				  <container type="box-folder">4/12</container> 
+				  <unittitle encodinganalog="245$a"><emph render="boldunderline">RECORD SUBGROUP B: CARPENTERS AND JOINERS OF AMERICA.
+					 LOCAL 131. CARPENTERS UNION BUILDING COMPANY.</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="191112/192212"><emph render="bold">December
+					 1911-December 1922</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/12</container> 
+					 <unittitle encodinganalog="245$a">Minutes and Dissolution of
+						Carpenters Union Building Committee</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1901">1901</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder">3/3, 3/14, 4/3, 4/4, 6/7, 4/11, 4/13,
+				  10/2-10/3, 11/1</container> 
+				<unittitle encodinganalog="245$a"><emph render="boldunderline">RECORD GROUP 2: WASHINGTON BENEVOLENT
+				  ASSOCIATION.</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1905/1931"><emph render="boldunderline">1905-1931</emph></unitdate> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">4/11</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES I: MINUTES</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1905/1908"><emph render="bolditalic">1905-1908</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/11</container> 
+					 <unittitle encodinganalog="245$a">Minutes of the Washington
+						Benevolent Association</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1905/1908">1905-1908</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">3/3, 3/14, 4/3, 4/4, 6/8, 10/2-10/3,
+					 11/1</container> 
+				  <unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES II: FINANCIAL RECORDS</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1905/1951"><emph render="bolditalic">1905-1951</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/3</container> 
+					 <unittitle encodinganalog="245$a">Employee Tax, Payroll Taxes
+						for Local 131 and Washington Benevolent Association</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/1951">1943-1951</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/14</container> 
+					 <unittitle encodinganalog="245$a">Monthly Expenses of General,
+						Contingent and Washington Benevolent Association Funds</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1923/1935">1923-1935</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/3</container> 
+					 <unittitle encodinganalog="245$a">Weekly Expenses of General,
+						Contingent and Washington Benevolent Society Funds</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="191112/192212">December 1911-December
+						1922</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

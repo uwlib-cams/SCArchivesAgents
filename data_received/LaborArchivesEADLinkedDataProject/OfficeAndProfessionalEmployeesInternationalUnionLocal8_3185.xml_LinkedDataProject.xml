@@ -1,0 +1,3486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/OfficeAndProfessionalEmployeesInternationalUnionLocal8_3185.xml" encodinganalog="identifier" identifier="80444/xv78741" publicid=" and">OfficeAndProfessionalEmployeesInternationalUnionLocal8_3185.xml</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Office and
+			 Professional Employees International Union, Local 8 Records </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Office and
+			 Professional Employees International Union</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20060315" era="ce" calendar="gregorian">© 2006</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Lew Guenther 
+		  <date audience="external" normal="20050615" era="ce" calendar="gregorian">2005</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised September, 2012</date> 
+		  <item>Added accession -013. Susan Kemp</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised January, 2013</date> 
+		  <item>Nan Cohen added accession 3185-14</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised January, 2016</date> 
+		  <item>Added accession -015. Emily Dominick</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised May, 2018</date> 
+		  <item>Added accession -016. Emily Dominick</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" altrender="context"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname>
+		  </repository> 
+		<unitid encodinganalog="099" countrycode="us" repositorycode="wau-ar" type="mss">3185</unitid> 
+		<origination> 
+		  <corpname encodinganalog="110" role="creator" rules="aacr2" source="lcnaf" authfilenumber="1955626" altrender="sync">Office and
+			 Professional Employees International Union.$bLocal 8 (Seattle,
+			 Wash.)</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">Office and
+		  Professional Employees International Union, Local 8 records </unittitle> 
+		<unitdate type="inclusive" normal="1938/2007" era="ce" calendar="gregorian">1938-2010</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent encodinganalog="300$a">371.06 cubic feet</extent>
+		  <extent>367 boxes, 2 packages</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Organizational
+		  records of a local union that represents over 4,000 members in health care,
+		  social services, insurance and office settings throughout Washington
+		  state</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did>
+      <!--If an image is associated with the finding aid, use the following <daodesc> and <daoloc>
+elements. In <daodesc>, enter caption info inside <p> tags: identifying info about the image, 
+repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc>
+         <!--In <daoloc>, enter into the "href" attribute the full URL of the image file. 
+Eg,  http://www.lib.washington.edu/specialcoll/manuscripts/i84a.jpg.-->
+		<daoloc linktype="locator"/> 
+	 </daogrp> <phystech encodinganalog="340"> 
+	 <p><?xm-replace_text {Brief description of physical condition or equipment required; optional}?></p>
+	 </phystech> 
+	 <bioghist encodinganalog="5451_" id="ARN1955626" altrender="sync"> 
+		<p> Local 8 represents clerical and office workers of a wide variety of
+		  businesses around Puget Sound. Name of parent body changed from Office Employes
+		  International Union to Office and Professional Employees International Union in
+		  1966.</p> 
+	 </bioghist> 
+	 <arrangement> 
+		<p>Organized into 16 accessions.</p> 
+		<list type="simple"> 
+		  <item>Accession No. 3185-001, Office and Professional Employees
+			 International Union, Local 8 Records, 1938-1974</item> 
+		  <item>Accession No. 3185-002, Office and Professional Employees
+			 International Union, Local 8 Records, 1972-1975</item> 
+		  <item>Accession No. 3185-003, Office and Professional Employees
+			 International Union, Local 8 Records, 1944-1980</item> 
+		  <item>Accession No. 3185-004, Office and Professional Employees
+			 International Union, Local 8 Records, 1978-1981</item> 
+		  <item>Accession No. 3185-005, Office and Professional Employees
+			 International Union, Local 8 Records, 1980-1982</item> 
+		  <item>Accession No. 3185-006, Office and Professional Employees
+			 International Union, Local 8 Records, 1976-1986</item> 
+		  <item>Accession No. 3185-007, Office and Professional Employees
+			 International Union, Local 8 Records, 1979-1987</item> 
+		  <item>Accession No. 3185-008, Office and Professional Employees
+			 International Union, Local 8 Records, 1982-1989</item> 
+		  <item>Accession No. 3185-009, Office and Professional Employees
+			 International Union, Local 8 Records, 1989-1991</item> 
+		  <item>Accession No. 3185-010, Office and Professional Employees
+			 International Union, Local 8 Records, 1992-1994</item> 
+		  <item>Accession No. 3185-011, Office and Professional Employees
+			 International Union, Local 8 Records, 1995-1996</item> 
+		  <item>Accession No. 3185-012, Office and Professional Employees
+			 International Union, Local 8 Records, 1995-1998</item> 
+		  <item>Accession No. 3185-013, Office and Professional Employees
+			 International Union, Local 8 Records, 1999-2000</item> 
+		  <item>Accession No. 3185-014, Office and Professional Employees
+			 International union, Local 8 Records, 1995-2004</item> 
+		  <item>Accession No. 3185-015, Office and Professional Employees
+			 International Union, Local 8 records, 2005- 2007</item> 
+		  <item>Accession No. 3185-016, Office and Professional Employees
+			 International Union, Local 8 records, 2008- 2010</item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Correspondence, disputes and grievances, negotiations, contract files,
+		  election files, case files, organizaing files, membership records, financial
+		  records, chronological files, legal documents, minutes, reports, convention
+		  files, newsletters, subject files, ephemera.</p> 
+	 </scopecontent> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., if any; use daogrp for digital link}?></p>
+		
+	 </altformavail> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users, but access to portions of the papers restricted.
+		  Contact repository for details.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Restrictions may exist on copying, quotation, or publication. Contact
+		  University of Washington Libraries Special Collections for details. </p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p/> 
+	 </acqinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <controlaccess> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf"> AFL-CIO.$bMaritime Trades Department</corpname> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf"> AFL-CIO.$bWashington State Labor Council</corpname> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf"> Central Labor Council of Seattle and Vicinity</corpname> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf"> Group Health Cooperative of Puget Sound</corpname> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf"> Sea-Land Service, Inc. (Seattle, Wash.)</corpname> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf"> Washington State Ferry Union Coalition</corpname> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf"> Washington (State).$bMarine Employees Commission</corpname> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf" altrender="sync"> Office and Professional Employees
+		  International Union. Local 8 (Seattle, Wash.)$vArchives</corpname> 
+		<corpname rules="aacr2" role="subject" encodinganalog="610" source="lcnaf" altrender="sync">Office Employees International Union.$bLocal 8
+		  (Seattle, Wash.)$vArchives</corpname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" encodinganalog="690" altrender="nodisplay">Labor
+		  Unions</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  History</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Washington (State)</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-001</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1938-1974</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">19.25 cubic feet</extent>
+				<extent>19 boxes, 2 packages</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Correspondence, minutes, financial records, contract and
+				negotiation files; 1938-1974 (bulk 1965-1973). </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, June 4, 1981.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-002</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1972-1975</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">12.00 cubic feet</extent>
+				<extent>12 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Correspondence, minutes, financial records, labor organizing
+				files, negotiations, contracts and working agreements, arbitration and
+				grievance files, elections, newsletters, legal documents, ephemera, subject
+				series; 1972-1975 (bulk 1974-1975). </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, January 14, 1983.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-003</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1944-1980</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">18.00 cubic feet</extent>
+				<extent>18 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Correspondence, minutes, newsletters, organizing files,
+				grievances, negotiations, (1973-1980), financial records (1944-1945,
+				1971-1978); 1944-1980. </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, June 20, 1986.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-004</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1978-1981</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">8.00 cubic feet</extent>
+				<extent>8 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Correspondence, organizing files, financial records, newsletters,
+				elections, subject series; 1978-1981 (bulk 1979-1980). </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, July 14, 1988.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-005</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1980-1982</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">7.00 cubic feet</extent>
+				<extent>7 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Correspondence, minutes, financial records, reports, newsletters,
+				elections, conferences and conventions, subject series; 1980-1982 (bulk
+				1981-1982). </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, March 16, 1990.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-006</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1976-1986</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">11.42 cubic feet</extent>
+				<extent>12 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Membership records, miscellaneous correspondence, contract
+				negotiations, financial records, grievance files, and related records,
+				1976-1986.</p> 
+			 <p>Includes records of the Sea-Land trial (1979), Sea-Land strike and
+				trial (1982-1983), and correspondence and other documentation on an internal
+				leadership dispute (1984-1985). </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, July 19, 1993.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				<unittitle>Organizational Records</unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>General Correspondence</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1984-86, undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">1-6</container> 
+				  <unittitle>Negotiations, Employer Correspondence &amp;
+					 Grievances</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1983-86</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">6</container> 
+				  <unittitle>Negotiations, Employer Correspondence &amp; Grievances
+					 - Trade Section</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1983-86</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Case Files 7</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Sea-Land</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1979-86</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Miscellaneous</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1983-85</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>Grievances (including Margaret Bartholomeaux
+					 Trial)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1976-83</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Subject Series</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">8-9</container> 
+					 <unittitle>Pension &amp; Retirement</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1983-86</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Miscellaneous</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1983-89</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Newsletters</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1984-86</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Elections</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1982-85</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Conferences &amp; Seminars</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1984-86</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Financial Records</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1984-85</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Unsorted</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>American Federation Of Labor - Congress Of Inustrial
+					 Organizations. Maritime Trades Department</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1983-86</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box">11</container> 
+				<unittitle>Central Labor Council, King County (afl-cio)</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">1983-87</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Office And Professional Employees International
+					 Union</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1984-86</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>OPEIU. Local 8. Seattle. Executive Board</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Washington. Marine Employees Commission</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1984-85</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Washington State Ferry Coalition</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1982-83</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box">11-12</container> 
+				<unittitle>Washington State Labor Council</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1983-86</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-007</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1979-1987</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">35.00 cubic feet</extent>
+				<extent>35 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Correspondence, disputes and grievances, negotiations, case file,
+				per capita reports, financial records, conferences and conventions; 1979-1987.
+				</p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, April 4, 1994.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-008</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1982-1989</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">19.42 cubic ft.</extent>
+				<extent>20 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>General correspondence, organizing files, grievances,
+				negotiations, election and other files related to affairs of the union;
+				1982-1989 (bulk 1987-1989). </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, June 2, 1997.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Organizing Files</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1982-89</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>Organizing Files</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1988-89</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Miscellaneous Correspondence</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">3-4</container> 
+				<unittitle>General Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">5-7</container> 
+				<unittitle>General Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">7-8</container> 
+				<unittitle>Disputes And Grievances</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">8-9</container> 
+				<unittitle>Disputes And Grievances</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">9-10</container> 
+				<unittitle>Disputes And Grievances</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">11</container> 
+				<unittitle>Negotiations (IAM751 - Sheet Metal)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">12</container> 
+				<unittitle>Negotiations (Speea - Webster) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">13</container> 
+				<unittitle>Negotiations (Welfare - Willapa)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Negotiations (A - G) </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">14</container> 
+				<unittitle>Negotiations (G - T) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">15</container> 
+				<unittitle>Negotiations (U - W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">16</container> 
+				<unittitle>Negotiations (A - S) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">17</container> 
+				<unittitle>Negotiations (S - W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">18</container> 
+				<unittitle>International Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Washington Office Employees Security Fund</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Western States Pension Information</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Supplemental Pension</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Washington State Labor Council Convention</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">19</container> 
+				<unittitle>International Reports</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Washington Office Employees Security Fund</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Western States Pension Information</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Supplemental Pension</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Executive Board Correspondence</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">19-20</container> 
+				<unittitle>General Election Information</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-009</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1989-1991</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">33.00 cubic feet</extent>
+				<extent>33 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>General correspondence, negotiations, disputes, grievances,
+				Executive Board election file, and other files related to affairs of the union;
+				1989-1991 (bulk 1990-1991). </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, September 27, 1999.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing level 1.</p> 
+		  </processinfo> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Organizational Records</unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>General Correspondence (A-I)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <unittitle>General Correspondence (K-S)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>General Correspondence (T-W)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <unittitle>General Correspondence (A-G)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">5</container> 
+				  <unittitle>General Correspondence (G-S)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">6</container> 
+				  <unittitle>General Correspondence (S-W)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">7</container> 
+				  <unittitle>General Correspondence (W-Z)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>Negotiations (A-G)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Negotiations (G-H)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Negotiations (H-S)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">11</container> 
+				  <unittitle>Negotiations (S-Z)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">12</container> 
+				  <unittitle>Negotiations (A-H)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">13</container> 
+				  <unittitle>Negotiations (I-Z)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">14</container> 
+				  <unittitle>Old Signed Labor Agreements No Longer Under OPEIU
+					 Jurisdiction</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">15</container> 
+				  <unittitle>Disputes And Grievances (A-I)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">16</container> 
+				  <unittitle>Disputes And Grievances (J-R)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">17</container> 
+				  <unittitle>Disputes And Grievances (S-Z)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">18</container> 
+				  <unittitle>Disputes And Grievances (A-F)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">19</container> 
+				  <unittitle>Disputes And Grievances (G-N)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">20</container> 
+				  <unittitle>Disputes And Grievances (O-Z)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">21</container> 
+				  <unittitle>Kathy Whitaker Grievances</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990-1991</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="subgrp"> 
+				<did> 
+				  <container type="box">22-25</container> 
+				  <unittitle>King County Medical Blue Shield Decertification
+					 Campaign And Boycott</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">25</container> 
+					 <unittitle>Miscellaneous Lobbying and Fundraising</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1989</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">26</container> 
+					 <unittitle>King County Medical Pins</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>American Passage Lobbying and
+						  Fundraising</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Catholic Community Services -- Home Care Workers
+						  Organizing</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1989-1990</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box">27-28</container> 
+				<unittitle>Catholic Community Services -- Home Care Workers
+				  Organizing (box 27 Also Contains Two Vhs Videotapes)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box">28-29</container> 
+				<unittitle>American Passage Union Campaign</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1989-1990</unitdate> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">30</container> 
+				  <unittitle>International Supplemental Pension</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Washington Office Employees Security
+						Fund</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Western States Pension Fund</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">31</container> 
+				  <unittitle>International Supplemental Pension</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Washington Office Employees Security
+						Fund</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Western States Pension Fund</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">32</container> 
+				  <unittitle>International Association Of Machinists And Aerospace
+					 Workers. District Lodge 751.</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Special Executive Board Election</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">33</container> 
+				  <unittitle>Miscellaneous Files</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1990-1991</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-010</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1992-1994</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">29.00 cubic feet</extent>
+				<extent>29 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>General correspondence, grievance files, negotiation files, and
+				miscellaneous other files; 1992-1994. </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, January 23, 2003.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Correspondence</unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>General Correspondence (A - L)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <unittitle>General Correspondence (M - V)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>General Correspondence (V - Z)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>General Correspondence (A - G)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <unittitle>General Correspondence (F - I)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">5</container> 
+				  <unittitle>General Correspondence (I - V)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">6</container> 
+				  <unittitle>General Correspondence (W)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>General Correspondence (A - G)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">7</container> 
+				  <unittitle>General Correspondence (G - S)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>General Correspondence (S - W)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>International Correspondence</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1992-93</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Supplemental Pension</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Washington Office</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Employees Security Fund</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Western States Pension</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Local 8 Top Drawer</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+					 <unittitle>Western states pension correspondence</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Western States Pension Correspondence</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>International Correspondence</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1993-94</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Western States Pension Correspondence</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">11</container> 
+				  <unittitle>International Correspondence</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Supplemental Pension</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Washington Office Employees Security
+						  Fund</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Western States Pension</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box">11-12</container> 
+				<unittitle>Election Files</unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Vice President Election</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>General Election</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Disputes And Grievances</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">13</container> 
+					 <unittitle>Disputes and Grievances (A - P)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">14</container> 
+					 <unittitle>Disputes and Grievances (R - W)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">15</container> 
+					 <unittitle>Disputes and Grievances (W - Y)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Disputes and Grievances (A - J)</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">16</container> 
+					 <unittitle>Disputes and Grievances (J - Z)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>Disputes and Grievances (A - J)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">18</container> 
+					 <unittitle>Disputes and Grievances (K - W)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Negotiations</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">19</container> 
+					 <unittitle>Negotiations (A - Group Health)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">20</container> 
+					 <unittitle>Negotiations (Group Health - Plumbers Local
+						265)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">21</container> 
+					 <unittitle>Negotiations (Sea Mar - Trade Section)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">22</container> 
+					 <unittitle>Negotiations (TCI - Willapa)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Negotiations (A - E)</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">23</container> 
+					 <unittitle>Negotiations (E - P)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">24</container> 
+					 <unittitle>Negotiations (R - S)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">25</container> 
+					 <unittitle>Negotiations (S - W)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">26</container> 
+					 <unittitle>Negotiations (Wa - We)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">27</container> 
+					 <unittitle>Negotiations (A - O)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">28</container> 
+					 <unittitle>Negotiations (P - T)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">29</container> 
+					 <unittitle>Negotiations (Trade Section - W)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-011</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1995-1996</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">25.00 cubic feet</extent>
+				<extent>25 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>General correspondence, minutes, reports, newsletters, disputes,
+				grievances, negotiations, election and other files related to affairs of the
+				union; 1995-1996.</p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, April 4, 2004.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Correspondence</unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>General Correspondence (a-m)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <unittitle>General Correspondence (m-t)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>General Correspondence (t-w)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <unittitle>General Correspondence (a-f)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">5</container> 
+				  <unittitle>General Correspondence (ghc)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">6</container> 
+				  <unittitle>General Correspondence (h-s)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">7</container> 
+				  <unittitle>General Correspondence (s-w)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>General Correspondence (w)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>International Correspondence</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Supplemental Pension</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Puget Sound Benefit Trust</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>International Correspondence</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Supplemental Pension</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box"/> 
+						<unittitle>Puget Sound Benefits Trust</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Miscellaneous Office Files</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Business Representative Reports</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Newsletters</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Executive Board Correspondence</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Pdc Reports</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Personnel Files</unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Dispute And Grievance Files</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">11</container> 
+					 <unittitle>Disputes and Grievances (A-M)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">12</container> 
+					 <unittitle>Disputes and Grievances (M-S)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">13</container> 
+					 <unittitle>Disputes and Grievances (S-W)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">14</container> 
+					 <unittitle>Disputes and Grievances (A-C)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">15</container> 
+					 <unittitle>Disputes and Grievances (D-P)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">16</container> 
+					 <unittitle>Disputes and Grievances (P-W)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box"/> 
+					 <unittitle>Negotiation Files</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">17</container> 
+					 <unittitle>Negotiations (A-C)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">18</container> 
+					 <unittitle>Negotiations (CCAP-CWA)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">19</container> 
+					 <unittitle>Negotiations (GHC)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">20</container> 
+					 <unittitle>Negotiations (GHC)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">21</container> 
+					 <unittitle>Negotiations (N-S)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">22</container> 
+					 <unittitle>Negotiations (S-W)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">23</container> 
+					 <unittitle>Negotiations (A-P)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box">24</container> 
+					 <unittitle>Negotiations (S-W)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Election Files</unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box">25</container> 
+				  <unittitle>General Election </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-012</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1995-1998</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">25.00 cubic feet</extent>
+				<extent>25 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Correspondence, disputes and grievances, negotiations,
+				chronological files, minutes, reports, convention files, newsletters, subject
+				files; 1995-1998 (bulk 1997-1998). </p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Received from OPEIU #8, May 26, 2005.</p> 
+		  </acqinfo> 
+		  <processinfo audience="external"> 
+			 <p>Processing Level 1.</p> 
+		  </processinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"><?xm-replace_text {Container number}?></container>
+				
+				<unittitle>Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"><?xm-replace_text {Date or date span}?></unitdate>
+				
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>A-Misc</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <unittitle>Group Health</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>Pension Trust-ULP</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <unittitle>VMC-Willapa</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">5</container> 
+				  <unittitle>A-GHC</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">6</container> 
+				  <unittitle>Homecare-SHA</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">7</container> 
+				  <unittitle>SEIU #6-Willapa</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>Western States Pension Plan</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>International </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>Puget Sound Benefit Trust Correspondence</unittitle> 
+				  <physdesc> <extent>3 folders</extent>
+				  </physdesc>
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>Supplemental Pension Correspondence</unittitle> 
+				  <physdesc> <extent>3 folders</extent>
+				  </physdesc>
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				
+				<unittitle>Minutes</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>International </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>Puget Sound Benefit Trust </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Reports</unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>International </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>Puget Sound Benefit Trust </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Puget Sound Benefit Trust Reports</unittitle> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				
+				<unittitle>Chronological Files</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Maureen Bo</unittitle> 
+				  <physdesc> <extent>8 folders</extent>
+				  </physdesc>
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Cindy Schu</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Suzanne Mode</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Phyllis Naiad</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Ligia Farfan</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>Ron Weigelt</unittitle> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Ron Weigelt</unittitle> 
+				  <physdesc> <extent>6 folders</extent>
+				  </physdesc>
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>David Winders</unittitle> 
+				  <physdesc> <extent>4 folders</extent>
+				  </physdesc>
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box">10</container> 
+				<unittitle>Newsletters: Local 8 Journal</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1997</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				
+				<unittitle>Subject Files</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Local 8 Miscellaneous</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Silent Auction </unittitle> 
+				  <physdesc> <extent>2 folders</extent>
+				  </physdesc>
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Voice of the Electorate </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				
+				<unittitle>Convention Files</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Washington State Labor Council Convention –
+					 Spokane, WA </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>Washington State Labor Council, Committee on Political
+					 Education Convention – Seattle, WA</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>International Convention – Chicago,
+					 IL</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Disputes and Grievances</unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">11</container> 
+				  <unittitle>A-C</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">12</container> 
+				  <unittitle>H-Mc</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">13</container> 
+				  <unittitle>Me-Z</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">14</container> 
+				  <unittitle>A-Ba</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">15</container> 
+				  <unittitle>Ba-Fl</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">16</container> 
+				  <unittitle>Fl-R</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">17</container> 
+				  <unittitle>S-Z</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box"/> 
+				  <unittitle>Negotiations</unittitle> 
+				  <unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				  
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">18</container> 
+				  <unittitle>DASAS-N</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">19</container> 
+				  <unittitle>A-D</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">20</container> 
+				  <unittitle>F-SHA</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">21</container> 
+				  <unittitle>SHA Group 2</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">22</container> 
+				  <unittitle>SEIU-W</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">23</container> 
+				  <unittitle>A-W</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">24</container> 
+				  <unittitle>SEA MAR</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">25</container> 
+				  <unittitle>SHA Group 1 and Master</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-013</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 Records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1999-2000</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">27 cubic feet</extent>
+				<extent>27 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Negotiations, Disputes &amp; Grievances, General Correspondence,
+				"Top Drawer", International correspondence/supplemental pension/western
+				states/PSBT, FPA &amp; SEAMAR notes, 1999-2000.</p> 
+		  </scopecontent> <phystech> 
+		  <p>Records stored offsite; advance notice required for use.</p>
+		  </phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <acqinfo> 
+			 <p>Donor: Libby Alejandro, OPEIU #8, November 4, 2007.</p> 
+		  </acqinfo> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Negotiations (A - U) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>Negotiations (V - Web) , GHC 1 of 3 </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>Negotiations (Wel - Wor) , GHC 2 of 3 </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>Negotiations, GHC 3 of 3 </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Disputes &amp; Grievances (A - Bargaining Unit)
+				  </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">6</container> 
+				<unittitle>Disputes &amp; Grievances (Bej - K) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">7</container> 
+				<unittitle>Disputes &amp; Grievances (Lak - Z) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">8</container> 
+				<unittitle>General Correspondence (A - GHC [Jan-June])</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">9</container> 
+				<unittitle>General Correspondence (GHC [July-Dec] - S) </unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<unittitle>General Correspondence (S - T) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">11</container> 
+				<unittitle>General Correspondence (T -) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">12</container> 
+				<unittitle>Top Drawer</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">13</container> 
+				<unittitle>Int'l Correspondence/ Supplemental Pension/ Western
+				  States/ PSBT</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">14</container> 
+				<unittitle>Negotiations (A - P) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">15</container> 
+				<unittitle>Negotiations (S) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">16</container> 
+				<unittitle>Negotiations (T - W) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">17</container> 
+				<unittitle>FPA &amp; SEAMAR NOTES (CS) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">18</container> 
+				<unittitle>Disputes &amp; Grievances (A - Boo) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">19</container> 
+				<unittitle>Disputes &amp; Grievances (Bri - Hat) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">20</container> 
+				<unittitle>Disputes &amp; Grievances (Her - L) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">21</container> 
+				<unittitle>Disputes &amp; Grievances (M - W) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">22</container> 
+				<unittitle>General Correspondence (A - GHC [Jan-April])
+				  </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">23</container> 
+				<unittitle>General Correspondence (GHC [May-Dec] - O) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">24</container> 
+				<unittitle>General Correspondence (P - S) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">25</container> 
+				<unittitle>General Correspondence (T - W) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">26</container> 
+				<unittitle>Top Drawer (chron file)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">27</container> 
+				<unittitle>Int'l Correspondence/ Supplemental Pension/ Western
+				  States/ PSBT</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" encodinganalog="099">3185-014</unitid> 
+			 <unittitle>Office and Professional Employees International union,
+				Local 8 Records</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1995-2004</unitdate> 
+			 <physdesc><extent>55 cubic feet</extent>
+				<extent>55 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Correspondence, disputes and greivances, and contract
+				negotiations.</p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p>Received from Cythia Schu, 4/20/2012</p> 
+		  </acqinfo> <phystech> 
+		  <p>Records stored offsite; advance notice required for
+			 use.</p></phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but access to some parts restricted until
+				2050</p> 
+		  </accessrestrict> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>General Correspondence [A-GHC]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>General Correspondence [GHC (May-Oct)]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>General Correspondence [GHC (Nov-Dec) - Pension
+				  Trust]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>General Correspondence [PEMC-SMCHC
+				  (Jan-Aug)]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>General Correspondence [SMCHC (Sept-Dec) -
+				  T]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">6</container> 
+				<unittitle>General Correspondence [U - W]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">7</container> 
+				<unittitle>Top &amp; Bottom Drawer (Convention/Int'l
+				  Correspondence/Pensions/PSBT)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">8</container> 
+				<unittitle>Disputes &amp; Grievances (A-C)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">9</container> 
+				<unittitle>Disputes &amp; Grievances (D-K)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<unittitle>Disputes &amp; Grievances (L-P) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">11</container> 
+				<unittitle>Disputes &amp; Grievances (R-Y) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">12</container> 
+				<unittitle>Negotiations (A - Lathers 1144)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">13</container> 
+				<unittitle>Negotiations (M-P)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">14</container> 
+				<unittitle>Negotiation (S-W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2001</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">15</container> 
+				<unittitle>General Correspondence [A-GHC (Jan-Mar)]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">16</container> 
+				<unittitle>General Correspondence [GHC (Apr-Dec)]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">17</container> 
+				<unittitle>General Correspondence [IFPTE 17- Sea Mar Care
+				  Center]</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">18</container> 
+				<unittitle>General Correspondence (Sea Mar Clinics –
+				  SHA)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">19</container> 
+				<unittitle>General Correspondence (SEIU 6 – W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">20</container> 
+				<unittitle>Top &amp; Bottom Drawer (Convention/Int’l
+				  Correspondence/Pensions/PSBT)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">21</container> 
+				<unittitle>Disputes &amp; Grievances (A – E) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">22</container> 
+				<unittitle>Disputes &amp; Grievances (F – Kjo) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">23</container> 
+				<unittitle>Disputes &amp; Grievances (Kh – R)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">24</container> 
+				<unittitle>Disputes &amp; Grievances (S – W) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">25</container> 
+				<unittitle>Negotiations (A – CAMP 1 &amp; 2)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">26</container> 
+				<unittitle>Negotiations (CAMP 3 &amp; 4 – FPA)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">27</container> 
+				<unittitle>Negotiations (GHC [Kelsey Creek Closure] –
+				  T)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">28</container> 
+				<unittitle>Negotiations (GHC [Kelsey Creek Closure] –
+				  T)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">29</container> 
+				<unittitle>Negotiations (SMCHC) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">30</container> 
+				<unittitle>Negotiations (U – W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2002</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">31</container> 
+				<unittitle>General Correspondence (GHC [June-Dec] –
+				  L)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">32</container> 
+				<unittitle>General Correspondence (M – Sea Mar
+				  [Jan-June])</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">33</container> 
+				<unittitle>General Correspondence (Sea Mar [July-Dec] –
+				  T)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">34</container> 
+				<unittitle>General Correspondence (U – W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">35</container> 
+				<unittitle>Top &amp; Bottom Drawer (Convention/Int’l
+				  Correspondence/Pensions/PSBT)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">36</container> 
+				<unittitle>Disputes &amp; Grievances (A – Doyle)</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">37</container> 
+				<unittitle>Disputes &amp; Grievances (Doyle – I)</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">38</container> 
+				<unittitle>Disputes &amp; Grievances (J – R)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">39</container> 
+				<unittitle>Disputes &amp; Grievances (S – T)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">40</container> 
+				<unittitle>Disputes &amp; Grievances ([V – Z 2003] AND [A
+				  – B 2004])</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003-2004</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">41</container> 
+				<unittitle>Negotiations (A – O)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">42</container> 
+				<unittitle>Negotiations (P – U)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">43</container> 
+				<unittitle>Negotiations (PEMC)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">44</container> 
+				<unittitle>Negotiations (V –W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">45</container> 
+				<unittitle>General Correspondence (A- GHC [Jan –
+				  Oct])</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">46</container> 
+				<unittitle>General Correspondence (GHC [Nov – Dec] –
+				  PEMC [1st – 3rd Qtr])</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">47</container> 
+				<unittitle>General Correspondence (PEMC [4th Qtr] –
+				  S)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">48</container> 
+				<unittitle>General Correspondence (T – W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">49</container> 
+				<unittitle>Top &amp; Bottom Drawer (Convention/Int’l
+				  Correspondence/Pensions/PSBT)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">50</container> 
+				<unittitle>Disputes &amp; Grievances (C – Kib)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">51</container> 
+				<unittitle>Disputes &amp; Grievances (Kin – Rea)</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">52</container> 
+				<unittitle>Disputes &amp; Grievances (Rho – Z) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">53</container> 
+				<unittitle>Negotiations (A – LCCAC) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">54</container> 
+				<unittitle>Negotiations (LIHI – W) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">2004</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">55</container> 
+				<unittitle>Negotiations/Correspondence IAM 751: 1996-1998; IUOE
+				  Local 302: 1996; WACONI: 1995; UFCW Local 21: 1996; Negotiations (DASAS 2000);
+				  Negotiations (Sea Mar Care Center 2000) </unittitle> 
+				<unitdate era="ce" calendar="gregorian">1995-2000</unitdate> 
+			 </did> 
+			 <accessrestrict> 
+				<p> <emph altrender="color: red;">Restricted.</emph> </p> 
+			 </accessrestrict> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-015</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 records</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2005- 2007</unitdate> 
+			 <physdesc><extent>28.73 cubic feet</extent>
+				<extent>26 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Correspondence, disputes and greivances, and negotiations. </p> 
+		  </scopecontent><phystech type="phys"> 
+		  <p>Records stored offsite; advance notice required for
+			 use.</p></phystech> 
+		  <accessrestrict> 
+			 <p>Access to portions of the collection is restricted. Contact
+				University of Washington Libraries Special Collections for details.</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Restrictions may exist on copying, quotation, or publication.
+				Contact University of Washington Libraries Special Collections for details.
+				</p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Libby Alejandro, OPEIU Local 8 and Cindy Shiu, OPEIU Local 8,
+				2015</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				
+				<unittitle>Series 1: General Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2005-2007</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">1</container> 
+				  <unittitle>General Correspondence (A – GHC
+					 [Jan-Nov])</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">2</container> 
+				  <unittitle>General Correspondence (GHC [Dec]-P)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">3</container> 
+				  <unittitle>General Correspondence (S-W)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">4</container> 
+				  <unittitle>General Correspondence (W-GH [Jan-May
+					 2006])</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005-2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">5</container> 
+				  <unittitle>General Correspondence (GH
+					 [June-December]-O)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">6</container> 
+				  <unittitle>General Correspondence (P-Seattle Housing Authority
+					 [2nd Qtr]</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">7</container> 
+				  <unittitle>General Correspondence (Seattle Housing Authority [3rd
+					 Qtr]-International Minutes)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">8</container> 
+				  <unittitle>General Correspondence (PSBT
+					 Correspondence-K)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">9</container> 
+				  <unittitle>General Correspondence (L-Sea Mar [Dec]) </unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">10</container> 
+				  <unittitle>General Correspondence (Seattle Housing Authority -
+					 Willapa Harbor Hospital)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/1-12</container> 
+				  <unittitle>General Correspondence (Political Action
+					 Committee-International Minutes)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				
+				<unittitle>Series 2: Negotiations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2005-2007</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/13-35</container> 
+				  <unittitle>Negotiations A-U</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">12</container> 
+				  <unittitle>Negotiations (V-Willapa Bargain [May 17])</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">13</container> 
+				  <unittitle>Negotiations (Willapa Bargain [May 11]-M)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005-2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">20</container> 
+				  <unittitle>Negotiations (A-COM)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">14</container> 
+				  <unittitle>Negotiations (O-VMC)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">15</container> 
+				  <unittitle>Negotiations (W-WPAS)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">16</container> 
+				  <unittitle>Negotiations (WPAS-Senior Life Resources
+					 [1/2])</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006-2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">17/1-7</container> 
+				  <unittitle>Negotiations (Senior Life Resources
+					 [2/2]-W)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><?xm-replace_text {Enter box and/or folder no., separated by a slash, or leave blank, eg, 2/8-15}?></container>
+				
+				<unittitle>Series 3: Disputes and Grievances</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2005-2007</unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">17/8-50</container> 
+				  <unittitle>Disputes and Grievances (A-Ce)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">18</container> 
+				  <unittitle>Disputes and Grievances (Ch-Mi)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">19</container> 
+				  <unittitle>Disputes and Grievances (Mi-We)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">21</container> 
+				  <unittitle>Disputes and Grievances (We-Fe)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2005-2006</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">22</container> 
+				  <unittitle>Disputes and Grievances (Fin-Mor)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">23</container> 
+				  <unittitle>Disputes and Grievances (Nam-Bar)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2006-2007</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">24</container> 
+				  <unittitle>Disputes and Grievances (Bar-Jas)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">25</container> 
+				  <unittitle>Disputes and Grievances (Kor-Sul)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box">26</container> 
+				  <unittitle>Disputes and Grievances (Lau-Wei)</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">2007</unitdate> 
+				</did> 
+				<accessrestrict> 
+				  <p> <emph altrender="color: red;">Restricted.</emph> </p> 
+				</accessrestrict> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3185-016</unitid> 
+			 <unittitle>Office and Professional Employees International Union,
+				Local 8 records </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2008-2010</unitdate> 
+			 <physdesc><extent>18.24 cubic feet (16 boxes)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>General correspondence of the the union. </p> 
+		  </scopecontent><phystech> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>No restrictions on access. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's copyrights transferred to the University of Washington
+				Libraries Special Collections.</p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Libby Alejandro, OPEIU Local 8 and Cindy Shu, OPEIU Local 8</p> 
+		  </acqinfo> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>General correspondence (A-H)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>General correspondence (K-P)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>General correspondence (Sc-Sp)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>General correspondence (T-W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2008</unitdate> 
+			 </did> 
+			 <note> 
+				<p>Top &amp; Bottom Drawer (PSBT/Itn’l Correspo/PSBT/Western
+				  States)</p> 
+			 </note> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>General correspondence, Chron reps files
+				  (B-V)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">6</container> 
+				<unittitle>General correspondence (A-I)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2009</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">7</container> 
+				<unittitle>General correspondence (K-O)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2009</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">8</container> 
+				<unittitle>General Correspondence (P – Sea Mar
+				  [Jan-Nov])</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2009</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">9</container> 
+				<unittitle>General Correspondence (Sea Mar [Dec]-U)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2009</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">10</container> 
+				<unittitle>General Correspondence (V-W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2009</unitdate> 
+			 </did> 
+			 <note> 
+				<p>Top &amp; Bottom Drawer (PSBT/Itn’l Correspo/PSBT/Western
+				  States)</p> 
+			 </note> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">11</container> 
+				<unittitle>General Correspondence, Chron reps files (Sea Mar
+				  [Dec]-U)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2009</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">12</container> 
+				<unittitle>General Correspondence (A-KGH)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2010</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">13</container> 
+				<unittitle>General Correspondence (King County-O)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2010</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">14</container> 
+				<unittitle>General Correspondence (PRMCE-Sea Mar)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2010</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">15</container> 
+				<unittitle>General Correspondence (SHA-W)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2010</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">16</container> 
+				<unittitle>General Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2010</unitdate> 
+				<note> 
+				  <p>Top &amp; Bottom Drawer (Chron Reps file/Associate App
+					 2001-2010/sign in/PSBT/Itn’l Correspo/PSBT/Western States)</p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

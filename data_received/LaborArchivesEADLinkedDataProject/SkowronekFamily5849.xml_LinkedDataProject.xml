@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <!--OCLC 904294402-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SkowronekFamily5849.xml" encodinganalog="identifier" identifier="80444/xv50064">SkowronekFamily5849.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Skowronek Family
+			 Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Skowronek Family
+			 Papers</titleproper> 
+		  <author encodinganalog="creator"><?xm-replace_text {Name of the author/s of the finding aid; e.g. Finding aid created by John Smith}?></author>
+		  
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20150327" era="ce" calendar="gregorian">© 2015</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5849</unitid> 
+		<origination> 
+		  <famname role="creator" altrender="sync" source="local" rules="local" encodinganalog="1003">Skowronek (Family : Emil Skowronek : 1920-1979)</famname>
+		  </origination> 
+		<unittitle encodinganalog="245$a" type="collection">Skowronek Family
+		  papers </unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1920/1979" certainty="approximate" era="ce" calendar="gregorian">approximately 1920-1979</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent encodinganalog="300$a">5 cubic feet</extent>
+		  <extent encodinganalog="300$a">5 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Papers of the
+		  Emil Skowronek family and former University of Washington faculty member Felix
+		  Skowronek</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Emil Skowronek (aka Clark) (1904-1993) was born in Poland and
+		  immigrated to the United States as a young boy. Skowronek graduated high school
+		  in Tacoma. As a young man, Skowronek worked as a logger on the Olympic
+		  Peninsula for five years to fund his education at Washington State University,
+		  where he was a member of the wrestling team. While he worked as a logger, he
+		  was radicalized by the Industrial Workers of the World. Skowronek was a member
+		  of the Communist Party USA and served as a left wing labor organizer who
+		  (according to family lore) helped found the Seattle Ship Scaler's union in
+		  1936. Skowroneck later became a ship rigger in the International Brotherhood of
+		  Boilermakers, Iron Ship Builders, Blacksmiths, Forgers, and Helpers, Local 104
+		  (Seattle, Washington) and served as a business agent in the union. During World
+		  War II, Skowronek served in the merchant marine, where he was involved in the
+		  Battle of Okinawa. He lost his seamen's clearance for his political
+		  affiliations during the "Red Scare" of the 1950s, but was able to regain
+		  it.</p> 
+		<p>Skowronek married Edna Theodosia Bundry in 1935. Edna Theodosia
+		  Skowroneck (1903-1976), graduated in 1932 with Bachelor's of Science in nursing
+		  from the University of Washington. She worked as a registered nurse. </p> 
+		<p>Theodosia Skowronek "Theo" Nassar (1939-), Emil and Edna's daughter,
+		  recieved her BA in Sociology from Washington State University and her MS in
+		  Teaching/Communications from Gonzaga University, working as a caseworker at
+		  Eastern State Mental Hospital and a copywriter and journalist in Spokane before
+		  moving to Los Angeles to become a screenwriter for ten years. </p> 
+		<p>Felix Skowronek (1935-2006), Emil and Edna's son, played principal
+		  flute for the Seattle Symphony from 1956–1957 and 1959–1960. Skowronek also
+		  played in the Seventh Army Symphony from 1957–1959, Puerto Rico Symphony
+		  Orchestra 1960–1966, and St. Louis Symphony 1966–1968, and was a member of the
+		  Casals Festival Orchestra in Puerto Rico and was a founding member of the Soni
+		  Ventorum Wind Quintet. He became a member of the faculty of the Conservatory of
+		  Music of Puerto Rico, followed by the University of Washington, where he taught
+		  for 38 years, and served as president of the National Flute Association and
+		  Seattle Flute Society. He was a leading figure in the revival of wooden
+		  Boehm-style flutes in the USA and an expert in the use of various hardwoods in
+		  flute manufacturing.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Family papers, book Un-American Girl by Theo Skowronek-Nassar,
+		  cassette tape interview with Emil Skowronek, clipping, valentines, photographs,
+		  letters, screenplays, sheet music, and DVD about Felix Skowronek, textbooks,
+		  clippings, boilermaker materials, FOIA papers, ephemera, sheet music, diary,
+		  photographs, and documents on nursing.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p></phystech>
+	 
+	 <accessrestrict> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Portions of creator's literary rights retained. Contact Special
+		  Collections for details. </p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<famname role="subject" encodinganalog="6003">Skowronek (Family : $g
+		  Skowronek, Emil, 1904-1993)$vArchives</famname> 
+		<persname role="subject" encodinganalog="600">Skowronek,
+		  Emil,$d1904-1993$vArchives</persname> 
+		<persname role="subject" encodinganalog="600">Skowronek,
+		  Emil,$d1904-1993$vInterviews</persname> 
+		<persname role="subject" encodinganalog="600">Skowronek,
+		  Edna,$d1903-1976$vArchives</persname> 
+		<persname role="subject" encodinganalog="600">Skowronek-Nassar,
+		  Theo$vArchives</persname> 
+		<persname role="subject" encodinganalog="600">Skowronek,
+		  Felix$vArchives</persname> 
+		<corpname role="subject" encodinganalog="610">International Brotherhood
+		  of Boiler Makers, Iron Ship Builders, and Helpers of America.$bLocal 104
+		  (Seattle, Wash.)$xHistory$vSources</corpname> 
+		<subject encodinganalog="650">Nursing$zWashington
+		  (State)$xHistory$vSources</subject> 
+		<subject encodinganalog="650">Flute$xConstruction$xHistory$vSources</subject> 
+		<genreform source="aat" encodinganalog="655">Government records</genreform> 
+		<genreform source="aat" encodinganalog="655">Newspaper clippings</genreform> 
+		<genreform source="aat" encodinganalog="655">Manuscripts (documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Personal correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Notated music</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Interviews</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Photographs</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Diaries</genreform> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		   
+		  <!--Also add at least one browsing term from the NWDA browsing term list at 
+http://orbiscascade.org/index/cms-filesystem-action/nwda/tools/nwda%20browsing%20terms_20120530.pdf-->
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5849-001</unitid> 
+			 <unittitle>Skowronek family papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">circa 1920s-1970s</unitdate> 
+			 <physdesc><extent>5 cubic feet (5 boxes)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Family papers, book Un-American Girl by Theo Skowronek-Nassar,
+				cassette tape interview with Emil Skowronek, clipping, valentines, photographs,
+				letters, screenplays, sheet music, and DVD about Felix Skowronek, textbooks,
+				clippings, boilermaker materials, FOIA papers, ephemera, sheet music, diary,
+				photographs, and documents on nursing.</p> 
+			 <p/> 
+		  </scopecontent><phystech type="phys"> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Portions of creator's literary rights retained. Contact Special
+				Collections for details. </p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Theo Nassar [birth name: Theodosia Skowronek], 2014-05-28 </p> 
+		  </acqinfo> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Family papers, book Un-American Girl by Theo
+				  Skowronek-Nassar, cassette tape interview with Emil Skowronek, clipping,
+				  valentines, photographs, letters, screenplays, sheet music, and DVD about Felix
+				  Skowronek.</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <scopecontent> 
+				<p/> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>Textbooks, clippings, rolled photographs, boilermaker
+				  materials, FOIA papers and ephemera.</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <scopecontent> 
+				<p/> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>Letters of the Skowronek family.</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <scopecontent> 
+				<p/> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>Sheet music, diary, textbooks, reports, photographs,
+				  clippings and documents on nursing.</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <scopecontent> 
+				<p/> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">5</container> 
+				<unittitle>Newspaper clippings and letters.</unittitle> 
+				<unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate>
+				
+			 </did> 
+			 <scopecontent> 
+				<p/> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc> </ead>

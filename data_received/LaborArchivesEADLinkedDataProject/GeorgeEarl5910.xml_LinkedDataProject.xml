@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GeorgeEarl5910.xml" encodinganalog="identifier" identifier="80444/xv87622 ">GeorgeEarl5910.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Earl George Papers and
+			 Photographs</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">George (Earl) Papers
+			 and Photographs</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Emily
+			 Spracklin</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" calendar="gregorian" era="ce" normal="20151128">© 2015</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date calendar="gregorian" era="ce">Finding aid revised August
+			 2018</date> 
+		  <item>Elaine Speer added inventory</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5910</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">5910-001</unitid> 
+		<origination> 
+		  <persname encodinganalog="100" role="creator" altrender="sync" source="local" rules="local">George, Earl,$d1894-1985</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Earl George papers
+		  and photographs</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian" era="ce" normal="1930/2008">1930-2008</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" calendar="gregorian" era="ce"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc><extent>1.04 cubic feet</extent>
+		  <extent>3 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Ephemera,
+		  photos, and printed materials documenting the life and work of Earl George, a
+		  labor activist in Seattle</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Earl George (1894-1985) of the International Longshore and Warehouse
+		  Union, Local 9 (Seattle) dedicated his life to tireless work on behalf of the
+		  ILWU and progressive causes, most passionately in the struggle to end racial
+		  discrimination.</p> 
+		<p>George was born in Denver in 1894. He once said that “growing up Black
+		  in this country gives you a pretty good political education.” Early on, the
+		  struggles of Denver’s Black community and the violent Colorado miners’ strikes
+		  shaped his thinking. George studied math and chemistry at the University of
+		  Denver before being drafted into the segregated Army in 1917 and sent to Fort
+		  Lewis in the Puget Sound. George arrived in time to participate in the Seattle
+		  General Strike of 1919. Sixty-five thousand workers in Seattle walked out in
+		  solidarity with 35,000 shipyard workers who were immersed in a struggle for
+		  wage increases. The action shut down the entire city.</p> 
+		<p>Like other African Americans, George was excluded from many jobs as
+		  well as many unions. In the 1920s and 1930s, he worked in a number of low paid,
+		  non-unionized jobs in the service sector, peppered with periods of
+		  unemployment. He found work as a steward aboard coastwise vessels, where he
+		  joined the Industrial Workers of the World, a militant labor union founded in
+		  1905 which rallied under the banner, “An injury to one is an injury to
+		  all.”</p> 
+		<p>When the Great Depression hit in 1929, George marched in Seattle’s
+		  streets with the Unemployed Citizens League and the Workers’ Alliance, an
+		  organization which fought to get collective bargaining rights for people
+		  working on Federal projects. He also helped build the Washington Commonwealth
+		  Federation and the Washington Pension Union, whose influence in Washington
+		  State politics helped pass the state’s first pension bill in 1939. George
+		  joined ILWU Local 9 as a warehouseman in 1938. While working as a warehouseman,
+		  he continued to dedicate himself to ending discrimination and bettering the
+		  lives of workers</p> 
+		<p>In 1948, he worked on a campaign that succeeded in forcing
+		  Seattle-area grocery stores to hire African Americans. A dedicated ILWU member,
+		  he participated in the 1948 Pacific Coast Strike, and in 1950 became the first
+		  black president of Local 9. While serving in local office, George and then ILWU
+		  Regional Director Bill Chester (later ILWU International Vice President) were
+		  among a number of African American unionists who helped found the National
+		  Negro Labor Council (NNLC). A powerful but short-lived labor organization, the
+		  NNLC focused its goals on ending racial discrimination in industry and racism
+		  in unions. They campaigned to get unions to organize black workers and were
+		  successful in getting a number of unions to call for non-discrimination clauses
+		  in their labor contracts. Earl George was a survivor of racism and also a
+		  strong combatant against it. Like many labor activists of his time, he also
+		  faced bitter red baiting</p> 
+		<p>Along with ILWU President Harry Bridges and other members of the
+		  union, George was scapegoated for his political views. In the early 1950s,
+		  former Communist Party member Barbara Hartle testified at the Velde Committee
+		  hearings, part of the House Un-American Activities Committee, and named Earl
+		  and his wife Vivian along with over 200 other possible members of the Communist
+		  Party. </p> 
+		<p>Earl himself was subpoenaed to appear before the committee to answer
+		  whether he was a Party member. He recalled that “the committee was so
+		  self-righteous. They were going to save the world from dangerous folks like me.
+		  What did I have to say to them? I took the Fifth Amendment and walked out.”
+		  Earl George was a friend to legendary performer, political progressive, civil
+		  rights activist, and honorary ILWU member Paul Robeson. In 1952, the Seattle
+		  City Council barred Robeson from performing at the Civic Auditorium. George
+		  came to his aid, organizing protests in Robeson’s support.</p> 
+		<p>He took similar action when the US State Department revoked Robeson’s
+		  passport, preventing him from touring outside the US because of his political
+		  beliefs. Lonnie Nelson, a longtime Seattle- area activist and member of ILWU
+		  Auxiliary #3 who was close to George, stated that he “was one of the people in
+		  the ILWU who represented a wide understanding of life and industry. He was a
+		  working class intellectual.”</p> 
+		<p>George remained with Local 9 until 1961, when he retired from work.
+		  However, retirement did not mean an end to his commitment to the ILWU and labor
+		  and civil rights activism. As soon as he left the active workforce, George
+		  became a committed and active member of the Seattle Pensioners Association,
+		  where he variously served as Trustee, Secretary, and Secretary-Treasurer.</p> 
+		<p> George was integral in organizing freedom schools during the school
+		  boycott to protest segregation in 1966. He also became a well-known
+		  photographer, chronicling union picket lines, demonstrations, and rallies for
+		  social justice through his camera’s lens. The ILWU International appointed him
+		  as a correspondent/photographer for the Dispatcher, and a number of his images
+		  appeared in the paper in the 1970s and 1980s. In an interview taken shortly
+		  before his death, George stated that “for ninety years I’ve been outraged by
+		  injustice wherever it rears its ugly head. All the movements I’ve been part of
+		  had one important goal: a little more bread, slightly thicker broth, and a
+		  bigger piece of the pie for everyone.”</p> 
+		<p>(Source: ILWU Dispatcher "Earl George, Civil Rights crusader from ILWU
+		  Local 9"
+		  http://www.ilwu.org/a-bigger-piece-of-the-pie-for-everyone-earl-george-civil-rights-crusader-from-ilwu-local-9)</p>
+		
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Materials are arranged into three series, one of personal papers, one
+		  of photographs, and one of buttons.</p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>This collection encompasses the latter parts of the life of Earl
+		  George relating to his working life. They are arranged into three series, one
+		  of personal papers, one of photographs, and one of buttons. Most of the
+		  materials date from 1930-1985.</p> 
+		<p>The papers collection include personal correspondence, birthday cards
+		  and a guestbook from George’s 80th birthday celebration in 1974, and a World
+		  War I veteran Union Labor Barracks 763 Seattle hat.</p> 
+		<p>The photograph collection cover images from the 1960-1985, showing
+		  picketing, parades, photos of the African-American community, and personal
+		  photos of Earl George. Photographs of labor, social justice, and civil rights
+		  events taken by George, many of which appeared in the Communist Party USA
+		  paper, The People's World and the International Longshore and Warehouse Union's
+		  paper, The Dispatcher.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech type="phys"> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>Open to all users. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's literary rights transferred to the University of Washington
+		  Libraries. </p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		   
+		  <!-- Also add at least one browsing term from the Archives West browsing term list at http://goo.gl/X5whgX -->
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor Unions</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">African Americans</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Civil Rights</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle encodinganalog="245$a"><emph>EARL GEORGE PERSONAL
+				PAPERS</emph></unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1930-1985</unitdate> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>Grand Lodge of Washington, Inc. Correspondence with Earl
+				  George</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1930-1931</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>Earl George Membership Cards and Books (World War I
+				  Veterans, International Longshore and Warehouse Union)</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1932-1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>Earl George Notice of Election</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1940 September 17</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle>Lonnie Nelson Materials on Earl George</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1947, 2002-2008</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>New York Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1957</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>80th Birthday Celebration</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1974 February 9</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle>80th Birthday Cards, Scrapbooked</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1974 February</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle>Earl George Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1982-1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9</container> 
+				<unittitle> 90th Birthday Celebration</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1984 February</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle> Death Certificate and List of Organizations</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">1985 October 1</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle>Funeral Programs</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1985 November 10</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle>Vivian George Biography</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/1</container> 
+				<unittitle> Deutsche Hand und Hausbibliothek: 
+				  <title linktype="simple">Der Bravo: eine venetianische Geschichte</title> By J F
+				  Cooper</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/2</container> 
+				<unittitle>Guestbook Earl George's 80th Birthday</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/3</container> 
+				<unittitle>Hat- Union Labor Barracks Adjutant 763
+				  Seattle</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle encodinganalog="245$a"> 
+				<emph>PHOTOGRAPHS</emph></unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1960-1985</unitdate> 
+		  </did> 
+		  <c02> <?xm-replace_text {Indicate hierarchical level in LEVEL attribute. Include additional elements in c02 or lower levels as needed}?>
+			 <did> 
+				<container type="box-folder">1/13</container> 
+				<unittitle>Store Picketing</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1963-1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle>Parade at E Olive St and 23rd Ave, Seattle</unittitle> 
+				<unitdate era="ce" calendar="gregorian">circa 1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle>Martin Luther King Jr. Memorial, Seattle
+				  Center</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle>National Association for the Advancement of Colored
+				  People Freedom March, Garfield Playground</unittitle> 
+				<unitdate era="ce" calendar="gregorian">late 1960s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unittitle>Notable Black Figures</unittitle> 
+				<unitdate era="ce" calendar="gregorian">circa 1960-1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle>Labor Union Photos</unittitle> 
+				<unitdate era="ce" calendar="gregorian">circa 1975</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Industrial Workers of the World, Association of Western Pulp and
+				  Paper Workers, International Union of Electronic, Electrical, Salaried,
+				  Machine, and Furniture Workers</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1</container> 
+				<unittitle>Unlabeled Photos of Black Individuals</unittitle> 
+				<unitdate era="ce" calendar="gregorian">circa 1960-1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/2</container> 
+				<unittitle>Seattle Parade, Lenora Street and 2nd Avenue</unittitle>
+				
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/3</container> 
+				<unittitle>Unknown Parade Photos</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/4</container> 
+				<unittitle>Parade Photos, Seattle Spring Street and Highway
+				  99</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/5</container> 
+				<unittitle>Seattle Parade, E Olive St, 1700 block</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/6</container> 
+				<unittitle>Earl George Personal Photos</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1960s-1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/7</container> 
+				<unittitle>Seattle African-American Community</unittitle> 
+				<unitdate era="ce" calendar="gregorian">circa 1970s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/8</container> 
+				<unittitle>Protest Photos</unittitle> 
+				<unitdate era="ce" calendar="gregorian">circa 1970s</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle encodinganalog="245$a"><emph>BUTTONS</emph></unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">undated</unitdate> 
+		  </did> 
+		  <c02> <?xm-replace_text {Indicate hierarchical level in LEVEL attribute. Include additional elements in c02 or lower levels as needed}?>
+			 <did> 
+				<container type="box-folder">3/4</container> 
+				<unittitle>Buttons and Badges</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

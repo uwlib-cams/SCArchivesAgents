@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <!--OCLC 28409216-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RadicalWomenSeattle6292.xml" encodinganalog="identifier" identifier="80444/xv147064">RadicalWomenSeattle6292.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Radical Women Seattle
+			 Office Records</titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Radical Women Seattle
+			 Office Records</titleproper> 
+		  <author encodinganalog="creator" audience="external">Finding aid
+			 created by Kate Miller and Chelsea Davies</author> 
+		  <sponsor encodinganalog="contributor">Full processing supported by the
+			 Labor Archives Fund and the Labor Archives of Washington State Budget</sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20191009">© 2019</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">2019</date> 
+		  <item>Finding aid notes updated by Chelsea Davies following
+			 processing.</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">June 2020</date> 
+		  <item>Processing note added to the finding aid by Crystal
+			 Rodgers.</item> 
+		</change> 
+		<change>
+		  <date era="ce" calendar="gregorian">October 2, 2020</date>
+		  <item>Abstract updated by Crystal Rodgers to include mention of Clara
+			 Fraser as compiler of the records and co-founder of Radical Women and the
+			 Freedom Socialist Party as desired by the donor.</item>
+		</change>
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" audience="external"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6292</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6292-001</unitid> 
+		<origination> 
+		  <corpname role="creator" encodinganalog="110" altrender="sync" source="local" rules="local">Radical Women.$bSeattle
+			 Office</corpname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Radical Women Seattle
+		  Office records</unittitle> 
+		<unitdate type="inclusive" normal="1991/1997" era="ce" calendar="gregorian">1991-1997</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc><extent>0.37 cubic feet</extent>
+		  <extent>1 box</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records of the
+		  Seattle office of Radical Women, a socialist, feminist worker's organization
+		  based in Seattle, Washington. The records were collected and maintained by
+		  Clara Fraser, the co-founder and officer of Radical Women and the Freedom
+		  Socialist Party.</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption 
+info inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z  
+No info needed in <resource> element-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="a2" altrender="sync"> 
+		<p>Radical Women (RW) is an all women organization dedicated to
+		  "exposing, resisting and eliminating the inequities of women's existence by
+		  providing women the leadership skills, social history, and working-class
+		  consciousness that they were denied in the male-dominated antiwar, antipoverty
+		  and civil-rights movements." RW was founded in Seattle in 1967 when the Freedom
+		  Socialist Party co-founder Clara Fraser and her close colleague, Gloria Martin,
+		  joined with young women from Students for a Democratic Society to build women’s
+		  leadership in the left and anti-war movements. RW also sought to become the
+		  socialist wing of the feminist movement. In 1973, it formally affiliated with
+		  the Freedom Socialist Party, and the party gained a sister organization. Other
+		  founding members include Melba Windoffer and Susan Stern.</p> 
+		<p>RW was active in anti-Vietnam War protests, labor issues, gay rights,
+		  women’s rights in the workplace, divorce reform, and other issues that affect
+		  oppressed peoples. They are an organization that does intersectional organizing
+		  against racism, sexism, homophobia, and labor exploitation. RW's political
+		  analysis sees women's leadership and political action as decisive to social
+		  change and trains women to lead in these campaigns.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Collection is described at the folder level and arranged in its
+		  original order as received.</p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Records of the Seattle office of the socialist feminist worker's
+		  organization, the Radical Women Seattle office records (1991-1997) primarily
+		  contains memos, correspondence, articles, newspaper clippings, fliers, event
+		  programs, notes, edited drafts, and newsletters. The content of the materials
+		  are mostly concerning the organization’s planned events that are centered on
+		  social activism, intersectional feminism, and providing a platform for
+		  speakers. These records were collected and created by Clara Fraser, who was a
+		  co-founder and officer of Radical Women and the Freedom Socialist Party. Fraser
+		  collected, created, and maintained these records as part of her work for the
+		  organization. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access. </p> 
+	 </accessrestrict> 
+	 <prefercite> 
+		<p> Labor Archives of Washington, University of Washington Libraries,
+		  Special Collections, Radical Women Seattle Office records, 6292-001, Box
+		  number, folder number</p> 
+	 </prefercite> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections.</p> 
+	 </userestrict> 
+	 <odd> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <acqinfo> 
+		<p>Donated by Helen Gilbert, who was custodian of Clara Fraser's RW
+		  records.</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, 
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple" href="tp://archiveswest.orbiscascade.org/ark:/80444/xv847136">Radical Women
+			 National Office records</archref></p> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv27291" linktype="simple">Freedom
+			 Socialist Party Seattle Branch records</archref></p> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv793914" linktype="simple">Freedom
+			 Socialist Party National Office records</archref></p> 
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <processinfo> 
+		<p>Processed by Labor Archives of Washington Curatorial Assistant,
+		  Chelsea Davies.</p> 
+		<p>The collection was rehoused and inventoried and minor preservation
+		  issues addressed during processing. The existing arrangement was sound, so no
+		  further intellectual or physical arrangement was imposed upon the collection
+		  </p> 
+	 </processinfo> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12"> 
+		<corpname role="host institution" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Women</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Seattle</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Washington (State)</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/2</container> 
+			 <unittitle>Seattle Radical Women 1992</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/3</container> 
+			 <unittitle>Seattle Radical Women 1993</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/4</container> 
+			 <unittitle>Seattle Radical Women 1994</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/5</container> 
+			 <unittitle>Seattle Radical Women 1995</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/6</container> 
+			 <unittitle>Seattle Radical Women 1996</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/7</container> 
+			 <unittitle>Seattle Radical Women 1997</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

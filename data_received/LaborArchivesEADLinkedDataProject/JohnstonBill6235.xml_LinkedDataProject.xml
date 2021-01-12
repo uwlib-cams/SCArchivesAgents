@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1122791528--><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+      <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/JohnstonBill6235.xml" encodinganalog="identifier" identifier="80444/xv424682">JohnstonBill6235.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Guide to the Bill Johnston
+			 Papers</titleproper>
+            <titleproper type="filing" altrender="nodisplay">Johnston (Bill)
+			 Papers</titleproper>
+            <author encodinganalog="creator">Finding aid created by Elaine
+			 Speer</author>
+            <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+            <date encodinganalog="date" era="ce" calendar="gregorian" normal="20181019">© 2018</date>
+            <address>
+               <addressline>Seattle, WA 98195</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <revisiondesc>
+         <change>
+            <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+            <item><?xm-replace_text {Describe revision; include your name}?></item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21">
+      <did id="a1">
+         <repository>
+            <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea>
+            </corpname>
+            <address>
+               <addressline>Box 352900</addressline>
+               <addressline>Seattle, WA 98195-2900</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6235</unitid>
+         <unitid type="accession" countrycode="us" repositorycode="wauar">6235-001</unitid>
+         <origination>
+            <persname role="creator" encodinganalog="100">Johnston, Bill$c(Union
+			 organizer)</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" type="collection">Bill Johnston
+		  papers</unittitle>
+         <unitdate type="inclusive" normal="1970/2000" era="ce" calendar="gregorian">approximately
+		  1970-2000</unitdate>
+         <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+         <physdesc>
+            <extent>2.28 cubic feet </extent>
+            <extent>2 boxes</extent>
+         </physdesc>
+         <abstract encodinganalog="5203_$a" altrender="nodisplay">Workshop
+		  training materials from an organizer with the United Food and Commercial
+		  Workers local unions in Washington State.</abstract>
+         <langmaterial>Collection
+		materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial>
+         <dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/>
+      </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.--><daogrp linktype="extended">
+         <daodesc>
+            <p><?xm-replace_text {Image caption}?></p>
+         </daodesc>
+         <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.--><daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/>
+         <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/>
+      </daogrp>
+      <bioghist encodinganalog="5450_" id="a2">
+         <p>William “Bill” Johnston is a retired staff organizer of the United
+		  Food and Commercial Workers in Washington state. Bill Johnston has worked in
+		  unions in both the private and public sectors. He spent 30 years as an
+		  organizer, local union president, international trustee and district council
+		  president for five northwestern states, and served on the health and welfare
+		  and pension boards of several unions. He retired in 2003 and lives in Tacoma,
+		  Washington. He is a member of the National Writers Union (Pacific Northwest
+		  Chapter).</p>
+      </bioghist>
+      <arrangement encodinganalog="351" id="a4">
+         <p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+      </arrangement>
+      <scopecontent>
+         <p>Workshop training materials from Bill Johnston’s career working as an
+		  organizer with the United Food and Commercial Workers local unions in
+		  Washington State. </p>
+      </scopecontent>
+      <odd encodinganalog="500" id="a5">
+         <p><?xm-replace_text {Text of general note}?></p>
+      </odd>
+      <altformavail encodinganalog="530" id="a9">
+         <p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?><extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/>
+         </p>
+      </altformavail>
+      <phystech>
+         <p/>
+      </phystech>
+      <accessrestrict>
+         <p>No restrictions on access. </p>
+      </accessrestrict>
+      <userestrict>
+         <p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p>
+      </userestrict>
+      <acqinfo>
+         <p>William Johnston via Ross Rieder.</p>
+      </acqinfo>
+      <custodhist encodinganalog="561" id="a16">
+         <p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+      </custodhist>
+      <separatedmaterial encodinganalog="5440_$n" type="relocation">
+         <p>
+            <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+         </p>
+      </separatedmaterial>
+      <separatedmaterial encodinganalog="5441_$n" type="transfer">
+         <p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+      </separatedmaterial>
+      <bibliography id="a11" encodinganalog="581">
+         <p>
+            <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+         </p>
+      </bibliography>
+      <relatedmaterial encodinganalog="544__$n" id="a6">
+         <p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+      </relatedmaterial>
+      <appraisal id="a39" encodinganalog="583">
+         <p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+      </appraisal>
+      <controlaccess id="a12"><persname role="subject" encodinganalog="600">Johnston, Bill$c(Union organizer)$xArchives</persname>
+<corpname role="subject" encodinganalog="610">United Food and Commercial Workers International Union$xArchives</corpname>
+<subject encodinganalog="650">Labor$zWashington (State)
+</subject>
+<subject encodinganalog="650">Labor unions$zWashington (State)
+</subject>
+<subject encodinganalog="650">Labor movement$zWashington (State)
+</subject>
+<subject encodinganalog="650">Collective labor agreements$zWashington (State)
+</subject>
+<genreform source="lcgft" encodinganalog="655">Conference materials</genreform>
+<genreform source="lcgft" encodinganalog="655">Collective labor agreements</genreform>
+<genreform source="lcgft" encodinganalog="655">Handbooks and manuals</genreform>
+<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform>
+<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Washington (State)</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Labor-Management Cooperation Conference</unittitle>
+               <unitdate type="inclusive" normal="1989" era="ce" calendar="gregorian">1989</unitdate>
+            </did>
+            <scopecontent>
+               <p>Conference Materials</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Working Families Health Care Campaign</unittitle>
+               <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+            </did>
+            <scopecontent>
+               <p>Conference Materials</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>American Federation State, County and Municipal Employees
+				Council</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate>
+            </did>
+            <scopecontent>
+               <p>Conference Materials</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>United Brotherhood of Carpenters and Joiners of America:
+				Manual for Committee Members</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate>
+            </did>
+            <scopecontent>
+               <p>Manual</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>United Food and Commercial Workers Union Regional
+				Education Conference (Part 1 of 2)</unittitle>
+               <unitdate type="inclusive" normal="1985" era="ce" calendar="gregorian">1985</unitdate>
+            </did>
+            <scopecontent>
+               <p>Conference Materials</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>United Food and Commercial Workers Union Regional
+				Education Conference (Part 2 of 2)</unittitle>
+               <unitdate type="inclusive" normal="1985" era="ce" calendar="gregorian">1985</unitdate>
+            </did>
+            <scopecontent>
+               <p>Conference Materials</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Hotel Employees and Restaurant Employees International
+				Union Shop Steward Program</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">ca. 1993</unitdate>
+            </did>
+            <scopecontent>
+               <p>Conference Materials</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>"Union Security After Beck" Conference</unittitle>
+               <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+            </did>
+            <scopecontent>
+               <p>Conference Materials</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>International Association of Machinists and Aerospace
+				Workers, Union Steward Resource Manual (Part 1 of</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">ca. 1985</unitdate>
+            </did>
+            <scopecontent>
+               <p>District Lodge 751</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>International Association of Machinists and Aerospace
+				Workers, Union Steward Resource Manual</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">ca. 1985</unitdate>
+            </did>
+            <scopecontent>
+               <p>District Lodge 751</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Hotel Employees and Restaurant Employees, New Hotel
+				Development Training</unittitle>
+               <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Seattle Times Contract Review</unittitle>
+               <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Updated Seattle Times Contract</unittitle>
+               <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Seattle Times Contract</unittitle>
+               <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Horvitz Newspapers, Inc. Profit Sharing Plan</unittitle>
+               <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Contract Between Westmedia Corporation &amp; Communication
+				Workers of America</unittitle>
+               <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Scott Paper Company Contract Offer</unittitle>
+               <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Hotel Employees Restaurant Employees Pattern
+				Agreement</unittitle>
+               <unitdate type="inclusive" normal="2002" era="ce" calendar="gregorian">2002</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Contract Between Communication Workers of America &amp;
+				Sun Publishing Company</unittitle>
+               <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Contract Between City of Mercer Island and City
+				Employees</unittitle>
+               <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Washington Employers, Inc. Information</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">ca. 1995</unitdate>
+            </did>
+            <scopecontent>
+               <p>Onboarding Information</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Incentive Plan Philosphy for the Seattle Times Advertising
+				Department</unittitle>
+               <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Memorandum of Understanding Regarding Job Sharing between
+				The Seattle Times and Pacific Northwest Newspaper Guild</unittitle>
+               <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Memorandum of Understanding Regarding Job Sharing between
+				The Seattle Times and Pacific Northwest Newspaper Guild</unittitle>
+               <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Contract between the Aeronatical Industrial District Lodge
+				and...</unittitle>
+               <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Contract Between UFCW Local 1001 and Pacific Northwest
+				Newspaper Guild</unittitle>
+               <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Guild Contract between the Yakima Herald-Republic, Inc and
+				the Yakima Newspaper Guild</unittitle>
+               <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Labor Agreement Between Bremerton Printing Company and
+				Communications Workers of America</unittitle>
+               <unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Newspaper Agreement between the Communications Workers of
+				America Union Local No. 14761 and the Daily Herald Company</unittitle>
+               <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Agreement Between Communication Workers of America #14761
+				and the Daily Journal of Commerca</unittitle>
+               <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Labor Agreement Between Renton Printery, Inc and
+				Communications Workers of America, Local 14761</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">ca. 1992</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contract</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Public Employee CONFERENCE [part 1]</unittitle>
+               <unitdate type="inclusive" normal="1984/1990" era="ce" calendar="gregorian">1984-1990</unitdate>
+            </did>
+            <scopecontent>
+               <p>Materials from 1990 conference--includes readings from other dates
+				(1984, 1987)</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Public Employee CONFERENCE [part 2]</unittitle>
+               <unitdate type="inclusive" normal="1984/1990" era="ce" calendar="gregorian">1984-1990</unitdate>
+            </did>
+            <scopecontent>
+               <p>Materials from 1990 conference--includes readings from other dates
+				(1984, 1987). Part one is material from binder front pocket</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Public Employee CONFERENCE [part 3]</unittitle>
+               <unitdate type="inclusive" normal="1984/1990" era="ce" calendar="gregorian">1984-1990</unitdate>
+            </did>
+            <scopecontent>
+               <p>Materials from 1990 conference--includes readings from other dates
+				(1984, 1987)</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Stewards Resource Manual: Communications Workers of
+				America</unittitle>
+               <unitdate type="inclusive" normal="1989" era="ce" calendar="gregorian">1989</unitdate>
+            </did>
+            <scopecontent>
+               <p>Binder contained "Building Union on the Job" Steward's Training
+				copyright 1989</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>United Food Commercial Workers / Local 555 / Staff
+				Training Manual / Labor Education &amp; Research Center University of Oregon
+				[part 1]</unittitle>
+               <unitdate type="inclusive" normal="1981/1985" era="ce" calendar="gregorian">1981-1985</unitdate>
+            </did>
+            <scopecontent>
+               <p>"A Short History of American Labor" excerpted from AFL-CIO
+				publication</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>United Food Commercial Workers / Local 555 / Staff
+				Training Manual / Labor Education &amp; Research Center University of Oregon
+				[part 2]</unittitle>
+               <unitdate type="inclusive" normal="1981/1985" era="ce" calendar="gregorian">1981-1985</unitdate>
+            </did>
+            <scopecontent>
+               <p>"Local 555 / United Food Commercial Workers / AFL-CIO (American
+				Federation of Labor and Congress of Industrial Organizations) / Staff Training
+				Program / Presented by Labor Education and Research Center, University of
+				Oregon, Eugene / September 15-20, 1985 Training program materials--contains
+				wide variety of materials: articles, white papers, bios, appeals court
+				findings</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>United Food Commercial Workers / Local 555 / Staff
+				Training Manual / Labor Education &amp; Research Center University of Oregon
+				[part 3]</unittitle>
+               <unitdate type="inclusive" normal="1981/1985" era="ce" calendar="gregorian">1981-1985</unitdate>
+            </did>
+            <scopecontent>
+               <p>"Local 555 / United Food Commercial Workers / AFL-CIO (American
+				Federation of Labor and Congress of Industrial Organizations) / Staff Training
+				Program / Presented by Labor Education and Research Center, University of
+				Oregon, Eugene / September 15-20, 1985 (ctd.)</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>United Food Commercial Workers / Local 555 / Staff
+				Training Manual / Labor Education &amp; Research Center University of Oregon
+				[part 4]</unittitle>
+               <unitdate type="inclusive" normal="1981/1985" era="ce" calendar="gregorian">1981-1985</unitdate>
+            </did>
+            <scopecontent>
+               <p>Interesting "zine"-type item: How to run a union meeting / Workers
+				compensation facts booklet</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Budget / Ex(ecutive) Committee Monthly Reports [part
+				1]</unittitle>
+               <unitdate type="inclusive" normal="1994/1997" era="ce" calendar="gregorian">1994-1997</unitdate>
+            </did>
+            <scopecontent>
+               <p>Tabs: MEETING AGENDA, MINUTES, PER CAP Reports, Budget (also
+				correspondence)</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Budget / Ex(ecutive) Committee Monthly Reports [part
+				2]</unittitle>
+               <unitdate type="inclusive" normal="1994/1997" era="ce" calendar="gregorian">1994-1997</unitdate>
+            </did>
+            <scopecontent>
+               <p>Tab: MONTHLY Budget</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>WPEA (Washington Public Employees Association) Leading the
+				Way [part 1]</unittitle>
+               <unitdate type="inclusive" normal="1991/2002" era="ce" calendar="gregorian">1991-2002</unitdate>
+            </did>
+            <scopecontent>
+               <p>Contact lists for WPEA (Washington Public Employees Association),
+				"WPEA Job Representative/Shop Steward Guide", other</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>WPEA (Washington Public Employees Association) Leading the
+				Way [part 2]</unittitle>
+               <unitdate type="inclusive" normal="1991/2002" era="ce" calendar="gregorian">1991-2002</unitdate>
+            </did>
+            <scopecontent>
+               <p>StreetHeat--Mobilizing to Win: A Guide to Revitalizing the Labor
+				Movement by Mobilizing Members in Communities Across America (AFL-CIO/American
+				Federation of Labor and Congress of Industrial Organizations); Communications
+				Workers of America: Mobilizing for the '90s; Getting Organized: A guide to how
+				your union is built (WPEA)</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Issues in Collective Bargaining: Service Industries /
+				Service Employees International Union, AFL-CIO (American Federation of Labor
+				and Congress of Industrial Organizations), CLC (Canadian Labour Congress
+				?)</unittitle>
+               <unitdate type="inclusive" normal="1981/1982" era="ce" calendar="gregorian">1981-1982</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Keeping the Record Straight: How to meet your local
+				union's reporting, financial, record-keeping and other obligations</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>UFCW Local 555 staff training: collective barganing
+				workshop</unittitle>
+               <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Resource Manual: Stewards, Communications Workers of
+				America</unittitle>
+               <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>"Union Cities Planning Guide for Central Labor
+				Councils"</unittitle>
+               <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>1997 AFL-CIO Program Summary</unittitle>
+               <unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>The Information Superhighway: Exploring Strategies for
+				Workers, Summary of Conference Sessions</unittitle>
+               <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>"It's Time for Management Concessions"</unittitle>
+               <unitdate type="inclusive" normal="1983" era="ce" calendar="gregorian">1983</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Talking to Union Leaders about Smart Growth</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Common Sense Economics: The Basic Rap, AFL-CIO Economics
+				Education Project</unittitle>
+               <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Changing Work: A Union Guide to Workplace
+				Change</unittitle>
+               <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Hotel Employees and Restaurant Employees International
+				Union Officers' Report</unittitle>
+               <unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>High Hopes, Little Trust: A Study of Young Workers and
+				their Ups and Downs in the New Economy</unittitle>
+               <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>High Road Partnerships Report</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Hotel Employees and Restaurant Employees Shop Steward
+				Manual</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>International Association of Machinists and Aerospace
+				Workers: High Performance Work Organization Partnership</unittitle>
+               <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Letter from Robert Birge to Ronald Kurvnik on grievance of
+				Lisa Hubbard</unittitle>
+               <unitdate type="inclusive" normal="1988" era="ce" calendar="gregorian">1988</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Economic Development, AFL-CIO Human Resources Development
+				Institute</unittitle>
+               <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Seattle Times/ Gewspaper Guild contract
+				document</unittitle>
+               <unitdate type="inclusive" normal="1990/1995" era="ce" calendar="gregorian">1990-1995</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Service Employees International Union training workshop
+				materials</unittitle>
+               <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Communication Workers of America printshop
+				contracts</unittitle>
+               <unitdate type="inclusive" normal="1987/1994" era="ce" calendar="gregorian">1987-1994</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Shop steward manuals</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">1998, undated</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>United Food and Commerical Workers: organizing
+				seminar</unittitle>
+               <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>United Food and Commericial Workers International Union
+				Local 555: union representative training</unittitle>
+               <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Service Employees International Union conference : the
+				employer offensive</unittitle>
+               <unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>United Food and Commericial Workers Counvil No. 17/ Action
+				84</unittitle>
+               <unitdate type="inclusive" normal="1984" era="ce" calendar="gregorian">1984</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>United Food and Commercial Workers/ brochures</unittitle>
+               <unitdate type="inclusive" normal="1986/1988" era="ce" calendar="gregorian">1986-1988</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>TH Research, INC. A survey of the membership of the United
+				Food and Commercial workers</unittitle>
+               <unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>TH Research, INC. A survey of the membership of the United
+				Food and Commercial workers in Oregon and Washington</unittitle>
+               <unitdate type="inclusive" normal="1984" era="ce" calendar="gregorian">1984</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Posters and Brochures</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">ca. 1990s</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Washington State memo on union organizational efforts to
+				agency directors</unittitle>
+               <unitdate type="inclusive" normal="2002" era="ce" calendar="gregorian">2002</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Evergreen Negotiations Workshop</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">ca. 1989</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>United Food and Commercial Workers International
+				Union</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>UFCW booklets</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>The Organizing Campaign- Service Employees
+				International</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Barganing your SEIU contract- textbook and resource
+				material- Service Employees International, collective barganing
+				manual</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

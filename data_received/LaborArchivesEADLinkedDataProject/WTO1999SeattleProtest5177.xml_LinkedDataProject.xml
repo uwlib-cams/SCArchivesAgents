@@ -1,0 +1,5508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <!--OCLC 123954447-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WTO1999SeattleProtest5177.xml" encodinganalog="identifier" identifier="80444/xv08728">WTO1999SeattleProtest5177.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the World Trade
+			 Organization 1999 Seattle Ministerial Conference Protest Collection
+			 </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">World Trade
+			 Organization 1999 Seattle Ministerial Conference Protest
+			 Collection</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20071108" era="ce" calendar="gregorian">©2007</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date>
+		  </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised January,
+			 2012</date> 
+		  <item>Legacy inventory for accession 5177-003 converted. MC</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised 4/16/2013</date> 
+		  <item>Cleaned up converted EAD and added acc. 5177-012 NC</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">10/25/2013</date> 
+		  <item>Added Accession 5177-013 NC</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised February, 2014</date> 
+		  <item>Added pointers to Content DM digital surrogates. Conor
+			 Casey.</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised July, 2015</date> 
+		  <item>Added accession 5177-014. Emily Dominick</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised October, 2015</date> 
+		  <item>Added accession 5177-015. Emily Dominick</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">10/05/2016</date> 
+		  <item>Added meaningful and name intellectual subdivision titles and
+			 formatting to accession 003. Conor Casey</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised July, 2019</date> 
+		  <item>Added accession 5177-016. Kate Miller</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised October, 2019</date> 
+		  <item>Added additional information about map from 5177-003, tube 18.
+			 Emily Dominick</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised November, 2019</date> 
+		  <item>Added accession 5177-017. Kate Miller</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon" altrender="context"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid type="mss" encodinganalog="099">5177</unitid> 
+		<unittitle type="collection">World Trade Organization 1999 Seattle
+		  Ministerial Conference Protest collection</unittitle> 
+		<unittitle type="alternate">WTO Seattle collection</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1993/2011" era="ce" calendar="gregorian">1993-2011</unitdate> 
+		<physdesc encodinganalog="300$a"> <extent>46.85 cubic feet </extent>
+		  <extent>33 boxes</extent>
+		</physdesc>
+		<physdesc> <extent>27 videocassettes and 1 CD Rom disk</extent>
+		</physdesc>
+		<physdesc> <extent>5 oversize objects</extent>
+		</physdesc>
+		<physdesc> <extent>3 tubes</extent>
+		</physdesc>
+		<physdesc> <extent>2 packages</extent>
+		</physdesc>
+		<physdesc> <extent>1 vertical file</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Protest
+		  materials from the 1999 WTO Ministerial Conference held in Seattle</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <odd id="a2" type="hist"> 
+		<p>The WTO History Project and its associated archives are largely a
+		  response to the momentous protests that took place between November 29 and
+		  December 3, 1999 in Seattle during the World Trade Organization Ministerial
+		  meetings. The project also documents the mobilization that preceded the
+		  Ministerial. The protests were mounted by a wide array of groups and
+		  individuals, especially organized labor, environmentalists, and pro-democracy
+		  activists concerned that the WTO encouraged trade practices harmful to workers
+		  and the environment and operated in a manner which they considered largely
+		  undemocratic.</p> 
+		<p>The WTO History Project was a partnership based at the University of
+		  Washington that included the Harry Bridges Center for Labor Studies, the Center
+		  for Communication and Civic Engagement, and the University Libraries. The
+		  groups collaborated to ensure that future researchers of the WTO protests would
+		  have access to documentary evidence relating to the range of people involved in
+		  the protests, the many strategies and issues they brought to the streets and
+		  the meeting rooms, and the coalitions they formed.</p> 
+		<p>During the nearly nine month mobilization in 1999, local and national
+		  non-governmental groups representing a variety of interests determined how to
+		  publicize the threat posed by the WTO and how to frame their messages to
+		  attract the attention of the public, the media and the WTO itself. The lengthy
+		  and often contentious mobilization process led to a six-week period immediately
+		  preceding the protests during which activists prepared themselves and the
+		  public with public teach-ins, training, and debates. </p> 
+		<p>On November 30, 1999, first day of the ministerial meetings, thousands
+		  of largely peaceful protestors blocked delegates’ entrance to the opening
+		  plenary session. According to press reports, Seattle police in riot gear
+		  responded by releasing volleys of tear gas and pepper spray at 10:00 am and
+		  continued to do so throughout the day. The police eased up when the
+		  20,000-member labor march reached the downtown core from the Seattle Center,
+		  where a large rally had been held. WTO officials cancelled the opening
+		  ceremonies. At a time difficult to verify after the fact, Mayor Paul Schell
+		  declared a civil emergency, ordering streets to be cleared by 7:00 pm and
+		  imposing a curfew on a large area of downtown, from Yesler Way to Denny Way and
+		  from Interstate 5 to Elliott Bay. Word of the curfew reached people on the
+		  streets at about 4:00 pm. Some dispersed, but others remained and were herded
+		  out of downtown by police firing tear gas and pepper spray. At approximately
+		  10:00 pm the State Patrol reinforced the police. Scattered vandalism and
+		  looting of several downtown businesses had occurred during the day.</p> 
+		<p>Early the following day, Wednesday, December 1, Seattle police
+		  established a ‘demonstration-free zone’ around the WTO meeting site at the
+		  Seattle Convention and Trade Center. They severely restricted access to the
+		  area, but protests continued. The ministerial meeting was shut down for five
+		  hours that day. Governor Gary Locke sent additional State Patrol troopers and
+		  two National Guard units to relieve and assist the Seattle police. Clashes
+		  between protesters and police spilled over in the evening to Capitol Hill, east
+		  of downtown. By then the focus had shifted somewhat, away from the WTO and
+		  towards the police response to the protests. Several hundred protesters were
+		  arrested, and other protesters demonstrated outside the King County Jail.</p> 
+		<p> The following day the Mayor’s Office reduced the size of what it
+		  called a ‘limited curfew zone’ to the area bounded by Fourth Avenue, Pine
+		  Street, Boren Avenue, Seneca Street, and Interstate 5. Some protests were
+		  staged on Friday, especially inside the convention center. Protestors
+		  demonstrated outside the King County jail again on Friday evening. Eventually
+		  charges were dropped against most of the over 400 people arrested. </p> 
+	 </odd> 
+	 <arrangement> 
+		<p>Organized into 15 accessions.</p> 
+		<list type="simple"> 
+		  <item>Accession No. 5177-003, World Trade Organization, 1999 Seattle
+			 Ministerial Conference Protest Collection, 1993-2000</item> 
+		  <item>Accession No. 5177-004, World Trade Organization, 1999 Seattle
+			 Ministerial Conference Protest Collection, 1999</item> 
+		  <item>Accession No. 5177-005, World Trade Organization, 1999 Seattle
+			 Ministerial Conference Protest Collection, 1998-2000 December</item> 
+		  <item>Accession No. 5177-006, World Trade Organization, 1999 Seattle
+			 Ministerial Conference Protest Collection, 1999 October-2000 December</item> 
+		  <item>Accession No. 5177-007, World Trade Organization, 1999 Seattle
+			 Ministerial Conference Protest Collection, 1999-1999</item> 
+		  <item>Accession No. 5177-008, World Trade Organization, 1999 Seattle
+			 Ministerial Conference Protest Collection, 2000</item> 
+		  <item>Accession No. 5177-009, WTO Seattle collection, 1999</item> 
+		  <item>Accession No. 5177-010, WTO Seattle collection, 1999</item> 
+		  <item>Accession No. 5177-011, WTO Seattle collection, 1996-2000</item> 
+		  <item>Accession No. 5177-012, WTO Seattle collection, 2000</item> 
+		  <item>Accession No. 5177-013, WTO Seattle and global justice
+			 collection, 1998-2011</item> 
+		  <item>Accession No. 5177-014, WTO Seattle collection, 1999-2003</item> 
+		  <item>Accession No. 5177-015, Ruth Yarrow WTO Seattle protests
+			 collection, 1999</item> 
+		  <item>Accession No. 5177-016, World Trade Organization 1999 Seattle
+			 Ministerial Conference umbrella, bag, and media guide, 1999</item> 
+		  <item>Accession No. 5177-017, "No World Trade Without Workers Rights"
+			 WTO protest banner, 1999</item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>The WTO Seattle Collection is composed of one large and several
+		  smaller accessions. Accession 5177-003, the largest, primarily covers the
+		  period from mid-1999 to early 2000. Included are publicity materials, other
+		  ephemeral material distributed during various events, reports, published and
+		  unpublished writings about the many issues of concern to activists, photos,
+		  audio recordings, and communications among the activists who organized events.
+		  Oversize items include posters, signs used in teach-ins and protests, and rain
+		  ponchos and other objects worn or used in the protests. Personal accounts
+		  written after the protests describe the impact the events had on several
+		  individuals and often contrast sharply with media accounts of the same events.
+		  </p> 
+		<p>Many items in this collection were created by organizations identified
+		  in the finding aid as subgroups. Other items were received and kept by these
+		  groups to document issues and events. Many gifts of this material were sought
+		  and received by WTO History Project staff in the Harry Bridges Center for Labor
+		  Studies. Still other batches were collected by interested individuals and
+		  forwarded to the Libraries or to the Bridges Center. Subgroups have been
+		  established for the following records-creating organizations: the 
+		  <emph render="bold">RECORDS SUBGROUP I: DIRECT ACTION NETWORK</emph>, a
+		  loosely-organized non-hierarchical umbrella organization for groups of
+		  protestors; <emph render="bold">RECORDS SUBGROUP II: EARTHJUSTICE LEGAL DEFENSE
+		  FUND</emph>, a nonprofit law firm that represents public interest clients; the 
+		  <emph render="bold">RECORDS SUBGROUP III: INTERNATIONAL FORUM ON
+		  GLOBALIZATION</emph>, a coalition of organizations concerned about the effects
+		  of globalization; the <emph render="bold">RECORDS SUBGROUP IV: KING COUNTY
+		  LABOR COUNCIL</emph>; the Ralph Nader-sponsored <emph render="bold">RECORDS
+		  SUBGROUP V: PEOPLE FOR FAIR TRADE/NETWORK OPPOSED TO WTO </emph> and its UW
+		  student affiliate organization; and <emph render="bold">RECORDS SUBGROUP VI:
+		  PUBLIC CITIZEN'S GLOBAL TRADE WATCH</emph>, a coalition of trade and labor
+		  groups. The <emph render="bold">RECORDS SUBGROUP VII: ALAN RABINOWITZ</emph>
+		  includes materials contributed by Dr. Rabinowitz, a Seattle resident who helped
+		  fund educational activities in advance of the Ministerial. Included in it,
+		  besides audio cassettes of World Trade Watch are printed e-mails of preparatory
+		  reports, of writings of various friends and contacts of Rabinowitz, of
+		  correspondence about the creation of the Independent Media Center, and of news
+		  articles.</p> 
+		<p>Although the <emph render="bold">RECORDS SUBGROUP VIII: NGO COMMITTE
+		  FOR THE SEATTLE HOST ORGANIZATION</emph>, the organization that sponsored the
+		  Ministerial is represented by a subgroup, this segment is very small and
+		  consists mainly of packets and other information for delegates. </p> 
+		<p>During processing in 2000-2001, materials were also grouped
+		  chronologically within each subgroup. “ Pre-WTO” reflects advance planning and
+		  reports about issues posed by the World Trade Organization. “During WTO”
+		  documents activities during the week of the Ministerial meetings, November
+		  29-December 3. “Post-WTO” includes subsequent analyses as well as local
+		  materials which address the activists’ counter-response to the police actions
+		  during the Ministerial week.</p> 
+		<p>Major correspondents include Alan Rabinowitz; Jeremy Simer, an
+		  activist with People for Fair Trade/No to WTO; and Patti Goldman, an attorney
+		  with the Earthjustice Legal Defense Fund and the environmental community’s
+		  representative to the Seattle Host Organization. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p/> 
+	 </odd> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users, but access to portions of the collection is
+		  restricted. Contact repository for details.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Some restrictions exist on copying, quotation or publication. Contact
+		  Repository for details. </p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p/> 
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p/> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"/> </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p/> 
+	 </relatedmaterial> 
+	 <controlaccess id="persname"> 
+		<persname role="creator" encodinganalog="700" source="lcnaf" rules="aacr2">Goldman, Patti</persname> 
+		<persname role="creator" encodinganalog="700" source="lcnaf" rules="aacr2">Rabinowitz, Alan</persname> 
+		<persname role="creator" encodinganalog="700" source="lcnaf" rules="aacr2">Simer, Jeremy</persname> 
+		<corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">AFL-CIO.$bKing County Labor Council of Washington</corpname> 
+		<corpname role="creator" encodinganalog="710" source="uwsc-naf" rules="aacr2">Direct Action Network</corpname> 
+		<corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Earthjustice Legal Defense Fund</corpname> 
+		<corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Institute For Agriculture And Trade Policy</corpname> 
+		<corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">International Forum On Globalization</corpname> 
+		<corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">People For Fair Trade</corpname> 
+		<corpname role="creator" encodinganalog="710" source="lcnaf" rules="aacr2">Public Citizen's Global Trade Watch</corpname> 
+		<corpname role="subject" encodinganalog="610" source="lcnaf" rules="aacr2">World Trade Organization. Ministerial Conference</corpname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="lcsh" encodinganalog="650">Anti-globalization
+		  movement$zWashington (State)$zSeattle</subject> 
+		<subject source="lcsh" encodinganalog="650">Protest movements$zWashington
+		  (State)$zSeattle</subject> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Civic
+		  Activism</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U2" type="accession">5177-003</unitid> 
+			 <unittitle id="G3">World Trade Organization, 1999 Seattle Ministerial
+				Conference Protest Collection</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1993-2000</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">31.17 cubic feet</extent>
+				<extent encodinganalog="300$a">15 boxes, 3 tubes, 5 oversized
+				objects</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Issue files consisting primarily of clippings as well as
+				organizational files and ephemera used by People for Fair Trade/No To WTO.
+				Records of other organizations such as Direct Action Network, EarthJustice
+				Legal Defense Fund, International Forum On Globalization, King County Labor
+				Council, No To WTO/UW, and Seattle Host Organization NGO Committee include:
+				correspondence, email, calendars, packets, minutes, newsletters, news releases,
+				speeches and writings, publications, ephemera, posters, videotapes, artifacts,
+				maps, lists. Also includes personal accounts, audio tapes, photographs,
+				ephemera, posters, and picket signs, from other sources, documenting opposition
+				groups' preparations for the WTO round in Seattle, WTO week protests and events
+				and the aftermath, 1999-2000.</p> 
+		  </scopecontent> 
+		  <altformavail> 
+			 <p> 
+				<extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" xpointer="5177-003" linktype="simple">View selections from this
+				  collection in digital format</extref> </p> 
+		  </altformavail> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users, but access to portions of the papers
+				restricted. Contact repository for details.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Some restrictions exist on copying, quotation or publication.
+				Contact Repository for details.</p> 
+		  </userestrict> 
+		  <processinfo> 
+			 <p>Accession 5177-003 was formed by a merger of accession 5177-001
+				received 4/29/2000 and accession 5177-002 received 1/5/2001.</p> 
+		  </processinfo> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<unitid>RECORDS SUBGROUP I</unitid> 
+				<unittitle id="G4"><emph render="bold">DIRECT ACTION NETWORK (DAN)
+				  </emph>)</unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <unittitle id="G5"><emph render="bold">Part 1:
+					 Pre-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/1</container> 
+					 <unittitle id="G6">Organizing Packets</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/2</container> 
+					 <unittitle id="G7">Agenda – Neighborhood Groups
+						Meeting</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">8/28/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/3</container> 
+					 <unittitle id="G8">Memoranda</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/4</container> 
+					 <unittitle id="G9">Subject Series - Street Theater
+						Convergence</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/5</container> 
+					 <unittitle id="G10">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G11"><emph render="bold">Part 2: During
+						WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/6</container> 
+					 <unittitle id="G12">Action Packet</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/7-8</container> 
+					 <unittitle id="G13">Bibliographies—News Articles re WTO
+						Protests</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/30/1999-1/6/2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G14">Subject Series</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/9</container> 
+						<unittitle id="G15">Legal Team</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/10</container> 
+						<unittitle id="G16">Radical Jeerleaders’ Cheers</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/11</container> 
+					 <unittitle id="G17">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G18">Artifacts (Used at Teach-In, in DAN
+						  office, and during Week of WTO) OVERSIZED</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G19">Flags</unittitle> 
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">15/1</container> 
+						  <unittitle id="G20">Yellow/Gray “Resist”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G21">Red/Blue “Rise Up”</unittitle> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G22">Posters</unittitle> 
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">15/2</container> 
+						  <unittitle id="G23">“November 30, 1999—Resist the
+							 WTO”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G24">“World Trade Organization—What Are
+								They Trading Away?”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G25">“No To WTO!”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G26">“Vote”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G27">“Alienation”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G28">“The WTO is Biocide”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G29">“We Oppose the WTO”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G30">“Whose World Are They Trading
+								Away?”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">15/3</container> 
+						  <unittitle id="G31">“Peaceful Protest Zone”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G32">“Tell the WTO”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G33">“Things We Oppose:”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G34">“Citizens’ Trade
+								Campaign”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G35">“Sierra Club. No
+								Globalization”</unittitle> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/1</container> 
+						<unittitle id="G36">DAN Legal Team ID Badge</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G37"><emph render="bold"><emph render="bold">Part 3: Post-WTO</emph> </emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/12</container> 
+					 <unittitle id="G38">Organization – DAN Continental
+						Confederation</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/13</container> 
+					 <unittitle id="G39">General Correspondence</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/14</container> 
+					 <unittitle id="G40">Meeting Notes</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G41">Subject Series</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/15-17</container> 
+						<unittitle id="G42">Legal Team</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/18</container> 
+						<unittitle id="G43">Medical Collective</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/19</container> 
+					 <unittitle id="G44">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unitid>RECORDS SUBGROUP II</unitid> 
+				  <unittitle id="G45"><emph render="bold">EARTHJUSTICE LEGAL
+					 DEFENSE FUND</emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G46"><emph render="bold">Part 1:
+						Pre-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/20</container> 
+					 <unittitle id="G47">Outgoing Letter</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">7/15/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/21</container> 
+					 <unittitle id="G48">Calendars</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G49">Speeches and Writings</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/22</container> 
+						<unittitle id="G50"> 
+						  <title render="italic" linktype="simple">Goldman, P. and J. Fawcett-Long,
+							 Farms and Food Safety At Risk</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/23</container> 
+						<unittitle id="G51"> 
+						  <title render="italic" linktype="simple">Goldman, P. &amp; J. Scott, Our
+							 Forests at Risk</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">9/1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/24</container> 
+						<unittitle id="G52"> 
+						  <title render="italic" linktype="simple">Goldman, P. &amp; M. Wagner, Trading
+							 Away Public Health</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/25</container> 
+						<unittitle id="G53"> 
+						  <title render="italic" linktype="simple">Puckett, Jim, When Trade is
+							 Toxic</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/26</container> 
+						<unittitle id="G54"> 
+						  <title render="italic" linktype="simple">Wagner, M. &amp; P. Goldman, The
+							 Case for Rethinking the WTO</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/27</container> 
+						<unittitle id="G55">Miscellaneous</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G56">Subject Series</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/28</container> 
+						<unittitle id="G57">Billboard Campaign</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/29</container> 
+						<unittitle id="G58">Coffee, Birds and Trade
+						  Policy</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/30</container> 
+						<unittitle id="G59">Environmental Media Services
+						  Briefing</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/31</container> 
+						<unittitle id="G60">Sierra Club - Bioinvasions</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/32</container> 
+						<unittitle id="G61">Trade Pacts</unittitle> 
+						<unitdate era="ce" calendar="gregorian">7/24/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/33</container> 
+					 <unittitle id="G62"> 
+						<title render="italic" linktype="simple">Newsletters – WTO News: The Road To
+						  Seattle</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">9/10 – 10/20/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/34</container> 
+					 <unittitle id="G63">News Release</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/1/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/35</container> 
+					 <unittitle id="G64">Ephemera</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">9/7/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/36</container> 
+					 <unittitle id="G65">Clippings</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G66"><emph render="bold">Part 2: During
+						WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/37</container> 
+					 <unittitle id="G67">Calendars &amp; Schedules</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/38</container> 
+					 <unittitle id="G68">Lists – Delegates and Observers</unittitle>
+					 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/39</container> 
+					 <unittitle id="G69"> 
+						<title render="italic" linktype="simple">Videotape—The WTO’s Race to the
+						  Bottom</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/40-41</container> 
+					 <unittitle id="G70"> 
+						<title render="italic" linktype="simple">Newsletter – World Trade
+						  Observer</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">Nov-Dec. 1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/42</container> 
+					 <unittitle id="G71">News Release</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/1/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/43</container> 
+					 <unittitle id="G72">Photographs (Negatives only)</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unitid>RECORDS SUBGROUP III:</unitid> 
+				  <unittitle id="G73"><emph render="bold"> INTERNATIONAL FORUM ON
+					 GLOBALIZATION </emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G74"><emph render="bold">Part 1:
+						Pre-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/44</container> 
+					 <unittitle id="G75">Organization</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/45</container> 
+					 <unittitle id="G76">News Release</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/46</container> 
+					 <unittitle id="G77"> 
+						<title render="italic" linktype="simple">Timeline—The Trouble With Trade,
+						  1944-1999</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/47</container> 
+					 <unittitle id="G78">Report – “Beyond The WTO”</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/26/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/48</container> 
+					 <unittitle id="G79">List – WTO Publications</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G80">Speeches and Writings</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/49</container> 
+						<unittitle id="G81"> 
+						  <title render="italic" linktype="simple">Anderson, Sarah, Ed., Views From the
+							 South</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/50</container> 
+						<unittitle id="G82"> 
+						  <title render="italic" linktype="simple">Barker, D. &amp; J. Mander,
+							 Invisible Government</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/51</container> 
+						<unittitle id="G83"> 
+						  <title render="italic" linktype="simple">Clarke, Tony, By What
+							 Authority!</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/52</container> 
+						<unittitle id="G84"> 
+						  <title render="italic" linktype="simple">Menotti, Victor, Free Trade, Free
+							 Logging</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/53</container> 
+						<unittitle id="G85"> 
+						  <title render="italic" linktype="simple">Unidentified, “Eight Myths of
+							 Economic Globalization”</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G86"><emph render="bold">Part 2: During
+						WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/54</container> 
+					 <unittitle id="G87">Audiocassettes (2)—Teach-In</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/26-27/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/55</container> 
+					 <unittitle id="G88">Videotape—Town Hall Debate</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/30/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/56</container> 
+					 <unittitle id="G89">Invitation</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/57</container> 
+					 <unittitle id="G90">News Releases</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unitid>RECORDS SUBGROUP IV</unitid> 
+				  <unittitle id="G91"><emph render="bold">KING COUNTY LABOR
+					 COUNCIL</emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G92"><emph render="bold">Part 1:
+						Pre-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/58</container> 
+					 <unittitle id="G93">Incoming Letter – Labor Party. Seattle
+						Chapter</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/59</container> 
+					 <unittitle id="G94">Outgoing Letter - Invitation to Student
+						Activists re WTO Rally</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/3/1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/60</container> 
+					 <unittitle id="G95">Planning Packet</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/61</container> 
+					 <unittitle id="G96">Packet – “Workers’ Rights and the World
+						Trade Organization (AFL-CIO)</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G97">Subject Series</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/62</container> 
+						<unittitle id="G98">Baskin, Martha</unittitle> 
+						<unitdate era="ce" calendar="gregorian">8/2/99-2/12/2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/63</container> 
+						<unittitle id="G99">Coalition of Labor Union
+						  Women</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/64</container> 
+						<unittitle id="G100">Herman, Alexis, US Secretary of Labor,
+						  Speech</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/25/1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/65</container> 
+						<unittitle id="G101">Port Truck Driver Campaign</unittitle> 
+						<unitdate era="ce" calendar="gregorian">9/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/66</container> 
+						<unittitle id="G102">Washington State Labor
+						  Council</unittitle> 
+						<unitdate era="ce" calendar="gregorian">9/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/67</container> 
+					 <unittitle id="G103"> 
+						<title render="italic" linktype="simple">Newsletters—Labor’s Voice</title>
+						</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">10/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/68</container> 
+					 <unittitle id="G104">Speeches and Writings</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G105"> 
+							 <title render="italic" linktype="simple">Feldman, Rich, “New Rules For the
+								Global Economy”</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">9/15/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/69</container> 
+					 <unittitle id="G106">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G107"><emph render="bold">Part 2:
+						Post-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/70</container> 
+					 <unittitle id="G108">Speeches and Writings – Ohio AFL-CIO
+						President</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">2/15/00</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unitid>RECORDS SUBGROUP V:</unitid> 
+				  <unittitle id="G109"><emph render="bold"> NO! TO WTO--UW
+					 </emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G110"><emph render="bold">Part 1:
+						Pre-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/71</container> 
+					 <unittitle id="G111">Incoming Letters – King County Labor
+						Council</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/3/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G112">Newsletters</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/72</container> 
+						<unittitle id="G113"> 
+						  <title render="italic" linktype="simple">Corporate Watch</title> </unittitle>
+						
+						<unitdate era="ce" calendar="gregorian">9/98-8/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/73</container> 
+						<unittitle id="G114"> 
+						  <title render="italic" linktype="simple">Eat The State</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">9&amp;11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G115"> 
+							 <title render="italic" linktype="simple">Justice</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">9-10/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G116"> 
+							 <title render="italic" linktype="simple">Ruckus</title> </unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/74</container> 
+						<unittitle id="G117"> 
+						  <title render="italic" linktype="simple">Sweatshop Watch</title> </unittitle>
+						
+						<unitdate era="ce" calendar="gregorian">10/20/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/75</container> 
+					 <unittitle id="G118">Personal Account – Ramy Khalil</unittitle>
+					 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G119">Subject Series</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/76</container> 
+						<unittitle id="G120">Committees</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/77</container> 
+						<unittitle id="G121">Maquiladora Industry</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/20/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/78-80</container> 
+					 <unittitle id="G122">Guides For Organizers</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/81</container> 
+					 <unittitle id="G123">Background Facts re WTO</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/82</container> 
+					 <unittitle id="G124">Surveys</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G125">Speeches and Writings</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/1</container> 
+						<unittitle id="G126"> 
+						  <title render="italic" linktype="simple">Hyde, David, “The WTO Does Not
+							 Affect You!”</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/28/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/2</container> 
+						<unittitle id="G127"> 
+						  <title render="italic" linktype="simple">Murphy, Gillian &amp; L. Mogford and
+							 D. Hyde, “A Marxist Analysis of the World Trade Organization”</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/25/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/3</container> 
+						<unittitle id="G128"> 
+						  <title render="italic" linktype="simple">Unidentified, “Welcome fellow
+							 Students!”</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/30/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G129">Speeches and Writings by
+						  Others</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/4</container> 
+						<unittitle id="G130"> 
+						  <title render="italic" linktype="simple">Clinton, Bill. Remarks By the
+							 President at the Democratic Leadership Council Gala</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/13/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/5</container> 
+						<unittitle id="G131"> 
+						  <title render="italic" linktype="simple">Lucas, Caroline, Watchful In
+							 Seattle</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/6</container> 
+						<unittitle id="G132">Miller, Scott. Director, National
+						  Government Relations, Proctor &amp; Gamble. Statement Before the Interagency
+						  Trade Policy Staff Committee</unittitle> 
+						<unitdate era="ce" calendar="gregorian">6/7/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/7</container> 
+						<unittitle id="G133"> 
+						  <title render="italic" linktype="simple">Schweke, William and Robert K.
+							 Stumberg, Could Economic Development Become Illegal In the New Global Policy
+							 Environment?</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">7/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/8-16</container> 
+						<unittitle id="G134">Copies of Published Articles</unittitle>
+						
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/17</container> 
+					 <unittitle id="G135">Clippings</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/18</container> 
+					 <unittitle id="G136">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G137"><emph render="bold">Part 2: During
+						WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/19</container> 
+					 <unittitle id="G138">Organizer’s Guide</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G139">Ephemera</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/20</container> 
+						<unittitle id="G140">Student Walkout</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/21</container> 
+						<unittitle id="G141">Misc.</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G142"><emph render="bold">Part 3:
+						Post-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/22</container> 
+					 <unittitle id="G143"> 
+						<title render="italic" linktype="simple">Newsletter – Ruckus</title>
+						</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1/2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/23</container> 
+					 <unittitle id="G144">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unitid>RECORDS SUBGROUP VI</unitid> 
+				  <unittitle id="G145"><emph render="bold">PEOPLE FOR FAIR TRADE/NO
+					 TO WTO</emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G146"><emph render="bold">Part 1:
+						Pre-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/24</container> 
+					 <unittitle id="G147">Organization - Website</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/25</container> 
+					 <unittitle id="G148">Incoming Letters</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">8/6 – 9/7/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/26</container> 
+					 <unittitle id="G149">Outgoing Letters</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">7/30/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/27-28</container> 
+					 <unittitle id="G150">Meeting Notes</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">7/9 – 8/24/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/29</container> 
+					 <unittitle id="G151">Memoranda</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/30-31</container> 
+					 <unittitle id="G152">Calendars</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/32</container> 
+					 <unittitle id="G153">Pledge Cards</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G154">Lists</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/33</container> 
+						<unittitle id="G155">Ballard Meeting Facilities</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/34</container> 
+						<unittitle id="G156">Experts, Speakers, Meeting
+						  Attendance</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/35-36</container> 
+						<unittitle id="G157">Media Web Sites</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/37</container> 
+						<unittitle id="G158">Websites</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/38</container> 
+						<unittitle id="G159">WTO Project</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/39</container> 
+					 <unittitle id="G160">Maps</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">10/1</container> 
+					 <unittitle id="G161">Telephone Logs 11/18/99 – 3/14/00 CLOSED
+						until 5/2005</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/40</container> 
+					 <unittitle id="G162">Packet–“Loaded against the poor, World
+						Trade Organisation” Oxfam</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G163">Newsletters</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/41</container> 
+						<unittitle id="G164"> 
+						  <title render="italic" linktype="simple">Buckhorn Bulletin</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">8/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G165"> 
+							 <title render="italic" linktype="simple">Center Focus</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G166"> 
+							 <title render="italic" linktype="simple">Corporate Europe Observer</title>
+							 </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">7/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/42</container> 
+						<unittitle id="G167"> 
+						  <title render="italic" linktype="simple">Drillbits &amp; Tailings</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/23/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/43</container> 
+						<unittitle id="G168"> 
+						  <title render="italic" linktype="simple">High Country News</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">9/97</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/44</container> 
+						<unittitle id="G169"> 
+						  <title render="italic" linktype="simple">Report From Washington</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">2/6/98</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/45</container> 
+						<unittitle id="G170"> 
+						  <title render="italic" linktype="simple">Washington Trout Report1998</title>
+						  </unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G171">Publications</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/46</container> 
+						<unittitle id="G172">Asia Pacific Environmental
+						  Exchange</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/99, n.d</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/47</container> 
+						<unittitle id="G173">“Handbood for Nonviolent
+						  Action”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/48</container> 
+						<unittitle id="G174"> 
+						  <title render="italic" linktype="simple">Multinational Monitor</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">10-11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/49</container> 
+						<unittitle id="G175">NAFTA Superhighways</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1998</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/50</container> 
+						<unittitle id="G176">“One Big Movement, Creating the End of
+						  Corporate Rule”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/51</container> 
+						<unittitle id="G177">“The WTO, Global Capitalism and the
+						  Socialist Alternative” publ. by Justice</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/52</container> 
+					 <unittitle id="G178">Writing – Madsen, Jeremy</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">9/4/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G179">Speeches and Writings by
+						  Others</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/53</container> 
+						<unittitle id="G180">Statements re: International Day of
+						  Action Against the WTO</unittitle> 
+						<unitdate era="ce" calendar="gregorian">9/15/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/54</container> 
+						<unittitle id="G181">Collingsworth, Terry, “U.S. Advocacy for
+						  Reform of the WTO—Progress or Posturing?”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/55</container> 
+						<unittitle id="G182">Cornwell, Rachel and Andrew Wells,
+						  “Deploying Insecurity”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/56</container> 
+						<unittitle id="G183"> 
+						  <title render="italic" linktype="simple">Korten, David C., The Lexus and the
+							 Olive Tree A Book Review</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/57</container> 
+						<unittitle id="G184">Lamy, Pascal, “Communication from the
+						  Trade DG of the European Commission”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/6/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/58</container> 
+						<unittitle id="G185">Mokhiber, Russell &amp; Robert Weissman,
+						  “10 Reasons to Dismantle the WTO”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/59</container> 
+						<unittitle id="G186">Unidentified, “Ministerial Decision on
+						  Trade, Globalisation, Development and Labour Issues”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">3/12/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/60</container> 
+						<unittitle id="G187">Newsletter Articles from
+						  e-Newsletters</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/61</container> 
+					 <unittitle id="G188">Fact Sheets</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G189">Subject Series</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/62</container> 
+						<unittitle id="G190">Adbusters Originals</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/63</container> 
+						<unittitle id="G191">Animal Rights</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/64</container> 
+						<unittitle id="G192">Ballard-Fremont Neighborhood</unittitle>
+						
+						<unitdate era="ce" calendar="gregorian">8/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/65</container> 
+						<unittitle id="G193">Bananas</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/66-67</container> 
+						<unittitle id="G194">Churches</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/68</container> 
+						<unittitle id="G195">Clise Property</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/69</container> 
+						<unittitle id="G196">Delegate Visa Problems</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/8/1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/70-74</container> 
+						<unittitle id="G197">Democracy/Legalities</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999, n.d.</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/75</container> 
+						<unittitle id="G198">Downtown Seattle Association</unittitle>
+						
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/76</container> 
+						<unittitle id="G199">Education/Youth</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/77</container> 
+						<unittitle id="G200">Environment Issues</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10 – 11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/78</container> 
+						<unittitle id="G201">Forests</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/79</container> 
+						<unittitle id="G202">Fundraisers</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/4/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/80-81</container> 
+						<unittitle id="G203">Health</unittitle> 
+						<unitdate era="ce" calendar="gregorian">6/99, n.d.</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/82</container> 
+						<unittitle id="G204">Joint Pledge Card Proposal</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/83</container> 
+						<unittitle id="G205">King County Council
+						  Resolution</unittitle> 
+						<unitdate era="ce" calendar="gregorian">8-9/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/84-86</container> 
+						<unittitle id="G206">Labor</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999, n.d.</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/87</container> 
+						<unittitle id="G207">Larson, Eric</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/88-89</container> 
+						<unittitle id="G208">Logistics</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/99, nd.</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/90</container> 
+						<unittitle id="G209">Methodist Church</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999, n.d.</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/91</container> 
+						<unittitle id="G210">NGO Press Center</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/92</container> 
+						<unittitle id="G211">Neighborhood Organizations</unittitle> 
+						<unitdate era="ce" calendar="gregorian">8-9/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/93</container> 
+						<unittitle id="G212">No! WTO Student Teach-In</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/6/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/94</container> 
+						<unittitle id="G213"> 
+						  <title render="italic" linktype="simple">“The Opposition”—CIBER/UW, Simer,
+							 Jeremy</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">7/99, n.d.</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/95</container> 
+						<unittitle id="G214"> 
+						  <title render="italic" linktype="simple">“The Opposition”—WTO &amp; SHO
+							 Information, Simer, Jeremy</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/96</container> 
+						<unittitle id="G215">Seattle Student/Youth
+						  Organizing</unittitle> 
+						<unitdate era="ce" calendar="gregorian">8-9/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/97-101</container> 
+						<unittitle id="G216">Social Justice</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/102</container> 
+						<unittitle id="G217">Street Committee</unittitle> 
+						<unitdate era="ce" calendar="gregorian">8/25/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/103-105</container> 
+						<unittitle id="G218">Trade/WTO Anti-Corp</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1998-99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/106</container> 
+						<unittitle id="G219">Trade/WTO Pro-Trade</unittitle> 
+						<unitdate era="ce" calendar="gregorian">n.d.</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/107-110</container> 
+						<unittitle id="G220">Trade/WTO—Trade Treaties</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1993-99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/111</container> 
+						<unittitle id="G221">Volunteers</unittitle> 
+						<unitdate era="ce" calendar="gregorian">9-11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/112</container> 
+						<unittitle id="G222">Washington Council on International
+						  Trade</unittitle> 
+						<unitdate era="ce" calendar="gregorian">5/2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/113</container> 
+						<unittitle id="G223">Workers &amp; Families For Free
+						  Trade</unittitle> 
+						<unitdate era="ce" calendar="gregorian">n.d.</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/1</container> 
+					 <unittitle id="G224">Notice re Noise Ordinance</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/2</container> 
+					 <unittitle id="G225">Resolutions - Labor</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/3</container> 
+					 <unittitle id="G226">Conference - Evergreen State
+						College</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">10/23-24/1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/4</container> 
+					 <unittitle id="G227">Graphics</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/5</container> 
+					 <unittitle id="G228">Notes</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/6-7</container> 
+					 <unittitle id="G229">News Releases</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/8-11</container> 
+					 <unittitle id="G230">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/12-27</container> 
+					 <unittitle id="G231">Chronological Files (Mostly
+						clippings)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">6/99-11/28/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/28</container> 
+					 <unittitle id="G232">Clippings</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/24-25/1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/29-38</container> 
+					 <unittitle id="G233">Clippings - Articles, In-Depth</unittitle>
+					 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G234">Posters OVERSIZED</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">14/1</container> 
+						<unittitle id="G235">Information about WTO and its record
+						  --Foamboard 3-panel</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">Tube 17</container> 
+						<unittitle id="G236">No To WTO Teach-In</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/6/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G237"><emph render="bold">Part 2: During
+						WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/36</container> 
+					 <unittitle id="G238">Schedule</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/37</container> 
+					 <unittitle id="G239">Notebook – “Front Desk
+						Information”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G240">Speeches and Writings</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/38</container> 
+						<unittitle id="G241">Chants</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/39</container> 
+						<unittitle id="G242">Humane Society of the United
+						  States</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/29/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G243">Subject Series</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/40</container> 
+						<unittitle id="G244">Food and Agriculture Day</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">10/2</container> 
+						<unittitle id="G245">Infernal Noise Brigade</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/41</container> 
+						<unittitle id="G246">Medics—Re Basic Medic Kit</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/22/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/42</container> 
+						<unittitle id="G247">Oleoresin Capsicum (Pepper
+						  Spray)</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/30/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/43</container> 
+						<unittitle id="G248">Protest Targets</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/44</container> 
+						<unittitle id="G249">Seattle International Peoples’
+						  Assembly</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/45</container> 
+						<unittitle id="G250">Volunteers</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/28-12/3/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/46</container> 
+						<unittitle id="G251">Women, Development, Democracy Day at
+						  WTO</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/47</container> 
+						<unittitle id="G252">WTO Ministerial</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G253">Publications</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/48</container> 
+						<unittitle id="G254"> 
+						  <title render="italic" linktype="simple">Belltown’s Regrade Dispatch</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">12/12/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/49</container> 
+						<unittitle id="G255"> 
+						  <title render="italic" linktype="simple">The Spectator (Seattle
+							 University)</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">12/2/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/50</container> 
+					 <unittitle id="G256">Newsletters</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/51</container> 
+					 <unittitle id="G257">News Releases</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/52</container> 
+					 <unittitle id="G258">Maps</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="tube:oversize">18</container> 
+					 <unittitle id="G259">Map OVERSIZED</unittitle> 
+					 <note> 
+						<p>Large map of downtown Seattle used by the Direct Action
+						  Network in planning the shut-down of downtown Seattle Nov. 30, with the
+						  Convention Center at the epicenter and "pie slices" radiating outward; each of
+						  these slices was adopted by an "affinity group" or "cluster" of affinity groups
+						  and it was their responsibility to blockade their particular slice. </p> 
+					 </note> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/53</container> 
+					 <unittitle id="G260">Photographs</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/54</container> 
+					 <unittitle id="G261">Financial Records</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/55-57</container> 
+					 <unittitle id="G262">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G263">Artifacts</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/2</container> 
+						<unittitle id="G264">Armband, black, reads: “City-Wide
+						  Walkout”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/3</container> 
+						<unittitle id="G265">Bumper Stickers</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/4</container> 
+						<unittitle id="G266">Buttons</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/5</container> 
+						<unittitle id="G267">Cigarettes (presented to people released
+						  from jail)</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/6</container> 
+						<unittitle id="G268">Hat, Parade Marshall’s</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G269">Particulate Mask</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/8</container> 
+						<unittitle id="G270">Photograph of Dee Dee Rainbow,
+						  autographed</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/9</container> 
+						<unittitle id="G271">Police Tape (false) reads: “Unseen
+						  Crimes”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/10</container> 
+						<unittitle id="G272">Swim Goggles</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/11</container> 
+						<unittitle id="G273">T-Shirt, black, torn piece</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">11/12</container> 
+						<unittitle id="G274">Item list, with notes, by Jeremy
+						  Simer</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G275">Posters OVERSIZED</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/1</container> 
+						<unittitle id="G276">Calendars</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/2</container> 
+						<unittitle id="G277">“Fremont/Ballard
+						  Neighborhood”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G278">Handmade sign announcing opening of
+							 Network Opposed To World Trade Organization offices</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G279">Agenda (Handmade sign)</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G280">“Showdown In Seattle”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G281">“Congratulations, Seattle”</unittitle>
+						  
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G282">“The Golf War”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/3</container> 
+						<unittitle id="G283">Miscellaneous Posters distributed by
+						  Dana Schuerholz</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/4</container> 
+						<unittitle id="G284">Sierra Club</unittitle> 
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G285">“The Grinch Who Stole
+								Christmas”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G286">“Make Trade Clean, Green, and
+								Fair”</unittitle> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder"/> 
+							 <unittitle id="G287">“No Globalization”</unittitle> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/5</container> 
+						<unittitle id="G288">“Tell Schell”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G289">“Stop the Corporate World
+							 Takeover”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G290">“Benefit!”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G291">“Beyond the WTO
+							 Ministerial”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G292">“Do You Know?”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/6</container> 
+						<unittitle id="G293">“That’s Right, Tiffany”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G294">“Nine Things to Do”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G295">“Shhhhhh”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G296">World Trade Organization
+							 (Turtle)</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">13/7</container> 
+						<unittitle id="G297"> “Defend Free Speech” (Handmade
+						  Poster)</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G298">“Fair Trade”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G299">“Food and Agriculture Day”</unittitle>
+						  
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G300">“Stop the WTO!”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G301">“We Believe in Fair Trade, How About
+							 You, Al Gore?”</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">Tube 16</container> 
+					 <unittitle id="G302">Banner OVERSIZED</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G303">“WTO Hurts Working Families--Seattle
+							 Center Rally and Meeting Nov. 30/1999 8 am” (street banner—white with red
+							 Letters—airflow cuts)</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G304"><emph render="bold">Part 3:
+						Post-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/58</container> 
+					 <unittitle id="G305">Minutes</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/13/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/59</container> 
+					 <unittitle id="G306">Incoming Letters</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/7/99-7/28/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/60</container> 
+					 <unittitle id="G307">Outgoing Letter</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/61</container> 
+					 <unittitle id="G308">Speeches and Writings - Atkin, Jerry, Jobs
+						With Justice</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G309">Subject Series</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/62</container> 
+						<unittitle id="G310">N30 Mural Project</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/63</container> 
+						<unittitle id="G311">Views on Food and Agriculture
+						  Day</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/64</container> 
+					 <unittitle id="G312"> 
+						<title render="italic" linktype="simple">Newsletter - World Affairs</title>
+						</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G313">Publications</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/65</container> 
+						<unittitle id="G314"> 
+						  <title render="italic" linktype="simple">Bringing Democracy Home</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">4/2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/66</container> 
+						<unittitle id="G315"> 
+						  <title render="italic" linktype="simple">Rebuild the Balkans</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">7/1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">3/67</container> 
+						<unittitle id="G316"> 
+						  <title render="italic" linktype="simple">Standing</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">3/2000</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle id="G317">Report - Seattle International Peoples’
+						Assembly—Report from the Secretariat</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1/00-2/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G318">Web Page Printouts</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/2</container> 
+						<unittitle id="G319"> 
+						  <title render="italic" linktype="simple">Eat the State</title> </unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/3</container> 
+						<unittitle id="G320">Pure Food</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/4</container> 
+						<unittitle id="G321">World Socialist</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/5</container> 
+						<unittitle id="G322">World Trade Organization</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/6</container> 
+					 <unittitle id="G323">Ephemera – re: Celebration of
+						Victory</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/7-8</container> 
+					 <unittitle id="G324">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unitid>RECORDS SUBGROUP VII</unitid> 
+				  <unittitle id="G325"><emph render="bold">PUBLIC CITIZEN'S GLOBAL
+					 TRADE WATCH</emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G326"><emph render="bold">Part 1:
+						Pre-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/9</container> 
+					 <unittitle id="G327">Organization</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/10</container> 
+					 <unittitle id="G328">Outgoing Letter</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">8/31/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/11</container> 
+					 <unittitle id="G329">Contact Lists – Environmental and Health
+						Day</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/12</container> 
+					 <unittitle id="G330"> 
+						<title render="italic" linktype="simple">Packet – “WTO: What Are We Trading
+						  Away?”</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle id="G331">Subject Series - Michael Moore, Director
+						of WTO</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">10/1/1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G332">Newsletters</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/14</container> 
+						<unittitle id="G333"> 
+						  <title render="italic" linktype="simple">Eco WTO Watch</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">4/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/15</container> 
+						<unittitle id="G334"> 
+						  <title render="italic" linktype="simple">Harmonization Alert</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/98, 6/99-7/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/16</container> 
+					 <unittitle id="G335">News Releases</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G336">Speeches and Writings</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/17</container> 
+						<unittitle id="G337">Nader, Ralph &amp; Lori Wallach, “GATT,
+						  NAFTA, and the Subversion of the Democratic Process”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/18</container> 
+						<unittitle id="G338">Parrish, Geov, “Shutting Down
+						  Seattle”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">8/19/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/19</container> 
+						<unittitle id="G339"> 
+						  <title render="italic" linktype="simple">Wallach, Lori M., International
+							 ‘Harmonization’ of Social, Economic, and Environmental Standards</title>
+						  </unittitle> 
+						<unitdate era="ce" calendar="gregorian">7/98</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/20</container> 
+						<unittitle id="G340">Wallach, Lori M., Testimony of Lori
+						  Wallach, Global Trade Watch, Re: U.S. Preparations for the WTO’s 1999
+						  Ministerial Meeting</unittitle> 
+						<unitdate era="ce" calendar="gregorian">8/5/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/21</container> 
+						<unittitle id="G341">“Comments of Public
+						  Citizen…”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/22/98</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/22</container> 
+						<unittitle id="G342">“Five-Year Record of WTO Reveals
+						  Disturbing Trends: Food Safety, Environment Undermined, Accountable Governance
+						  Eroded”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/13/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G343">Statement of Joan Claybrook on
+							 WTO</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">10-13-99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/23</container> 
+						<unittitle id="G344">Miscellaneous</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G345">Publications</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/24</container> 
+						<unittitle id="G346"> 
+						  <title render="italic" linktype="simple">Anderson, Alfred F., Challenging
+							 Newt Gingrich</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">1996</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/25</container> 
+						<unittitle id="G347"> 
+						  <title render="italic" linktype="simple">A Citizen’s Guide To The World Trade
+							 Organization</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">7/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/26</container> 
+					 <unittitle id="G348">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/27</container> 
+					 <unittitle id="G349">Miscellany</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G350"><emph render="bold">Part 2: During
+						WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/28</container> 
+					 <unittitle id="G351">Schedule</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/29</container> 
+					 <unittitle id="G352"> 
+						<title render="italic" linktype="simple">Newsletter - Mobilization Against
+						  Corporate Globalization</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/29-12/3/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/30</container> 
+					 <unittitle id="G353">News Releases</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unitid>RECORDS SUBGROUP VIII</unitid> 
+				  <unittitle id="G354"><emph render="bold">ALAN RABINOWITZ
+					 </emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">9/1-8</container> 
+				  <unittitle id="G355">E-mail On Floppy Disk With Printouts—“65
+					 Files Plus Early Newspaper Clippings.” Includes Copy Of The Fake Seattle
+					 Post-intelligence Of 11/30/99</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">7 – 12/99</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G356"><emph render="bold">Part 1:
+						Pre-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G357">Incoming Letters</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/31</container> 
+						<unittitle id="G358">International Forum on
+						  Globalization</unittitle> 
+						<unitdate era="ce" calendar="gregorian">10/22/98-11/17/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/32</container> 
+						<unittitle id="G359">Miscellaneous</unittitle> 
+						<unitdate era="ce" calendar="gregorian">2/20-11/21/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/33</container> 
+					 <unittitle id="G360">Outgoing Letter</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">4/12/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/34</container> 
+					 <unittitle id="G361">Audiocassettes:</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G362"> 
+							 <title render="italic" linktype="simple">Making Contact, Democracy for
+								Sale</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">7/7/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G363"> 
+							 <title render="italic" linktype="simple">World Trade Watch Demo
+								Tape</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G364">Subject Series – Institute For
+						  Agriculture and Trade Policy</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/35</container> 
+						<unittitle id="G365">Incoming Letters</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1/27/99-8/10/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/36</container> 
+						<unittitle id="G366">Annual Reports</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1996-97, 98-99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G367">Newsletters</unittitle> 
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/37</container> 
+						  <unittitle id="G368"> 
+							 <title render="italic" linktype="simple">Agriculture Biodiversity
+								News</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">11/98-3/99</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/38</container> 
+						  <unittitle id="G369"> 
+							 <title render="italic" linktype="simple">The Road to Seattle Issue
+								VII</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">9/10/99</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/39</container> 
+						  <unittitle id="G370">IPR---info: Information About
+							 Intellectual Property Rights</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">5/95-7/98</unitdate> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/40</container> 
+						<unittitle id="G371">Proceedings - Meeting on the WTO
+						  Agreement on Agriculture</unittitle> 
+						<unitdate era="ce" calendar="gregorian">9/30-10/4/98</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G372">Speeches and Writings</unittitle> 
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/41</container> 
+						  <unittitle id="G373">Dawkins, Kristen, “Defending
+							 Biological Diversity and Food Security in the Face of
+							 Globalization”</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">11/97</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/42</container> 
+						  <unittitle id="G374">Dawkins, Kristen, “Trade Strategy of
+							 U.S.: Analysis of Current Agricultural Policy”</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">1/8/99</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/43</container> 
+						  <unittitle id="G375"> 
+							 <title render="italic" linktype="simple">Dawkins, Kristen &amp; Steve
+								Suppan, Sterile Fields: The Impacts of Intellectual Property Rights and Trade
+								on Biodiversity &amp; Food Security</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">11/96</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/44</container> 
+						  <unittitle id="G376"> 
+							 <title render="italic" linktype="simple">Hausknost, Daniel, “In Europe,
+								Consumers Think Twice: A look at the Uproar Over Genetically Engineered
+								Food”</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">7/10/98</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/45</container> 
+						  <unittitle id="G377">Kraker, Daniel &amp; Kristen Dawkins,
+							 “The Continuing Threat From Trade Negotiations”</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">3/99</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/46</container> 
+						  <unittitle id="G378">Lehman, Karen, “Alternatives To The
+							 Global Trading System For Agriculture”</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">5/16/96</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/47</container> 
+						  <unittitle id="G379"> 
+							 <title render="italic" linktype="simple">Murphy, Sophia, “Trade and Food
+								Security—An Assessment Of the Uruguay Round Agreement on Agriculture”</title>
+							 </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">1999</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/48</container> 
+						  <unittitle id="G380"> 
+							 <title render="italic" linktype="simple">Murphy, Sophia, Trade-Related
+								Agenda, Development and Equity (Trade) Working Papers</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">11/99</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/49</container> 
+						  <unittitle id="G381"> 
+							 <title render="italic" linktype="simple">Teitel, M., Fund, C.S., and H.
+								Shand, The Ownership of Life, When Patents and Values Clash</title>
+							 </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">6/97</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/50</container> 
+						  <unittitle id="G382"> 
+							 <title render="italic" linktype="simple">“Building the ‘capacity to trade’
+								through trade related policy reform: Towards revising the Agreement on
+								Agriculture and the Agreement on Trade-Related Aspects of Intellectual Property
+								Rights”</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">9/8/97</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/51</container> 
+						  <unittitle id="G383"> 
+							 <title render="italic" linktype="simple">“Strengthening Complementarities
+								Between Trade, Environment and Sustainable Development”</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">3/17-18/98</unitdate> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/52</container> 
+						<unittitle id="G384">Ephemera</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G385">Subject Series - International Forum
+							 on Globalization</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/53</container> 
+						<unittitle id="G386">Audiotapes - Teach-In</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/26/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/54</container> 
+						<unittitle id="G387">Report - Beyond the WTO, Alternatives to
+						  Economic Globalization</unittitle> 
+						<unitdate era="ce" calendar="gregorian">11/26/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">4/55</container> 
+						<unittitle id="G388">Partial Summary of Media Coverage—IFG
+						  WTO Campaign</unittitle> 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G389">Speeches and Writings
+							 (Publications)</unittitle> 
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/56</container> 
+						  <unittitle id="G390"> 
+							 <title render="italic" linktype="simple">Barker, D. &amp; J. Mander,
+								Invisible Government</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">10/99</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/57</container> 
+						  <unittitle id="G391"> 
+							 <title render="italic" linktype="simple">Barlow, Maude, Blue Gold</title>
+							 </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">6/99</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/58</container> 
+						  <unittitle id="G392"> 
+							 <title render="italic" linktype="simple">Newsletters</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">10-11/99</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/59</container> 
+						  <unittitle id="G393">Publications</unittitle> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G394">Speeches and Writings by
+							 Others</unittitle> 
+					 </did> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/60</container> 
+						  <unittitle id="G395"> 
+							 <title render="italic" linktype="simple">Ad Hoc Working Group on the MAI, “
+								MAI—Democracy For Sale?”</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/61</container> 
+						  <unittitle id="G396"> 
+							 <title render="italic" linktype="simple">Shrybman, Steven, “The World Trade
+								Organization: The New World Constitution Laid Bare”</title> </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/62</container> 
+						  <unittitle id="G397"> 
+							 <title render="italic" linktype="simple">Cuernavaca Consensus—Draft</title>
+							 </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+						</did> 
+					 </c06> 
+					 <c06 level="file"> 
+						<did> 
+						  <container type="box-folder">4/63</container> 
+						  <unittitle id="G398"> 
+							 <title render="italic" linktype="simple">“Solidar Briefing”</title>
+							 </unittitle> 
+						  <unitdate era="ce" calendar="gregorian">11/99</unitdate> 
+						</did> 
+					 </c06> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/64</container> 
+					 <unittitle id="G399">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/65</container> 
+					 <unittitle id="G400">Clippings</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G401"><emph render="bold">Part 2: During
+						WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/66-67</container> 
+					 <unittitle id="G402"> 
+						<title render="italic" linktype="simple">Audiocassettes - World Trade Watch,
+						  Five Days of the WTO (10 tapes total, 2 sets)</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/29-12/3/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/68</container> 
+					 <unittitle id="G403">Workshop - Institute for Agriculture &amp;
+						Trade Policy on Trade-Related Aspects of Intellectual Property Rights
+						(TRIPS)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/30/98</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/69</container> 
+					 <unittitle id="G404">Publications</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/70</container> 
+					 <unittitle id="G405">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/71</container> 
+					 <unittitle id="G406">Clippings</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G407"><emph render="bold">Part 3:
+						Post-WTO</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/1</container> 
+					 <unittitle id="G408">Incoming Letters</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G409">World Trade Watch</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">12/11/99</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G410">International Forum On
+							 Globalization</unittitle> 
+						  <unitdate era="ce" calendar="gregorian">12/20/99</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/2</container> 
+					 <unittitle id="G411">Outgoing Letter</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">2/1/2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/3</container> 
+					 <unittitle id="G412">Newsletters</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">Feb-Apr/2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/4-5</container> 
+					 <unittitle id="G413">Publications</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/6</container> 
+					 <unittitle id="G414">Clippings</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/7</container> 
+					 <unittitle id="G415">Ephemera</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G416">“The Whole World Is Watching, Art,
+							 Images &amp; Literature From The WTO Protests” Center On Contemporary Art
+							 Exhibit Brochure</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G417">Misc.</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unitid>RECORDS SUBGROUP IX:</unitid> 
+				  <unittitle id="G418"><emph render="bold"> SEATTLE HOST
+					 ORGANIZATION: NGO COMMITTEE</emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/8</container> 
+				  <unittitle id="G419">Organization</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G420">Incoming Letters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/9</container> 
+					 <unittitle id="G421">Wiehoff, Dale e-mail</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">2/17/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/10</container> 
+					 <unittitle id="G422">To Goldman, Patti</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">8/6/-11/24/99</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/11</container> 
+				  <unittitle id="G423">Outgoing Letter</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/12</container> 
+				  <unittitle id="G424">Calendars</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G425">Packets</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/13</container> 
+					 <unittitle id="G426">Corporate Hospitality</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/14</container> 
+					 <unittitle id="G427">Delegates’</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/15</container> 
+				  <unittitle id="G428">Agenda - Trade And Environment
+					 Session</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">12/2/1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/16</container> 
+				  <unittitle id="G429">Ephemera</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle id="G430"><emph render="bold">Part 1:
+					 Pre-WTO</emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/17</container> 
+				  <unittitle id="G431">Historical Features – World Trade
+					 Organization</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/18</container> 
+				  <unittitle id="G432">Incoming Letter – Fidel Castro To Jim
+					 Mcdermott</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">11/29/99</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/19</container> 
+				  <unittitle id="G433">Outgoing Letter – Church Council Of Greater
+					 Seattle To Castro</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">10/1/99</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/20</container> 
+				  <unittitle id="G434">Calendar</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G435">Packets/handbooks</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/21</container> 
+					 <unittitle id="G436">Alliance For Better Foods</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/22</container> 
+					 <unittitle id="G437">Body Shop – “Wasting Trade
+						Opportunities”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/23</container> 
+					 <unittitle id="G438">Global Environmental
+						Protection</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/24</container> 
+					 <unittitle id="G439">Greenpeace International</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/25</container> 
+					 <unittitle id="G440">“A Handbook of World Trade” MinComEx
+						Columbia</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/26</container> 
+					 <unittitle id="G441">Preamble Center</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/27</container> 
+					 <unittitle id="G442">National Wildlife Federation</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/28</container> 
+					 <unittitle id="G443">World Bank Bonds Boycott
+						Campaign</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G444">Subject Series</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/29</container> 
+					 <unittitle id="G445">Alliance For Democracy</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/30</container> 
+					 <unittitle id="G446">American Lands Alliance</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">8/6/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/31</container> 
+					 <unittitle id="G447">Asia Pacific Center for Justice and
+						Peace</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1998-99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/32</container> 
+					 <unittitle id="G448">Coffee</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/33</container> 
+					 <unittitle id="G449">Falun Gong</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/34-35</container> 
+					 <unittitle id="G450">Friends Of The Earth</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/36</container> 
+					 <unittitle id="G451">Grassroots International</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/37</container> 
+					 <unittitle id="G452">Green Party</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/38</container> 
+					 <unittitle id="G453">International Federation for Alternative
+						Trade</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/39</container> 
+					 <unittitle id="G454">Manana Coalition</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">10/5/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/40</container> 
+					 <unittitle id="G455">No On I-695 Campaign</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/41</container> 
+					 <unittitle id="G456">Pacific Northwest Junior State</unittitle>
+					 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/42</container> 
+					 <unittitle id="G457">Ruckus Society</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/43</container> 
+					 <unittitle id="G458">Seattle Anarchist Response</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/44</container> 
+					 <unittitle id="G459">Seeds Of Liberation</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/45</container> 
+					 <unittitle id="G460">Sierra Club</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/46</container> 
+					 <unittitle id="G461">United For a Fair Economy</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/47-49</container> 
+					 <unittitle id="G462">U.S. Chamber of Commerce</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/50</container> 
+					 <unittitle id="G463">U.S. Congress</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/51</container> 
+					 <unittitle id="G464">Women and Trade</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/52</container> 
+					 <unittitle id="G465">Women’s International League for Peace and
+						Freedom</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/53</container> 
+					 <unittitle id="G466">WTO Student Ambassador Program</unittitle>
+					 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">5/54</container> 
+				  <unittitle id="G467">News Releases</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G468">Publications</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/55</container> 
+					 <unittitle id="G469"> 
+						<title render="italic" linktype="simple">The Big Picture, Visualizing The
+						  Global Economy</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G470"> 
+						  <title render="italic" linktype="simple">Compost The Corporations</title>
+						  </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G471"> 
+						  <title render="italic" linktype="simple">The Dispatcher</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G472"> 
+						  <title render="italic" linktype="simple">Dossier—Medicines</title>
+						  </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/56</container> 
+					 <unittitle id="G473"> 
+						<title render="italic" linktype="simple">Eat The State</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">3-11/1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/57</container> 
+					 <unittitle id="G474"> 
+						<title render="italic" linktype="simple">Eugene Weekly</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G475"> 
+						  <title render="italic" linktype="simple">European Public Health
+							 Update</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G476"> 
+						  <title render="italic" linktype="simple">Handbook For Nonviolent
+							 Action</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G477"> 
+						  <title render="italic" linktype="simple">Infusion</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G478"> 
+						  <title render="italic" linktype="simple">Instant Planet</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/58</container> 
+					 <unittitle id="G479"> 
+						<title render="italic" linktype="simple">Real Change</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">8-11/1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/59</container> 
+					 <unittitle id="G480"> 
+						<title render="italic" linktype="simple">Seattle Weekly</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/60</container> 
+					 <unittitle id="G481"> 
+						<title render="italic" linktype="simple">Storm Warning!</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G482"> 
+						  <title render="italic" linktype="simple">Street Roots</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G483"> 
+						  <title render="italic" linktype="simple">Teamsters On The Front Line—Local
+							 174</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G484"> 
+						  <title render="italic" linktype="simple">Trade Union World</title>
+						  </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G485"> 
+						  <title render="italic" linktype="simple">The World Bank</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G486"> 
+						  <title render="italic" linktype="simple">Z Magazine</title> </unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G487">Speeches And Writings</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/61</container> 
+					 <unittitle id="G488"> 
+						<title render="italic" linktype="simple">Canwright, Lois, “Action Advice &amp;
+						  Globalization and the WTO”</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/62</container> 
+					 <unittitle id="G489"> 
+						<title render="italic" linktype="simple">Godfried, Mike, “WTO Talking
+						  Points”</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/63</container> 
+					 <unittitle id="G490"> 
+						<title render="italic" linktype="simple">History Committee of the General
+						  Strike Committee, The Seattle General Strike of 1919</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/64</container> 
+					 <unittitle id="G491">Stanton, Arnold, “Ode: To All Oligarchs
+						And Their Minions”</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1998</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/65</container> 
+					 <unittitle id="G492">Japan Proposal, “Toward the Establishment
+						of Trade Rules For the 21st Century that Contribute to the Era of Diversity And
+						Coexistence”</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/66</container> 
+					 <unittitle id="G493"> 
+						<title render="italic" linktype="simple">Japan Proposal, “Proposal of Japan on
+						  the WTO Negotiations”</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/67</container> 
+					 <unittitle id="G494">Legal Opinion re Child Labor Laws &amp;
+						Gatt</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">7/15/93</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/68</container> 
+					 <unittitle id="G495">Miscellaneous</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G496">Brochures</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/69</container> 
+					 <unittitle id="G497">Consumers International, “Consumer Rights
+						and the Multilateral Trading System”</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">8/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/70</container> 
+					 <unittitle id="G498">Environmental Media Services,
+						“Understanding International Trade and the Environment”</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">5/71</container> 
+					 <unittitle id="G499"> 
+						<title render="italic" linktype="simple">International Confederation of Free
+						  Trade Unions, “Building Workers’ Human Rights Into the Global Trading
+						  System”</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1999</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/1</container> 
+					 <unittitle id="G500">Royal Society For The Prevention Of
+						Cruelty To Animals</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/2</container> 
+					 <unittitle id="G501">Trans Atlantic Consumer Dialogue
+						(TACD)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">10/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/3</container> 
+					 <unittitle id="G502">United States Trade
+						Representative</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/4</container> 
+					 <unittitle id="G503">World Vision</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G504">Newsletters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/5</container> 
+					 <unittitle id="G505">Socialist</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/6-7</container> 
+					 <unittitle id="G506">Miscellaneous</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">6/8</container> 
+				  <unittitle id="G507">Report – U.s. Trade Representative –
+					 “accelerated Tariff Liberalization…”</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">11/99</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G508">Lists</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/9</container> 
+					 <unittitle id="G509">Labor &amp; NGO Allies</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/10</container> 
+					 <unittitle id="G510">Seattle Public Library reading
+						list</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G511">Ephemera</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/11</container> 
+					 <unittitle id="G512">Revolutionary Communist Party U.S.A.
+						Seattle Branch</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/12-17</container> 
+					 <unittitle id="G513">Miscellaneous</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">6/18-20</container> 
+				  <unittitle id="G514">Clippings</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle id="G515"><emph render="bold">Part 2:During WTO
+					 </emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G516">Packets</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/21</container> 
+					 <unittitle id="G517">Delegate Packet</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/22</container> 
+					 <unittitle id="G518">Press Pack</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/23</container> 
+					 <unittitle id="G519">European Union Millennium Round
+						Packet</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/24</container> 
+					 <unittitle id="G520">Seattle Round Agricultural Committee Media
+						Packet</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">6/25-40</container> 
+				  <unittitle id="G521">Personal Accounts</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G522">Subject Series</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/41</container> 
+					 <unittitle id="G523">Citizens For Free Trade</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/42</container> 
+					 <unittitle id="G524">Civil Disobedience</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/43</container> 
+					 <unittitle id="G525"> 
+						<title render="italic" linktype="simple">Independent Media Center (incl.
+						  Newsletter – Blind Spot, A Daily Bulletin Of Underreported Anti-WTO Activism,
+						  Issues 1-5)</title> </unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G526">Ephemera</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/44</container> 
+					 <unittitle id="G527">Industrial Workers Of The
+						World</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/99-1/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/45</container> 
+					 <unittitle id="G528">Seattle, City of</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/46</container> 
+					 <unittitle id="G529">Seattle Police Department</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/30/99,n.d.</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/47</container> 
+					 <unittitle id="G530">United Steelworkers of America</unittitle>
+					 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/48</container> 
+					 <unittitle id="G531">Vietnam Veterans Against the War
+						Anti-Imperialist</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/49</container> 
+					 <unittitle id="G532">Washington Toxics Coalition</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/28/99, n.d.</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">6/50</container> 
+				  <unittitle id="G533">Court Paper</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">12/2/99</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">6/51</container> 
+				  <unittitle id="G534">Cartoons</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">12/1</container> 
+				  <unittitle id="G535">Comics Oversized</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G536">Publications</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/52</container> 
+					 <unittitle id="G537"> 
+						<title render="italic" linktype="simple">Seattle Post Intelligence
+						  (Parody)</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/30/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/53</container> 
+					 <unittitle id="G538"> 
+						<title render="italic" linktype="simple">Washington Free Press</title>
+						</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11-12/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/54</container> 
+					 <unittitle id="G539">Miscellaneous</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G540">Publications (WTO Week
+						Accounts)</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/55</container> 
+					 <unittitle id="G541">Labor Press</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/56</container> 
+					 <unittitle id="G542">Socialist Press</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">6/57-7/1</container> 
+					 <unittitle id="G543">Miscellaneous</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G544">Newsletters</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/2</container> 
+					 <unittitle id="G545"> 
+						<title render="italic" linktype="simple">Bridges, Daily Update On The Third
+						  Ministerial Conference</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/3/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/3</container> 
+					 <unittitle id="G546"> 
+						<title render="italic" linktype="simple">The Current</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">7/99-8/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/4</container> 
+					 <unittitle id="G547"> 
+						<title render="italic" linktype="simple">Environment &amp; Climate News</title>
+						</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">2/2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/5</container> 
+					 <unittitle id="G548">GovLink WTO Traffic Alerts</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/1-8/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/6</container> 
+					 <unittitle id="G549">Puget Sound Council Of Senior
+						Citizens</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">10/99-1/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/7</container> 
+					 <unittitle id="G550"> 
+						<title render="italic" linktype="simple">WTO Watch</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/99</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G551">Speeches And Writings</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/8</container> 
+					 <unittitle id="G552"> 
+						<title render="italic" linktype="simple">Clinton, Wm. J., Remarks by the
+						  President at the Signing of ILO Convention 182</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/2/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/9</container> 
+					 <unittitle id="G553">Miscellaneous</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">7/10</container> 
+				  <unittitle id="G554">News Release - Caribbean
+					 Community</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">7/11</container> 
+				  <unittitle id="G555">Programs</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G556">“GMOs and the World Trade Organization:
+						  Food For Thought”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">12/1/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G557">“Seattle Symposium On International
+						  Trade Issues In The First Decades Of The Next Century”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">12/1/99</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">7/12-13</container> 
+				  <unittitle id="G558">Photographs</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G559">Conferences And Conventions</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/14</container> 
+					 <unittitle id="G560">ICFTU Conference on Globalisation and
+						Workers’ Rights: Core Labour Standards in the Global Economy</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">11/28-29/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/15</container> 
+					 <unittitle id="G561">LELO—Workers’ Voices Coalition</unittitle>
+					 
+					 <unitdate era="ce" calendar="gregorian">12/4/99</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G562">Ephemera</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/16</container> 
+					 <unittitle id="G563">Events</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">7/17</container> 
+					 <unittitle id="G564">Miscellaneous</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">7/18-20</container> 
+				  <unittitle id="G565">Clippings</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G566">Artifacts Oversized</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/2</container> 
+					 <unittitle id="G567">Plastic WTO Rain Ponchos</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/3</container> 
+					 <unittitle id="G568">Black &amp; Yellow “Insurrection”
+						Banner</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">23</container> 
+					 <unittitle id="G569">Turtle Costumes</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G570">Picket Signs Oversized</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">19</container> 
+					 <unittitle id="G571">Darth Vader, on a stick</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">20</container> 
+					 <unittitle id="G572">“Reclaim The Streets”, on a
+						stick</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">21</container> 
+					 <unittitle id="G573">Tear Gas Canister, on a stick</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">22</container> 
+					 <unittitle id="G574">Tree, on a stick</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G575">Posters Oversized</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">15/4</container> 
+					 <unittitle id="G576">WTO Octopus</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/4</container> 
+					 <unittitle id="G577">“First Amendment”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G578">“Expose &amp; Oppose the
+						  WTO”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G579">“Nov. 30 No To WTO! People’s Assembly
+						  March &amp; Rally”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G580">“WTO Basta!”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G581">“Junk WTO”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">14/2</container> 
+					 <unittitle id="G582">“Congratulations Everyone” with
+						Post-Intelligencer Front Page</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/4/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G583">No To WTO</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">14/3</container> 
+					 <unittitle id="G584">“Stop the Global Gamblers,”
+						Foamboard</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G585">Union-Related Posters</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G586">“Labor Says WTO Ends
+							 Democracy”</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G587">Firefighters Logo,
+							 Foamboard</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder"/> 
+						  <unittitle id="G588">Teamsters Local 174—“No To
+							 WTO”</unittitle> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">14/4</container> 
+					 <unittitle id="G589">Sweatshops (GAP)</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G590">Make Trade Green, Clean, and Fair
+						  (3)</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G591">Trade/Debt “Boomerangs”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G592">Economic Institutionalized
+						  Racism</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G593">Seattle Police Department
+						  Training</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">14/5</container> 
+					 <unittitle id="G594">Stop the WTO</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G595">Art and Revolution
+						  Convergence</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">14/6</container> 
+					 <unittitle id="G596">Horsey 1999 Post-Intelligencer Cartoon
+						(enlarged photocopy)</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G597">Poetry Event</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G598">Poem by Eric Larson</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G599">Training Posters</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"/> 
+				  <unittitle id="G600"><emph render="bold">Part 3:
+					 Post-WTO</emph></unittitle> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G601">Subject Series</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/1</container> 
+					 <unittitle id="G602">China Admission To WTO</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/99</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/2</container> 
+					 <unittitle id="G603">Seattle. City Council Hearings</unittitle>
+					 
+					 <unitdate era="ce" calendar="gregorian">12/99 – 1/00</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">8/3</container> 
+				  <unittitle id="G604">Speeches And Writings</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G605">“Funder’s Network On Trade
+						  Globalization, Background Information”</unittitle> 
+						<unitdate era="ce" calendar="gregorian">3/00</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G606">Publicatons</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/4</container> 
+					 <unittitle id="G607"> 
+						<title render="italic" linktype="simple">Eat The State</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/99-2/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G608"> 
+						  <title render="italic" linktype="simple">Fifth Estate</title> </unittitle> 
+						<unitdate era="ce" calendar="gregorian">Spring 2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/5</container> 
+					 <unittitle id="G609"> 
+						<title render="italic" linktype="simple">Leschi News</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/99, 1/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/6</container> 
+					 <unittitle id="G610"> 
+						<title render="italic" linktype="simple">People’s Weekly World</title>
+						</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">12/99 – 1/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/7</container> 
+					 <unittitle id="G611"> 
+						<title render="italic" linktype="simple">Washington Free Press</title>
+						</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">Jan-Feb. 2000</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/8</container> 
+					 <unittitle id="G612"> 
+						<title render="italic" linktype="simple">Z Magazine</title> </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1/00</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/9</container> 
+					 <unittitle id="G613">Spanish Language</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">8/10</container> 
+					 <unittitle id="G614">Miscellaneous</unittitle> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">8/11-14</container> 
+				  <unittitle id="G615">Ephemera</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">8/15-16</container> 
+				  <unittitle id="G616">Clippings</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"/> 
+					 <unittitle id="G617">Posters Oversized</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">12/5</container> 
+					 <unittitle id="G618">Jubilee 2000</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G619">N30 “We will not be
+						  silenced”</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle id="G620">N30 Whose Day? Our Day!</unittitle> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">14/7</container> 
+					 <unittitle id="G621">Anarchist Teach-In Handmade Posters
+						(2)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">3/2000</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder">12-23 </container> 
+				<unittitle id="G622"><emph render="bold"> Oversized Material (as
+				  Described Above)</emph></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U3" type="accession">5177-004</unitid> 
+			 <unittitle id="G623">World Trade Organization, 1999 Seattle
+				Ministerial Conference Protest Collection</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1999</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">2.33 cubic feet </extent>
+				<extent encodinganalog="300$a">2 boxes </extent>
+			 </physdesc>
+			 <physdesc> <extent>includes 5 videotapes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Posters, videotapes, ephemera, and published material. Videotapes
+				include the four-part video "Labor Beat: WTO Seattle."</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Rights in artwork and videos not transferred. Materials may be
+				loaned for exhibits in secure locations.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p/> 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated 2/22/2001.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U4" type="accession">5177-005</unitid> 
+			 <unittitle id="G624">World Trade Organization, 1999 Seattle
+				Ministerial Conference Protest Collection</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1998-2000
+				December</unitdate> 
+			 <unitdate type="bulk" era="ce" calendar="gregorian">1999 August-2000
+				December</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.42 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Ephemera, publications, clippings, relating to the April 16, 2000
+				protest against the IMF at World Bank meeting in Washington D.C.,and the WTO
+				demonstrations in Seattle; minutes of one post-WTO mtg, People for Fair Trade,
+				transcript of radio program of a teach-in, 11/99, "The Day the WTO Stood
+				Still," and a report by the ACLU of Washington on official responses to the
+				Seattle protests. </p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="506"> 
+			 <p/> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p/> 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated 3/26/2001.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U5" type="accession">5177-006</unitid> 
+			 <unittitle id="G625">World Trade Organization, 1999 Seattle
+				Ministerial Conference Protest Collection</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1999
+				October-2000 December</unitdate> 
+			 <unitdate type="bulk" era="ce" calendar="gregorian">1999
+				November-December</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">1.42 cubic feet</extent>
+				<extent>4 boxes</extent>
+			 </physdesc>
+			 <physdesc> <extent encodinganalog="300$a">Includes 14 videocassettes
+				(VHS) and 1 compact disc sound recording</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Ephemera, videotaped speeches, independently produced videotapes
+				of programs prior to and programs following the 1999 meetings in Seattle,
+				compact disc recording of protest songs, T-shirt, publications, press releases.
+				</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Some restrictions exist on copying, quotation or publication.
+				Contact Repository for details.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p/> 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated 7/5/2001.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U6" type="accession">5177-007</unitid> 
+			 <unittitle id="G626">World Trade Organization, 1999 Seattle
+				Ministerial Conference Protest Collection</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1999-1999</unitdate> 
+			 <unitdate type="bulk" era="ce" calendar="gregorian">1999</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.42 cubic feet </extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Ephemera, publications, clippings, email, newsletters, news
+				releases, documenting various opposition groups' preparations for the WTO round
+				in Seattle, WTO week protests and events, and the aftermath.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights not transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p/> 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated 8/16/2001.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U7" type="accession">5177-008</unitid> 
+			 <unittitle id="G627">World Trade Organization, 1999 Seattle
+				Ministerial Conference Protest Collection</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2000</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.42 cubic feet </extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Oral history transcripts of the WTO History Project.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights not transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p/> 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated 9/25/2001.</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U8" countrycode="us" repositorycode="wau-ar" type="accession">5177-009</unitid> 
+			 <unittitle id="G628" encodinganalog="245$a" type="collection">WTO
+				Seattle collection</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1999</unitdate> 
+			 <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"/> 
+				<physdesc> <extent encodinganalog="300$a">0.42 cubic feet </extent>
+				  <extent>1 box</extent>
+				</physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>This accession includes newsletters, flyers, and pamphlets
+				relating to issues and events surrounding the WTO conference in Seattle in 1999
+				that were sent to lawyers at Earthjustice. Earthjustice was a registered NGO at
+				the WTO conference, and specialized in environmental law. Some lawyers had
+				published articles in the newsletters and were supposed to give lectures on
+				Nov. 29, 1999, the day of the rally.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights not transferred to the University of
+				Washington Libraries</p> 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Earthjustice, March 26, 2007</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U9" countrycode="us" repositorycode="wau-ar" type="accession">5177-010</unitid> 
+			 <unittitle id="G629" encodinganalog="245$a" type="collection">WTO
+				Seattle collection</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1999</unitdate> 
+			 <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"/> 
+				<physdesc> <extent encodinganalog="300$a">6 cubic feet </extent>
+				  <extent encodinganalog="300$a">1 box, 2 bundles</extent>
+				</physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Picket signs and other oversize material related to preparation
+				for and participation in the WTO protests of 1999. Created by various
+				organizations, including SPEEA (AFL-CIO), Inland Boatmen's Union, Direct Action
+				Network, and the Sierra Club.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights not transferred to the University of
+				Washington Libraries</p> 
+		  </userestrict> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U10" countrycode="us" repositorycode="wau-ar" type="accession">5177-011</unitid> 
+			 <unittitle id="G630" encodinganalog="245$a" type="collection">WTO
+				Seattle collection</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1996-2000</unitdate> 
+			 <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"/> 
+				<physdesc> <extent encodinganalog="300$a">1 cubic foot </extent>
+				  <extent encodinganalog="300$a">1 box</extent>
+				</physdesc>
+				<physdesc> <extent encodinganalog="300$a">Includes 7 video
+				  recordings</extent>
+				</physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Booklets, pamphlets, flyers, documents, and videos pertaining to
+				Seattle's WTO protest of 1999. See printed email contents list in box.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights not transferred to the University of
+				Washington Libraries</p> 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Hans Nesse, July 10, 2008</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U11" countrycode="us" repositorycode="wau-ar" type="accession">5177-012</unitid> 
+			 <unittitle id="G631" encodinganalog="245$a" type="collection">WTO
+				Seattle collection</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">2000</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.03 cubic feet </extent>
+				<extent encodinganalog="300$a">1 folder</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p> 
+			 <title render="italic" linktype="simple">Cops of the WTO</title>wall calendar featuring
+			 photos and commentary about the protests.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries</p> 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Dan Halligan, April 10, 2013</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid id="U12" type="accession" countrycode="us" repositorycode="wau-ar">5177-013</unitid> 
+			 <unittitle id="G632" encodinganalog="245$a">WTO Seattle and global
+				justice collection</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" normal="1998/2011" era="ce" calendar="gregorian">1998-2011</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">1.64 cubic feet</extent>
+				<extent encodinganalog="300$a">2 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Contains publications, fliers, and ephemera relating to the 1999
+				WTO protests in Seattle, as well as other materials on related issues of global
+				justice, and the Occupy Olympia movement. </p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict type="540"> 
+			 <p/> 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donor: Trevor Griffey, August 29, 2013</p> 
+		  </acqinfo> 
+		  <processinfo encodinganalog="583"> 
+			 <p>Processed by A. Demeter, 2013.</p> 
+		  </processinfo> 
+		  <c02> 
+			 <did> 
+				<unittitle id="G633">Before WTO protests</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle id="G634">IISD, 
+					 <title render="italic" linktype="simple">The World Trade Organization and
+						Sustainable Development: An Independent Assessment: A Report by the
+						International Institute for Sustainable Development</title> </unittitle> 
+				  <unitdate normal="1996" era="ce" calendar="gregorian">1996</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle id="G635">Public Citizen’s Global Trade Watch, 
+					 <title render="italic" linktype="simple">The World Trade Organization (WTO) at 39
+						Months: A Sampling of the Damage and Dangers So Far</title> </unittitle> 
+				  <unitdate normal="1998-03" era="ce" calendar="gregorian">1998 March</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle id="G636">Booklets, fliers, etc. about WTO and/or
+					 promoting protests</unittitle> 
+				  <unitdate normal="1999" era="ce" calendar="gregorian">circa 1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle id="G637">Handbooks, Action Packet</unittitle> 
+				  <unitdate normal="1999" era="ce" calendar="gregorian">circa 1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/1</container> 
+				  <unittitle id="G638">Newspapers – 
+					 <title render="italic" linktype="simple">Seattle Weekly</title>
+					 OVERSIZE</unittitle> 
+				  <unitdate normal="1999-11-25" era="ce" calendar="gregorian">1999 November 25</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle id="G639">During WTO protests</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle id="G640">Publications, articles,
+					 clippings</unittitle> 
+				  <unitdate normal="1999-11" era="ce" calendar="gregorian">1999 November</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle id="G641">Newspapers OVERSIZE</unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/2</container> 
+					 <unittitle id="G642"> 
+						<title render="italic" linktype="simple">Seattle Post Intelligencer</title>
+						</unittitle> 
+					 <unitdate normal="1999-11-28/1999-12-03" era="ce" calendar="gregorian">1999 November
+						28-December 3</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/3</container> 
+					 <unittitle id="G643"> 
+						<title render="italic" linktype="simple">Seattle Times</title> </unittitle> 
+					 <unitdate normal="1999-11-29/1999-12-04" era="ce" calendar="gregorian">1999 November
+						29-December 4</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/4</container> 
+					 <unittitle id="G644"> 
+						<title render="italic" linktype="simple">Seattle Gay News</title> </unittitle> 
+					 <unitdate normal="1999-12-03" era="ce" calendar="gregorian">1999 December 3</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/4</container> 
+					 <unittitle id="G645"> 
+						<title render="italic" linktype="simple">Seattle Weekly</title> </unittitle> 
+					 <unitdate normal="1999-12-02" era="ce" calendar="gregorian">1999 December 2</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/4</container> 
+					 <unittitle id="G646"> 
+						<title render="italic" linktype="simple">The Stranger</title>
+						(clippings)</unittitle> 
+					 <unitdate normal="1999-12-02" era="ce" calendar="gregorian">1999 December 2</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle id="G647">Ephemera – Press badges, small fliers,
+					 stickers, parking tickets, ACLU rights cards, button</unittitle> 
+				  <unitdate normal="1999-11" era="ce" calendar="gregorian">circa 1999 November</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle id="G648">CD – Christopher DeLaurenti, N30, “Live at
+					 the WTO November 30, 1999”</unittitle> 
+				  <unitdate normal="1999-11-30" era="ce" calendar="gregorian">1999 November 30</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle id="G649">After WTO protests</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle id="G650">ACLU of Washington, 
+					 <title render="italic" linktype="simple">Out of Control: Seattle’s Flawed
+						Response to Protests Against the World Trade Organization – A Special
+						Report</title> </unittitle> 
+				  <unitdate normal="2000-07" era="ce" calendar="gregorian">2000 July</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle id="G651">Articles, clippings</unittitle> 
+				  <unitdate normal="2000" era="ce" calendar="gregorian">circa 2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle id="G652">Claims against police</unittitle> 
+				  <unitdate normal="2000" era="ce" calendar="gregorian">circa 2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <unittitle id="G653">Newspapers OVERSIZE </unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/5</container> 
+					 <unittitle id="G654"> 
+						<title render="italic" linktype="simple">Seattle Times</title> </unittitle> 
+					 <unitdate normal="1999-12-05/1999-12-16" era="ce" calendar="gregorian">1999 December
+						5-16</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/6</container> 
+					 <unittitle id="G655"> 
+						<title render="italic" linktype="simple">Seattle Weekly</title>
+						(clippings)</unittitle> 
+					 <unitdate normal="1999-12-09/1999-12-30" era="ce" calendar="gregorian">1999 December
+						9-30</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/6</container> 
+					 <unittitle id="G656"> 
+						<title render="italic" linktype="simple">The Stranger</title> </unittitle> 
+					 <unitdate normal="1999-12-09/1999-12-16" era="ce" calendar="gregorian">1999 December
+						9-16</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/6</container> 
+					 <unittitle id="G657"> 
+						<title render="italic" linktype="simple">Waging War on Dissent: A Report by the
+						  Seattle National Lawyers Guild WTO Legal Group</title> </unittitle> 
+					 <unitdate normal="2000-01/2000-03" era="ce" calendar="gregorian">2000 Winter</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unittitle id="G658">Poster - N29 benefit show
+					 OVERSIZE</unittitle> 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle id="G659">Global justice</unittitle> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle id="G660">Magazines – 
+					 <title render="italic" linktype="simple">In These Times</title>; 
+					 <title render="italic" linktype="simple">The Nation</title>; 
+					 <title render="italic" linktype="simple">Dollars and Sense</title>; 
+					 <title render="italic" linktype="simple">Left Turn</title> </unittitle> 
+				  <unitdate normal="1998/2001" era="ce" calendar="gregorian">1998-2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle id="G661">Jubilee 2000 Coalition, 
+					 <title render="italic" linktype="simple">The New Jubilee 2000 Debt Cutter’s
+						Handbook: Breaking the Chains</title> </unittitle> 
+				  <unitdate normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle id="G662">Booklets, small publications</unittitle> 
+				  <unitdate normal="2000/2002" era="ce" calendar="gregorian">2000-2002</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/8</container> 
+				  <unittitle id="G663">Newspapers – 
+					 <title render="italic" linktype="simple">Eat the State</title>
+					 OVERSIZE</unittitle> 
+				  <unitdate normal="2002-04-24" era="ce" calendar="gregorian">2002 April 24</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unittitle id="G664">Occupy Olympia</unittitle> 
+				  <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5177-014</unitid> 
+			 <unittitle>WTO Seattle collection</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1999-2003</unitdate> 
+			 <physdesc><extent>0.18 cubic feet </extent>
+				<extent>1 box</extent>
+				<extent>Includes 2 video recordings (VHS)</extent>
+			 </physdesc>
+		  </did> 
+		  <bioghist> 
+			 <p>Marjorie Van Cleef is a teacher and musician with the Bryn Mawr
+				Peace Coalition. She has worked as the Program and Action Chair of the Women's
+				International League for Peace &amp; Freedom. </p> 
+		  </bioghist> 
+		  <scopecontent> 
+			 <p>VHS tapes, fliers, newspapers, and other publications from and
+				about the World Trade Organization protests in Seattle in 1999, as well as
+				Marjorie Van Cleef’s personal recollections from the demonstrations</p> 
+		  </scopecontent><phystech type="phys"> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries. </p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Marjorie Van Cleef, 2015-03-12 </p> 
+		  </acqinfo> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Marjorie Van Cleef's personal recollections from the WTO
+				  demonstrations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> 
+				  <title linktype="simple">Shut Down the World Trade Organization</title>
+				  newspaper</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>The WTO and the Global War System forum
+				  proceedings</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>"Celebrate Resistance to the WTO" flier</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Clippings from 
+				  <title linktype="simple">The Stranger</title></unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Clippings from the 
+				  <title linktype="simple">New Haven Advocate</title></unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> 
+				  <title linktype="simple">Storm Warning!</title> Vietnam Veterans Against the War
+				  Anti-Imperialist newsletter</unittitle> 
+				<unitdate era="ce" calendar="gregorian">1999</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> 
+				  <title linktype="simple">Neoliberal Globalization: Cancun and Beyond, An In-Depth
+					 Report on the World Trade Organization</title></unittitle> 
+				<unitdate era="ce" calendar="gregorian">2003</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> 
+				  <title linktype="simple">Z Magazine</title></unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> 
+				  <title linktype="simple">The Progressive</title></unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Email print-out with the subject "lessons from Seattle
+				  and DC"</unittitle> 
+				<unitdate era="ce" calendar="gregorian">2000</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle> 
+				  <title linktype="simple">Indypendent</title> newspaper clipping</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>"Revolt against Globalization" bumper sticker
+				  </unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>2 VHS tapes of WTO demonstrations</unittitle> 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate> 
+				<physdesc encodinganalog="655"><extent encodinganalog="300$a">2
+				  videocassettes (VHS)</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5177-015</unitid> 
+			 <unittitle>Ruth Yarrow WTO Seattle protests collection</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1999</unitdate> 
+			 <physdesc><extent>0.18 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Ruth Yarrow's collection of materials relating to the planning and
+				participation in the World Trade Organizational protests in Seattle in 1999.
+				Ruth Yarrow was involved in the planning and overall events of the 1999 WTO
+				protests in Seattle. </p> 
+		  </scopecontent><phystech type="phys"> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Ruth Yarrow, 2015-08-25 </p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5177-016</unitid> 
+			 <unittitle>World Trade Organization 1999 Seattle Ministerial
+				Conference umbrella, bag, and media guide</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1999</unitdate> 
+			 <physdesc><extent>0.52 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>World Trade Organization Seattle Ministerial Conference umbrella,
+				bag, and WTO media guide distributed to reporters covering the 1999 WTO
+				conference in Seattle. This packet was donated by Stacy Sakamoto, a KIRO
+				reporter in Seattle at the time. </p> 
+		  </scopecontent><phystech> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>No restrictions on access. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's copyrights transferred to the University of Washington
+				Libraries Special Collections. </p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Donated by Stacy Sakamoto</p> 
+		  </acqinfo> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5177-017</unitid> 
+			 <unittitle>"No World Trade Without Workers Rights" WTO protest
+				banner</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1999</unitdate> 
+			 <physdesc><extent>0.70 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <bioghist> 
+			 <p>Blue and gold cloth banner with the text "No World Trade Without
+				Workers Rights". The banner was created by made by Carla Kiiskila and David
+				Reynolds on November 29, 1999, on Vashon Island, Washington and was carried the
+				next day by labor movement protesters at the world conference of the WTO in
+				Seattle. </p> 
+			 <p>David Reynolds was a member of International Brotherhood of
+				Teamsters Local 763 at the time and became Secretary-Treasurer in 2001. Carla
+				Kiiskila was a legal intern on the International Brotherhood of Teamsters
+				organizing campaign "United for Change," a successful effort to organize apple
+				warehouse workers in Yakima and Wenatchee.</p> 
+			 <p>The banner was proudly carried by labor union members throught the
+				protest against the WTO.</p> 
+		  </bioghist> 
+		  <scopecontent> 
+			 <p>Blue and gold cloth banner with the text "No World Trade Without
+				Workers Rights." The banner was carried in the labor march protesting the World
+				Trade Organization Ministerial in Seattle, Washington in 1999. </p> 
+		  </scopecontent><phystech> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>Access restricted: For terms of access, contact University of
+				Washington Libraries Special Collections. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's copyrights transferred to the University of Washington
+				Libraries Special Collections. </p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Donated by Lilah Smith on behalf of Carla Kiiskila and David
+				Reynolds. </p> 
+		  </acqinfo> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

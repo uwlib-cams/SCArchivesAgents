@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"><eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BrandResponsiblityProject5683.xml" encodinganalog="identifier" identifier="80444/xv62799">BrandResponsiblityProject5683.xml</eadid><filedesc><titlestmt><titleproper encodinganalog="title">Guide to the Brand Responsibility
+			 Project Records </titleproper><titleproper type="filing" altrender="nodisplay">Brand Responsibility
+			 Project Records</titleproper><author encodinganalog="creator">Finding aid prepared by Susan
+			 Kemp</author></titlestmt><publicationstmt><publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher><date encodinganalog="date" normal="20120419" era="ce" calendar="gregorian">© 2012</date><address><addressline>Seattle, WA 98195</addressline></address></publicationstmt></filedesc><profiledesc><creation>Finding aid encoded by S. Kemp 
+		  <date era="ce" calendar="gregorian">2012</date></creation><langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage><descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content Standard</title>).
+		</descrules></profiledesc><revisiondesc><change><date era="ce" calendar="gregorian"><?xm-replace_text {Enter date of substantial revision of finding aid, eg., July, 2008}?></date><item><?xm-replace_text {Describe revision; include your name}?></item></change></revisiondesc></eadheader><archdesc level="collection" type="inventory" relatedencoding="marc21"><did id="a1"><repository><corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname><address><addressline>Box 352900</addressline><addressline>Seattle, WA 98195-2900</addressline></address></repository><unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5683</unitid><unitid countrycode="us" repositorycode="wau-ar" type="accession">5683-001</unitid><origination><corpname encodinganalog="110" role="creator" source="uwsc-naf" altrender="sync">Brand Responsibility Project</corpname></origination><unittitle encodinganalog="245$a" type="collection">Brand Responsibility
+		  Project records</unittitle><unitdate type="inclusive" encodinganalog="245$f" normal="2004/2012" era="ce" calendar="gregorian">2004-2012</unitdate><unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate><physdesc><extent encodinganalog="300$a">0.84 cubic feet (2 boxes) of
+		  textual materials plus 83.8 GB of digital files</extent></physdesc><abstract encodinganalog="5203_$a" altrender="nodisplay">Documentation of
+		  The Brand Responsibilty Project campaign and dispute settlement between Nike
+		  and the Central General de Trabajadores of Honduras </abstract><langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language> and 
+		<language scriptcode="latn" encodinganalog="546" langcode="spa">Spanish</language>. </langmaterial></did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format:
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.--><daogrp linktype="extended"><daodesc><p><?xm-replace_text {Image caption}?></p></daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute the full URL of the image file.
+Eg,  http://www.lib.washington.edu/specialcoll/images/ead/MS3783.jpg. Also enter MIME type of digital file
+(eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute, eg. Image of Mike
+Lowry, 1982.--><daoloc role="image/jpeg" label="image" title="Image of " linktype="locator"/><arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/></daogrp><bioghist encodinganalog="5451_" id="a2" altrender="sync"><p>The Brand Responsibilty Project was a research project by UW Political
+		  Science professor Margaret Levi to document the campaign and dispute settlement
+		  between Nike Inc. and the Central General de Trabajadores of Honduras (CGT).
+		  Following the bankruptcy and closure in January 2009 of two Honduran factories
+		  (Hugger and VisionTex) that were part of Nike's supply chain, the CGT of
+		  Honduras claimed that Nike bore some of the responsibility for providing
+		  terminal compensation, benefits and priority rehiring for 1,800 factory
+		  employees. The plight of the Honduran factory workers came to the attention of
+		  various fair labor associations and university licensing advisory committees,
+		  including The University of Washington's Advisory Committee on Trademarks and
+		  Licensing (ACTL) has commenced an oral and digital history project on the
+		  recent and historic ACTL. In keeping with its mission, ACTL proceeded to
+		  evaluate whether or not Nike had violated the university's code of conduct
+		  (that Nike is contractually obligated to uphold) as the basis for its advice
+		  whether to renew or terminate the University of Washington's existing contract
+		  with Nike to supply university apparel. ACTL was part of a campaign to pressure
+		  Nike to ensure the workers received what was owed them under Honduran law. The
+		  dispute was resolved successfully when Nike announced on July 29th, 2010, that
+		  it had set aside $1.5 million as part of a compensation package for the
+		  terminated Hugger and VisionTex employees.</p></bioghist><arrangement encodinganalog="351" id="a4" audience="internal"><p>Arranged by publication type and format.</p></arrangement><scopecontent encodinganalog="5202_" id="a3"><p>The interviews on this project document key negotiations. Other
+		  material relates to what caused Russell Athletic Brand (2007) to significantly
+		  change its labor practices in Central America. Material consists of public
+		  documents, media reports, private correspondence and internal memos. Interviews
+		  with key participants including the Worker's Rights Consortium (WRC) and the
+		  Fair Labor Association (FLA), the United Students Against Sweatshops (USAS),
+		  trade mark and licensing staff and their advisory committees at numerous US
+		  universities, the corporate social responsibility officers of Nike and the
+		  other relevant corporations, and representatives of important NGOs (e.g,
+		  Maquila Solidarity and COVERCO) and workers' representatives (e.g., the CGT).
+		  The interviews (full list available upon request) will provide crucial insight
+		  into strategies that improve the well being of the workers in Brand supply
+		  chain factories. The digital archive at the University of Washington Library
+		  will serve as a crucial scholarly resource for future research in the
+		  increasingly important areas of globalized social justice activism, labor
+		  relations, and corporate social responsibility. The collection will serve as a
+		  rich source of material for both social scientists and legal scholars who are
+		  interested in understanding the politics of legal and contractual obligations
+		  in complex domestic and international settings. Interviews with University of
+		  Washington President Mark Emmert (a key figure in the Nike-CGT negotiation
+		  process), UW political science professor Margaret Levi, Co-Chair of the
+		  University of Washington's ACTL Committee, and 18 other UW individuals involved
+		  in the Nike settlement in different stages and aspects of the negotiations.
+		  Research materials are included on the Nike, Estofel and Russell Athletic
+		  cases. Interviews were conducted in 2011 with former factory employees, other
+		  local participants in the negotiations.</p></scopecontent><odd encodinganalog="500" id="a5"><p><?xm-replace_text {Text of general note}?></p></odd><altformavail encodinganalog="530" id="a9"><p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?><extref role="text/html" actuate="actuatenone" show="new" linktype="simple"/></p></altformavail><phystech encodinganalog="340" id="a35"><p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p></phystech><accessrestrict encodinganalog="506" id="a14"><p>Access to portions of the collection is restricted. Contact the
+		  Special Collections division of the University of Washington Libraries for
+		  details.</p></accessrestrict><userestrict encodinganalog="540" id="a15"><p>The creators' literary rights have been transferred to the University
+		  of Washington Libraries.</p></userestrict><custodhist encodinganalog="561" id="a16"><p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p></custodhist><acqinfo encodinganalog="541" id="a19"><p>Donors: Milli Lake and Anne Greenleaf, December 06, 2011</p></acqinfo><processinfo id="a20" encodinganalog="583"><p>Files of signed permission forms for oral history audio recordings
+		  have been retained by the University of Washington Labor Archivist, and will be
+		  available for use in 2062.</p></processinfo><separatedmaterial encodinganalog="544__$n" id="a7"><p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p></separatedmaterial><bibliography id="a11" encodinganalog="581"><p><bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p></bibliography><otherfindaid encodinganalog="555" id="a8" audience="internal"><p><?xm-replace_text {If visual materials were relocated to a graphics collection,
+		provide finding aid title and link if available, changing default wording if needed; give filename of
+		EAD finding aid in HREF attribute of <archref> element}?>
+		  The visual materials that form part of this collection are described
+		  and indexed in 
+		  <archref show="new" role="ph" actuate="onrequest" arcrole="text/xml" linktype="simple">A
+			 Guide to the <?xm-replace_text {Enter name of visual materials coll.; and enter filename in HREF
+		  attribute, eg. SmithJohnPHColl885.xml}?></archref>. </p><p><?xm-replace_text {Separate note on other available, non-EAD finding tools such as card files, lists, etc.  }?></p></otherfindaid><relatedmaterial encodinganalog="544__$n" id="a6"><p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p></relatedmaterial><appraisal id="a39" encodinganalog="583"><p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p></appraisal><controlaccess><persname role="creator" encodinganalog="700" source="lcnaf">Levi,
+		  Margaret</persname><corpname role="subject" encodinganalog="610" source="uwsc-naf" altrender="sync">Brand Responsiblity Project$vArchives
+		  </corpname><corpname role="subject" encodinganalog="610">Nike (Firm)</corpname><corpname role="subject" encodinganalog="610">University of
+		  Washington.$bAdvisory Committee on Trademarks and Licensing</corpname><corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname></controlaccess><controlaccess><subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Colleges and Universities</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Retail
+		  Trade</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Civic
+		  Activism</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject><subject source="nwda" altrender="nodisplay" encodinganalog="690">Oral
+		  Histories</subject><subject source="archiveswest" altrender="nodisplay">Businesses and Corporations</subject></controlaccess><dsc type="combined" id="a23"><c01 level="series"><?xm-replace_text {Indicate hierarchical level in LEVEL attribute; see proc.
+		manual for accession-level guidance. Include additional elements in c01 as needed}?><did><container type="box-folder"><emph render="bolditalic">1</emph></container><unitid type="uwsc"><emph render="bolditalic">SERIES I
+				</emph></unitid><unittitle encodinganalog="245$a"><emph render="bolditalic">COLLECTED
+				PUBLICATIONS</emph></unittitle><unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic"/></unitdate><physdesc><extent>0.42 cubic feet</extent><extent>1 box</extent></physdesc></did></c01><c01 level="series"><?xm-replace_text {Indicate hierarchical level in LEVEL attribute; see proc.
+		manual for accession-level guidance. Include additional elements in c01 as needed}?><did><container type="box-folder"><emph render="bolditalic">2</emph></container><unitid type="uwsc"><emph render="bolditalic">SERIES II
+				</emph></unitid><unittitle encodinganalog="245$a"><emph render="bolditalic">COLLECTED
+				PUBLICATIONS</emph></unittitle><unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {Date or date span; normalize accession-level dates}?></unitdate><physdesc><extent>0.42 cubic feet</extent><extent>1 box</extent></physdesc></did></c01><c01 level="series"><did><container type="box-folder">Brand Responsibility Project Folder on
+				Intranet</container><unitid type="uwsc"><emph render="bolditalic">SERIES III
+				</emph></unitid><unittitle encodinganalog="245$a"><emph render="bolditalic">BRAND
+				RESPONSIBILITY PROJECT DIGITAL FILES</emph></unittitle><unitdate era="ce" calendar="gregorian"><?xm-replace_text {Enter 4-digit year or range of years}?></unitdate></did><arrangement encodinganalog="351"><p>The interview materials are organized into folders by restricted
+				or unrestricted status, then subdivided by format into audio and video. Another
+				portion of project administrative and research files are organized into other
+				folders.</p></arrangement><scopecontent encodinganalog="5202_"><p>Audio, video, and text files of interviews, release forms,
+				transcripts, and research and planning materials generated by the Brand
+				Responsibility Project. Much of this content is available in edited form on the
+				BRP website.</p></scopecontent><accessrestrict encodinganalog="506"><p>Only members of the Brand Responsibility Project have access to
+				the restricted portions of these digital records until 2062.</p></accessrestrict><userestrict type="540"><p>Portions of this series are closed to researchers until 2062.</p></userestrict></c01></dsc></archdesc></ead>

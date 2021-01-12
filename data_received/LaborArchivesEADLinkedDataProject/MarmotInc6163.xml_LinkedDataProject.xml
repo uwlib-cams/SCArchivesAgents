@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MarmotInc6163.xml" encodinganalog="identifier" identifier="80444/xv97613">MarmotInc6163.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Marmot, Inc.
+			 Records</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Marmot, Inc.
+			 Records</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Elizabeth
+			 Heu</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20171106">© 2017</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6163</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6163-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100">Marmot, Inc. (Seattle,
+			 Wash.)</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Marmot, Inc.
+		  records</unittitle> 
+		<unitdate type="inclusive" normal="1965/2016" era="ce" calendar="gregorian">1965-2016</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc><extent>3.37 cubic feet</extent>
+		  <extent>7 boxes </extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">General meeting
+		  minutes, financial documents, notes and articles related to Marmot, Inc.
+		  </abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Marmot, Inc. was a worker-self managed reforestation workers'
+		  cooperative/collective called. Based in Seattle and Bellingham, Marmot was
+		  founded in the mid-1970s, and ultimately dissolved in 1985 at the bottom of the
+		  timber industry recession of the mid-1980s. During its history Marmot had
+		  around 30 worker-owners, and it was part of a larger network of forestry
+		  cooperatives called the Northwest Forestry Workers Association that probably
+		  totaled one to two thousand workers.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Arranged by donor to retain provenance within overall Marmot, Inc
+		  collection. </p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Individual papers reunited at a Marmot, Inc. reunion from various
+		  members as part of an archival documentation project. The donors were: Steve
+		  Marquardt, Joseph Moore, Erik Nelsen, Gordon Scott; David Funke, Kathleen
+		  Creahan.</p> 
+		<p>The collection includes newsletters, general meeting minutes,
+		  articles, maps, notes, general workers and owner information, Northwest
+		  Forestry Workers Association correspondence, financial reports and documents,
+		  1981 local contract appeal, and a photo book of Marmot, Inc. members
+		  (self-published) 2016.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>Access restricted: closed until processed.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections.</p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Steve Marquardt, Joseph Moore, Erik Nelsen, Gordon Scott, Kathleen
+		  Creahan; 2016-10-25</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12"> 
+		<corpname role="subject" encodinganalog="610">Marmot, Inc. (Seattle,
+		  Wash.)$vArchives</corpname> 
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Labor$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Labor movement$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Lumber trade$xLabor unions$zWashington
+		  (State)$zSeattle</subject> 
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Minutes (Records)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">By-laws</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Newsletters</genreform> 
+		<corpname encodinganalog="710">Labor Archives of Washington (University
+		  of Washington) </corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Forestry and Forestry Products</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box"> 1</container> 
+			 <unittitle>Gordon Scott Materials </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1977-1983</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Newsletters, meeting minutes, Contract logs: Lake Wenatchee and
+				Naches, maps</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <unittitle>Joseph Moore Materials</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1965-2002</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Northhurst Forestry, Worker meeting minutes, Marmot Meeting
+				Minutes; miscellaneous notes </p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box"> 2-3</container> 
+			 <unittitle>Peter Stark Materials</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1976-1983 </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>General Meeting Minutes, proposals, notes, reports,
+				correspondence</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <unittitle>Erik Nelson Materials</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1976-1980 </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Meeting minutes, general workers and owner information, balance
+				sheets, articles, by-laws and corporation agreements</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>Steve Marquardt Materials</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1979-1983 </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Meeting minutes, Norhwest Forestry Workers Association
+				correspondence</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <unittitle>Kathy Creahan and David Funke </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1976-1985, 2016</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>General meeting minutes, financial reports and documents,
+				articles, shares and stock certificates; local contract appeal, 1981 and a
+				photo book of Marmot, Inc. members (self-published), 2016.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <unittitle>Kathy Creahan and David Funke</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1976-1985</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>General meeting minutes, by-laws, newspaper articles,</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <unittitle>Financial Records</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1979-1987</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Corporation tax income, balance sheets, </p> 
+		  </scopecontent> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

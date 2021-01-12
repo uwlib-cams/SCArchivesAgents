@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1125967707--><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+      <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CornishMegan6259.xml" encodinganalog="identifier" identifier="80444/xv590361">CornishMegan6259.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Guide to the Megan Cornish Papers
+			 </titleproper>
+            <titleproper type="filing" altrender="nodisplay">Cornish (Megan)
+			 Papers</titleproper>
+            <author encodinganalog="creator">Finding aid created by Elaine
+			 Speer</author>
+            <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+            <date encodinganalog="date" era="ce" calendar="gregorian" normal="20190321">© 2019</date>
+            <address>
+               <addressline>Seattle, WA 98195</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <revisiondesc>
+         <change>
+            <date era="ce" calendar="gregorian">Finding aid revised June
+			 2019</date>
+            <item>Kate Miller added related material</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21">
+      <did id="a1">
+         <repository>
+            <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea>
+            </corpname>
+            <address>
+               <addressline>Box 352900</addressline>
+               <addressline>Seattle, WA 98195-2900</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6259</unitid>
+         <unitid type="accession" countrycode="us" repositorycode="wauar">6259-001</unitid>
+         <origination>
+            <persname role="creator" encodinganalog="100" altrender="sync" source="lcnaf" rules="aacr2" authfilenumber="4007995">Cornish,
+			 Megan</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" type="collection">Megan Cornish papers
+		  </unittitle>
+         <unitdate type="inclusive" normal="1970/2003" era="ce" calendar="gregorian"> 1970-2003</unitdate>
+         <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+         <physdesc>
+            <extent>10.26 cubic feet</extent>
+            <extent>9 boxes</extent>
+         </physdesc>
+         <abstract encodinganalog="5203_$a" altrender="nodisplay">Papers of one of
+		  the first female electricians for Seattle City Light and labor
+		  activist</abstract>
+         <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial>
+         <dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/>
+      </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.--><daogrp linktype="extended">
+         <daodesc>
+            <p><?xm-replace_text {Image caption}?></p>
+         </daodesc>
+         <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.--><daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/>
+         <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/>
+      </daogrp>
+      <bioghist encodinganalog="5450_" id="a2">
+         <p>Megan (pronounced MEG-on) Cornish grew up in various locations around
+		  the United States. Cornish moved to Washington state after earning her BA from
+		  Cornell University in 1969. Cornish worked at the Shelter Half antiwar G.I.
+		  Coffee House in Tacoma; and was an active supporter of the United Construction
+		  Workers Association (UCWA); and picketed on behalf of striking University of
+		  Washington clerical and maintenance workers--part of the Staff Organizing
+		  Committee (later the United Workers Union-Independent). Cornish was also an
+		  active member of Radical Women, a socialist feminist organization co-founded by
+		  Clara Fraser in Seattle.</p>
+         <p>Fraser was selected to organize an Electrical Trades Trainee (ETT)
+		  program at Seattle City Light, she recruited Cornish and dozens of other
+		  feminist movement activists to apply. Cornish was hired along with nine other
+		  women as ETT employees. </p>
+         <p>The ETT women’s struggle with City Light management and sometimes with
+		  the International Brotherhood of Electrical Workers Union, Local 77 to hire
+		  women and challenge workplace sexism was hard fought. Cornish, along with her
+		  Radical Women colleagues Heidi Durham and Teri Bach, pushed the hardest and
+		  were targeted for some of the worst backlash. In the process, Cornish broke
+		  through a number of barriers. She became only the second female operator and
+		  the first female power dispatcher at Seattle City Light. Eventually promoted to
+		  senior power dispatcher, Cornish helped found the Committee for Equal Rights at
+		  City Light (CERCL) and, in 1991, was named Active Advocate of the Year, along
+		  with her longtime colleague Heidi Durham, by Washington Women in the Trades.
+		  She retired in 2004 after thirty years at City Light.</p>
+         <p>Cornish remains a committed member of Radical Women and the Freedom
+		  Socialist Party (FSP), as well as an antiwar activist and an environmental
+		  advocate. She has written numerous articles, pamphlets, and a few books on a
+		  range of topics over the last 30 years, which have been published by the
+		  Freedom Socialist Party publishing arm, Red Letter Press.</p>
+         <p>Text based on Megan Cornish oral history interview, Cornish, Megan
+		  interview with Nicole Grant and Alex Morrow "Radical Women; Freedom Socialist
+		  Party; Electrical Trades Trainee (ETT) Program, Seattle City Light," Seattle
+		  Civil Rights &amp; Labor History Project &lt;
+		  http://depts.washington.edu/civilr/cornish.htm&gt;</p>
+      </bioghist>
+      <arrangement encodinganalog="351" id="a4">
+         <p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+      </arrangement>
+      <scopecontent>
+         <p>Records collected by Megan Cornish on her role as a member of the
+		  Electrical Trades Trainees program of female electricians at City Light. The
+		  papers include organizing files and legal files from Cornish and other ETT’s
+		  discrimination case against City Light. Cornish was also a co-founder and
+		  member of the ETT's Committee for Equal Rights at City Light (CERCL). </p>
+      </scopecontent>
+      <odd encodinganalog="500" id="a5">
+         <p><?xm-replace_text {Text of general note}?></p>
+      </odd>
+      <altformavail encodinganalog="530" id="a9">
+         <p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?><extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/>
+         </p>
+      </altformavail>
+      <phystech>
+         <p/>
+      </phystech>
+      <accessrestrict>
+         <p>Closed until processed. Contact Special Collections for more
+		  information. </p>
+      </accessrestrict>
+      <userestrict>
+         <p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections.</p>
+      </userestrict>
+      <acqinfo>
+         <p>Donated by: Megan Cornish.</p>
+      </acqinfo>
+      <custodhist encodinganalog="561" id="a16">
+         <p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+      </custodhist>
+      <separatedmaterial encodinganalog="5440_$n" type="relocation">
+         <p>
+            <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+         </p>
+      </separatedmaterial>
+      <separatedmaterial encodinganalog="5441_$n" type="transfer">
+         <p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+      </separatedmaterial>
+      <bibliography id="a11" encodinganalog="581">
+         <p>
+            <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+         </p>
+      </bibliography>
+      <relatedmaterial encodinganalog="544__$n" id="a6">
+         <p>Special Collections holds similar materials in these collections:</p>
+         <p>
+            <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv56640/" linktype="simple">Clara Fraser
+			 papers (Collection No. 3187) </archref>
+         </p>
+         <p>
+            <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv00358/" linktype="simple">Tyree Scott
+			 papers (Collection No. 5245)</archref>
+         </p>
+         <p>
+            <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv957213" linktype="simple">George Hammer
+			 papers (Collection No. 6276)</archref>
+         </p>
+      </relatedmaterial>
+      <appraisal id="a39" encodinganalog="583">
+         <p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+      </appraisal>
+      <controlaccess id="a12"><persname role="subject" encodinganalog="600">Cornish, Megan$vArchives</persname>
+<corpname role="subject" encodinganalog="610">Seattle City Light$xEmployees$vArchives</corpname>
+<subject encodinganalog="650">Women electric industry workers$zWashington (State)$zSeattle$vArchives</subject>
+<subject encodinganalog="650">Sex discrimination in employment$zWashington (State)$zSeattle$xHistory$vSources</subject>
+<subject encodinganalog="650">Affirmative action programs$zWashington (State)$zSeattle$xHistory$vSources</subject>
+<corpname role="subject" encodinganalog="610">Seattle City Light$xHistory$vSources</corpname>
+<subject encodinganalog="650">Electric industry workers$xTraining of$zWashington (State)$zSeattle$vSources</subject>
+<subject encodinganalog="650">Apprenticeship programs$zWashington (State)$zSeattle$xHistory$vSources</subject>
+<subject encodinganalog="650">Labor$zWashington (State)$zSeattle</subject>
+<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform>
+<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform>
+<genreform source="lcgft" encodinganalog="655">Periodicals</genreform>
+<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+<genreform source="lcgft" encodinganalog="655">Course materials</genreform>
+<genreform source="lcgft" encodinganalog="655">Instructional and educational works</genreform>
+<genreform source="aat" encodinganalog="655">Newspaper clippings</genreform>
+<genreform source="aat" encodinganalog="655">Files (document groupings)</genreform>
+<genreform source="aat" encodinganalog="655">Bulletins</genreform>
+<genreform source="aat" encodinganalog="655">Newsletters</genreform>
+<genreform source="aat" encodinganalog="655">Legal documents</genreform>
+<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Women</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Public Utilities</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Seattle</subject>
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>Electrical Trades Trainees </unittitle>
+               <unitdate type="inclusive" normal="1970/1978" era="ce" calendar="gregorian">1970-1978</unitdate>
+            </did>
+            <scopecontent>
+               <p>Correspondence, reports, clippings, candidate lists, memos, fact
+				sheet, policy manual, subpoena, job announcements and descriptions, program
+				schedule, pamphlet, notes, handbooks, contract amendments, records for the ETT
+				case, legal documents including deposition of Carole Coe, press releases, ETT
+				program evaluations, requests for certification, trainee evaluations,
+				newsletters, articles, </p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">1</container>
+               <unittitle>City Light Walkout </unittitle>
+               <unitdate type="inclusive" normal="1974" era="ce" calendar="gregorian">1974</unitdate>
+            </did>
+            <scopecontent>
+               <p>Clippings, leaflet </p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Electrical Trades Trainees: Case and Media</unittitle>
+               <unitdate type="inclusive" normal="1976/1977" era="ce" calendar="gregorian">1976-1977</unitdate>
+            </did>
+            <scopecontent>
+               <p>Clippings, memos</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">2</container>
+               <unittitle>Clara Fraser Case</unittitle>
+               <unitdate type="inclusive" normal="1974/1983" era="ce" calendar="gregorian">1974-1983</unitdate>
+            </did>
+            <scopecontent>
+               <p>Proposals, meeting minutes, reports, correspondence, ETT working
+				committee documents, directories, statement by Janet Schokke, timelines, direct
+				and cross examinations of Daisy Jones, Rhuebottom, and Fraser, questionnaire on
+				Darlene Allison, legal documents, Local 77 resolution, notes, clippings, memos,
+				case history, financial reports, Fraser's resume and a biographical sketch,
+				benefit leaflets, press releases, list of supporters, and articles relating to
+				Clara Fraser's employment and termination from Seattle City Light. </p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">3</container>
+               <unittitle>Clara Fraser Case</unittitle>
+               <unitdate type="inclusive" normal="1980" era="ce" calendar="gregorian">1980</unitdate>
+            </did>
+            <scopecontent>
+               <p>clippings, articles and a documentary album</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">3</container>
+               <unittitle>City Light and Employee Trades Training</unittitle>
+               <unitdate type="inclusive" normal="1974/1977" era="ce" calendar="gregorian">1974-1977</unitdate>
+            </did>
+            <scopecontent>
+               <p>Memos, correspondence, mailing list, newsletters, clippings and
+				articles, meeting minutes, reports, IBEW Local 77 resolution and other
+				documents, documents and articles relating to Nick Daniggelis, fact sheets,
+				documents relating to Teri Bach's suspension, civil service rules, trainee
+				feedback, training catalog, documents relating to the Uhlman recall committee,
+				proposed Bill of Rights, Eleven Member Committee report, notes, documents
+				relating to Heidi Durham's case, and job description</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">4</container>
+               <unittitle>City Light and Employee Trades Training</unittitle>
+               <unitdate type="inclusive" normal="1975/1982" era="ce" calendar="gregorian">1975-1982</unitdate>
+            </did>
+            <scopecontent>
+               <p>Correspondence, certificate, claim for damages, memos, legal
+				documents, list of labor organizations, KIRO report, clippings, documents
+				relating to Lori Lakshas case, articles, notes, press release, Bill of Rights,
+				invitations, button, documents relating to Heidi Durham, workshop schedule and
+				notes, sexual harassment questionnaire (blank), documents relating to Buzz
+				Jackson's termination, personnel action form, reports, employee evaluation,
+				newsletter, IBEW Local 77 resolutions, contract proposals, meeting minutes,
+				documents relating to Women in Trades, union proposals, IBEW contract with City
+				Light, exam results, </p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">5</container>
+               <unittitle>City Light and Employee Trades Training</unittitle>
+               <unitdate type="inclusive" normal="1976/1979" era="ce" calendar="gregorian">1976-1979</unitdate>
+            </did>
+            <scopecontent>
+               <p>Correspondence, clippings and articles, notices, blank helper
+				exam, memos, reports, notes, employee evaluations, Local 77 resolution and dues
+				receipt, City of Seattle Affirmative Action plan, Seattle Personnel Ordinance,
+				legal documents, exam answer sheet, meeting minutes, Local 77 contract
+				proposals, and agreements between IBEW and City Light</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">5</container>
+               <unittitle>Committee for Equal Rights at City Light
+				(CERCL)</unittitle>
+               <unitdate type="inclusive" era="ce" calendar="gregorian">1983-1993 </unitdate>
+            </did>
+            <scopecontent>
+               <p>Correspondence, memos, legal documents, resume, notes, reports on
+				the Human Rights Department, reports, city ordinance, newsletters, clippings,
+				meeting agendas, and minutes, news releases, resolutions, draft of Affirmative
+				Action Plan, memos from City of Seattle Employees Against Discrimination,
+				flyers, petition, and Seattle ordinance</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">6</container>
+               <unittitle>Committee for Equal Rights at City Light
+				(CERCL)</unittitle>
+               <unitdate type="inclusive" normal="1955/1988" era="ce" calendar="gregorian">1955-1988</unitdate>
+            </did>
+            <scopecontent>
+               <p>Notes, clippings, Local 77 booklet, City Light publications and
+				newsletters, IBEW ritual book and by-laws, blank forms, Cornish dues receipts
+				and membership cards, documents from trainings and workshops, memos, legal
+				documents, budgets, flyers and notices, meeting minutes, Affirmative Action
+				Plan, reports, resumes, phone directories, IBEW contract, correspondence,
+				newsletters, notes, and brochures </p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">7</container>
+               <unittitle>Committee for Equal Rights at City Light (CERCL)-
+				Press</unittitle>
+               <unitdate type="inclusive" normal="1983/1991" era="ce" calendar="gregorian">1983-1991</unitdate>
+            </did>
+            <scopecontent>
+               <p>Announcements, clippings, and media sign-in sheet</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">7</container>
+               <unittitle>Committee for Equal Rights at City Light (CERCL)-
+				General</unittitle>
+               <unitdate type="inclusive" normal="1985/1998" era="ce" calendar="gregorian">1985-1998</unitdate>
+            </did>
+            <scopecontent>
+               <p>Clippings, correspondence, flyers, newsletter, song lyrics, notes,
+				memos, case subject files, reports, legal documents, financial report, agendas,
+				resume, Affirmative Action work plan, employee evaluations, meeting minutes,
+				and performance worksheet</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">8</container>
+               <unittitle>Committee for Equal Rights at City Light
+				(CERCL)</unittitle>
+               <unitdate type="inclusive" normal="1984/2003" era="ce" calendar="gregorian">1984-2003</unitdate>
+            </did>
+            <scopecontent>
+               <p>Clippings, notes, correspondence, memos, Local 77 by-laws, flyers,
+				and conference announcement and schedule</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">8</container>
+               <unittitle>Committee for Equal Rights at City Light (CERCL)- Human
+				Rights Department Case</unittitle>
+               <unitdate type="inclusive" normal="1984/1990" era="ce" calendar="gregorian">1984-1990</unitdate>
+            </did>
+            <scopecontent>
+               <p>Correspondence, memos, statistics, legal documents, resolution,
+				Washington State publications, and blank forms</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">8</container>
+               <unittitle>Ad Hoc Committee</unittitle>
+               <unitdate type="inclusive" normal="1983/1989" era="ce" calendar="gregorian">1983-1989</unitdate>
+            </did>
+            <scopecontent>
+               <p>Reports, memos, correspondence, clippings, notes, agendas, meeting
+				minutes, flyers, fact sheets, legal documents, and petitions</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">8</container>
+               <unittitle>Miscellaneous </unittitle>
+               <unitdate type="inclusive" normal="1983/1993" era="ce" calendar="gregorian">1983-1993</unitdate>
+            </did>
+            <scopecontent>
+               <p>Notes, clippings, flyers, correspondence, legal documents,
+				employee history cards, reports, memos, applications, job descriptions, and
+				employee evaluations related to CERCL, employee cases, and Seattle Human Rights
+				Commission/Department</p>
+            </scopecontent>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">9</container>
+               <unittitle>Miscellaneous </unittitle>
+               <unitdate type="inclusive" normal="1983/1988" era="ce" calendar="gregorian">1983-1988</unitdate>
+            </did>
+            <scopecontent>
+               <p>Correspondence, memos, clippings, legal documents including
+				witness statements, notes, KIRO news report, flyers, press packet, meeting
+				minutes, training packets, employee evaluation, resolution, reports, and job
+				description related to CERCL, Seattle Human Rights Department, and Seattle City
+				Light</p>
+            </scopecontent>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

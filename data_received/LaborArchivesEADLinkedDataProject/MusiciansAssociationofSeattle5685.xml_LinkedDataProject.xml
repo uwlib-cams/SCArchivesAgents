@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MusiciansAssociationofSeattle5685.xml" encodinganalog="identifier" identifier="80444/xv12707">MusiciansAssociationofSeattle5685.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Musicians’ Association
+			 of Seattle, American Federation of Musicians Local 76-493 Records</titleproper>
+		  
+		  <titleproper type="filing" altrender="nodisplay"> Musicians’
+			 Association of Seattle, American Federation of Musicians Local 76-493
+			 Records</titleproper> 
+		  <author encodinganalog="creator">Finding aid prepared by Nan Cohen and
+			 Hannah Robinson</author> 
+		  <sponsor encodinganalog="contributor">Funding for encoding this finding
+			 aid was partially provided through a grant awarded by the National Endowment
+			 for the Humanities</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20121101" era="ce" calendar="gregorian">© 2012</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc audience="external"> 
+		<creation>Finding aid encoded by ICDB 
+		  <date era="ce" calendar="gregorian">2012</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content Standard</title>).
+		</descrules> 
+	 </profiledesc> 
+	 <revisiondesc audience="external"> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised August 2018</date> 
+		  <item>Hannah Robinson changed the title from Musicians' Association of
+			 Seattle records to Musicians' Association of Seattle, American Federation of
+			 Musicians Local 76-493 records; opened access to many microfilm reels after
+			 examining for personally identifiable information; and enhanced finding aid to
+			 meet DACS requirements.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5685</unitid> 
+		<unitid countrycode="us" repositorycode="wau-ar" type="accession">5685-001</unitid> 
+		<origination> 
+		  <corpname encodinganalog="110" role="creator" authfilenumber="10016456" altrender="sync" source="lcnaf" rules="rda">Musicians' Association of
+			 Seattle</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection"> Musicians’
+		  Association of Seattle, American Federation of Musicians Local 76-493
+		  records</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1890/2010" era="ce" calendar="gregorian">1890-2010</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" normal="1960/1990" era="ce" calendar="gregorian">1960-1990</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">5.91 cubic feet</extent>
+		  <extent encodinganalog="300$a">6 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records of
+		  Musicians’ Association of Seattle, American Federation of Musicians (AFM) Local
+		  76-493; AFM Local 76; AFM Local 493; AFM Local 117; AFM Local 184; AFM Local
+		  124; AFM Local 236; AFM Local 451; and AFM Local 461</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>. </langmaterial> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format:
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute the full URL of the image file.
+Eg,  http://www.lib.washington.edu/specialcoll/images/ead/MS3783.jpg. Also enter MIME type of digital file
+(eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute, eg. Image of Mike
+Lowry, 1982.-->
+		<daoloc role="image/jpeg" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="ARN10016456" altrender="sync"> 
+		<p>The Musicians’ Association of Seattle, American Federation of
+		  Musicians Local 76-493 is a labor union that represents musicians in Seattle;
+		  Vashon Island; Clallam, Grays Harbor, Jefferson, King, Kitsap, Kittitas, Mason,
+		  Island, Pierce, San Juan, Skagit, Thurston, and Whatcom counties; and parts of
+		  Pacific County. Local 76-493 has been a labor organization since 1890 and is
+		  led by elected officers and an elected board of directors.</p> 
+		<p>Musicians’ unions began in Seattle in 1890 with the creation of the
+		  Seattle chapter of the Musicians Mutual Protective Union (MMPU) Local 76. MMPU
+		  Local 76 reorganized under the American Federation of Musicians (AFM) Local 76
+		  in 1898 and represented white musicians. Non-white musicians were barred from
+		  joining AFM Local 76 so they formed a separate union, AFM Local 458. Tension
+		  between the two unions resulted in the international union revoking Local 458’s
+		  charter in April of 1924. However, Black and other musicians of color were able
+		  to charter a replacement union, Local 493, later that year. In 1958, Local 76
+		  and Local 493 were amalgamated into Local 76, ending the racial segregation of
+		  musicians’ unions in Seattle. In 1994 the local’s name was changed to Local
+		  76-493.</p> 
+		<p>Previously distinct AFM locals in Western Washington became
+		  amalgamated under the jurisdiction of Local 76-493 between 1980 and 2010
+		  including AFM Local 117, Tacoma; AFM Local 184, Everett; AFM Local 124,
+		  Olympia; AFM Local 236, Aberdeen; AFM Local 451, Bellingham; and AFM Local 461,
+		  Mount Baker/Anacortes.</p> 
+		<p>Sources:</p> 
+		<p>Blecha, Peter. "AFM Local 493, Seattle's 'Negro Musicians' Union,'
+		  Holds Big Benefit Bash on May 29, 1951," February 20, 2013.
+		  http://www.historylink.org/File/10330.</p> 
+		<p>Musicians’ Association of Seattle, American Federation of Musicians
+		  Local 76-493. "About Us." Musicians' Association of Seattle, February 28, 2017.
+		  https://local76-493.org/about-us/.</p> 
+	 </bioghist> 
+	 <arrangement> 
+		<p>The collection is arranged into 7 series:</p> 
+		<list type="simple"> 
+		  <item>SERIES 1: MUSICIANS' ASSOCIATION OF SEATTLE, AFM LOCAL 76-493;
+			 AFM LOCAL 76, SEATTLE; AND AFM LOCAL 493, SEATTLE RECORDS, 1890-1891,
+			 1919-1990</item> 
+		  <item>SERIES 2: AFM LOCAL 117, TACOMA, WASHINGTON RECORDS, 1941-1996,
+			 undated</item> 
+		  <item>SERIES 3: AFM LOCAL 184, EVERETT, WASHINGTON RECORDS,
+			 1902-1991</item> 
+		  <item>SERIES 4: AFM LOCAL 124, OLYMPIA, WASHINGTON RECORDS,
+			 1941-1983</item> 
+		  <item>SERIES 5: AFM LOCAL 236, ABERDEEN, WASHINGTON RECORDS,
+			 1993-1994</item> 
+		  <item>SERIES 6: AFM LOCAL 451, BELLINGHAM, WASHINGTON RECORDS,
+			 1950-1981</item> 
+		  <item>SERIES 7: AFM LOCAL 461, MOUNT BAKER/ANACORTES, WASHINGTON
+			 RECORDS, 1992-2010</item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Materials include meeting minutes, financial records, bylaws, bylaws
+		  amendments, resolutions, reports, correspondence, membership applications,
+		  attendance lists, essays, and newsletters documenting the activities of the
+		  Musicians’ Association of Seattle, American Federation of Musicians (AFM) Local
+		  76-493, AFM Local 76, and AFM Local 493 in Seattle, Washington; AFM Local 117
+		  in Tacoma, Washington; and AFM Local 184 and Snohomish County Musicians Club in
+		  Everett, Washington. Also included to a lesser extent are materials relating to
+		  the activities of AFM Local 124 in Olympia, Washington; AFM Local 236 in
+		  Aberdeen, Washington; AFM Local 451 in Bellingham, Washington; and AFM Local
+		  461 in Mount Baker/Anacortes, Washington.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="actuatenone" show="new" linktype="simple"/> </p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users, but access to portions of the collection is
+		  restricted. Contact Special Collections for details.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>The creators' literary rights have been transferred to the University
+		  of Washington Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Donated by Motter Snell, President of the Musicians’ Association of
+		  Seattle, 2012 February 10.</p> 
+	 </acqinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <processinfo> 
+		<p>Inventorying and initial rehousing of this collection was done in 2012
+		  by Rachael Black, who also created a preliminary intellectual arrangement.
+		  Hannah Robinson changed the title from Musicians' Association of Seattle
+		  records to Musicians' Association of Seattle, American Federation of Musicians
+		  Local 76-493 records; opened access to many microfilm reels after examining for
+		  personally identifiable information; and enhanced finding aid to meet DACS
+		  requirements. Revised intellectual subdivisions and a revised arrangement were
+		  created in consultation with Conor Casey, who made some revision and
+		  corrections to the finding aid. </p> 
+	 </processinfo>
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<corpname role="subject" encodinganalog="610" altrender="sync">Musicians'
+		  Association of Seattle$vArchives </corpname> 
+		<corpname role="subject" encodinganalog="610">American Federation of
+		  Musicians.$bUnion Local 493 (Seattle, Wash.)$vArchives</corpname>
+		<corpname role="creator" encodinganalog="710">American Federation of
+		  Musicians.$bUnion Local 493 (Seattle, Wash.)</corpname>
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject encodinganalog="650">Musicians$xLabor unions$zWashington
+		  (State)</subject>
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  History</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Music</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES 1</unitid> 
+			 <unittitle>MUSICIANS’ ASSOCIATION OF SEATTLE, AFM LOCAL 76-493; AFM
+				LOCAL 76, SEATTLE; AND AFM LOCAL 493, SEATTLE RECORDS</unittitle> 
+			 <unitdate type="inclusive" normal="1890/1990" era="ce" calendar="gregorian">1890-1891,
+				1919-1990</unitdate> 
+			 <physdesc> <extent>0.46 cubic feet (1 box, including 29 microfilm
+				reels)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include board meeting minutes, financial records, and
+				membership applications documenting the activities of the American Federation
+				of Musicians Local 76-493, American Federation of Musicians Local 76, and
+				American Federation of Musicians Local 493 in Seattle, Washington.</p> 
+		  </scopecontent> 
+		  <accessrestrict> 
+			 <p>Some materials in this series are restricted due to the presence
+				of personally identifiable information.</p> 
+		  </accessrestrict> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6</container> 
+				<unittitle>Board meeting minutes</unittitle> 
+				<unitdate type="inclusive" normal="1890/1977" era="ce" calendar="gregorian">1890-1891,
+				  1919-1977</unitdate> 
+				<physdesc> <extent>8 microfilm reels</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6</container> 
+				<unittitle>Financial records: quarterly dues payments</unittitle> 
+				<unitdate type="inclusive" normal="1925/1953" era="ce" calendar="gregorian">1925-1953</unitdate> 
+				<physdesc> <extent>18 microfilm reels</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6</container> 
+				<unittitle>Membership cards and payment records</unittitle> 
+				<unitdate type="inclusive" normal="1971/1990" era="ce" calendar="gregorian">approximately
+				  1971-1990</unitdate> 
+				<physdesc> <extent>2 microfilm reels</extent>
+				</physdesc>
+			 </did> 
+			 <accessrestrict> 
+				<p>Restricted due to the presence of personally identifiable
+				  information.</p> 
+			 </accessrestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6</container> 
+				<unittitle>New member applications and transfer
+				  applications</unittitle> 
+				<unitdate type="inclusive" normal="1977/1978" era="ce" calendar="gregorian">1977-1978</unitdate> 
+				<physdesc> <extent>1 microfilm reel</extent>
+				</physdesc>
+			 </did> 
+			 <accessrestrict> 
+				<p>Restricted due to the presence of personally identifiable
+				  information.</p> 
+			 </accessrestrict> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES 2</unitid> 
+			 <unittitle>AFM LOCAL 117, TACOMA, WASHINGTON RECORDS</unittitle> 
+			 <unitdate type="inclusive" normal="1941/1996" era="ce" calendar="gregorian">1941-1996,
+				undated</unitdate> 
+			 <physdesc> <extent>1.51 cubic feet (1 box and 1 shared box)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include Executive Board meeting minutes, bylaws,
+				correspondence, financial records, and reports documenting the activities of
+				the American Federation of Musicians Local 117 in Tacoma, Washington.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1-32</container> 
+				<unittitle>Executive Board minutes</unittitle> 
+				<unitdate type="inclusive" normal="1941/1993" era="ce" calendar="gregorian">1941-1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/32-33</container> 
+				<unittitle>Bylaws and bylaws revisions</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990, undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/35</container> 
+				<unittitle>Correspondence regarding internal financial
+				  audits</unittitle> 
+				<unitdate type="inclusive" normal="1985/1990" era="ce" calendar="gregorian">1985-1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/36</container> 
+				<unittitle>Per capita dues reports, initiation fee reports, union
+				  officer records</unittitle> 
+				<unitdate type="inclusive" normal="1990/1995" era="ce" calendar="gregorian">1990-1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/37-47</container> 
+				<unittitle>Financial register of daily receipts and
+				  disbursements</unittitle> 
+				<unitdate type="inclusive" normal="1958/1968" era="ce" calendar="gregorian">1958-1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/48-51</container> 
+				<unittitle>Check register</unittitle> 
+				<unitdate type="inclusive" normal="1986/1995" era="ce" calendar="gregorian">1986-1995</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1-8</container> 
+				<unittitle>Monthly transaction and balance sheets</unittitle> 
+				<unitdate type="inclusive" normal="1989/1996" era="ce" calendar="gregorian">1989-1996</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/9</container> 
+				<unittitle>Financial records including tax reports and tax
+				  forms</unittitle> 
+				<unitdate type="inclusive" normal="1988/1993" era="ce" calendar="gregorian">1988-1993</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/10</container> 
+				<unittitle>Labor organization annual reports, non profit
+				  corporation annual reports, and Pierce County Assessor affidavit</unittitle> 
+				<unitdate type="inclusive" normal="1990/1996" era="ce" calendar="gregorian">1990-1996</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/11</container> 
+				<unittitle>Membership initiation fee reports</unittitle> 
+				<unitdate type="inclusive" normal="1994/1996" era="ce" calendar="gregorian">1994-1996</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES 3</unitid> 
+			 <unittitle>AFM LOCAL 184, EVERETT, WASHINGTON RECORDS</unittitle> 
+			 <unitdate type="inclusive" normal="1902/1991" era="ce" calendar="gregorian">1902-1991</unitdate> 
+			 <unitdate type="bulk" normal="1960/1991" era="ce" calendar="gregorian">1960-1991</unitdate> 
+			 <physdesc> <extent>3.74 cubic feet (2 boxes and 1 shared
+				box)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include meeting minutes, correspondence, financial
+				records, reports, and newsletters documenting the activities of the American
+				Federation of Musicians Local 184 in Everett, Washington. Also included are
+				articles of incorporation, bylaws, meeting minutes, and financial records of
+				the Snohomish County Musicians Club.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/1</container> 
+				<unittitle>Quarterly payroll reports, tax forms, and budget
+				  notes</unittitle> 
+				<unitdate type="inclusive" normal="1972/1983" era="ce" calendar="gregorian">1972-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/2</container> 
+				<unittitle>Correspondence with IRS</unittitle> 
+				<unitdate type="inclusive" normal="1990/1991" era="ce" calendar="gregorian">1990-1991</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3</container> 
+				<unittitle>Meeting minutes books</unittitle> 
+				<unitdate type="inclusive" normal="1902/1983" era="ce" calendar="gregorian">1902-1983</unitdate> 
+				<physdesc> <extent>8 items</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3</container> 
+				<unittitle>Snohomish County Musicians Club meeting minutes
+				  book</unittitle> 
+				<unitdate type="inclusive" normal="1966" era="ce" calendar="gregorian">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3</container> 
+				<unittitle>Cash receipts ledgers</unittitle> 
+				<unitdate type="inclusive" normal="1955/1968" era="ce" calendar="gregorian">1955-1968</unitdate> 
+				<physdesc> <extent>2 items</extent>
+				</physdesc>
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/1</container> 
+				<unittitle>Correspondence with IRS regarding tax return
+				  discrepancies and tax return forms</unittitle> 
+				<unitdate type="inclusive" normal="1988/1989" era="ce" calendar="gregorian">1988-1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/2</container> 
+				<unittitle>Correspondence with IRS regarding tax return
+				  discrepancies, tax return forms, and correspondence with Washington State
+				  Employment Security Office</unittitle> 
+				<unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/3</container> 
+				<unittitle>Meeting minutes and newsletters</unittitle> 
+				<unitdate type="inclusive" normal="1982/1989" era="ce" calendar="gregorian">1982-1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/4</container> 
+				<unittitle>Snohomish County Musicians Club articles of
+				  incorporation and bylaws</unittitle> 
+				<unitdate type="inclusive" normal="1966/1977" era="ce" calendar="gregorian">1966-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/5</container> 
+				<unittitle>Snohomish County Musicians Club meeting
+				  minutes</unittitle> 
+				<unitdate type="inclusive" normal="1971/1986" era="ce" calendar="gregorian">1971-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/6</container> 
+				<unittitle>Appraisal of union building</unittitle> 
+				<unitdate type="inclusive" normal="1983-11-01" era="ce" calendar="gregorian">30621</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/7-10</container> 
+				<unittitle>Newsletters</unittitle> 
+				<unitdate type="inclusive" normal="1965/1986" era="ce" calendar="gregorian">1965-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/11-23</container> 
+				<unittitle>Check registers</unittitle> 
+				<unitdate type="inclusive" normal="1960/1984" era="ce" calendar="gregorian">1960-1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/24</container> 
+				<unittitle>Snohomish County Musicians Club check
+				  register</unittitle> 
+				<unitdate type="inclusive" normal="1966/1986" era="ce" calendar="gregorian">1966-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/25</container> 
+				<unittitle>Financial records</unittitle> 
+				<unitdate type="inclusive" normal="1976/1981" era="ce" calendar="gregorian">1976-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/1-18</container> 
+				<unittitle>Financial records</unittitle> 
+				<unitdate type="inclusive" normal="1967/1988" era="ce" calendar="gregorian">1967-1988</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES 4</unitid> 
+			 <unittitle>AFM LOCAL 124, OLYMPIA, WASHINGTON RECORDS</unittitle> 
+			 <unitdate type="inclusive" normal="1941/1983" era="ce" calendar="gregorian">1941-1983</unitdate> 
+			 <physdesc> <extent>0.1 cubic feet (3 files)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include meeting minutes, bylaws amendments, and
+				financial records documenting the activities of the American Federation of
+				Musicians Local 124 in Olympia, Washington.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/12</container> 
+				<unittitle>Meeting minutes and bylaws amendments</unittitle> 
+				<unitdate type="inclusive" normal="1941/1968" era="ce" calendar="gregorian">1941-1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/13</container> 
+				<unittitle>Quarterly tax forms</unittitle> 
+				<unitdate type="inclusive" normal="1977/1983" era="ce" calendar="gregorian">1977-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle>Income and expense reports</unittitle> 
+				<unitdate type="inclusive" normal="1981/1983" era="ce" calendar="gregorian">1981-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES 5</unitid> 
+			 <unittitle>AFM LOCAL 236, ABERDEEN, WASHINGTON RECORDS</unittitle> 
+			 <unitdate type="inclusive" normal="1993/1994" era="ce" calendar="gregorian">1993-1994</unitdate> 
+			 <physdesc> <extent>0.1 cubic feet (1 file)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include notes and a resolution documenting the
+				activities of the American Federation of Musicians Local 236 in Aberdeen,
+				Washington.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/15</container> 
+				<unittitle>Notes and resolution regarding merger with AFM Local 76,
+				  Seattle, Washington</unittitle> 
+				<unitdate type="inclusive" normal="1993/1994" era="ce" calendar="gregorian">1993-1994</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES 6</unitid> 
+			 <unittitle>AFM LOCAL 451, BELLINGHAM, WASHINGTON RECORDS</unittitle> 
+			 <unitdate type="inclusive" normal="1950/1981" era="ce" calendar="gregorian">1950-1981</unitdate> 
+			 <physdesc> <extent>0.1 cubic feet (4 files)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include meeting minutes, correspondence, attendance
+				lists, and essays documenting the activities of the American Federation of
+				Musicians Local 451 in Bellingham.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/26-27</container> 
+				<unittitle>Meeting minutes</unittitle> 
+				<unitdate type="inclusive" normal="1962/1981" era="ce" calendar="gregorian">1962-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/28</container> 
+				<unittitle>Roll call list for officers and guest lists from
+				  meetings</unittitle> 
+				<unitdate type="inclusive" normal="1964/1972" era="ce" calendar="gregorian">1964-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/34</container> 
+				<unittitle>Essay about AFM local 451 history, meeting notes, and
+				  correspondence</unittitle> 
+				<unitdate type="inclusive" normal="1950/1969" era="ce" calendar="gregorian">1950-1969</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc">SERIES 7</unitid> 
+			 <unittitle>AFM LOCAL 461, MOUNT BAKER/ANACORTES, WASHINGTON
+				RECORDS</unittitle> 
+			 <unitdate type="inclusive" normal="1992/2010" era="ce" calendar="gregorian">1992-2010</unitdate> 
+			 <physdesc> <extent>0.2 cubic feet (5 files)</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include meeting minutes, financial records,
+				correspondence, and attendance lists documenting the activities of the American
+				Federation of Musicians Local 461 in Mount Baker/Anacortes, Washington.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/29</container> 
+				<unittitle>Financial reports</unittitle> 
+				<unitdate type="inclusive" normal="2000/2010" era="ce" calendar="gregorian">2000-2010</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/30</container> 
+				<unittitle>Correspondence and roster</unittitle> 
+				<unitdate type="inclusive" normal="2004/2010" era="ce" calendar="gregorian">2004-2010</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/31-33</container> 
+				<unittitle>Meeting minutes</unittitle> 
+				<unitdate type="inclusive" normal="1992/2010" era="ce" calendar="gregorian">1992-2010</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

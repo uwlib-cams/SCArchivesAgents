@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RiederRoss5930.xml" encodinganalog="identifier" identifier="80444/xv96939">RiederRoss5930.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Ross Rieder Audio and
+			 Video Collection</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Rieder (Ross) Audio
+			 and Video Collection</titleproper> 
+		  <author encodinganalog="creator">Finding Aid created by Emily
+			 Spracklin</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" calendar="gregorian" era="ce">© 2016</date>
+		  
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date calendar="gregorian" era="ce"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5930</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">5930-001</unitid> 
+		<origination> 
+		  <persname role="creator">Rieder, Ross K.</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Ross Rieder Audio and
+		  Video Collection</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian" era="ce" normal="1981/2014">1981-2014</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" calendar="gregorian" era="ce"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc><extent>.54 cubic feet</extent>
+		  <extent>2 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Ross Rieder
+		  served as president of the Pacific Northwest Labor History Association for 37
+		  years from 1978 to 2015. This collection contains audio and video recordings of
+		  labor-related programs as collected by Ross Rieder.</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Ross Rieder is a union activist, labor historian, and preservationist.
+		  Rieder served as president of the Pacific Northwest Labor History Association
+		  for 37 years from 1978 to 2015, and remains a member and active supporter of
+		  the PNLHA. Before retiring, Rieder was a music teacher and a member of the
+		  Everett American Federation of Teachers local union. Rieder also worked for the
+		  the Snohomish County Central Labor Council and Washington State Federation of
+		  Labor. Other achievements by Rieder during his career in labor include his
+		  co-leadership (with Will Parry) of a Washington State Labor Council campaign in
+		  1978-1979 to assist King County unions to organize workers in picketing
+		  automobile dealerships in reaction to a growing trend among the dealerships to
+		  open their shops to non-union work.</p> 
+		<p>Parry and Ross paired again to organize the Washington State
+		  delegation of union members and supporters for Solidarity Day -- a rally
+		  against the Reagan administration initiated by the AFL-CIO Executive Council
+		  and held in Washington, D.C., on September 19, 1981. Later, Rieder co-hosted a
+		  labor radio show on KSER (Everett) called "Part of the Union" between and
+		  served as president of the AFT retiree chapter in Washington.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Contains Ross Rieder's collection of labor-related audio and video
+		  recordings including audio recordings of his radio show "Part of the Union"
+		  (2005-2012) and DVD recordings of the monthy television production, "Our View",
+		  as broadcast on community cable channels across the state (2006-2014).</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech type="phys"> 
+	 <p><?xm-replace_text {p}?></p></phystech> 
+	 <accessrestrict> 
+		<p>Some restrictions on access. Contact repository for details. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Ross Rieder, null </p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv33273/" linktype="simple">Pacific
+			 Northwest Labor History Association (Mss Coll 4552-002);</archref></p> 
+		<p>PNLHA related materials were relocated to the Pacific Northwest Labor
+		  History Association records (4552-002), 2016-03-16.</p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12"> 
+		<controlaccess encodinganalog="600"> 
+		  <persname encodinganalog="600" role="subject"><?xm-replace_text {Creator of collection, surname first + $vArchives}?></persname>
+		  
+		  <persname role="subject" encodinganalog="600"><?xm-replace_text {Additional name of person who is an important subject of the coll.; surname first}?></persname>
+		  
+		</controlaccess> 
+		<controlaccess encodinganalog="700"> 
+		  <persname role="creator" encodinganalog="700"><?xm-replace_text {Additional creator, personal}?></persname>
+		  
+		</controlaccess> 
+		<controlaccess encodinganalog="610"> 
+		  <corpname role="subject" encodinganalog="610"><?xm-replace_text {Corporate name that is an important subject of the coll.}?></corpname>
+		  
+		</controlaccess> 
+		<controlaccess encodinganalog="710"> 
+		  <corpname encodinganalog="710">Labor Archives of Washington (University
+			 of Washington)</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <geogname source="lcsh" role="subject" encodinganalog="651"><?xm-replace_text {LC place heading, with subheading if appropriate}?></geogname>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Broad topical browse heading taken from 
+		  UW Special Collections term list; add more if needed}?></subject> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Broad topical browse heading taken from 
+		  UW Special Collections term list; add more if needed}?></subject><!-- Also add at least one browsing term from the Archives West browsing term list at http://goo.gl/X5whgX -->
+		  <subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor History</subject> 
+		  <subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor Unions</subject> 
+		  <subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Sound Recordings</subject> 
+		  <subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Moving Images</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <genreform source="lcsh" encodinganalog="655"><?xm-replace_text {Form or genre term, eg, Photographs. Use lcsh, aat, or gmgpc terms}?></genreform>
+		  
+		  <genreform source="lcsh" encodinganalog="655"><?xm-replace_text {Form or genre term, eg, Photographs. Use lcsh, aat, or gmgpc terms}?></genreform>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <title encodinganalog="630" rules="aacr2" linktype="simple"><?xm-replace_text {Title of publication included/described in collection}?></title>
+		  
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>Experiments in Democracy: Worker's Co-ops (produced by
+				Doug Honig, KRAB)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1981</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>Race, Work, and Economic Justic Conference
+				recordings</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 3-4, 1998</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>BC Tech Conference recordings</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March 12-15, 1986</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>PNW Labor Conference</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">no date</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>The Triangle Fire as Told by Leon Stein</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1986</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>ET and the Boy at Folklife</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May 23-24, 2009</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>SPEEA Strike Documentary</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">no date</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>KPFA Labor Collective May Day/Western Workers Labor
+				Heritage Festival</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">2004</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>Definitions of Democracy by Dan Leahy</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">no date</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>Labor History Images Prepared by SPEEA for Ross Rieder
+				Labor History Lecture</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 2010</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>NSW Mines Rescue Pty Ltd Training and Introduction to the
+				Virtual Reality Facilities</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">no date</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>AWPPW The Story of a Democratic Union</unittitle> 
+			 <unitdate era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>Voices of Labor recordings </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">no date</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>Our View DVD recordings</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 2006-December 2014</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="item"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <unittitle>Part of The Union audio recordings (incomplete
+				run)</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">June 2005-October 2012</unitdate> 
+		  </did> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

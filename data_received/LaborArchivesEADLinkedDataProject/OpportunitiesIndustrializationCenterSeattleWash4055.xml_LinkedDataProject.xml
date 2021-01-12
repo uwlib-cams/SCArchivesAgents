@@ -1,0 +1,2773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"><!--OCLC 123953419-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/OpportunitiesIndustrializationCenterSeattleWash4055.xml" encodinganalog="identifier" identifier="80444/xv41479">OpportunitiesIndustrializationCenterSeattleWash4055.xml</eadid>
+	 
+	 <filedesc> 
+		<titlestmt id="edit-complete"> 
+		  <titleproper encodinganalog="title">Guide to the Seattle Opportunities
+			 Industrialization Center Records </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Seattle Opportunities
+			 Industrialization Center Records</titleproper> 
+		  <sponsor encodinganalog="contributor">Full processing supported by the
+			 Labor Archives Fund and the Labor Archives of Washington State Budget</sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20071001" era="ce" calendar="gregorian">©2007</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc audience="external"> 
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date>
+		  </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised June 20,
+			 2018.</date> 
+		  <item>Conor Casey added updated scope and content note based on Ernie
+			 Dornfeld's final processing of this collection and Becky Rosenberg's inventory.
+			 </item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised July 10,
+			 2020</date> 
+		  <item>Crystal Rodgers fixed spelling several spelling errors and
+			 revised the wording in the Abstract note.</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised October 26,
+			 2020</date> 
+		  <item>Crystal Rodgers updated broken link in scope and content and
+			 added additional notes to the finding aid, including preferred citation,
+			 arrangement, processing info, sponsor, and &lt;odd&gt; note.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid type="mss" encodinganalog="099">4055</unitid> 
+		<unitid type="accession" encodinganalog="099">4055-001</unitid> 
+		<origination> 
+		  <corpname role="creator" encodinganalog="110" altrender="sync" source="lcnaf" rules="aacr2r">Seattle Opportunities Industrialization
+			 Center</corpname> </origination> 
+		<unittitle type="collection">Opportunities Industrialization Center
+		  records</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1966/1988">1966-1988</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">12.54 cubic feet (11
+		  boxes)</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records of the
+		  Seattle-based community vocational center that provided pre-apprenticeship
+		  training from 1966 to 1986. </abstract> <langmaterial>Collection materials are
+		in <language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <prefercite> 
+		<p>Labor Archives of Washington, University of Washington Libraries,
+		  Special Collections, Seattle Opportunities Industrialization Center records,
+		  4055-001, box number, folder number.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="5451_" id="ARN1920271" altrender="sync"> 
+		<p>OIC Seattle (often refered to locally as "SOIC") was incorporated in
+		  May 1966 as a private, nonprofit community-based vocational training center. It
+		  was founded as an outgrowth of the OIC movement which had been started two
+		  years earlier in Philadelphia. In 1972, OIC Seattle became the first
+		  community-based organization to receive federal designation as a Skills Center.
+		  Its rapid growth and expanding programs made possible the building of a
+		  multi-million dollar training center dedicated in 1974. OIC Seattle's
+		  diversified funding and its accreditation saved the school from the financial
+		  collapse experienced at the beginning of the 1980s by many similar
+		  institutions, but it could not survive the federal government's rapid and
+		  drastic cutback of funding around 1983 and 1984. It attempted to continue its
+		  services by totally reorganizing its service delivery system. Efforts continued
+		  another two years but on September 25, 1986, a Chapter 11 bankruptcy notice was
+		  filed.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>The collection is arranged into the following series and subseries: 
+		  <list> 
+			 <item>SERIES 1: HISTORICAL/ORGANIZATIONAL FEATURES, 1966-1986</item> 
+			 <item>SERIES 2: NEWSLETTERS AND BROCHURES, 1970-1986</item> 
+			 <item>SERIES 3: MINUTES, 1966-1988</item> 
+			 <item>SERIES 4: FINANCIAL RECORDS, 1972-1986</item> 
+			 <item>SERIES 5: REPORTS, 1968-1986</item> 
+			 <item>SERIES 6: CONTRACTS, 1968-1983</item> 
+			 <item>SERIES 7 : PUBLICITY AND PUBLIC RELATIONS RECORDS, 1967-1985 
+				<list> 
+				  <item>Subseries 1 : Speeches, Advertising and Publications
+					 1967-1985</item> 
+				  <item>Subseries 2 : Photographs 1967-1985</item> 
+				</list></item> 
+			 <item>SERIES 8: PLANNING AND FACILITY RECORDS , 1971-1987</item> 
+			 <item>SERIES 9: PUBLICATIONS , 1974-1983</item> 
+		  </list></p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Board minutes, 1968-1988; historical documents; publications;
+		  financial records; reports; contracts; planning and facility development
+		  records; public relations and publicity records; video and film materials; and
+		  a large number of photographs illustrating SOIC activities, most of which are 8
+		  x 10" black-and-white prints with related 35mm negatives and contact
+		  sheets.</p> 
+		<p>The Workforce Training &amp; Education Coordinating Board maintains
+		  records (transcripts) for closed schools in Washington State, including the
+		  Seattle Opportunities Industrialization Center. For more information about
+		  accessing these transcripts, see their 
+		  <extref href="https://www.wtb.wa.gov/contact-us/closed-school-transcripts/" show="new" actuate="onrequest" linktype="simple">Closed School Transcript Request webpage</extref>.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {Text of the Scope and Content Note, in paragraphs; separate each with paragraph tags}?></p>
+		
+	 </altformavail> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+		<p>Records are stored offsite; advance notice is required for use.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Literary rights of representatives of the records-creating
+		  organization have been transferred to the University of Washington
+		  Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Donated by Opportunities Industrialization Center, Seattle,
+		  10/31/1989.</p> 
+	 </acqinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <processinfo> 
+		<p audience="external">Collection was initially rehoused and inventoried
+		  by Becky Rosenberg and fully processed by Ernie Dornfeld in 2018.</p> 
+	 </processinfo> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <controlaccess id="persname"> 
+		<subject encodinganalog="650">Vocational training centers$zWashington
+		  (State)$zSeattle</subject> 
+		<genreform source="lcgft" encodinganalog="655">Minutes (Records)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Photographs</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Newsletters</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Contracts</genreform> 
+		<genreform source="aat" encodinganalog="655">Financial
+		  records</genreform> 
+		<persname role="creator" encodinganalog="700">McKinney, Samuel
+		  B.$vArchives</persname> 
+		<persname role="creator" encodinganalog="700">Isaki, Paul</persname> 
+		<persname role="creator" encodinganalog="700">Williams, James
+		  L.</persname> 
+		<persname role="creator" encodinganalog="700">Charles, John </persname> 
+		<corpname encodinganalog="610" role="subject" altrender="sync" source="lcnaf" rules="aacr2r">Seattle Opportunities Industrialization
+		  Center$vArchives</corpname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject>Vocation training centers$zWashington
+		  (State)$zSeattle$vArchives</subject> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Civic
+		  Activism</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/1 - 1/13
+				</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 1 </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">HISTORICAL/ORGANIZATIONAL
+				FEATURES</emph> </unittitle> 
+			 <unitdate type="inclusive" normal="1966/1986" era="ce" calendar="gregorian"> <emph render="bolditalic">1966-1986</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>Background &amp; history</unittitle> 
+				<unitdate type="inclusive" normal="1980/1982" era="ce" calendar="gregorian">1980-1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>Proposal to Seattle Public Schools</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>By-Laws and Articles of Incorporation</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle>Final historical summary</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>By-Laws and Articles of Incorporation</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>History and Comprehensive Service of Seattle
+				  Opportunities Industrialization Center</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle>Sponsorship proposal to NACO from King-Snohomish
+				  Manpower Consortium</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle>Dedication of Skills Booklet</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9</container> 
+				<unittitle>U.S. Department of Justice INS Petition
+				  Approval</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle>Restructure of Counseling Services</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle>Comprehensive Employment and Training Act
+				  Review</unittitle> 
+				<unitdate type="inclusive" normal="1977/1983" era="ce" calendar="gregorian">1977-1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle>The Essence of OIC</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/13</container> 
+				<unittitle>Photographs</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/14 - 1/29
+				</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 2 </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">NEWSLETTERS AND BROCHURES
+				</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1970-1986 </emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle>Newsletters: Internal Forum, Insight, The
+				  Voice</unittitle> 
+				<unitdate type="inclusive" normal="1970/1984" era="ce" calendar="gregorian">1970-1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle>Funding requests brochures</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle>Job training brochures</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unittitle>Progress Report brochures</unittitle> 
+				<unitdate type="inclusive" normal="1978/1981" era="ce" calendar="gregorian">1978-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle>Course catalogs and brochures</unittitle> 
+				<unitdate type="inclusive" normal="1981/1986" era="ce" calendar="gregorian">1981-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/19</container> 
+				<unittitle>Biennial Report</unittitle> 
+				<unitdate type="inclusive" normal="1973/1979" era="ce" calendar="gregorian">1973-1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/20</container> 
+				<unittitle>Business and Private Programs brochure</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/21</container> 
+				<unittitle>A Guide for Citizens in Pierce, King &amp; Snohomish
+				  Counties</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c.
+				  1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/22</container> 
+				<unittitle>Opportunities Industrialization Centers of America.
+				  Career Intern Program</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/23</container> 
+				<unittitle>"OH I SEE!" leaflets describing training
+				  programs</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/24</container> 
+				<unittitle>A Strategic Model for Seattle Opportunities
+				  Industrialization Center </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/25</container> 
+				<unittitle>Partnerships with business and industry</unittitle> 
+				<unitdate type="inclusive" normal="1971/1975" era="ce" calendar="gregorian">1971-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/26</container> 
+				<unittitle>OIC Building for the Future </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/27</container> 
+				<unittitle>Asian Counseling and Referral Service. Asian Youth
+				  Resource Manual</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/28</container> 
+				<unittitle>James R. McGraw. Training as a Mission.- reprint from
+				  Adherent]</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/29</container> 
+				<unittitle>[OICs of America Region IX Conference
+				  Program</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/30 - 3/9
+				</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 3 </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">MINUTES</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1966-1988 </emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/30</container> 
+				<unittitle>Board of Directors minutes</unittitle> 
+				<unitdate type="inclusive" normal="1966/1969" era="ce" calendar="gregorian">1966-1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/31</container> 
+				<unittitle>Board of Directors minutes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/32</container> 
+				<unittitle>Board of Directors minutes (part 1 of 4)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/33</container> 
+				<unittitle>Board of Directors minutes (part 2 of 4)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/34</container> 
+				<unittitle>Board of Directors minutes (part 3 of 4)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/35</container> 
+				<unittitle>Board of Directors minutes (part 4 of 4)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/36</container> 
+				<unittitle>Board of Directors minutes (part 1 of 3)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/37</container> 
+				<unittitle>Board of Directors minutes (part 2 of 3)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/38</container> 
+				<unittitle>Board of Directors minutes (part 3 of 3)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/39</container> 
+				<unittitle>Board of Directors minutes (part 1 of 5)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1</container> 
+				<unittitle>Board of Directors minutes (part 2 of 5)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/2</container> 
+				<unittitle>Board of Directors minutes (part 3 of 5)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/3</container> 
+				<unittitle>Board of Directors minutes (part 4 of 5)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/4</container> 
+				<unittitle>Board of Directors minutes (part 5 of 5)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/5</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/6</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/7</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/8</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/9</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/10</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/11</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/12</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/13</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/15 </container> 
+				<unittitle>Board of Directors minutes (part 1 of 3)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/16</container> 
+				<unittitle>Board of Directors minutes (part 2 of 3)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/17</container> 
+				<unittitle>Board of Directors minutes (part 3 of 3)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/18</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/19</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/20</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/21</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/1</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/2</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/3</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/4</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/5</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/6</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/7</container> 
+				<unittitle>Board of Directors minutes (part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/8</container> 
+				<unittitle>Board of Directors minutes (part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/9</container> 
+				<unittitle>Board of Directors minutes</unittitle> 
+				<unitdate type="inclusive" normal="1987/1988" era="ce" calendar="gregorian">1987-1988</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">3/9 - 3/16
+				</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 4 </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">FINANCIAL RECORDS</emph>
+				</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1972-1986 </emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/10</container> 
+				<unittitle>John Charles banking and financial
+				  statements</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/11</container> 
+				<unittitle>Audit reports</unittitle> 
+				<unitdate type="inclusive" normal="1972/1974" era="ce" calendar="gregorian">1972-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/12</container> 
+				<unittitle>Audit reports</unittitle> 
+				<unitdate type="inclusive" normal="1975/1976" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/13</container> 
+				<unittitle>Audit reports</unittitle> 
+				<unitdate type="inclusive" normal="1976/1981" era="ce" calendar="gregorian">1976-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/14</container> 
+				<unittitle>Financial aid programs audit report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/15</container> 
+				<unittitle>Audit reports</unittitle> 
+				<unitdate type="inclusive" normal="1982/1984" era="ce" calendar="gregorian">1982-1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/16</container> 
+				<unittitle>Financial report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">3/17 - 4/17,
+				6/34 - 6/37 </emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 5 </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">REPORTS</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1968-1986 </emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/17</container> 
+				<unittitle>Biennial Reports </unittitle> 
+				<unitdate type="inclusive" normal="1970/1977" era="ce" calendar="gregorian">1970-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/18</container> 
+				<unittitle>Draft biennial reports</unittitle> 
+				<unitdate type="inclusive" normal="1973/1977" era="ce" calendar="gregorian">1973-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/19</container> 
+				<unittitle>Draft biennial reports</unittitle> 
+				<unitdate type="inclusive" normal="1978/1979" era="ce" calendar="gregorian">1978-1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/20</container> 
+				<unittitle>Annual report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/21</container> 
+				<unittitle>Draft annual and Thrust Reports</unittitle> 
+				<unitdate type="inclusive" normal="1975/1976" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/22</container> 
+				<unittitle>Strategic planning report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/23</container> 
+				<unittitle>Strategic planning report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/24</container> 
+				<unittitle>SOIC OICs of America Annual Report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/25</container> 
+				<unittitle>SOIC Phoenix OIC Annual Report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/26</container> 
+				<unittitle>Reports and brochures</unittitle> 
+				<unitdate type="inclusive" normal="1979/1981" era="ce" calendar="gregorian">1979-1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/1</container> 
+				<unittitle>Progress Report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/2</container> 
+				<unittitle>SOIC Final Report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/3</container> 
+				<unittitle>Pre-vocational technical training progress
+				  report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/4</container> 
+				<unittitle>Career Intern Program: final report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/5</container> 
+				<unittitle>Program catalog and brochures</unittitle> 
+				<unitdate type="inclusive" normal="1984/1985" era="ce" calendar="gregorian">1984-1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/6</container> 
+				<unittitle>Comprehensive Manpower Service Delivery System
+				  analysis</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/7</container> 
+				<unittitle>Published reports</unittitle> 
+				<unitdate type="inclusive" normal="1978/1979" era="ce" calendar="gregorian">1978-1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/8</container> 
+				<unittitle>Self-evaluation report to Accrediting
+				  Commission</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/9</container> 
+				<unittitle>Report on Corrections Officer Training Program to
+				  Accrediting Commission</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1984</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/10</container> 
+				<unittitle>Self-evaluation report to Council for Non-Collegiate
+				  Continuing Education</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/11</container> 
+				<unittitle>Self-evaluation report -- revision package -- part 1 of
+				  2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/12</container> 
+				<unittitle>Self-evaluation report -- revision package -- part 2 of
+				  2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/13</container> 
+				<unittitle>Analytic Self-evaluation Report Exhibits -- Part 1 of
+				  4</unittitle> 
+				<unitdate type="inclusive" normal="1985/1986" era="ce" calendar="gregorian">1985-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/14</container> 
+				<unittitle>Analytic Self-evaluation Report Exhibits -- Part 2 of
+				  4</unittitle> 
+				<unitdate type="inclusive" normal="1985/1986" era="ce" calendar="gregorian">1985-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/15</container> 
+				<unittitle>Analytic Self-evaluation Report Exhibits -- Part 3 of
+				  4</unittitle> 
+				<unitdate type="inclusive" normal="1985/1986" era="ce" calendar="gregorian">1985-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/16</container> 
+				<unittitle>Analytic Self-evaluation Report Exhibits -- Part 4 of
+				  4</unittitle> 
+				<unitdate type="inclusive" normal="1985/1986" era="ce" calendar="gregorian">1985-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/17</container> 
+				<unittitle>Final program year 1980 Strategic planning
+				  report</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/34</container> 
+				<unittitle>Self Evaluation Report for Accreditation by National
+				  Association of Trade and Technical Schools</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/35</container> 
+				<unittitle>Self Evaluation Report for Accreditation by National
+				  Association of Trade and Technical Schools including Document M -- Part 1 of
+				  2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/36</container> 
+				<unittitle>Self Evaluation Report for Accreditation by National
+				  Association of Trade and Technical Schools including Document M -- Part 2 of
+				  2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/37</container> 
+				<unittitle>Council of Non Collegiate Continuing Education Site
+				  Visit</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">5/5 - 6/33
+				</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 6 </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">CONTRACTS</emph> </unittitle> 
+			 <unitdate type="inclusive" normal="1968/1983" era="ce" calendar="gregorian"> <emph render="bolditalic">1968-1983</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/5</container> 
+				<unittitle>King-Snohomish Manpower Consortium contract modification
+				  no. 1</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/6 </container> 
+				<unittitle>SOIC Application for CMP (Comprehensive Manpower
+				  Program) contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/7</container> 
+				<unittitle>Application to King-Snohomish Manpower
+				  Consortium</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/8</container> 
+				<unittitle>Application to King-Snohomish Manpower Consortium --
+				  Part 1 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/9</container> 
+				<unittitle>Application to King-Snohomish Manpower Consortium --
+				  Part 2 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/10</container> 
+				<unittitle>Washington State Employment Security Dept. contract for
+				  Alternatives for Women Project</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/11</container> 
+				<unittitle>Apprenticeship Outreach Program contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/12</container> 
+				<unittitle>King-Snohomish Manpower Consortium CETA Title IIB
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/13</container> 
+				<unittitle>Modification of Agreement with Washington State
+				  Commission for Vocational Education for Projection Non-Tradition</unittitle> 
+				<unitdate type="inclusive" normal="1978/1979" era="ce" calendar="gregorian">1978-1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/14</container> 
+				<unittitle>Heat loss calculations contract with Seattle City
+				  Light</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/15</container> 
+				<unittitle>King-Snohomish Manpower Consortium contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/16</container> 
+				<unittitle>Contract with State for Adult Basic
+				  Education</unittitle> 
+				<unitdate type="inclusive" normal="1977/1978" era="ce" calendar="gregorian">1977-1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/17</container> 
+				<unittitle>King-Snohomish Manpower Consortium contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/18</container> 
+				<unittitle>YCCIP (Youth Community Conservation and Improvement
+				  Projects) contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/19</container> 
+				<unittitle>YCCIP Youth Community Repair Project
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/20</container> 
+				<unittitle>YIEPP (Youth Incentive Entitlement Pilot Projects)
+				  Enrichment contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/21</container> 
+				<unittitle>ES/PSE (Employment Security/Public Service Employment)
+				  contract CETA Title VI A</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/22</container> 
+				<unittitle>City PSE (Public Service Employment)
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/23</container> 
+				<unittitle>State ES/PSE (Employment Security/Public Service
+				  Employment) contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/24</container> 
+				<unittitle>State ES/PSE (Employment Security/Public Service
+				  Employment) contract Title VI Food Industry Project</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/25</container> 
+				<unittitle>Solar Related Vocational Training Curriculum</unittitle>
+				
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/26</container> 
+				<unittitle>King-Snohomish Manpower Consortium contract -- part 1 of
+				  2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/27</container> 
+				<unittitle>King-Snohomish Manpower Consortium contract -- part 2 of
+				  2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/28</container> 
+				<unittitle>YCCIP (Youth Community Conservation and Improvement
+				  Projects) Weatherization Modification</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/29</container> 
+				<unittitle>First SOIC proposal</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/30</container> 
+				<unittitle>First SOIC proposal correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/31</container> 
+				<unittitle>King-Snohomish Manpower Consortium contract modification
+				  2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/32</container> 
+				<unittitle>Application for King-Snohomish Manpower Consortium
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/33</container> 
+				<unittitle>Betty Emry contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/34</container> 
+				<unittitle>Head Start food service contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/35</container> 
+				<unittitle>CIP/SPS (Career Intern Program/Seattle Public Schools)
+				  contract</unittitle> 
+				<unitdate type="inclusive" normal="1978/1979" era="ce" calendar="gregorian">1978-1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/36</container> 
+				<unittitle>Consumers' Education contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/37</container> 
+				<unittitle>DSHS (Department of Social and Health Services)
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/38</container> 
+				<unittitle>DCD (Department of Community Development)
+				  Emergency/Minor Home Repair Program contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/39</container> 
+				<unittitle>Vocational Education Services Program CETA Individual
+				  Referral contracts</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/40</container> 
+				<unittitle>Indochinese Resettlement Project contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/41</container> 
+				<unittitle>Solar Related Vocational Training</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/42</container> 
+				<unittitle>King-Snohomish Manpower Consortium Title - I
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/43</container> 
+				<unittitle>Maritime Foss Launch and Tug contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/1</container> 
+				<unittitle>Superintendent of Public Instruction-Indochinese Project
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/2</container> 
+				<unittitle>Lockheed Modification Agreement</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/3</container> 
+				<unittitle>State Board of Community College Education
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/4</container> 
+				<unittitle>Service Bureau Company contract </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/5</container> 
+				<unittitle>KSMC STIP (Skills Training Improvement Program)
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/6</container> 
+				<unittitle>Dept. of Transportation Supportive Services -- Highway
+				  Construction Training Program contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/7</container> 
+				<unittitle>Employment Security Dept. Work Incentive Program
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/8</container> 
+				<unittitle>CAMP contract -- Senior Lunch Program</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/9 </container> 
+				<unittitle>Alternatives for Women contract</unittitle> 
+				<unitdate type="inclusive" normal="1977/1978" era="ce" calendar="gregorian">1977-1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/10</container> 
+				<unittitle>Washington State Commission for Vocational Education
+				  CCOE contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/11</container> 
+				<unittitle>CETA (Comprehensive Employment and Training Act) PSE
+				  (Public Service Employment) contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/12</container> 
+				<unittitle>City of Seattle Dept. of Community Development
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/13</container> 
+				<unittitle>CIP (Career Intern Program)/Seattle Public Schools
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/14</container> 
+				<unittitle>Commission of Vocational Education contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/15</container> 
+				<unittitle>Employment Security Job Development
+				  Subcontract</unittitle> 
+				<unitdate type="inclusive" normal="1975/1976" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/16</container> 
+				<unittitle>Professional Technical and Services contract
+				  </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/17</container> 
+				<unittitle>Fred Walsh contract for Technical Assistance and Graphic
+				  Design and Coordination</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/18</container> 
+				<unittitle>Employment Security Department Public Service Employment
+				  contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/19</container> 
+				<unittitle>Lockheed Welder Training contract</unittitle> 
+				<unitdate type="inclusive" normal="1975/1977" era="ce" calendar="gregorian">1975-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/20</container> 
+				<unittitle>Photographic Services contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/21</container> 
+				<unittitle>Seattle Public Schools Work Training Program
+				  contract</unittitle> 
+				<unitdate type="inclusive" normal="1974/1976" era="ce" calendar="gregorian">1974-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/22</container> 
+				<unittitle>Lockheed Shipbuilding and Todd Shipyard Construction
+				  contract</unittitle> 
+				<unitdate type="inclusive" normal="1978/1979" era="ce" calendar="gregorian">1978-1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/23</container> 
+				<unittitle>Pre-Vocational and Technical Training Project Proposal
+				  May 1966</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/24</container> 
+				<unittitle>Pre-Vocational and Technical Training Project Proposal
+				  August 1966</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/25</container> 
+				<unittitle>Economic Development Administration Development
+				  Facilities Grant proposal -- part 1 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/26</container> 
+				<unittitle>Economic Development Administration Development
+				  Facilities Grant proposal -- part 2 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/27</container> 
+				<unittitle>Occupational Skills Training proposal</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/28</container> 
+				<unittitle>Occupational Skills Training proposal -- Curriculum
+				  Attachment</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/29</container> 
+				<unittitle>Economic Development Administration Building
+				  project</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/30</container> 
+				<unittitle>Certificate of Accreditation from National Association
+				  of Trade and Technical Schools</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/31</container> 
+				<unittitle>Economic Development Administration Building Expansion
+				  -- part 1 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/32</container> 
+				<unittitle>Economic Development Administration Building Expansion
+				  -- part 2 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">6/33</container> 
+				<unittitle>Parking Deck proposal</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 7 </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">PUBLICITY AND PUBLIC RELATIONS
+				RECORDS</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1967-1985</emph> </unitdate> 
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">6/38 - 6/48, 7/7,
+				  7/28, 7/40, 11/14 </emph> </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries 1 </emph>
+				  </unitid> 
+				<unittitle> <emph render="bold">Speeches, Advertising and
+				  Publications</emph> </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				  <emph render="bold">1967-1985 </emph> </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/38</container> 
+				  <unittitle>Seattle Opportunities Industrialization Center
+					 testimony to House Subcommittee on Census and Population</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/39</container> 
+				  <unittitle>Funding diversification speech</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/40</container> 
+				  <unittitle>Staff orientation speech</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/41</container> 
+				  <unittitle>Private Industry Council remarks</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/42</container> 
+				  <unittitle>Girls Club of Puget Sound speech</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/43</container> 
+				  <unittitle>Testimony before Joint Education and Higher Education
+					 Committee</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/44</container> 
+				  <unittitle>Role of OICs in 1980s</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/45</container> 
+				  <unittitle>Garth Mangum remarks to Adherent Forum </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/46</container> 
+				  <unittitle>Testimony before National Commission for Manpower
+					 Policy</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/47</container> 
+				  <unittitle>Newspaper ads</unittitle> 
+				  <unitdate type="inclusive" normal="1985/1986" era="ce" calendar="gregorian">1985-1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/48</container> 
+				  <unittitle>Newspaper ads</unittitle> 
+				  <unitdate type="inclusive" normal="1984/1985" era="ce" calendar="gregorian">1984-1985</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/49</container> 
+				  <unittitle>Newspaper and television ads</unittitle> 
+				  <unitdate type="inclusive" normal="1983/1984" era="ce" calendar="gregorian">1983-1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/7</container> 
+				  <unittitle>OIC Publications and Press Coverage</unittitle> 
+				  <unitdate type="inclusive" normal="1974/1976" era="ce" calendar="gregorian">1974-1976</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/28</container> 
+				  <unittitle>Seattle Opportunities Industrialization Center Annual
+					 Report</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/40</container> 
+				  <unittitle>Information brochures and articles</unittitle> 
+				  <unitdate type="inclusive" normal="1966/1967" era="ce" calendar="gregorian">1966-1967</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/4</container> 
+				  <unittitle>Seattle Opportunities Industrialization Center song
+					 recording</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/14</container> 
+				  <unittitle>Building presentation recording</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"> <emph render="bold">7/23 - 7/27, 7/29
+				  - 7/39, 8/12, 9/1 - 9/3, 9/5 - 9/40, 10/1 - 10/19, 11/1 - 11/13 </emph>
+				  </container> 
+				<unitid type="uwsc"> <emph render="bold">Subseries 2 </emph>
+				  </unitid> 
+				<unittitle> <emph render="bold">Photographs</emph> </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				  <emph render="bold">1967-1985 </emph> </unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/23</container> 
+				  <unittitle>Visiting dignitaries (including Julian Bond, Whitney
+					 Young, John Lindsay, Moon Landrieu)</unittitle> 
+				  <unitdate type="inclusive" normal="1967/1971" era="ce" calendar="gregorian">1967-1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/24</container> 
+				  <unittitle>OICs of America Region IX Conference
+					 Program</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1967</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/25</container> 
+				  <unittitle>J.L. Williams</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1967,
+					 undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/26</container> 
+				  <unittitle>Governor's Signing SOIC Week</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/27</container> 
+				  <unittitle>Fund Drive Press Conference </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/29</container> 
+				  <unittitle>Day Camp Open House</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/30</container> 
+				  <unittitle>Basketball Game</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/31</container> 
+				  <unittitle>Photograph -- King County Fair</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/32</container> 
+				  <unittitle>Christmas Parties </unittitle> 
+				  <unitdate type="inclusive" normal="1967?/1971" era="ce" calendar="gregorian">1967?-1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/33</container> 
+				  <unittitle>Community Picnic -- "Family Affair"</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/34</container> 
+				  <unittitle>Dedication</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1967</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/35</container> 
+				  <unittitle>Photographs -- Miscellaneous -- Part 1 of
+					 3</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated,
+					 1967-1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/36</container> 
+				  <unittitle>Photographs -- Miscellaneous -- Part 2 of
+					 3</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated,
+					 1967-1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/37</container> 
+				  <unittitle>Photographs -- Miscellaneous -- Part 3 of
+					 3</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated,
+					 1967-1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/38</container> 
+				  <unittitle>Playthell Benjamin -- Photographs (including Robert F.
+					 Kennedy), Letters and Clippings</unittitle> 
+				  <unitdate type="inclusive" normal="1966/1972" era="ce" calendar="gregorian">1966-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/39</container> 
+				  <unittitle>Graduation </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">8/12</container> 
+				  <unittitle>Photographs and Publicity -- Teleauction</unittitle> 
+				  <unitdate type="inclusive" normal="1971/1972" era="ce" calendar="gregorian">1971-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/1</container> 
+				  <unittitle>Family Church Sunday</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/2</container> 
+				  <unittitle>Trainees</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated,
+					 1967-1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/3</container> 
+				  <unittitle>Mayors' Conference</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">
+					 1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/5</container> 
+				  <unittitle>departure to San Jose Regional Meeting</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/6</container> 
+				  <unittitle>Recruiting</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1967</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/7</container> 
+				  <unittitle>Public Defender and Trainee Council
+					 Meeting</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/8</container> 
+				  <unittitle>Speakers' Bureau Party</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/9</container> 
+				  <unittitle>Presbytery Check</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/10</container> 
+				  <unittitle>Picnic</unittitle> 
+				  <unitdate type="inclusive" normal="1968/1970" era="ce" calendar="gregorian">1968-1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/11</container> 
+				  <unittitle>Open House</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/12</container> 
+				  <unittitle>Graduation at Seattle U</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1969</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/13</container> 
+				  <unittitle>Insurance Class</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/14</container> 
+				  <unittitle>Success Stories Annual Report -- Insight</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/15</container> 
+				  <unittitle>Rev. McKinney</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/16</container> 
+				  <unittitle>Linda Austin</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/17</container> 
+				  <unittitle>17th Annual Convocation (Phoenix AZ)</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/18</container> 
+				  <unittitle>SOIC Building</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/19</container> 
+				  <unittitle>Rev. Leon Sullivan</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/20</container> 
+				  <unittitle>Plaques</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/21</container> 
+				  <unittitle>Community Picnic</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/22</container> 
+				  <unittitle>Biennial Report</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/23</container> 
+				  <unittitle>unidentified occasion</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/24</container> 
+				  <unittitle>Jim Williams</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/25</container> 
+				  <unittitle>Appreciation Dinner</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/26</container> 
+				  <unittitle>Slick Watts</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/27</container> 
+				  <unittitle>Pacific Coast Investment Company</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/28</container> 
+				  <unittitle>Old Skill Center</unittitle> 
+				  <unitdate type="inclusive" normal="1967/1968" era="ce" calendar="gregorian">1967-1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/29</container> 
+				  <unittitle>Rogers Morton (Secretary, U. S. Dept. of
+					 Commerce)</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/30</container> 
+				  <unittitle>Jim Williams's 5th Anniversary</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/31</container> 
+				  <unittitle>NATTS (National Association of Trade and Technical
+					 Schools) Accreditation Ceremony</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/32</container> 
+				  <unittitle>Trainees at work -- Part 1 of 5</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/33</container> 
+				  <unittitle>Trainees at work -- Part 2 of 5</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/34</container> 
+				  <unittitle>Trainees at work -- Part 3 of 5</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/35</container> 
+				  <unittitle>Trainees at work -- Part 4 of 5</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/36</container> 
+				  <unittitle>Trainees at work -- Part 5 of 5</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/37</container> 
+				  <unittitle>Unidentified Occasions</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/38</container> 
+				  <unittitle>Accreditation Ceremonies</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/39</container> 
+				  <unittitle>Unidentified Event</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">9/40</container> 
+				  <unittitle>Miscellaneous contact sheets &amp;
+					 negatives</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/1</container> 
+				  <unittitle>Welding</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/2</container> 
+				  <unittitle>Biennial Report Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">c.
+					 1975</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/3</container> 
+				  <unittitle>Movie film</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/4</container> 
+				  <unittitle>SOIC Video Reel</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/5</container> 
+				  <unittitle>SOIC Videocassette of KCTS Doc:"In the Best of
+					 Times"</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/6</container> 
+				  <unittitle>Photographs -- part 1 of 3</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/7</container> 
+				  <unittitle>Photographs -- part 2 of 3</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/8 </container> 
+				  <unittitle>Photographs -- part 3 of 3</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/9</container> 
+				  <unittitle>Mayor Charles T. Royer</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/10</container> 
+				  <unittitle>Graduations</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated,
+					 1968-1985</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/11</container> 
+				  <unittitle>Media Luncheon</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/12</container> 
+				  <unittitle>Unidentified Event</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/13</container> 
+				  <unittitle>Rex D. Jones Farewell</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/14</container> 
+				  <unittitle>Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated,
+					 1967-1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/15 </container> 
+				  <unittitle>Souvenir Book Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/16</container> 
+				  <unittitle>Brotherhood Day Observance</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1973
+					 </unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/17</container> 
+				  <unittitle>Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/18</container> 
+				  <unittitle>Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/19</container> 
+				  <unittitle>SOIC Public Service Announcement Videocassette --
+					 KIRO</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/1</container> 
+				  <unittitle>SOIC Building Dedication Videotape -- Part 1 of
+					 2</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/2</container> 
+				  <unittitle>SOIC Building Dedication Videotape -- Part 2 of
+					 2</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/3</container> 
+				  <unittitle>Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/4</container> 
+				  <unittitle>Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated,
+					 1978-1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/5</container> 
+				  <unittitle>Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/6</container> 
+				  <unittitle>Photographs</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated,
+					 1978-1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/7</container> 
+				  <unittitle>Photo negatives (part 1 of 4)</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/8</container> 
+				  <unittitle>Photo negatives (part 2 of 4)</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/9</container> 
+				  <unittitle>Photo negatives (part 3 of 4)</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/10</container> 
+				  <unittitle>Photo negatives (part 4 of 4)</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/11</container> 
+				  <unittitle>SOIC "A Building of Hope" Videocassette Copy
+					 1</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/12</container> 
+				  <unittitle>SOIC "A Building of Hope" Videocassette Copy
+					 2</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">11/13</container> 
+				  <unittitle>SOIC Videocassette -- KIRO Presentation on
+					 SOIC</unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">7/1 - 7/22,
+				8/1-8/11 </emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 8</emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">PLANNING AND FACILITY RECORDS
+				</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1971-1987 </emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/1</container> 
+				<unittitle>Statistics on Program Participation</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/2</container> 
+				<unittitle>Real Estate Appraisal</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/3</container> 
+				<unittitle>Real Estate Appraisal Trade School Site</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/4</container> 
+				<unittitle>Real Estate Appraisal</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/5</container> 
+				<unittitle>Skills Center Addition Funding Request</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/6</container> 
+				<unittitle>Wick Construction Correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/8</container> 
+				<unittitle>Position Paper for White House Conference on Domestic
+				  and Economic Affairs</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/9</container> 
+				<unittitle>Business Plan</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1985</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/10</container> 
+				<unittitle>Washington Institute of Applied Technology Resolution to
+				  Purchase Building</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/11</container> 
+				<unittitle>Public Auction Catalog</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1987</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/12</container> 
+				<unittitle>Draft Relocation Plan</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/13</container> 
+				<unittitle>Application to Economic Development Administration for
+				  Development Facilities Grant to Finance Development and New Construction of a
+				  Skills Center -- Part 1 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/14</container> 
+				<unittitle>Application to Economic Development Administration for
+				  Development Facilities Grant to Finance Development and New Construction of a
+				  Skills Center -- Part 2 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/15</container> 
+				<unittitle>Final Report to Economic Development Administration on
+				  Technical Assistance Grant -- Part 1 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/16</container> 
+				<unittitle>Final Report to Economic Development Administration on
+				  Technical Assistance Grant -- Part 2 of 2</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/17</container> 
+				<unittitle>Architecture Plan for Manpower Training Center by Gabor
+				  Lorant AIA Architect</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/18</container> 
+				<unittitle>Appraisal of Trade School Site</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971
+				  </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/19 </container> 
+				<unittitle>Economic Development Administration OEDP (Overall
+				  Economic Development Program) Financing -- Internal -- Part 1 of 3</unittitle> 
+				<unitdate type="inclusive" normal="1974/1982" era="ce" calendar="gregorian">1974-1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/20</container> 
+				<unittitle>Economic Development Administration OEDP (Overall
+				  Economic Development Program) Financing -- Internal -- Part 1 of 3</unittitle> 
+				<unitdate type="inclusive" normal="1979/1980" era="ce" calendar="gregorian">1979-1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/21</container> 
+				<unittitle>Economic Development Administration OEDP (Overall
+				  Economic Development Program) Financing -- Internal -- Part 1 of 3</unittitle> 
+				<unitdate type="inclusive" normal="1978/1979" era="ce" calendar="gregorian">1978-1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">7/22</container> 
+				<unittitle>Skill Center Construction -- Wick Construction et al
+				  regarding Minority Manpower Utilization Compliance</unittitle> 
+				<unitdate type="inclusive" normal="1972/1974" era="ce" calendar="gregorian">1972-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/1 </container> 
+				<unittitle>Skill Center Construction -- Part 1 of 3</unittitle> 
+				<unitdate type="inclusive" normal="1973/1975" era="ce" calendar="gregorian">1973-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/2</container> 
+				<unittitle>Skill Center Construction -- Part 2 of 3</unittitle> 
+				<unitdate type="inclusive" normal="1973/1976" era="ce" calendar="gregorian">1973-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/3 </container> 
+				<unittitle>Skill Center Construction -- Part 3 of 3</unittitle> 
+				<unitdate type="inclusive" normal="1973/1975" era="ce" calendar="gregorian">1973-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/4</container> 
+				<unittitle>Skill Center Sale of Land to SOIC</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/5</container> 
+				<unittitle>Skill Center Construction -- Zoning and Tax
+				  Exemption</unittitle> 
+				<unitdate type="inclusive" normal="1971/1974" era="ce" calendar="gregorian">1971-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/6</container> 
+				<unittitle>Seattle Model City Program -- Skill Center Construction
+				  -- Furniture and Equipment</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/7</container> 
+				<unittitle>Skill Center Construction Audit</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/8</container> 
+				<unittitle>Skill Center Construction Progress Reports</unittitle> 
+				<unitdate type="inclusive" normal="1972/1974" era="ce" calendar="gregorian">1972-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/9 </container> 
+				<unittitle>Skill Center Internal Finance -- Part 1 of 3</unittitle>
+				
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/10</container> 
+				<unittitle>Skill Center Internal Finance -- Part 2 of 3</unittitle>
+				
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/11</container> 
+				<unittitle>Skill Center Internal Finance -- Part 3 of 3</unittitle>
+				
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">4/18 - 5/4
+				</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES 9</emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">PUBLICATIONS </emph>
+				</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1974-1983 </emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/18</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/19</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/20</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/21</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/22</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1978</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/23</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/24</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1979</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/1</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1980</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/2</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1981</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/3</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1982</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">5/4</container> 
+				<unittitle>Adherent: A Journal of Comprehensive Employment Training
+				  and Manpower Development</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1983</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

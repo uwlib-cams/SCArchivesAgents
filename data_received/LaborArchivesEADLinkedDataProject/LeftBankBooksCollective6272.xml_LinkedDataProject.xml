@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1130061904-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LeftBankBooksCollective6272.xml" encodinganalog="identifier" identifier="80444/xv987334">LeftBankBooksCollective6272.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Left Bank Books
+			 Collective Records</titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Left Bank Books
+			 Collective Records</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Elaine
+			 Speer</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20190613">© 2019</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6272</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6272-001</unitid> 
+		<origination> 
+		  <corpname role="creator" encodinganalog="110">Left Bank
+			 Books</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">Left Bank Books
+		  Collective records</unittitle> 
+		<unitdate type="inclusive" normal="1973/2015" certainty="approximate" era="ce" calendar="gregorian">approximately
+		  1973-2015</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent>3.82 cubic feet</extent>
+		  <extent>6 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Business records
+		  of a collective-run bookstore, used bookstore, and wholesale distribution and
+		  mail order in Seattle</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption 
+info inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z  
+No info needed in <resource> element-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="a2"> 
+		<p>Left Bank Books was founded in 1973 by a group of workers who split
+		  off from the University District’s Red and Black Books to form their own
+		  collective bookstore in the Pike Place Market. The two projects continued as
+		  separate but mutually supportive projects until the mid 1990s, when Red and
+		  Black closed. For much of the 1980s and 1990s, the Left Bank Books Collective
+		  expanded to include two other projects: AKA Books, a used bookstore in
+		  Seattle's University District, as well as a wholesale distribution and mail
+		  order project known as Left Bank Distribution. Neither of these projects exists
+		  today due to financial problems and rental situations in Seattle.</p> 
+		<p>Left Bank is collectively owned and operated by its workers, and has
+		  been since its inception. As an anarchist collective, Left Bank has no bosses
+		  or managers. Decisions are made in bi-monthly collective meetings based on a
+		  consensus process. Left Bank Books still operates out of a Pike Place Market
+		  storefront.</p> 
+		<p>Left Bank Books was founded as a small collective. In the late 1990s,
+		  Left Bank Books became registered as a federal corporation so that in the event
+		  of financial difficulty at the store, individual employees would not be held
+		  financially responsible. Left Bank Books is not federally registered as a
+		  non-profit.</p> 
+		<p>Left Bank Distribution, or LBD, was a project started by the Left Bank
+		  Books collective in 1980 and ended in 2001. LBD was a book distribution project
+		  that provided direct mail-order service of radical book, zines and magazines to
+		  individuals and bookstores during the 1980s and 1990s. LBD was a wholesale
+		  distributor of radical and alternative books, pamphlets, magazines and zines to
+		  independent bookstores, tabling projects, libraries and other organizations,
+		  and individuals, mail order catalog. LBD offered one of the largest selections
+		  of anarchist &amp; radical books in the world. Corporatization of the bookstore
+		  and distribution industry beginning in the late 1990s led to the proliferation
+		  of chain bookstores and put many independent bookstores out of business. </p> 
+		<p>Source: https://www.leftbankbooks.com/aboutUs.php#history</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Business records of the Left Banks Books Collective and its projects
+		  AKA Books, a used bookstore in Seattle's University District, as well as a
+		  wholesale distribution and mail order project known as Left Bank
+		  Distribution.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/> </p> 
+	 </altformavail> <phystech> 
+	 <p/> </phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p/> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, 
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+		  </p> 
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12">
+		<corpname role="subject" encodinganalog="610">Left Bank Books
+		  Collective$vArchives </corpname> 
+		<corpname role="subject" encodinganalog="610">Left Bank Distribution
+		  (Seattle, Wash.)$xHistory$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610">AKA Books (Seattle,
+		  Wash.)$xHistory$vArchives</corpname> 
+		<subject encodinganalog="650">Booksellers and bookselling$zWashington
+		  (State)$zSeattle$xHistory$vArchives</subject> 
+		<subject encodinganalog="650">Anarchism$zWashington
+		  (State)$zSeattle$xHistory$vArchives</subject> 
+		<subject encodinganalog="650">Industrial management$xEmployee
+		  participation$zWashington (State)$zSeattle$xHistory$vArchives</subject> 
+		<genreform source="lcgft" encodinganalog="655">Minutes
+		  (Records)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Records
+		  (Documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Newsletters</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Business
+		  correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Photographs</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Trade catalogs</genreform>
+		
+		<genreform source="aat" encodinganalog="655">Logs (records)</genreform> 
+		<genreform source="aat" encodinganalog="655">Sales records</genreform> 
+		<genreform source="aat" encodinganalog="655">Book catalogs</genreform> 
+		<genreform source="aat" encodinganalog="655">Newspaper
+		  clippings</genreform> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Businesses and Corporations</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Archives West Browsing Term}?></subject>
+		
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/1</container> 
+			 <unittitle>Political Flyers and Articles</unittitle> 
+			 <unitdate type="inclusive" normal="1974" era="ce" calendar="gregorian">1974</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/2</container> 
+			 <unittitle>Communism Articles</unittitle> 
+			 <unitdate type="inclusive" normal="1976" era="ce" calendar="gregorian">1976</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/3</container> 
+			 <unittitle>Store Communication Logs</unittitle> 
+			 <unitdate type="inclusive" normal="1977" era="ce" calendar="gregorian">1977</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/4</container> 
+			 <unittitle>Store Communication Logs and Correspondence</unittitle> 
+			 <unitdate type="inclusive" normal="1978" era="ce" calendar="gregorian">1978</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/5</container> 
+			 <unittitle>Store Communication Logs and Correspondence</unittitle> 
+			 <unitdate type="inclusive" normal="1979" era="ce" calendar="gregorian">1979</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/6</container> 
+			 <unittitle>Store Communication Logs and Correspondence</unittitle> 
+			 <unitdate type="inclusive" normal="1980" era="ce" calendar="gregorian">1980</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/7</container> 
+			 <unittitle>Store Communication Logs and Correspondence (1 of
+				2)</unittitle> 
+			 <unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/8</container> 
+			 <unittitle>Store Communication Logs and Correspondence (2 of
+				2)</unittitle> 
+			 <unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/9</container> 
+			 <unittitle>Store Communication Logs and Correspondence (1 of
+				2)</unittitle> 
+			 <unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/10</container> 
+			 <unittitle>Store Communication Logs and Correspondence (2 of
+				2)</unittitle> 
+			 <unitdate type="inclusive" normal="1982" era="ce" calendar="gregorian">1982</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/11</container> 
+			 <unittitle>Store Communication Logs and Correspondence</unittitle> 
+			 <unitdate type="inclusive" normal="1983" era="ce" calendar="gregorian">1983</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/12</container> 
+			 <unittitle>Store Communication Logs and Correspondence</unittitle> 
+			 <unitdate type="inclusive" normal="1984" era="ce" calendar="gregorian">1984</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/13</container> 
+			 <unittitle>Monthly Meeting Agendas and Minutes</unittitle> 
+			 <unitdate type="inclusive" normal="1985" era="ce" calendar="gregorian">1985</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/14</container> 
+			 <unittitle>Store Communication Logs and Correspondence</unittitle> 
+			 <unitdate type="inclusive" normal="1986" era="ce" calendar="gregorian">1986</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/15</container> 
+			 <unittitle>Staff and Volunteer Shift Procedures</unittitle> 
+			 <unitdate type="inclusive" normal="1987" era="ce" calendar="gregorian">1987</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/16</container> 
+			 <unittitle>Evergreen State College Lesbian/Gay Resource Center Rally
+				Invitation and Article</unittitle> 
+			 <unitdate type="inclusive" normal="1989" era="ce" calendar="gregorian">1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/17</container> 
+			 <unittitle>Store Communication Logs and Correspondence</unittitle> 
+			 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/18</container> 
+			 <unittitle>Store Communication Logs and Correspondence</unittitle> 
+			 <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/19</container> 
+			 <unittitle>Store Correspondence and Event Flyers</unittitle> 
+			 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/20</container> 
+			 <unittitle>Publishers, Authors, and Other Contact Information (1 of
+				4)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/21</container> 
+			 <unittitle>Publishers, Authors, and Other Contact Information (2 of
+				4)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/22</container> 
+			 <unittitle>Publishers, Authors, and Other Contact Information (3 of
+				4)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/23</container> 
+			 <unittitle>Publishers, Authors, and Other Contact Information (4 of
+				4)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/1</container> 
+			 <unittitle>Check Registers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/2</container> 
+			 <unittitle>Daily Sales Sheets (1 of 3)</unittitle> 
+			 <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/3</container> 
+			 <unittitle>Daily Sales Sheets (2 of 3)</unittitle> 
+			 <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/4</container> 
+			 <unittitle>Daily Sales Sheets (3 of 3)</unittitle> 
+			 <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/5</container> 
+			 <unittitle>Check Registers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/6</container> 
+			 <unittitle>Daily Sales Sheets</unittitle> 
+			 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/7</container> 
+			 <unittitle>Tax Form 1065</unittitle> 
+			 <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/8</container> 
+			 <unittitle>Chart of Accounts</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/9</container> 
+			 <unittitle>Daily Sales Sheets</unittitle> 
+			 <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/10</container> 
+			 <unittitle>Debt Reports</unittitle> 
+			 <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/11</container> 
+			 <unittitle>Debt Reports</unittitle> 
+			 <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/12</container> 
+			 <unittitle>Debt Reports</unittitle> 
+			 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/13</container> 
+			 <unittitle>Donations</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/14</container> 
+			 <unittitle>Left Bank Distribution (LBD) Savings Account</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/15</container> 
+			 <unittitle>Key Bank Merchant Statements</unittitle> 
+			 <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/16</container> 
+			 <unittitle>DEMCO Invoices</unittitle> 
+			 <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/17</container> 
+			 <unittitle>Tax Receipts</unittitle> 
+			 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/18</container> 
+			 <unittitle>Meeting Minutes</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/19</container> 
+			 <unittitle>Check Statements and Checks</unittitle> 
+			 <unitdate type="inclusive" normal="1993" era="ce" calendar="gregorian">1993</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/20</container> 
+			 <unittitle>Bank Statements</unittitle> 
+			 <unitdate type="inclusive" normal="1992" era="ce" calendar="gregorian">1992</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/21</container> 
+			 <unittitle>Meeting Minutes - AKA Books Liquidation</unittitle> 
+			 <unitdate type="inclusive" normal="1995" era="ce" calendar="gregorian">1995</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/22</container> 
+			 <unittitle>Expenses and Sales Records (1 of 2)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/23</container> 
+			 <unittitle>Expenses and Sales Records (2 of 2)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/24</container> 
+			 <unittitle>Check and Cash Receipts Registers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/25</container> 
+			 <unittitle>Bookkeeping and Tax Record (1 of 3)</unittitle> 
+			 <unitdate type="inclusive" normal="1980" era="ce" calendar="gregorian">1980</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/26</container> 
+			 <unittitle>Bookkeeping and Tax Record (2 of 3)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/27</container> 
+			 <unittitle>Bookkeeping and Tax Record (3 of 3)</unittitle> 
+			 <unitdate type="inclusive" normal="1981" era="ce" calendar="gregorian">1981</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/28</container> 
+			 <unittitle>Lease and Landlord Communication</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder"> 3/1</container> 
+			 <unittitle>Income Forms</unittitle> 
+			 <unitdate type="inclusive" normal="1989" era="ce" calendar="gregorian">1989</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/2</container> 
+			 <unittitle>AKA Books Sales Materials</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/3</container> 
+			 <unittitle>Bookstore Articles</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/4</container> 
+			 <unittitle>Black Eye Press</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/5</container> 
+			 <unittitle>Graphics - Incite</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/6</container> 
+			 <unittitle>Brooklyn Square Rent Payment Records</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/7</container> 
+			 <unittitle>Store Communication (1 of 2)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/8</container> 
+			 <unittitle>Store Communication (2 of 2)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/9</container> 
+			 <unittitle>Tote Bag Designs</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/10</container> 
+			 <unittitle>T-Shirt/Hoodie Designs</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/11</container> 
+			 <unittitle>Photographs</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/12</container> 
+			 <unittitle>Meeting Minutes (1 of 2)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/13</container> 
+			 <unittitle>Meeting Minutes (2 of 2)</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/14</container> 
+			 <unittitle>"Historical" Momentos and Book Cards</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/15</container> 
+			 <unittitle>Mementos and Communication to Left Bank Books</unittitle> 
+			 <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/16</container> 
+			 <unittitle>Sales and Finances</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/17</container> 
+			 <unittitle>Newsletters and Publications</unittitle> 
+			 <unitdate type="inclusive" normal="2005" era="ce" calendar="gregorian">2005</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/1</container> 
+			 <unittitle>Store Communication (3 of 3)</unittitle> 
+			 <unitdate type="inclusive" normal="2004" era="ce" calendar="gregorian">2004</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/2</container> 
+			 <unittitle>News about World Trade Organization (WTO) Protests and
+				Police Response</unittitle> 
+			 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/3</container> 
+			 <unittitle>Left Bank Distribution Catalogs</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/4</container> 
+			 <unittitle>News About World Trade Organization (WTO)
+				Protest</unittitle> 
+			 <unitdate type="inclusive" normal="1999" era="ce" calendar="gregorian">1999</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">4/5</container> 
+			 <unittitle>George Jackson Brigade Article from Tacoma News
+				Tribune</unittitle> 
+			 <unitdate type="inclusive" normal="1977" era="ce" calendar="gregorian">1977</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <unittitle>Publishers, Authors, and Other Contact
+				Information</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <unittitle>Publishers, Authors, and Other Contact
+				Information</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+		  </did> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

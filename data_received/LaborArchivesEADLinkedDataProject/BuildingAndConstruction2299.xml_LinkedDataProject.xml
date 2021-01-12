@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BuildingAndConstruction2299.xml" encodinganalog="identifier" identifier="80444/xv63963">BuildingAndConstruction2299.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Seattle Building &amp;
+			 Construction Trades Council Records </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Building and
+			 Construction Trades Council Records</titleproper> 
+		  <author encodinganalog="creator" audience="internal">Finding aid
+			 prepared by Midori Okazaki</author> 
+		  <sponsor encodinganalog="contributor">Funding for encoding this finding
+			 aid was partially provided through a grant awarded by the National Endowment
+			 for the Humanities.</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20050311" era="ce" calendar="gregorian">© 2005</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Midori Okazaki 
+		  <date audience="external" era="ce" calendar="gregorian">2004</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised May 2014</date> 
+		  <item>N. Cohen added acc2299-002</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" encodinganalog="351$c"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">2299</unitid> 
+		<origination> 
+		  <corpname encodinganalog="110$a" role="creator" source="lcnaf" altrender="sync" authfilenumber="1927567">Building &amp; Construction Trades
+			 Council (Seattle, Wash.)</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">Seattle Building
+		  &amp; Construction Trades Council records </unittitle> 
+		<unitdate normal="1942/1974" type="inclusive" era="ce" calendar="gregorian">1942-1974</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">21.42 cubic feet</extent>
+		  <extent encodinganalog="300$a">22 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records of a
+		  Seattle labor organization involved in discrimination lawsuit and contract
+		  negotiations</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did>
+      <!--If an image is associated with the finding aid, use the following <daodesc> and <daoloc>
+elements. In <daodesc>, enter caption info inside <p> tags: identifying info about the image, 
+repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p>From a U.S. Department of Labor brochure, 1968. Special Collections,
+			 UW Libraries</p> 
+		</daodesc>
+         <!--http://www.lib.washington.edu/specialcoll/images/ead/buildings.jpg. -->
+		<daoloc linktype="locator"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="ARN1927567" altrender="sync"> 
+		<p>The Seattle Building &amp; Construction Trades Council coordinates the
+		  efforts of local unions in the building trades, including contract negotiations
+		  with employer organizations and apprenticeship and training programs. It was
+		  formerly the Seattle Building Trades Council. Following the passage of the
+		  Civil Rights Act of 1964 and Executive Order 11246, requiring equal employment
+		  opportunities in federally funded construction projects, the low numbers of
+		  minority workers in the constructions trades became a target of scrutiny. In
+		  Seattle and other cities across the country, there were efforts to increase
+		  minority membership in the building trade unions. As part of Seattle's
+		  participation in the federal Model Cities Program, Seattle issued affirmative
+		  action guidelines in 1969 for contractors seeking city contracts. The Seattle
+		  Urban League developed a program called Labor Education and Advancement
+		  Project, or LEAP. The Washington State Labor Council endorsed the establishment
+		  an apprenticeship "Outreach" program, to be funded by the U.S. Department of
+		  Labor and operated locally by the Seattle Opportunities Industrialization
+		  Center. The Seattle Building and Construction Trades Council favored instead a
+		  program with the Apprenticeship Information Center. Construction industry
+		  employers formed Affirmative Minority Construction Opportunity, Inc., to
+		  implement its minority hiring plan. None of these programs enjoyed the support
+		  of all of the industry, labor, and community interests needed for success.</p> 
+		<p>In the meantime, community-based organizations were staging protests
+		  and fighting in the courts. In fall 1969, several lawsuits resulted when
+		  protests by community activists at publicly financed construction sites led to
+		  work stoppages. In October 1969, the U.S. Department of Justice brought suit
+		  against four buildings trade union locals and three apprenticeship and training
+		  committees under Title VII of the Civil Rights Act of 1964. In the suit, 
+		  <emph render="underline">U.S. v. Ironworkers Local 86, et al.</emph>, the
+		  Justice Department alleged that the practices of named unions and
+		  apprenticeship committees for admission, training, and job referrals
+		  discriminated against blacks. On June 16, 1970, U.S. District Judge William
+		  Lindberg found that the defendants did discriminate against black workers and
+		  ordered a variety of relief measures. To implement the relief measures, Judge
+		  Lindberg ordered the formation of an advisory committee comprised of
+		  representatives from the construction industry, unions, and community
+		  organizations. The Court Order Advisory Committee first met in July 1970.
+		  Austin St. Laurent, the executive secretary of the Seattle Building &amp;
+		  Construction Trades Council, was a member of the committee.</p> 
+	 </bioghist> 
+	 <arrangement> 
+		<p>Organized into 2 accessions.</p> 
+		<list type="simple"> 
+		  <item>Accession No. 2299-001, Seattle Building &amp; Construction
+			 Trades Council records, 1959-1974</item> 
+		  <item>Accession No. 2299-002, Seattle Building and Construction Trades
+			 Council records, 1942-1958</item> 
+		</list>
+	 </arrangement>
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Minutes, Correspondence, Financial records, Agreements, Bylaws, Court
+		  papers. </p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="506"> 
+		<p>Access restricted. Contact the Special Collections division of the
+		  University of Washington Libraries for details.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+		<p>Rights have not been transferred to the University of Washington
+		  Libraries.</p> 
+	 </userestrict> 
+	 <controlaccess> 
+		<persname encodinganalog="600" rules="aacr2" role="subject">St. Laurent,
+		  Austin</persname> 
+		<corpname encodinganalog="610" role="subject" source="lcnaf" altrender="sync">Building &amp; Construction Trades Council (Seattle,
+		  Wash.)$vArchives</corpname> 
+		<corpname role="subject" encodinganalog="610" source="lcnaf">University
+		  of Washington$xEmployees</corpname> 
+		<corpname role="subject" encodinganalog="610" source="lcnaf">Washington
+		  (State).$bHigher Education Personnel Board</corpname> 
+		<corpname source="lcnaf" role="subject" encodinganalog="610" altrender="sync">Seattle Building Trades Council$vArchives</corpname> 
+		<corpname source="lcnaf" role="creator" encodinganalog="710" altrender="sync">Seattle Building Trades Council</corpname> 
+		<corpname source="lcnaf" role="subject" encodinganalog="610">Washington
+		  (State).$bSuperior Court (King County)</corpname> 
+		<corpname source="lcnaf" role="subject" encodinganalog="610">King County
+		  (Wash.).$bAffirmative Action Advisory Committee</corpname> 
+		<corpname source="lcnaf" role="subject" encodinganalog="610">King County
+		  (Wash.).$bHousing Authority</corpname> 
+		<corpname source="lcnaf" role="subject" encodinganalog="610">Washington
+		  State Board Against Discrimination</corpname> 
+		<corpname source="lcnaf" role="subject" encodinganalog="610">AFL-CIO.$bKing County Labor Council of
+		  Washington</corpname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="lcsh" encodinganalog="650">Affirmative action
+		  programs$zWashington (State)</subject> 
+		<subject encodinganalog="650" source="lcsh">Discrimination in
+		  employment$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Labor unions$zWashington
+		  (State)$zSeattle</subject> 
+		<subject source="lcsh" encodinganalog="650">Collective
+		  bargaining$xConstruction industry$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Construction workers$xLabor
+		  unions$zWashington (State)$zSeattle</subject> 
+		<subject source="lcsh" encodinganalog="650">Courts$zWashington
+		  (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">County courts$zWashington
+		  (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Collective labor
+		  agreements$xConstruction industry</subject> 
+		<subject source="lcsh" encodinganalog="650">Collective labor
+		  agreements$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Building
+		  trades$xEmployees$xLabor unions$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Apprentices$zWashington
+		  (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Building trades$zWashington
+		  (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Construction
+		  industry$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Housing
+		  authorities$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Education, Higher$xPersonnel
+		  management</subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" encodinganalog="690" altrender="nodisplay">Labor
+		  History</subject> 
+		<subject source="nwda" encodinganalog="690" altrender="nodisplay">Labor
+		  Unions</subject> 
+		<subject source="nwda" encodinganalog="690" altrender="nodisplay">Washington (State)</subject> 
+		<subject source="nwda" encodinganalog="690" altrender="nodisplay">Business, Industry, and Labor</subject> 
+		<subject source="nwda" encodinganalog="690" altrender="nodisplay">Civil
+		  Rights</subject> 
+		<subject source="nwda" encodinganalog="690" altrender="nodisplay">Civil
+		  Procedure and Courts</subject> 
+	 </controlaccess> 
+	 <dsc type="in-depth" id="a23"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" encodinganalog="099">2299-001</unitid> 
+			 <unittitle>Seattle Building &amp; Construction Trades Council
+				records</unittitle> 
+			 <unitdate normal="1959/1974" type="inclusive" era="ce" calendar="gregorian">1959-1974</unitdate> 
+			 <physdesc><extent>4 cubic feet</extent>
+				<extent>4 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Access restricted. Contact the Special Collections division of the
+				University of Washington Libraries for details.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Literary rights have not been transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Records were given to the Libraries by the Seattle Building &amp;
+				Construction Trades Council on August 9, 1974.</p> 
+		  </acqinfo> 
+		  <scopecontent> 
+			 <p>The Building &amp; Construction Trades Council (Seattle, Wash.)
+				records document the activities of the council in the 1960s and early 1970s.
+				Over half of the accession is related to competing efforts to increase minority
+				participation in the building trade unions in the late 1960s and early 1970s.
+				Correspondence, case files, minutes, court files, subject files, and other
+				records relate to the council's role in negotiations with employers regarding
+				such issues as affirmative action and apprenticeship programs with the King
+				County, Washington, Superior Court and the University of Washington. The
+				various committees and plans, which sought to resolve issues out of court with
+				the aid of federal funds, are documented in the General Correspondence series.
+				These files contain a mix of correspondence to, from, and about the referenced
+				entity as well as other related materials. Such plans include the Philadelphia
+				Plan, which was the Nixon Administration's prototype envisioned for adoption
+				across the country; the Seattle Urban League's LEAP Plan; and the Menasco Plan,
+				which was the basis for construction industry employers' minority hiring
+				program. The Seattle Building &amp; Construction Trades Council's own efforts
+				are documented in files titled "Outreach" and "Outreach Program."</p> 
+			 <p>Materials related to <emph render="underline">U.S. v. Ironworkers
+				Local 86</emph>, which the council referred to internally as Court Case #8618
+				(after its civil case number), can be found in the General Correspondence and
+				the Case Files series. The Court Order Advisory Committee subgroup contains
+				general correspondence, minutes, bylaws, and court papers of the committee. The
+				Miscellany file in this subgroup appears to have been maintained personally by
+				Austin St. Laurent. While the committee continued to work into the mid-1970s,
+				no documents in this subgroup are dated later than 1972. Because the committee
+				existed to implement the court's order, material related to the advisory
+				committee can also be found in the Court Case #8618 files. Likewise, the Court
+				Order Advisory Committee subgroup contains materials on the court case.</p> 
+			 <p>The remainder of the collection focuses on other aspects of the
+				council's work. These materials date from the early 1960s through the
+				mid-1970s. The General Correspondence series includes files regarding the
+				University of Washington and the Washington State Higher Education Personnel
+				Board (HEP Board) that document the council's representation of University of
+				Washington employees. The HEP Board files contains minutes from many of the
+				board meetings from 1969 to 1974 as well as memoranda and correspondence. There
+				are also subject files on issues of interest to organized labor, including
+				situs picketing and President Nixon's suspension of prevailing wage
+				regulations. These files contain correspondence and other materials.</p> 
+			 <p>Also included are materials relating to the King County
+				Affirmative Action Advisory Committee, the King County Central Labor Council,
+				the King County Housing Authority, and Washington State Board Against
+				Discrimination. </p> <?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?>
+		  </scopecontent> 
+		  <processinfo audience="internal"> 
+			 <p>Processed by Midori Okazaki.</p> 
+			 <p>U.S. Department of Labor Brochure digitized for Web-accessible
+				finding aid housed in Box 2/11. E. Inlow, 3/15/2005</p> 
+		  </processinfo> 
+		  <processinfo audience="external" encodinganalog="583"> 
+			 <p>Processing completed in 2005.</p> 
+		  </processinfo> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-3/18</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES I
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">ADMINISTRATIVE RECORDS</emph></unittitle> 
+				<unitdate normal="1964/1974" era="ce" calendar="gregorian"><emph render="bolditalic">1964-1974</emph></unitdate> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <unitid type="uwsc"><emph render="bold">Subseries A
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">General
+					 Correspondence</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/1</container> 
+					 <unittitle encodinganalog="245$a">Associated General
+						Contractors - Proposals - Minority Training</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1969-1970</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/2</container> 
+					 <unittitle>Environmental Health Problems</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1967-1969</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/3</container> 
+					 <unittitle>Equal Employment</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1964-1971</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/4</container> 
+					 <unittitle> Evans, Daniel J. </unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1970-1971</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/5</container> 
+					 <unittitle>Housing - Low Income Housing for Elderly,
+						etc.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1966-1971</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/6</container> 
+					 <unittitle>King County Affirmative Action Advisory Committee
+						1968</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1971-1972</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/7</container> 
+					 <unittitle>King County Executive [and] Council</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1969-1974</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/8</container> 
+					 <unittitle>Legislation: HB 239 (re. Minority
+						Training)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/9</container> 
+					 <unittitle>Menasco Plan</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle>Outreach Program</unittitle> 
+						<unitdate era="ce" calendar="gregorian"/> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/10-11</container> 
+						<unittitle>Apprenticeship - Apprenticeship
+						  Standards</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1970</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/12</container> 
+						<unittitle> Apprenticeship - Proposed Legislation</unittitle>
+						
+						<unitdate era="ce" calendar="gregorian">1970</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/13</container> 
+						<unittitle> Drafts</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1970-1973</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/14-16</container> 
+						<unittitle>Miscellaneous </unittitle> 
+						<unitdate era="ce" calendar="gregorian">1969-1970</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder"/> 
+						<unittitle>University of Washington</unittitle> 
+						<unitdate era="ce" calendar="gregorian"/> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/17-18</container> 
+						<unittitle>Apprenticeship and Training Programs</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1968-1971</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/19</container> 
+						<unittitle> Negotiations 1969</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1968-1969</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/20-21</container> 
+						<unittitle>Rules File</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1961-1968</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/22</container> 
+						<unittitle>Second Election</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1967-1969</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/23-24</container> 
+						<unittitle>Miscellaneous</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1971-1974</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <unitid type="uwsc"><emph render="bold">Subseries B
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Case
+					 Files</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <unittitle>Court Case #8618: U.S. v. Local 86</unittitle> 
+				  </did> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/25</container> 
+						<unittitle>Briefs</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1970</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">1/26</container> 
+						<unittitle>Related Cases</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1969-1970</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/1-2</container> 
+						<unittitle>Transcripts (of Court Proceedings)</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1970-1971</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05 level="file"> 
+					 <did> 
+						<container type="box-folder">2/3-7</container> 
+						<unittitle>Miscellaneous</unittitle> 
+						<unitdate era="ce" calendar="gregorian">1969-1973</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">2/8</container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries C
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Contracts</emph></unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1969</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <unitid type="uwsc"><emph render="bold">Subseries D
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Conferences
+					 and Conventions</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/9</container> 
+					 <unittitle>Washington State Building and Construction Trades
+						Council 1971 Convention</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1971</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">2/10</container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries E
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Authorization Cards - University of Washington</emph></unittitle>
+				  
+				  <unitdate era="ce" calendar="gregorian">1968, 1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <unitid type="uwsc"><emph render="bold">Subseries F
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Subject
+					 Series</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/11</container> 
+					 <unittitle>Davis-Bacon and Prevailing Wages</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1959-1972</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/12</container> 
+					 <unittitle>Drugs</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1965-1968</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/13</container> 
+					 <unittitle>Philadelphia Plan</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1969-1970</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/14</container> 
+					 <unittitle>Seattle Model City Program</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1986-1970</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/15</container> 
+					 <unittitle>Seattle Opportunities Industrial Center</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1966-1971</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/16</container> 
+					 <unittitle>Seattle Urban League - LEAP Program</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1969</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/17</container> 
+					 <unittitle>Seattle Urban League - Operation Breakthrough
+						Proposal</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1969</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/18</container> 
+					 <unittitle>Sign Ordinance</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1973</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/19</container> 
+					 <unittitle>Situs Picketing Bill</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1960-1967</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/20</container> 
+					 <unittitle>Wage Stabilization</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1971</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/21</container> 
+					 <unittitle>Washington (State) Board Against
+						Discrimination</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1962-1970</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/22</container> 
+					 <unittitle>Washington (State) Department of Labor and
+						Industries</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1961-1972</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/1</container> 
+					 <unittitle>Washington (State) Employment Security Department -
+						Unemployment Compensation Insurance Legislation 1969</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/2</container> 
+					 <unittitle>Washington (State) Employment Security Department -
+						Workmen's Compensation Law 1971</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1971</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/3-14</container> 
+					 <unittitle>Washington (State) Higher Education Personnel
+						Board</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1969-1974</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/15-16</container> 
+					 <unittitle>Washington (State) Legislature</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1971-1974</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/17</container> 
+					 <unittitle>Washington State Ferries</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle>Washington State Labor Council</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1970-1974</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">4/1-4/8</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES II
+				  </emph></unitid> 
+				<unittitle><emph render="bolditalic">COURT ORDER ADVISORY
+				  COMMITTEE</emph></unittitle> 
+				<unitdate normal="1970/1972" era="ce" calendar="gregorian"><emph render="bolditalic">1970-1972</emph></unitdate> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">4/1</container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries A
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">By-laws</emph></unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">4/2-3</container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries B
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">General
+					 Correspondence</emph></unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1970-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">4/4-6</container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries C
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Minutes</emph></unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1970-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">4/7</container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries D
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Court
+					 Papers</emph></unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1970-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder">4/8</container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries E
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Miscellany</emph></unittitle> 
+				  <unitdate era="ce" calendar="gregorian">1970-1971</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">4/9-4/15</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES III
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">AFL-CIO, KING COUNTY LABOR COUNCIL</emph></unittitle> 
+				<unitdate normal="1964/1973" era="ce" calendar="gregorian"><emph render="bolditalic">1964-1973</emph></unitdate> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/9</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries A
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Organizational Features</emph></unittitle> 
+				  <unitdate normal="1964" era="ce" calendar="gregorian"><emph render="bold">1964,</emph></unitdate> 
+				  <unitdate normal="1970/1973" era="ce" calendar="gregorian"><emph render="bold">
+					 1970-1973</emph></unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/10</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries B
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">General
+					 Correspondence</emph></unittitle> 
+				  <unitdate normal="1969/1973" era="ce" calendar="gregorian"><emph render="bold">1969-1973</emph></unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/11-15</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries C
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Subject
+					 Series</emph></unittitle> 
+				  <unitdate normal="1968/1972" era="ce" calendar="gregorian"><emph render="bold">1968-1972</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/11-14</container> 
+					 <unittitle>Affirmative Action</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1968-1972</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/15</container> 
+					 <unittitle>Manpower and Veterans Assistance Committee
+						Affirmative Action Plan</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1971-1972</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">4/10-4/25</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES IV
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SEATTLE-KING COUNTY PLAN ADVISORY
+				  COMMITTEE</emph></unittitle> 
+				<unitdate normal="1971/1974" era="ce" calendar="gregorian"><emph render="bolditalic">1971-1974</emph></unitdate> 
+			 </did> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/16-17</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries A
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">General
+					 Correspondence</emph></unittitle> 
+				  <unitdate normal="1971/1974" era="ce" calendar="gregorian"><emph render="bold">1971-1974,
+					 Undated</emph></unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/18</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries B
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Minutes</emph></unittitle> 
+				  <unitdate normal="1971/1974" era="ce" calendar="gregorian"><emph render="bold">1971-1974</emph></unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/19</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries C
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Reports</emph></unittitle> 
+				  <unitdate normal="1972/1974" era="ce" calendar="gregorian"><emph render="bold">1972-1974</emph></unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/20</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries D
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Contracts</emph></unittitle> 
+				  <unitdate normal="1971/1973" era="ce" calendar="gregorian"><emph render="bold">1971-1973,
+					 Undated</emph></unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/21-4/23</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries E
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Subject
+					 Series</emph></unittitle> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/21-22</container> 
+					 <unittitle>Affirmative Action Agreement - Articles of
+						Incorporation</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1971-1972</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">4/23</container> 
+					 <unittitle>Seattle-King County Plan</unittitle> 
+					 <unitdate era="ce" calendar="gregorian">1973</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/24</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries F
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Clippings</emph></unittitle> 
+				  <unitdate normal="1971" era="ce" calendar="gregorian"><emph render="bold">1971,
+					 Undated</emph></unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="series"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">4/25</emph></container> 
+				  <unitid type="uwsc"><emph render="bold">Subseries G
+					 </emph></unitid> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Miscellany</emph></unittitle> 
+				  <unitdate normal="1971" era="ce" calendar="gregorian"><emph render="bold">1971,
+					 Undated</emph></unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subgrp"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">4/26</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES V
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">WASHINGTON STATE BUILDING AND CONSTRUCTION TRADES
+				  COUNCIL</emph></unittitle> 
+				<unitdate normal="1972/1974" era="ce" calendar="gregorian"><emph render="bolditalic">1972-1974</emph></unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession" countrycode="us" repositorycode="wau-ar">2299-002</unitid> 
+			 <unittitle encodinganalog="245$a">Seattle Building and Construction
+				Trades Council records</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" normal="1942/1958" era="ce" calendar="gregorian">1942-1958</unitdate> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"><?xm-replace_text {OPTIONAL: Bulk dates; normalize dates}?></unitdate>
+			 
+			 <physdesc> <extent encodinganalog="300$a">17.42 cubic feet</extent>
+				<extent encodinganalog="300$a">18 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <arrangement encodinganalog="351"> 
+			 <p><?xm-replace_text {OPTIONAL: Explain the arrangement of the accession}?></p>
+			 
+		  </arrangement> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Minutes, correspondence and financial records </p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict type="540"> 
+			 <p>Literary rights transferred</p> 
+		  </userestrict> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Lee Newgent, Executive Secretary 3/25/2014</p> 
+		  </acqinfo> 
+		  <processinfo encodinganalog="583"> 
+			 <p>Materials are boxed in the order they were received. Folders are
+				well-labelled, but series are often out of order. Incoming materials were
+				reboxed into clean, archival cartons.</p> 
+		  </processinfo> 
+		  <c02> <?xm-replace_text {Indicate hierarchical level in LEVEL attribute. Include additional elements in c02 or lower levels as needed}?>
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1-2</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES I
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">MINUTES</emph></unittitle> 
+				<unitdate type="inclusive" normal="1946/1953" era="ce" calendar="gregorian"> 
+				  <emph render="bolditalic">1946-1953</emph></unitdate> 
+			 </did> 
+			 <arrangement> 
+				<p><?xm-replace_text {For series, describe the arrangement}?></p> 
+			 </arrangement> 
+			 <scopecontent> 
+				<p>Includes minutes of Board meetings and Council Meetings </p> 
+			 </scopecontent> 
+			 <accessrestrict> 
+				<p><?xm-replace_text {If applicable at this or lower levels, describe restrictions on access}?></p>
+				
+			 </accessrestrict> 
+			 <userestrict> 
+				<p><?xm-replace_text {Summary of use restrictions, or lack of restrictions, on component material}?></p>
+				
+			 </userestrict> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">3-12</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES II
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">GENERAL
+				  CORRESPONDENCE</emph></unittitle> 
+				<unitdate normal="1942/1958" era="ce" calendar="gregorian"><emph render="bolditalic">1942-1958</emph></unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">15-18</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES III
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">FINANCIAL RECORDS</emph></unittitle> 
+				<unitdate era="ce" calendar="gregorian"><emph render="bolditalic">Undated</emph></unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes cancelled checks and check registers</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

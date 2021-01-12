@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KellerDavid5321.xml" encodinganalog="identifier" identifier="80444/xv56829">KellerDavid5321.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">David Keller Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Keller (David)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid prepared by Mark Carlson
+			 and Hannah Robinson</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20130819" era="ce" calendar="gregorian">© 2013</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc audience="external"> 
+		<creation>Finding aid encoded by Mark Carlson 
+		  <date era="ce" calendar="gregorian">2013</date></creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage><descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc audience="external"> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised June 2018</date> 
+		  <item>5321-002 added and finding aid updated to meet DACS requirements
+			 by Elaine Speer</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised August 2018</date> 
+		  <item>Box level inventory added to 5321-002. Collection level notes
+			 updated and improved to meet DACS requirements. See ArchivesSpace record for
+			 processing recommendation. Hannah Robinson.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5321</unitid> 
+		<origination> 
+		  <persname encodinganalog="100" role="creator" authfilenumber="4398482" rules="aacr2" source="lcnaf">Keller, David$q(David E.)</persname></origination>
+		
+		<unittitle encodinganalog="245$a" type="collection">David Keller
+		  Papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1920/2013" era="ce" calendar="gregorian">1920-2013</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" normal="1995/2010" era="ce" calendar="gregorian">1995-2010</unitdate> 
+		<physdesc><extent encodinganalog="300$a">5.34 cubic feet</extent>
+		  <extent encodinganalog="300$a">5 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Papers of author
+		  and historian David Keller who wrote <emph render="italic">The Blue Note:
+		  Seattle's Black Musicians' Union, A Pictorial History</emph>, a book about the
+		  American Federation of Musicians (AFM) Local 493 in Seattle,
+		  Washington.</abstract><langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>David Keller is an archivist and historian of jazz and labor history.
+		  He is the co-author of 
+		<title linktype="simple">There and Back: The Roy Porter Story</title> and has written for
+		DownBeat: Jazz, Blues, and Beyond; Jazz Times, COLUMBIA, and BlackPast.org.</p>
+		
+	 </bioghist> 
+	 <arrangement> 
+		<p>Organized into 2 accessions.</p> 
+		<list type="simple"> 
+		  <item>Accession No. 5321-001, David Keller papers, 2000</item> 
+		  <item>Accession No. 5321-002, David Keller papers, 1920-2013</item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Materials include research files created by David Keller during his
+		  research for 
+		<title linktype="simple">The Blue Note: Seattle's Black Musicians' Union, A Pictorial
+		  History</title> and his MA thesis "Seattle's Segregated Musician's Union, Local
+		493, 1918-1956" about the American Federation of Musicians (AFM) Local 493 in
+		Seattle, Washington. Research files include photographic prints and negatives;
+		photocopies of photographs; sound recordings from interviews with musicians and
+		informants; correspondence; brochures; fliers; interview transcriptions, notes,
+		and release forms; notes and notebooks; news articles; and essays. Materials
+		also include sound recordings of oral history interviews conducted by Keller,
+		including interviews with jazz musicians Ernie Hatfield and Al Smith, as well
+		as actor and director Douglas Q. Barnett. Also included are marketing and sales
+		records for 
+		<title linktype="simple">The Blue Note</title> as well as various drafts of the
+		manuscript.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="actuatenone" show="new" linktype="simple"/></p> 
+	 </altformavail><phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p></phystech>
+	 
+	 <accessrestrict> 
+		<p>Accession 5321-001 is open to all users. Some materials in Accession
+		  5321-002 exist in a format that is inaccessible to researchers. See additional
+		  details for Accession 5321-002 listed below.</p> 
+	 </accessrestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Donated by David Keller, November 2001 and February 2018.</p> 
+	 </acqinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname role="subject" encodinganalog="600">Keller, David$q(David
+		  E.)$vArchives</persname> 
+		<corpname role="subject" encodinganalog="610">American Federation of
+		  Musicians.$bUnion Local 493 (Seattle, Wash</corpname> 
+		<subject encodinganalog="650">Segregation$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">African American musicians$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Labor union members$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Labor$zWashington
+		  (State)$zSeattle</subject> 
+		<subject encodinganalog="650">Labor movement$zWashington
+		  (State)$zSeattle</subject> 
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Personal correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Oral histories</genreform> 
+		<title linktype="simple">Seattle's Segregated Musician's Union, Local 493,
+		  1918-1956</title> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor History</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Seattle</subject> 
+		<subject source="archiveswest" altrender="nodisplay">Music</subject> 
+		<subject source="archiveswest" altrender="nodisplay">Labor
+		  Unions</subject> 
+		<corpname role="host institution" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5321-001</unitid> 
+			 <unittitle encodinganalog="245$a">David Keller papers</unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">2000</unitdate> 
+			 <physdesc><extent>0.21 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include a manuscript of 
+			 <title linktype="simple">The Blue Note: Seattle's Black Musician's Union, A Pictorial
+				History</title>. The book was self-published in 2014 and is based on Keller's
+			 1996 MA thesis "Seattle's Segregated Musician's Union, Local 493,
+			 1918-1956."</p> 
+		  </scopecontent> 
+		  <userestrict> 
+			 <p>Copyrights retained by creator. Contact Special Collections for
+				details.</p> 
+		  </userestrict> 
+		  <accessrestrict> 
+			 <p>No restrictions on access.</p> 
+		  </accessrestrict> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5321-002</unitid> 
+			 <unittitle>David Keller papers</unittitle> 
+			 <unitdate type="inclusive" normal="1920/2013" era="ce" calendar="gregorian">1920-2013</unitdate> 
+			 <unitdate type="bulk" normal="1995/2010" era="ce" calendar="gregorian">1995-2010</unitdate> 
+			 <physdesc><extent>5.13 cubic feet</extent>
+				<extent>4 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Materials include research files created by David Keller during
+				his research for 
+			 <title linktype="simple">The Blue Note: Seattle's Black Musicians' Union, A Pictorial
+				History</title> and his MA thesis "Seattle's Segregated Musician's Union, Local
+			 493, 1918-1956" about the American Federation of Musicians (AFM) Local 493 in
+			 Seattle, Washington. Research files include photographic prints and negatives;
+			 photocopies of photographs; sound recordings from interviews with musicians and
+			 informants; correspondence; brochures; fliers; interview transcriptions, notes,
+			 and release forms; notes and notebooks; news articles; and essays. Materials
+			 also include sound recordings of oral history interviews conducted by Keller,
+			 including interviews with jazz musicians Ernie Hatfield and Al Smith, as well
+			 as actor and director Douglas Q. Barnett. Also included are marketing and sales
+			 records for 
+			 <title linktype="simple">The Blue Note</title> as well as various drafts of the
+			 manuscript.</p> 
+		  </scopecontent><phystech> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users, but some materials in this collection exist in
+				a format that is inaccessible to researchers. Production of use copies is
+				required before access will be granted; this may delay research requests.
+				Advanced notice is required.</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p> Restrictions may exist on copying, quotation, or publication.
+				Contact University of Washington Libraries Special Collections for details.
+				</p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Donated by David Keller</p> 
+		  </acqinfo> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">1</container> 
+				<unittitle>Research files</unittitle> 
+				<unitdate normal="1920/2013" era="ce" calendar="gregorian">Approximately 1920-2013</unitdate> 
+				<unitdate type="bulk" normal="1995/2010" era="ce" calendar="gregorian">(bulk
+				  1995-2010)</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Materials include photographic prints and negatives; photocopies
+				  of photographs; correspondence; brochures; fliers; interview transcriptions,
+				  notes, and release forms; notes and notebooks; news articles; and essays
+				  relating to Keller's research for 
+				<title linktype="simple">The Blue Note</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">2</container> 
+				<unittitle>Research files; and 
+				  <title linktype="simple">The Blue Note</title> sales and marketing
+				  records</unittitle> 
+				<unitdate normal="1940/2013" era="ce" calendar="gregorian">Approximately 1940-2013</unitdate> 
+				<unitdate type="bulk" normal="1995/2010" era="ce" calendar="gregorian">(bulk
+				  1995-2010)</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Materials include research files that contain photographic
+				  prints; photocopies of photographs; correspondence; interview transcriptions,
+				  notes, and release forms; notes and notebooks; news articles; and essays
+				  relating to Keller's research for 
+				<title linktype="simple">The Blue Note</title> and his MA thesis "Seattle's
+				Segregated Musician's Union, Local 493, 1918-1956." Also included are records
+				relating to the sales and marketing of 
+				<title linktype="simple">The Blue Note: Seattle's Black Musicians' Union, A Pictorial
+				  History</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">3</container> 
+				<unittitle>Research files and drafts of 
+				  <title linktype="simple">The Blue Note</title></unittitle> 
+				<unitdate normal="1940/2013" era="ce" calendar="gregorian">Approximately 1940-2013</unitdate> 
+				<unitdate type="bulk" normal="1995/2010" era="ce" calendar="gregorian">(bulk
+				  1995-2010)</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Materials include research files that contain photographic
+				  prints and negatives; photocopies of photographs; correspondence; brochures;
+				  fliers; interview transcriptions, notes, and release forms; notes and
+				  notebooks; news articles; and essays relating to Keller's research for 
+				<title linktype="simple">The Blue Note</title>. Also included are preliminary
+				chapters of 
+				<title linktype="simple">The Blue Note: Seattle's Black Musicians' Union, A Pictorial
+				  History</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">4</container> 
+				<unittitle>Research files and drafts of 
+				  <title linktype="simple">The Blue Note</title></unittitle> 
+				<unitdate normal="1940/2013" era="ce" calendar="gregorian">Approximately 1940-2013</unitdate> 
+				<unitdate type="bulk" normal="1995/2010" era="ce" calendar="gregorian">(bulk
+				  1995-2010)</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Materials include preliminary chapters and drafts as well as
+				  final drafts of 
+				<title linktype="simple">The Blue Note: Seattle's Black Musicians' Union, A Pictorial
+				  History</title>. Also included are research files that contain photographic
+				prints, photocopies of photographs, sound recordings from interviews with
+				musicians and informants, correspondence, notes, news articles, and essays
+				relating to Keller's research for 
+				<title linktype="simple">The Blue Note</title>.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/HattenCanterburyTheodore5583.xml" encodinganalog="identifier" identifier="80444/xv42459">HattenCanterburyTheodore5583.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Barry Hatten Papers
+			 </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Hatten, C.T. (Barry)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid prepared by Nan
+			 Cohen</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20110415" era="ce" calendar="gregorian">© 2011</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by N. Cohen 
+		  <date era="ce" calendar="gregorian">2011</date> </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>. </langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content Standard</title>).
+		</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised September, 2013</date> 
+		  <item>Added accession -003. Susan Kemp</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5583</unitid> 
+		<origination> 
+		  <persname encodinganalog="100" role="creator" altrender="sync" source="local" rules="local">Hatten, Barry,$d1917-2008</persname>
+		  </origination> 
+		<unittitle encodinganalog="245$a" type="collection">C. T. (Barry) Hatten
+		  papers</unittitle> 
+		<unitdate normal="1927/2008" type="inclusive" era="ce" calendar="gregorian">1927-2008</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">2.63 cubic feet</extent>
+		  <extent encodinganalog="300$a">4 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Legal briefs and
+		  case files for cases on which Hatten worked. Photographs and drawings of Barry
+		  Hatten, sympathy letters and a memorial book from Hatten's 2008 memorial
+		  service</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>. </langmaterial> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format:
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute the full URL of the image file.
+Eg,  http://www.lib.washington.edu/specialcoll/images/ead/MS3783.jpg. Also enter MIME type of digital file
+(eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute, eg. Image of Mike
+Lowry, 1982.-->
+		<daoloc role="image/jpeg" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p> Canterbury Theodore "Barry" Hatten was born August 24, 1917, in
+		  Indiana, and grew up in Alaska, where his missionary parents ran an orphanage.
+		  Despite a childhood case of tuberculosis of the bone in one leg that prevented
+		  him from enlisting in World War II, he was a longshoreman in Alaska and San
+		  Francisco and worked on the railroad in Alaska. He studied at DePauw University
+		  in Indiana and the University of Washington, and practiced union, civil rights,
+		  and criminal law for 50 years before retirement. Barry Hatten died on August
+		  17, 2008, aged 90. He longshored and worked on the railroad in Alaska in spite
+		  of the bad leg. After he received his law degree, he practiced union, civil
+		  rights, criminal and poor people's law. During the McCarthy loyalty hearings he
+		  defended professors being fired by the University of Washington. His
+		  brother-in-law Ralph Gundlach was one of them. He longshored in San Francisco
+		  during WWII and later in the fifties. [wsba.org] Barry was married first to
+		  Jean Gundlach; then to Louise Seifert with whom he had two sons, John Barry and
+		  Charles Theodore; then to Mary Telford Gibson with whom he lived more than
+		  forty years. [Island Sounds 2008]</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Arranged in 3 accessions</p> 
+		<list> 
+		  <item>Accession No. 5583-001, C. T. (Barry) Hatten papers,
+			 1934-2008</item> 
+		  <item>Accession No. 5583-002, C. T. (Barry) Hatten papers,
+			 1948-1981</item> 
+		  <item>Accession No. 5583-003, C. T. (Barry) Hatten papers,
+			 1927-2001</item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Correspondence, legal briefs, photographs and drawings, clippings,
+		  memorial book.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <accessrestrict> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>See individual accessions below for restrictions on use.</p> 
+	 </userestrict> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc.,
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="actuatenone" show="new" linktype="simple"/> </p> 
+	 </altformavail> <phystech encodinganalog="340" id="a35"> 
+	 <p><?xm-replace_text {Brief description of equipment required for access, physical damage
+	 that impedes access, whether advance notice is required due to off-site storage, etc.; optional}?></p>
+	 </phystech> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname encodinganalog="600" role="subject" source="uwsc-naf" altrender="sync">Hatten, Barry,$d1917-2008$vArchives
+		  </persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690"> Labor
+		  History </subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690"> Labor
+		  Unions </subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Ships
+		  and Shipping</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">California</subject> 
+		<subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5583-001</unitid> 
+			 <unittitle>C.T. (Barry) Hatten papers</unittitle> 
+			 <unitdate normal="1934/2008" type="inclusive" era="ce" calendar="gregorian">1934-2008</unitdate> 
+			 <physdesc><extent>0.21 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent>
+			 <p>Photographs and drawings of Barry Hatten (some are photocopies);
+				Sympathy letters and a memorial book from Hatten's 2008 memorial service.</p>
+		  </scopecontent>
+		  <acqinfo> 
+			 <p>Source: Mary Gibson Hatten, 2011 January 21</p> 
+		  </acqinfo> <phystech type="phys"> 
+		  <p>Records stored offsite; advance notice required for
+			 use</p></phystech> 
+		  <accessrestrict> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540" id="a15"> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries, However, Mary Gibson Hatten retains her copyright in the
+				publication, 
+			 <title render="italic" linktype="simple">Getting Drunk on King Street.</title></p> 
+		  </userestrict> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5583-002</unitid> 
+			 <unittitle>C.T. (Barry) Hatten papers</unittitle> 
+			 <unitdate normal="1948/1981" type="inclusive" era="ce" calendar="gregorian">1948-1981</unitdate> 
+			 <physdesc><extent>2 cubic feet</extent>
+				<extent>2 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p> Legal briefs and case files for cases on which Hatten worked.
+				Case files included legal documents, correspondence, research material, and
+				notes.</p> 
+		  </scopecontent> 
+		  <acqinfo> 
+			 <p>Source: Mary Gibson Hatten, 2011, July 28</p> 
+		  </acqinfo> 
+		  <accessrestrict> 
+			 <p>Open to all users</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries</p> 
+		  </userestrict> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5583-003</unitid> 
+			 <unittitle>C.T. (Barry) Hatten papers</unittitle> 
+			 <unitdate normal="1948/1981" type="inclusive" era="ce" calendar="gregorian">1927-2001</unitdate> 
+			 <physdesc><extent>0.42 cubic feet</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p> Legal briefs and case files for cases on which Hatten worked,
+				many of them related to the Cannery Workers and Farm Laborers Union Local 7.
+				Collection highlights include court cases relating to the attempt to deport
+				Local 7 leaders Chris Mensalvas and Ernesto Mangaoang, articles related to
+				workers in the canned salmon industry, and a subject file and correspondence on
+				Bennie Benson's design of the Alaska flag. Other topics include the Jesse Lee
+				Home in Anchorage, Alaska. Many of the folders as a mixture between
+				correspondence, news clippings, legal briefs, research material, and notes.</p>
+			 
+		  </scopecontent> 
+		  <acqinfo audience="internal"> 
+			 <p/> 
+		  </acqinfo> 
+		  <accessrestrict> 
+			 <p>Open to all users</p> 
+			 <p>Records stored offsite; advance notice required for use</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries</p> 
+		  </userestrict> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 921857323-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationOfTeachersLocal1690Edmonds5890.xml" encodinganalog="identifier" identifier="80444/xv22424">AmericanFederationOfTeachersLocal1690Edmonds5890.xml</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the American Federation of
+			 Teachers, Local 1690 Records </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">American Federation of
+			 Teachers Local 1690 Records </titleproper> 
+		  <author encodinganalog="creator"><?xm-replace_text {Name of the author/s of the finding aid; e.g. Finding aid created by John Smith}?></author>
+		  
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" calendar="gregorian" era="ce" normal="20150922">© 2015</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date calendar="gregorian" era="ce"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5890</unitid> 
+		<unitid type="accession">5890-001</unitid> 
+		<origination> 
+		  <corpname encodinganalog="110" role="creator" authfilenumber="2408008" altrender="sync">American Federation of Teachers.$bLocal 1690 (Edmonds,
+			 Wash.)</corpname> </origination> 
+		<unittitle type="collection">American Federation of Teachers, Local 1690
+		  records </unittitle> 
+		<unitdate type="inclusive" calendar="gregorian" era="ce" normal="1962/1976">1962-1976</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" calendar="gregorian" era="ce"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent>2.64 cubic feet (3 boxes)</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Organizational
+		  and affiliation records of the American Federation of Teachers, local 1690
+		  labor union</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption 
+info inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z  
+No info needed in <resource> element-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="ARN2408008" altrender="sync"> 
+		<p>American Federation of Teachers Local 1690, the Edmonds Federation of
+		  Teachers, was chartered about 1966. It competed with the NEA-affiliated Edmonds
+		  Education Association to represent K-12 teachers in the Edmonds, Washington
+		  School District #15. The local was most successful in gaining members from
+		  secondary schools. Local 1690 became inactive in 1986.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Organizational and affiliation records, meeting minutes, financial
+		  records, newsletters and publications, subject files, conferences and
+		  convention materials, strikes and negotiations, school district meeting
+		  records, ephemera, and membership records. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms Part of the Labor Archives of Washington</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/> </p> 
+	 </altformavail> <phystech type="phys"> 
+	 <p/> </phystech> 
+	 <accessrestrict> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, 
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple" href="http://digital.lib.washington.edu/findingaids/view?docId=SnohomishCountyCentralLaborCouncil3531.xml">Snohomish
+			 Central Labor Council Records (Mss Coll 3531) </archref> </p> 
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess>
+		<subject encodinganalog="650">Teachers' unions$zWashington
+		  (State)$zEdmonds$xHistory$vSources</subject>
+		<subject encodinganalog="650">Strikes and lockouts$zWashington
+		  (State)$zEdmonds$xHistory$vSources</subject>
+		<subject encodinganalog="650">Labor$zWashington
+		  (State)$zEdmonds</subject>
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$zEdmonds</subject>
+		<subject encodinganalog="650">Labor movement$zWashington
+		  (State)$zEdmonds</subject>
+		<genreform source="lcgft" encodinganalog="655">Constitutions</genreform>
+		<genreform source="lcgft" encodinganalog="655">Minutes (Records)</genreform>
+		<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform>
+		<genreform source="lcgft" encodinganalog="655">Newsletters</genreform>
+		<genreform source="lcgft" encodinganalog="655">Bumper stickers</genreform>
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+		<genreform source="aat" encodinganalog="655">Financial records</genreform>
+		<corpname role="curator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname>
+		<corpname encodinganalog="610" role="subject" altrender="sync">American
+		  Federation of Teachers.$bLocal 1690 (Edmonds, Wash.)$vArchives</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor Unions</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/1-13</emph>
+				</container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES I </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">ORGANIZATIONAL AND AFFLIATION
+				RECORDS</emph> </unittitle> 
+			 <unitdate normal="1970/1976" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1970-1976</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/1</container> 
+				<unittitle>Constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/2</container> 
+				<unittitle>Elections</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/3</container> 
+				<unittitle>Committees</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/4</container> 
+				<unittitle>President duties</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/5</container> 
+				<unittitle>Membership</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/6</container> 
+				<unittitle>Labor Council affiliation</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/7</container> 
+				<unittitle>Constitutions of other organizations</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/8</container> 
+				<unittitle>Washington State Federation of Teachers
+				  constitution</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/9</container> 
+				<unittitle>Washington State Federation of Teachers
+				  elections</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/10</container> 
+				<unittitle>Washington State Federation of Teachers
+				  membership</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/11</container> 
+				<unittitle>Washington State Federation of Teachers Executive Board
+				  minutes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/12</container> 
+				<unittitle>Washington State Federation of Teachers
+				  directory</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/13</container> 
+				<unittitle>American Federation of Teachers directory</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"/> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/14-16</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES II </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">MINUTES</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1966-1972 </emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/14</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/15</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/16</container> 
+				<unittitle>Minutes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/17-27</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES III </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">FINANCIAL RECORDS</emph>
+				</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1967-1976</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/17</container> 
+				<unittitle>EFT Treasurer</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1967-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/18</container> 
+				<unittitle>Employer identification number</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/19</container> 
+				<unittitle>Insurance</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/20</container> 
+				<unittitle>Budgets</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/21</container> 
+				<unittitle>Income tax</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1967-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/22</container> 
+				<unittitle>Office rental -- District building use</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/23</container> 
+				<unittitle>Payroll deduction</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/24</container> 
+				<unittitle>EFT dues</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/25</container> 
+				<unittitle>WSFT dues</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/26</container> 
+				<unittitle>WSFT per capita payments</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/27</container> 
+				<unittitle>AFT per capita payments</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/28-47</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES IV </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">CORRESPONDENCE</emph>
+				</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1966-1977</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/28</container> 
+				<unittitle>Incoming correspondence</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/29</container> 
+				<unittitle>AFL-CIO</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/30</container> 
+				<unittitle>American Federation of Teachers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/31</container> 
+				<unittitle>Orders from AFT publications catalog</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/32</container> 
+				<unittitle>Edmonds Education Association</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/33</container> 
+				<unittitle>Edmonds School District</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/34</container> 
+				<unittitle>Superintendent</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/35</container> 
+				<unittitle>Memo from Superintendent to employees</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/36</container> 
+				<unittitle>Everett strike</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/37</container> 
+				<unittitle>Extra duty policy</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/38</container> 
+				<unittitle>Industrial Welfare Committee</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/39</container> 
+				<unittitle>New York crisis</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/40</container> 
+				<unittitle>Payroll deduction of dues</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/41</container> 
+				<unittitle>Renting Old Milltown Hall</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/42</container> 
+				<unittitle>Scholarship</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/43</container> 
+				<unittitle>Surveys</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1967-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/44</container> 
+				<unittitle>United Farm Workers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/45</container> 
+				<unittitle>Washington Federation of Teachers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/46</container> 
+				<unittitle>Washington State Labor Council</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/47</container> 
+				<unittitle>Workers' Education Local #189</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">1/48-2/1</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES V </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">NEWSLETTERS AND
+				PUBLICATIONS</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1966-1976</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/48</container> 
+				<unittitle>Edmonds Federation of Teachers publications</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/49</container> 
+				<unittitle>Edmonds Federation of Teachers publications</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/50</container> 
+				<unittitle>Edmonds Federation of Teachers publications</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/51</container> 
+				<unittitle>EForT newsletter</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/52</container> 
+				<unittitle>Edmonds Education Association publications</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/53</container> 
+				<unittitle>Edmonds Education Association publications</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/54</container> 
+				<unittitle>Edmonds Education Association Viewpoint
+				  newsletter</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/55</container> 
+				<unittitle>Edmonds Education Association Viewpoint
+				  newsletter</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/56</container> 
+				<unittitle>Edmonds Education Association Viewpoint
+				  newsletter</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/57</container> 
+				<unittitle>Edmonds Education Association Viewpoint
+				  newsletter</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/58</container> 
+				<unittitle>Everett Teacher</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/59</container> 
+				<unittitle>Other AFT local publications</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/60</container> 
+				<unittitle>Union Teacher, Washington Teacher</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/61</container> 
+				<unittitle>Washington Association of School Administrators
+				  Hotline</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/62</container> 
+				<unittitle>AFT in Action</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/63</container> 
+				<unittitle>Edmonds School District Staff Notes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/64</container> 
+				<unittitle>Memo from COPE</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/65</container> 
+				<unittitle>Washington State Labor Council</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">1/66</container> 
+				<unittitle>Ideas for publication</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/1</container> 
+				<unittitle>American Federation of Teachers Publications</unittitle>
+				
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1970</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">2/2-52</emph>
+				</container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES VI </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">SUBJECT FILES</emph>
+				</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1962-1977</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/2</container> 
+				<unittitle>Academic freedom literature</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/3</container> 
+				<unittitle>Accountability</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/4</container> 
+				<unittitle>Agency shop</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/5</container> 
+				<unittitle>AFT publications catalog</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/6</container> 
+				<unittitle>AFT services</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1977</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/7</container> 
+				<unittitle>Arbitration</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/8</container> 
+				<unittitle>Attorney General's Office</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/9</container> 
+				<unittitle>Attorneys</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/10</container> 
+				<unittitle>Boycott</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/11</container> 
+				<unittitle>Classroom observation and learning
+				  atmosphere</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/12</container> 
+				<unittitle>Coalition for Protective Legislation</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/13</container> 
+				<unittitle>Committee on Political Education (C.O.P.E.), Initiative
+				  314</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/14</container> 
+				<unittitle>Desegragation and equality in education</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/15</container> 
+				<unittitle>District #15 insurance</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/16</container> 
+				<unittitle>Early childhood education</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/17</container> 
+				<unittitle>EFT building stewards</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/18</container> 
+				<unittitle>Edmonds salaries</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/19</container> 
+				<unittitle>Financial aid: WSFT</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/20</container> 
+				<unittitle>Grievance procedure</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/21</container> 
+				<unittitle>Levies</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/22</container> 
+				<unittitle>Membership drive</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/23</container> 
+				<unittitle>Merger guidelines</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/24</container> 
+				<unittitle>Merger breakup</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/25</container> 
+				<unittitle>Merit pay</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1962-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/26</container> 
+				<unittitle>Nixon</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/27</container> 
+				<unittitle>PEMCO insurance</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/28</container> 
+				<unittitle>Performance contracting</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/29</container> 
+				<unittitle>Portland election</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/30</container> 
+				<unittitle>Prescription discounts</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/31</container> 
+				<unittitle>Probation - Noe case</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/32</container> 
+				<unittitle>Retroactive pay</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/33</container> 
+				<unittitle>Seattle Community College Federation of Teachers
+				  strike</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/34</container> 
+				<unittitle>Seven-period day</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/35</container> 
+				<unittitle>Snohomish County Labor Council</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/36</container> 
+				<unittitle>Statewide salary schedule</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/37</container> 
+				<unittitle>Student teacher membership</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/38</container> 
+				<unittitle>Superintendent of Public Instruction</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/39</container> 
+				<unittitle>Tacoma Federation of Teachers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/40</container> 
+				<unittitle>Teacher benefits from unions</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/41</container> 
+				<unittitle>Teacher certification</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1968</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/42</container> 
+				<unittitle>Teacher evaluation</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1965-1986</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/43</container> 
+				<unittitle>Teacher militancy</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/44</container> 
+				<unittitle>Teacher pensions</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/45</container> 
+				<unittitle>Teacher rights: Washington State</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/46</container> 
+				<unittitle>Teacher strikes</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/47</container> 
+				<unittitle>Teacher tenure</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/48</container> 
+				<unittitle>Unemployment compensation for teachers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/49</container> 
+				<unittitle>Union films</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1969-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/50</container> 
+				<unittitle>United Teacher Press Association</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/51</container> 
+				<unittitle>Vouchers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971-1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/52</container> 
+				<unittitle>Washington Association of School
+				  Administrators</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">2/53-54</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES VII </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">CONFERENCES AND
+				CONVENTIONS</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1975-1976</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/53</container> 
+				<unittitle>A.F.T. Convention</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/54</container> 
+				<unittitle>Pacific Northwest Labor History Conference</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">2/55-68</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES VIII </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">STRIKES AND NEGOTIATIONS</emph>
+				</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1963-1976</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/55</container> 
+				<unittitle>Negotiations</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/56</container> 
+				<unittitle>Edmonds Strike (Part 1 of 2) (H.F.T.)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/57</container> 
+				<unittitle>Edmonds Strike (Part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/58</container> 
+				<unittitle>E.E.A. Package</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/59</container> 
+				<unittitle>Contract</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973-1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/60</container> 
+				<unittitle>Collective Bargaining Agreements (Samples)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/61</container> 
+				<unittitle>Picket Duty</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/62</container> 
+				<unittitle>Negotiations Law</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1963-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/63</container> 
+				<unittitle>Larry Burke</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1968-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/64</container> 
+				<unittitle>Contracts</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/65</container> 
+				<unittitle>R.I.F. and Program Restoration (Part 1 of 2)</unittitle>
+				
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/66</container> 
+				<unittitle>R.I.F. and Program Restoration (Part 2 of 2)</unittitle>
+				
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/67</container> 
+				<unittitle>AFT Negotiations Manual (Part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c.
+				  1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">2/68</container> 
+				<unittitle>AFT Negotiations Manual (Part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c.
+				  1974</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">3/1-7</emph>
+				</container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES IX </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">SCHOOL DISTRICT MEETING
+				RECORDS</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1973-1976</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/1</container> 
+				<unittitle>Minutes and reports</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/2</container> 
+				<unittitle>Minutes and reports (Part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/3</container> 
+				<unittitle>Minutes and reports (Part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1974</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/4</container> 
+				<unittitle>Minutes and reports (Part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/5</container> 
+				<unittitle>Minutes and reports (Part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/6</container> 
+				<unittitle>Minutes and reports (Part 1 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/7</container> 
+				<unittitle>Minutes and reports (Part 2 of 2)</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">3/8-12</emph>
+				</container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES X </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">EPHEMERA</emph> </unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1972-1976</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/8</container> 
+				<unittitle>Bumper stickers</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/9</container> 
+				<unittitle>Cartoons</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1972-1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/10</container> 
+				<unittitle>Map of District #15</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">c.
+				  1972</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/11</container> 
+				<unittitle>News clippings</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973-1976</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/12</container> 
+				<unittitle>Songs</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">Undated</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"> <emph render="bolditalic">3/13-3/15</emph> </container> 
+			 <unitid type="uwsc"> <emph render="bolditalic">SERIES XI </emph>
+				</unitid> 
+			 <unittitle> <emph render="bolditalic">MEMBERSHIP RECORDS</emph>
+				</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian"> 
+				<emph render="bolditalic">1970-1975</emph> </unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/13</container> 
+				<unittitle>Membership applications</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/14</container> 
+				<unittitle>Membership applications</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1973</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/15</container> 
+				<unittitle>Membership lists</unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1970-1975</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

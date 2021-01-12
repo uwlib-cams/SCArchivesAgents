@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/TacomaCivicBallet5943.xml" encodinganalog="identifier" identifier="80444/xv25366">TacomaCivicBallet5943.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Tacoma Civic Ballet
+			 Records</titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Tacoma Civic Ballet
+			 records</titleproper> 
+		  <author encodinganalog="creator"><?xm-replace_text {Name of the author/s of the finding aid; e.g. Finding aid created by John Smith}?></author>
+		  
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" calendar="gregorian" era="ce" normal="20160405">© 2016</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date calendar="gregorian" era="ce"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5943</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">5943-001</unitid> 
+		<origination> 
+		  <corpname role="compiler" encodinganalog="110" authfilenumber="10453711" altrender="sync">Tacoma Civic
+			 Ballet</corpname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Tacoma Civic Ballet
+		  records</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian" era="ce" normal="1964/1996">1964-1996</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" calendar="gregorian" era="ce" normal="1964/1969">1964-1969</unitdate> 
+		<physdesc><extent>0.43 cubic feet (1 box)</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">By-laws,
+		  correspondence, meeting minutes, and other organizational records of the Tacoma
+		  Civic Ballet</abstract><langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption 
+info inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z  
+No info needed in <resource> element-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5451_" id="ARN10453711" altrender="sync"> 
+		<p>The Tacoma Civic Ballet, a not-for-profit organization, debuted its
+		  first performance in 1964. It staged public performances by a resident company.
+		  Board members included Nancy C. Thomas.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Bylaws, clippings, company roster, correspondence, ephemera and
+		  programs, organization history and fact sheet, meeting minutes, membership
+		  filecards, newsletters, documents from Pacific Dance Theatre, Tacoma Little
+		  Theatre, and Tacoma Philharmonic Inc, and documents generally related to
+		  Tacoma.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech type="phys"> 
+	 <p>Records stored off site; advance notice required for use.</p></phystech>
+	 
+	 <accessrestrict> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Status of creator's copyrights is unknown; restrictions may exist on
+		  copying, quotation, or publication. Users are responsible for researching
+		  copyright status before use.</p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Transferred to the Pacific Northwest Collection in December 2011. </p>
+		
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p>These materials were collected by Ronald Magden from Nancy C. Thomas
+		  at an unknown date. They were embedded in Magden's labor history research files
+		  which were transferred to the Harry Bridges Center for Labor Studies around
+		  2008. The collection was transferred to the Labor Archives of Washington State
+		  in August 2011. This segment was transferred to the Pacific Northwest
+		  Collection in December 2011.</p> 
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p> 
+		  <extref href="http://archiveswest.orbiscascade.org/ark:/80444/xv50424/" show="new" actuate="onrequest" linktype="simple">Nancy C. Thomas Papers (Manuscript Collection
+			 4088) </extref></p> 
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12"> 
+		<controlaccess encodinganalog="600"> 
+		  <persname source="lcnaf" rules="rda" role="subject" encodinganalog="600"/> 
+		</controlaccess> 
+		<controlaccess encodinganalog="700"> 
+		  <persname source="lcnaf" rules="rda" role="creator" encodinganalog="700"/> 
+		</controlaccess> 
+		<controlaccess encodinganalog="610"> 
+		  <corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610">Tacoma Civic Ballet$vArchives.</corpname> 
+		  <corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610">Tacoma Civic Ballet$xMembership.</corpname> 
+		  <corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610">Tacoma Civic Ballet$vBy-laws.</corpname> 
+		  <corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610"/> 
+		</controlaccess> 
+		<controlaccess> 
+		  <geogname source="lcsh" role="subject" encodinganalog="651">Tacoma
+			 (Wash.)</geogname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="lcsh" encodinganalog="650">Ballet
+			 companies$zWashington (State)$zTacoma$vArchives</subject> 
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		  <subject source="lcsh" encodinganalog="650"><?xm-replace_text {LC subject heading, with subheading if appropriate}?></subject>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		  <subject source="uwsc" encodinganalog="690" altrender="nodisplay"><?xm-replace_text {Broad topical browse heading taken from 
+		  UW Special Collections term list; add more if needed}?></subject><!-- Also add at least one browsing term from the Archives West browsing term list at http://goo.gl/X5whgX -->
+		  <subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Performing Arts</subject> 
+		  <subject source="archiveswest" altrender="nodisplay" encodinganalog="690"><?xm-replace_text {NWDA 
+		  browsing term}?></subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <genreform source="lcsh" encodinganalog="655">Ephemera</genreform> 
+		  <genreform source="lcsh" encodinganalog="655">Newsletters</genreform> 
+		</controlaccess> 
+		<controlaccess> 
+		  <title encodinganalog="630" rules="aacr2" linktype="simple"><?xm-replace_text {Title of publication included/described in collection}?></title>
+		  
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc></ead>

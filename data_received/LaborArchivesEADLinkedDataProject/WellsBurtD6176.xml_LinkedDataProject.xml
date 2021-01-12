@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WellsBurtD6176.xml" encodinganalog="identifier" identifier="80444/xv43463 ">WellsBurtD6176.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Burt D. Wells
+			 Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Wells (Burt D.)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Elizabeth
+			 Heu</author> 
+		  <sponsor encodinganalog="contributor">Full processing supported by the
+			 Labor Archives Fund and the Labor Archives of Washington State
+			 Budget.</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20171229">© 2017</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised January
+			 2018</date> 
+		  <item>Date ranges for the collection updated and revised; abstract,
+			 arrangement, and preferred citation notes revised or added by Assistant Labor
+			 Archivist Crystal Rodgers.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6176</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6176-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100" altrender="sync" source="lcnaf" rules="aacr2" authfilenumber="2408456">Wells, Burt
+			 D.</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Burt D. Wells
+		  papers</unittitle> 
+		<unitdate type="inclusive" normal="1950/1971" era="ce" calendar="gregorian">1950-1971</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc><extent>3.6 cubic feet</extent>
+		  <extent>4 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Papers of paper
+		  worker union organizer and officer Burt D. Wells related to his involvement
+		  with the International Brotherhood of Pulp, Sulphite and Paper Mill Workers,
+		  Local 242 of Portland, Oregon; the revolt of the Rank and File Movement for
+		  Democratic Action; and the Association of Western Pulp and Paper
+		  Workers.</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Burt D. Wells was President of the International Brotherhood of Pulp,
+		  Sulphite and Paper Mill Workers (IBPS&amp;PMW) Local 242 in Portland, Oregon.
+		  Wells also served as Secretary-Treasurer of the Rank and File Movement for
+		  Democratic Action in the late 1950s-early 1960s, a committee formed by members
+		  of IBPS&amp;PMW locals in protest of decisions made by the International
+		  leadership, including the dismissal of Research and Education Director, George
+		  Brooks in 1961. These and similar efforts within paper worker unions across the
+		  U.S. and Canada resulted in the establishment of rebel union, the Association
+		  of Western Pulp and Paper Workers in 1964 where many dissatisfied members of
+		  the IBPS&amp;PMW and United Papermakers and Paperworkers relocated themselves.
+		  </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>The collection is arranged into the following series and subseries: 
+		  <list> 
+			 <item><emph render="bolditalic">SERIES 1: RANK AND FILE MOVEMENT FOR
+				DEMOCRATIC ACTION</emph> 
+				<list> 
+				  <item><emph render="bold">Subseries A:
+					 Correspondence</emph></item> 
+				  <item><emph render="bold">Subseries B: Individual Rank and File
+					 Movement for Democratic Action Member Correspondence</emph></item> 
+				  <item><emph render="bold">Subseries C: Meetings and
+					 Conventions</emph></item> 
+				  <item><emph render="bold">Subseries D: Rank and File Movement for
+					 Democratic Action Financial and Administrative Records</emph></item> 
+				</list></item> 
+			 <item><emph render="bolditalic">SERIES 2: INTERNATIONAL BROTHERHOOD
+				OF PULP, SULPHITE AND PAPER MILL WORKERS</emph> 
+				<list> 
+				  <item><emph render="bold">Subseries A:
+					 International</emph></item> 
+				  <item><emph render="bold">Subseries B: Rose City Local 242,
+					 Portland, Oregon</emph></item> 
+				</list></item> 
+			 <item><emph render="bolditalic">SERIES 3: ASSOCIATION OF WESTERN PULP
+				AND PAPER WORKERS</emph></item> 
+			 <item><emph render="bolditalic">SERIES 4: PUBLISHED
+				MATERIAL</emph></item> 
+		  </list></p> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Papers of paper worker union organizer and officer, Burt D. Wells,
+		  consisting primarily of records related to his involvement with the Rank and
+		  File Movement for Democratic Action and the Association of Western Pulp and
+		  Paper Workers, including correspondence, newsletters, legal files, reports,
+		  press, and flyers as well as general correspondence and other records related
+		  to the International Brotherhood of Pulp Sulphite and Paper Mill Workers and
+		  Local 242 in Portland, Oregon. There is considerable overlap of related
+		  materials across series and subseries but maintained to respect the arrangement
+		  of the materials prior to processing. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail> 
+	 <prefercite> 
+		<p>Labor Archives of Washington, University of Washington Libraries,
+		  Special Collections, Burt D. Wells papers, 6176-001, box number, folder
+		  number.</p> 
+	 </prefercite><phystech> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>Collection is open for research use but records are stored offsite;
+		  advance notice is required for use.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections.</p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Donated by Rosa Millo Eyer, originally a part of the John H. Eyer
+		  papers (3932-001), 1987-09-14 </p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <processinfo> 
+		<p>Processed by Assistant Labor Archivist Crystal Rodgers</p> 
+		<p>Processing completed in January 2018, including refoldering and
+		  rehousing of material, preservation photocopies of thermofax paper made, rusty
+		  fasteners removed and replaced with plasticlips, and acid free paper interwoven
+		  between newspaper clippings. Materials arranged into series and subseries
+		  physically and intellectually.</p> 
+	 </processinfo> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p>Due to the collection's distinctiveness as a body of records belonging
+		  to Burt D. Wells and the material's historical significance, this collection
+		  was separated from the first accession of the 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple" href="http://archiveswest.orbiscascade.org/ark:/80444/xv03054/">John H. Eyer
+			 Papers (Manuscript Accession 3932-001)</archref> during processing in December
+		  2017. </p> 
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p> 
+		  <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv17974/" actuate="onrequest" show="new" linktype="simple">Association of Western Pulp and Paper Workers
+			 records (manuscript collection 2052)</archref> </p> 
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname role="subject" encodinganalog="600">Wells, Burt
+		  D.$vArchives</persname> 
+		<corpname role="subject" encodinganalog="610">International Brotherhood
+		  of Pulp, Sulphite, and Paper Mill Workers</corpname> 
+		<corpname role="subject" encodinganalog="610">Rank and File Movement for
+		  Democratic Action</corpname> 
+		<subject encodinganalog="650">Labor unions$zOregon</subject> 
+		<subject encodinganalog="650">Labor union members$zOregon</subject> 
+		<subject encodinganalog="650">Labor unions$zOregon$xOfficials and
+		  employees</subject> 
+		<subject encodinganalog="650">Labor$zOregon</subject> 
+		<subject encodinganalog="650">Labor movement$zOregon</subject> 
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Personal correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Newsletters</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform> 
+		<corpname role="host institution" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Portland</subject> 
+	 </controlaccess> 
+	 <dsc type="combined"> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">1/1-3/2</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES 1</emph>
+				</unitid> 
+			 <unittitle encodinganalog="245$a"><emph render="bolditalic">RANK AND
+				FILE MOVEMENT FOR DEMOCRATIC ACTION</emph></unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1965"> <emph render="bolditalic">1953-1965</emph></unitdate> 
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">1/1-26</emph></container> 
+				<unitid type="uwsc"><emph render="bold">Subseries A
+				  </emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bold">Correspondence</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1959/1965"><emph render="bold">1959-1965</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Correspondence: Dismissal of
+					 George Brooks, Appointment of Jerald Hatt Controversy</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/1963">1962-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Regional Correspondence: Rank
+					 and File Movement for Democratic Action</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1959/1963">1959-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Correspondence with Locals:
+					 Protest Letters Regarding Firing of George Brooks</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Correspondence: Rank and File
+					 Movement for Democratic Action</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Correspondence with Locals
+					 Around United States: Detroit Convention</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Correspondence: Brooks
+					 Dismissal, United Papermakers and Paperworkers and Frank Grasso, Detroit
+					 Convention</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Convention, Detroit, Michigan: Burt
+					 Wells' Convention Materials [1 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+				<note> 
+				  <p>Contains full issues of the following print publications: 
+					 <emph render="italic">Pulp, Sulphite and Paper Mill Workers' Journal</emph>,
+					 Vol. XLVI, No. 1, Jan-Feb 1962; <emph render="italic">Clean-UPP</emph>, Vol. 2
+					 No. 2, May-June 1963; <emph render="italic">Pulp &amp; Paper Worker</emph>,
+					 Vol. 17, No. 2, 1962 August; <emph render="italic">Oregon Labor Press</emph>,
+					 Vol. 63, No. 38, Portland, September 21, 1962</p> 
+				</note> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Convention, Detroit, Michigan: Burt
+					 Wells' Convention Materials [2 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers 26th Annual Convention, Detroit,
+					 Michigan: Rank and File Movement for Democratic Action Local Delegates and
+					 Proposed Resolutions</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Correspondence: George Brooks' Dismissal
+					 [1 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/">1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Correspondence: George Brooks' Dismissal
+					 [2 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/">1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Gerard Schmidt Firing Case at
+					 International Brotherhood of Pulp, Sulphite and Paper Mill Workers Local 318,
+					 Glen Cove, New York</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Proposal for Constitutional
+					 Reform for Elections</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers General Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961 May-December/19611231">1961
+					 May-December</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers General Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962 January-May/19620531">1962
+					 January-May</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/16</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers General Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962 June-December/19621231">1962
+					 June-December</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/17</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Union Locals Correspondence:
+					 George Brooks Resignation</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/">1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/18</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Quarterly Audit Report Inquiry
+					 by Rank and File Movement for Democratic Action</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1960/1962">circa 1960-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/19</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">United Papermakers and
+					 Paperworkers</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1961">1960-1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/20</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">F.J. Tierney's Resignation
+					 Letter to President Burke</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962 May 9/">1962 May 9</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/21</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action Opposition [1 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/22</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action Opposition [2 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/23</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Opposition to Appointment of
+					 Jerald Hatt as International Representative</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1963/1964">1963-1964</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/24</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Support for Reinstatement of
+					 George Brooks</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/25</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Officer
+					 Correspondence: George Brooks' Resignation and Southwest Area Staff</unittitle>
+				  
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/">1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/26</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Burt Wells' Correspondence with
+					 University of Wisconsin and Wisconsin State Historical Society: Rank and File
+					 Movement for Democratic Action Records</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate> 
+				  <note> 
+					 <p>This file contains correspondence related to the loan of
+						RFMDA records to archives for microfilming</p> 
+				  </note> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">1/27-2/22</emph></container> 
+				<unitid type="uwsc"><emph render="bold">Subseries B</emph></unitid>
+				
+				<unittitle encodinganalog="245$a"><emph render="bold">Individual
+				  Rank and File Movement for Democratic Action Member
+				  Correspondence</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1964"><emph render="bold">1960-1964</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/27</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Amden, Richard, Local 183,
+					 Everett, Washington</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/28</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Ballantyne, James, President,
+					 Local 89, Kapuskasing, Ontario</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/29</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Bartlett, Harold M., Local 22,
+					 Fort Orange, New York</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/30</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Benson, Herman W., Editor of
+					 Union Democracy in Action newsletter</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/31</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Bevan, Edwin C., Treasurer of
+					 Rank and File Movement for Democratic Action</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/1</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Braaten, Orville, Business
+					 Agent, Local 433, Vancouver, British Columbia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1963">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/2</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Chatham, R. H., West Monroe
+					 Local 512, Louisiana</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/3</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Dukes, Clarence W., San Joaquin
+					 Local 713, Antioch, California</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/4</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Cowman, William H., President
+					 of Local 400, Brunswick, Georgia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/5</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Farrace, Arthur, Antioch,
+					 California</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/6</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">McCormick, Bob, Western Canada
+					 Council, Ocean Falls, British Columbia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">MacPhee, Angus, Watson Island
+					 Local 708, Prince Rupert, British Columbia: Committee of Inquiry, Cuba Trip and
+					 Communist Allegations</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/8</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Marshall, Peter,
+					 Secretary-Treasurer of Western Canada Area Rank and File Movement for
+					 Democratic Action, Local 312, Ocean Falls, British Columbia</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1964">1961-1964</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/9</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Melton, Melvin, Secretary of
+					 Local 194, Bellingham, Washington</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1964">1960-1964</unitdate> 
+				  <note> 
+					 <p>Includes essays submitted by union members to story contest
+						about corruption in the International. </p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/10</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Mercer, Graham, Local 169,
+					 Hoquiam, Washington</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/11</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Perrin, William, Local 68, West
+					 Linn, Oregon</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/12</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rodgers, Henry, Local 375,
+					 Philadelphia, Pennsylvania [1 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1963">1961-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/13</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rodgers, Henry, Local 375,
+					 Philadelphia, Pennsylvania [2 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1963">1961-1963</unitdate> 
+				  <note> 
+					 <p>Contains issue of Local 375 <emph render="italic">East Coast
+						Newsletter</emph> </p> 
+				  </note> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/14</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rosebush, George, Rank and File
+					 Movement for Democratic Action Area Chairman for Ontario and Manitoba, Local
+					 89, Kapuskasing, Ontario</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/15</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Ruddick, Godfrey J.,
+					 International Vice-President, Little Rock, Arkansas</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/16</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Savage, Leo R., President of
+					 United Gilman Local 41, Gilman, Vermont</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/17</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Scarselletta, Mario, President
+					 of Hudson River Local 20, Glens Falls, New York</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/18</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Schmidt, Herbert, Secretary of
+					 South Gate Local 253 Correspondence: 1962 Election Dispute and Rank and File
+					 Movement for Democratic Action</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/19</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Stanley, L. R., Secretary,
+					 Local 171, Vancouver, Washington: Anti-Rank and File Movement for Democratic
+					 Action Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/20</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Sterman, Albert, Local 375,
+					 Philadelphia, Pennsylvania: Correspondence with International about John McNiff
+					 and Education Spending</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/21</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Stewart, L. E., President,
+					 Local 253, South Gate, California Correspondence: Election Dispute</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/22</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Wilner, Don S., Correspondence
+					 with Burt Wells and William Perrin</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">2/23-32</emph></container> 
+				<unitid type="uwsc"><emph render="bold">Subseries C</emph></unitid>
+				
+				<unittitle encodinganalog="245$a"><emph render="bold">Meetings and
+				  Conventions</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1959/1963"><emph render="bold">1959-1963</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/23</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Northwest Committee for Union
+					 Justice: Correspondence and Minutes</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/24</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">British Columbia Committee of
+					 Inquiry Minutes: George Brooks Resignation</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/">1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/25</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Western Canada Area of the Rank
+					 and File Movement for Democratic Action: Meeting Minutes</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/">1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/26</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action: Mid-Atlantic States Conference Meeting Minutes</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961 June 3/">1961 June 3</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/27</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action: Southeast Area Conference Meeting Minutes</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962 March 3/">1962 March 3</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/28</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action Area Executive Conference, Denver, Colorado: Meeting
+					 Minutes</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/29</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Local 89, Kapuskasing, Ontario: Special
+					 Meeting on Connolly and Hayes Dismissal</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960 August 28/">1960 August 28</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/30</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Meeting Minutes of Joseph
+					 Tonelli's Staff at Prince George Hotel</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961 March/">1961 March</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/31</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Western Canada Council of Pulp
+					 and Paper Mill Unions Spring Conference in Vancouver, British Columbia: Meeting
+					 Minutes</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962 May 14/">1962 May 14</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/32</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">United Papermakers and
+					 Paperworkers: Correspondence, Reports, Court Records, Newsletters</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1959/1963">1959-1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">2/33-3/2</emph></container> 
+				<unitid type="uwsc"><emph render="bold">Subseries D</emph></unitid>
+				
+				<unittitle encodinganalog="245$a"><emph render="bold">Rank and File
+				  Movement for Democratic Action Financial and Administrative
+				  Records</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1965"><emph render="bold">1953-1964</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/33</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action Per Capita Dues Payments [1 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/34</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action Per Capita Dues Payments [2 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/35</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Amplifier Subscribers, Paper
+					 Worker Members, and Executive Officers Mailing Lists</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1953/1964">circa 1953-1964</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/36</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Reform Movement Background:
+					 Assorted Writings by Burt Wells and Others</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1964">1960-1964</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/37</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Reform Movement: Burt Wells'
+					 Affidavit and Court Exhibit Files</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1957/1964">circa 1957-1964</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/1</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action Handbook for Constitutional Reform</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1962/">circa 1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/2</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rank and File Movement for
+					 Democratic Action Financial Statements and Receipt Logs</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">3/3-23</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES
+				2</emph></unitid> 
+			 <unittitle encodinganalog="245$a"><emph render="bolditalic">INTERNATIONAL BROTHERHOOD OF PULP, SULPHITE AND PAPER MILL
+				WORKERS</emph></unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1950/1964"><emph render="bolditalic">1950-1964</emph></unitdate> 
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">3/3-11</emph></container> 
+				<unitid type="uwsc"><emph render="bold">Subseries A</emph></unitid>
+				
+				<unittitle encodinganalog="245$a"><emph render="bold">International</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1958/1964"><emph render="bold">1958-1964</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/3</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers General Correspondence [1 of
+					 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/4</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers General Correspondence [2 of
+					 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1959/1960">1959-1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/5</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Financial Quarterly Reports</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1958/1961">1958-1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/6</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Reports of the Auditor</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/7</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Complete Report of the Special
+					 Investigating Committee [on Vice President Joseph Tonelli]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960 September 20/">1960 September 20</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/8</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers Report of Union Job Evaluation
+					 Committee</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1963 January 14/">1963 January 14</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/9</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Brotherhood of
+					 Pulp, Sulphite and Paper Mill Workers and United Papermakers and Paperworkers
+					 Pre-Wage Conference Minutes</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1959 May 11/">1959 May 11</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/10</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">International Executive Board
+					 Meeting Minutes</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/11</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Paper Worker Union Local
+					 Rosters and Officers Lists</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1960/1964">circa 1960-1964</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">3/12-23</emph></container> 
+				<unitid type="uwsc"><emph render="bold">Subseries B</emph></unitid>
+				
+				<unittitle encodinganalog="245$a"><emph render="bold">Rose City
+				  Local 242, Portland, Oregon</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1950/1963"><emph render="bold">1950-1963</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/12</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Local 242 Resolution Proposals
+					 to International President-Secretary</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/13</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">External
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1957">1953-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/14</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Wage Stabilization Board
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1951/1963">1951-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/15</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Local and International
+					 Resolutions</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1957/1963">circa 1957-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/16</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Rose City Local 242 Information
+					 for New Members</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1950/1957">circa 1950-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Portland and Salem, Oregon
+					 Labor Councils: Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1954/1955">1954-1955</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/18</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Local 242 Internal
+					 Correspondence [1 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1963">1955-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/19</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Local 242 Internal
+					 Correspondence [2 of 2]</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1963">1955-1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/20</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Unemployment Benefits
+					 Information</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1956/1958">1956-1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/21</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Correspondence to and from
+					 International and Local 242 Quarterly Reports</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1952/1962">1952-1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/22</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Local 242 Financial
+					 Report</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1957/">1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/23</container> 
+				  <unitid type="uwsc"/> 
+				  <unittitle encodinganalog="245$a">Artifact: Burt D. Wells'
+					 Detroit Convention Ribbon and Medal Pin</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/">1962</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">3/24-46</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES
+				3</emph></unitid> 
+			 <unittitle encodinganalog="245$a"><emph render="bolditalic">ASSOCIATION OF WESTERN PULP AND PAPER
+				WORKERS</emph></unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1952/1971"><emph render="bolditalic">1952-1971</emph></unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/24</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Association of Western Pulp and
+				  Paper Workers: Correspondence, Minutes, Reports, Published Material</unittitle>
+				
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1969/1971">1969-1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/25</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Election Campaign: Flyers and
+				  Press</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1967/">circa 1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/26</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Attorney Retainer Fee
+				  Policy</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1966/">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/27</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Burt Wells' Letter of Credentials
+				  as Representative of the Association of Western Pulp and Paper
+				  Workers</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1964 October 8/">1964 October
+				  8</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/28</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Uniform Labor Agreement Committee
+				  Draft Bylaws</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1964/">circa 1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/29</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Burt Wells' Personal
+				  Correspondence</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1952/1965">1952-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/30</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Presidents William Perrin and
+				  Hugh Bannister: Correspondence, Ephemera, Press</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/1970">1962-1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/31</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Burt Wells' Secretary-Treasurer
+				  Reports to the Association of Western Pulp and Paper Workers</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1964/1967">circa
+				  1964-1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/32</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Transcript of Wayne Morse's
+				  Keynote Speech at the 4th Annual Association of Western Pulp and Paper Workers
+				  Convention</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1969 September 15/">1969 September
+				  15</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/33</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Draft of <emph render="italic">The Paper Rebellion: The Story of the Association of Western
+				  Pulp and Paper Workers</emph> by Paul L. Kleinsorge and William C.
+				  Kerby</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1966/">1966</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/34</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">H.W. Benson's Article on
+				  Association of Western Pulp and Paper Workers in <emph render="italic">Union
+				  Democracy in Action</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1967/">1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/35</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Elections: Flyers, Press, and
+				  Correspondence</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1967/1969">1967-1969</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/36</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Referendum Election</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1967/">1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/37</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Local 7 Pipefitters Union Picket
+				  at Boise-Cascade Plant in Salem, Oregon</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1967/">1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/38</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Local 153, Longview, Washington:
+				  Picket Line Crossing</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1964 December/">1964 December</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/39</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Local 672 Newsletter 
+				  <emph render="italic">The Little Rebel</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1967 January/">1967 January</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/40</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Office Policies and Personal
+				  Issues</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/1967">1965-1967</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/41</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Southern Washington Area Council
+				  Meeting Minutes</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1968 April/">1968 April</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/42</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Burt Wells' Secretary-Treasurer
+				  Quarterly Report</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1970 March 31/">1970 March 31</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/43</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Local 64, Portland, Oregon:
+				  Executive Board Newsletter</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1970 December 14/">1970 December
+				  14</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/44</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Local 6 and 68 Election Rules
+				  Violations</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1970/">1970</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/45</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a"><emph render="italic">The
+				  Necessity of Reform in the Pulp and Paper Union Movement</emph>
+				  Report</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1964/">circa 1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/46</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Assorted Correspondence and
+				  Reports</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1966/1968">1966-1968</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <container type="box-folder"><emph render="bolditalic">3/47-4/8</emph></container> 
+			 <unitid type="uwsc"><emph render="bolditalic">SERIES
+				4</emph></unitid> 
+			 <unittitle encodinganalog="245$a"><emph render="bolditalic">PUBLISHED
+				MATERIAL</emph></unittitle> 
+			 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1965"><emph render="bolditalic">1953-1965</emph></unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/47</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Assorted News Clippings on Paper
+				  Worker Unions in the Pacific Northwest [1 of 2]</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">3/48</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Assorted News Clippings on Paper
+				  Worker Unions in the Pacific Northwest [2 of 2]</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/1</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a"><emph render="italic">Portland
+				  Reporter</emph> News Clippings on Paper Workers</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1964/">1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/2</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a"><emph render="italic">Post Record
+				  </emph>Newspaper of Camas and Washougal, Washington: Clippings on Paper Workers
+				  Union</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1964/1965">1964-1965</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/3</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a"><emph render="italic">The Broke
+				  Beater </emph>Newsletter of International Brotherhood of Pulp, Sulphite and
+				  Paper Mill Workers Local 153, Longview, Washington</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1964/">1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/4</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a"><emph render="italic">Clean
+				  UPP</emph> Newsletter of the United Papermakers and Paperworkers</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1963">1961-1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/5</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Employee Welfare Trust
+				  Funds</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1954">1953-1954</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/6</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a">Assorted Articles, Pamphlets, and
+				  Handouts</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1964">1960-1964</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/7</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a"><emph render="italic">Political
+				  Memo</emph> Newsletter of the AFL-CIO</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1956">1955-1956</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">4/8</container> 
+				<unitid type="uwsc"/> 
+				<unittitle encodinganalog="245$a"><emph render="italic">Union
+				  Democracy in Action</emph> Issues and Publicity</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="circa 1959/1962">circa
+				  1959-1962</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

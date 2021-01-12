@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BarnettEugene4553.xml" encodinganalog="identifier" identifier="80444/xv69979">BarnettEugene4553.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Eugene Barnett Oral
+			 History Collection</titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Barnett (Eugene) Oral
+			 History Collection</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20070918" era="ce" calendar="gregorian">©2007</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date>
+		  </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised <?xm-replace_text {Enter date of revision of finding aid, if any, eg., July, 2005}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid type="mss" encodinganalog="099">4553</unitid> 
+		<unitid type="accession" encodinganalog="099">4553-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100" altrender="sync" source="local" rules="local">Barnett, Eugene,$d1892-1973</persname>
+		  </origination> 
+		<unittitle type="collection">Eugene Barnett oral history
+		  collection</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/1961">1940, 1961</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">.21 cubic feet (1 box)</extent>
+		</physdesc>
+		<physdesc> <extent encodinganalog="300$a">3 sound cassettes (circa 154
+		  min.)</extent>
+		</physdesc>
+		<physdesc> <extent encodinganalog="300$a">1 transcript (24
+		  pages)</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Trade
+		  unionist</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="5450_" id="a2" altrender="sync"> 
+		<p>Eugene Barnett (1892-1973) was born in Caldwell, North Carolina. He
+		  worked as a mineworker from the age of eight. After moving to Southwest
+		  Washington sometime after 1908, he joined the Industrial Workers of the World.
+		  On November 11, 1919, he witnessed the attack on the IWW union hall in
+		  Centralia, was arrested, tried, and imprisoned for eleven years. After his
+		  release to care for his ill wife, he worked as a miner and in various other
+		  occupations.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe arrangement or organization of materials}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Oral histories of Eugene Barnett (1940 and 1961), transcript. In a
+		  self interview or speech (1940), Barnett describes his life as a miner. Barnett
+		  witnessed the Centralia Tragedy of 1919. The event occurred when I crowd
+		  inclusing American Legion members attacked the Industrial Workers of the World
+		  union hall in Centralia, Washington on November 11, 1919. Becker described his
+		  imprisonment in the aftermath and his life afterwards. In the 1960 interview
+		  Archie Green interviews Barnett about additional details of his life and his
+		  strong belief in the labor union movement.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail> 
+		<p> 
+		  <extref show="new" actuate="onrequest" arcrole="text/html" href="http://digitalcollections.lib.washington.edu/cdm/ref/collection/ohc/id/222" linktype="simple">Listen
+			 to the 1961 interview conducted by Archie Green</extref> on the Libraries
+		  Digital Collections site.</p> 
+	 </altformavail> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {Text of the Scope and Content Note, in paragraphs; separate each with paragraph tags}?></p>
+		
+	 </altformavail> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Open to all users.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Creator's literary rights not transferred to the University of
+		  Washington Libraries</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Donated by William Friedland, 11/21/1995</p> 
+	 </acqinfo> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <controlaccess id="persname"> 
+		<persname encodinganalog="600" role="subject" altrender="sync">Barnett,
+		  Eugene,$d1892-1973$vInterviews</persname> 
+		<persname encodinganalog="700" role="interviewee" altrender="sync">Barnett, Eugene,$d1892-1973</persname> 
+		<persname role="creator" encodinganalog="700" source="lcnaf" rules="aacr2">Friedland, William H.</persname> 
+		<persname role="interviewer" encodinganalog="700" source="lcnaf" rules="rda" altrender="sync" authfilenumber="3034585">Green, Archie</persname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<corpname role="subject" encodinganalog="610">Industrial Workers of the
+		  World</corpname> 
+		<corpname role="subject" encodinganalog="610">Lumber Workers' Industrial
+		  Union No. 120</corpname> 
+		<subject>Centralia Massacre, Centralia, Wash., 1919</subject> 
+		<subject>Labor disputes$zWashington (State)$zCentralia</subject> 
+		<subject>Massacres$zWashington (State)$zCentralia</subject> 
+		<subject>Lumber industry$xLabor unions$zWashington (State)</subject> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  History</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Mines
+		  and Mineral Resources</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Washington (State)</subject> 
+	 </controlaccess> 
+  </archdesc>
+</ead>

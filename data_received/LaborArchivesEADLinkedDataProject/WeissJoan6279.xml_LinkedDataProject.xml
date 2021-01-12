@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+   <!--OCLC 1119723259-->
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WeissJoan6279.xml" encodinganalog="identifier" identifier="80444/xv251250">WeissJoan6279.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Joan Weiss
+			 Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Joan Weiss
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding aid created by Lauren
+			 Adams</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" era="ce" calendar="gregorian" normal="20190918">© 2019</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised August
+			 2019</date> 
+		  <item>Merged 2019071902 with 6279-001. Kate Miller</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6279</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">6279-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100">Weiss, Joan$c(Labor
+			 activist)</persname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">Joan Weiss
+		  papers</unittitle> 
+		<unitdate type="inclusive" normal="1970/2015" era="ce" calendar="gregorian">1970-2017</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+		
+		<physdesc> <extent>3.02 cubic feet (3 boxes) plus 1 oversize vertical
+		  file </extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Collection
+		  consists of worksheets, pamphlets, buttons, and guides related to employee
+		  unions and programs</abstract> <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc> <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Joan Weiss is a labor activist, union member, and union leader. Weiss
+		  worked for the M.L. King County Labor Council Worker's Center before the
+		  program was ended. Weiss was also a member and business agent for the
+		  Classified Staff Association 925 at the University of Washington. That local
+		  union is now part of Service Employees International Union, Local 925. </p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>Materials from Weiss work for the M.L. King County Labor Council
+		  Worker's Center as well as the Classified Staff Association 925 at the
+		  University of Washington. Common Sense Economics training materials from
+		  classes that Bill Fletcher, Jr. taught in Seattle in the early 1990s. Posters,
+		  buttons, and stickers from various labor and political causes Weiss was a part
+		  of or a supporter. It also includes training materials, ephemera, and notes
+		  relating to Weiss' membership in SEIU 925 and being a member of the Service
+		  Employees International Union, and the AFL-CIO. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/> </p> 
+	 </altformavail> <phystech> 
+	 <p/> </phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Donated by Joan Weiss.</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref>
+		  </p> 
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12">
+		<persname role="subject" encodinganalog="600">Weiss, Joan$c(Labor
+		  activist)$vArchives</persname>
+		<corpname role="subject" encodinganalog="610">American Federation of
+		  Labor$vArchives</corpname>
+		<corpname role="subject" encodinganalog="610">AFL-CIO$vArchives</corpname>
+		<corpname role="subject" encodinganalog="610">AFL-CIO.$bKing County Labor
+		  Council of Washington.$bWorkers Center$vArchives</corpname>
+		<corpname role="subject" encodinganalog="610">Service Employees
+		  International Union$vArchives</corpname>
+		<corpname role="subject" encodinganalog="610">Service Employees
+		  International Union.$bLocal 925$vArchives</corpname>
+		<subject encodinganalog="650">Labor$zWashington
+		  (State)$zSeattle</subject>
+		<subject encodinganalog="650">Labor unions$zWashington
+		  (State)$zSeattle</subject>
+		<subject encodinganalog="650">Labor movement$zWashington
+		  (State)$zSeattle</subject>
+		<subject encodinganalog="650">Labor union locals$zWashington
+		  (State)$zSeattle</subject>
+		<subject encodinganalog="650">Labor union members$zWashington
+		  (State)$zSeattle</subject>
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform>
+		<genreform source="lcgft" encodinganalog="655">Course materials</genreform>
+		<genreform source="lcgft" encodinganalog="655">Conference materials</genreform>
+		<genreform source="lcgft" encodinganalog="655">Posters</genreform>
+		<genreform source="lcgft" encodinganalog="655">Ephemera</genreform>
+		<persname role="creator" encodinganalog="700">$i Container of (work): $a
+		  Fletcher, Bill,$cJr. $t Common sense economics</persname>
+		<corpname role="creator" encodinganalog="710">$i Container of (work): $a
+		  AFL-CIO. $t AFL-CIO publication</corpname>
+		<corpname role="host institution" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname>
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor Unions</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Businesses and Corporations</subject> 
+		<subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Civil Activism</subject> 
+		<subject altrender="nodisplay" source="archiveswest" encodinganalog="690">Political Campaigns</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/1</container> 
+			 <unittitle>[Labor Stickers, Flyers, Programs, Pin]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">approximately 1992, 2001-2005, 2012</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/2</container> 
+			 <unittitle>AFL Common Sense Economics</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1997 March
+				26</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/3</container> 
+			 <unittitle>Memo Training</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1996
+				November</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/4</container> 
+			 <unittitle>[AFL-CIO Publications]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1980-1981,
+				1992-1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/5</container> 
+			 <unittitle>WSLC Organizing Conference (Workshop by Emily)</unittitle>
+			 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1996
+				May</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/6</container> 
+			 <unittitle>AFL Social Security</unittitle> 
+			 <unitdate type="inclusive" normal="1998" era="ce" calendar="gregorian">1998</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/7</container> 
+			 <unittitle>WALC Strikes, Strategy, Boeing Strike</unittitle> 
+			 <unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/8</container> 
+			 <unittitle>[AFL-CIO Organizing for Change Report]</unittitle> 
+			 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/9</container> 
+			 <unittitle>[Work Style Indicators]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1990,
+				1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/10</container> 
+			 <unittitle>AFL-CIO Common Sense Economics Study Group Manual [1 of
+				2]</unittitle> 
+			 <unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/11</container> 
+			 <unittitle>AFL-CIO Common Sense Economics Study Group Manual [2 of
+				2]</unittitle> 
+			 <unitdate type="inclusive" normal="1996" era="ce" calendar="gregorian">1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/12</container> 
+			 <unittitle>Various Workforce Buttons</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/13</container> 
+			 <unittitle>Common Sense Economics "The Rap Script for trainers" [1 of
+				2]</unittitle> 
+			 <unitdate type="inclusive" normal="2000/2002" era="ce" calendar="gregorian">2000-2002</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/14</container> 
+			 <unittitle>Common Sense Economics "The Rap Script for trainers" [2 of
+				2]</unittitle> 
+			 <unitdate type="inclusive" normal="2000/2002" era="ce" calendar="gregorian">2000-2002</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/15</container> 
+			 <unittitle>Common Sense "Campaign for Global Fairness"</unittitle> 
+			 <unitdate type="inclusive" normal="2000/2001" era="ce" calendar="gregorian">2000-2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/16</container> 
+			 <unittitle>Restoring every worker's right to a Voice @
+				Work</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/17</container> 
+			 <unittitle>Union Cities Leadership Retreat AFL-CIO/UALE</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2003
+				April</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/18</container> 
+			 <unittitle>Building a Strong Grassroots Union Movement</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2003 April
+				9-13</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/19</container> 
+			 <unittitle>Teamsters Fighting for the Future</unittitle> 
+			 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/20</container> 
+			 <unittitle>Organizing Institute</unittitle> 
+			 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">1/21</container> 
+			 <unittitle>Labor Education and Research Center - University of
+				Oregon</unittitle> 
+			 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/1</container> 
+			 <unittitle>Building Workforce Partnerships Conference/Los
+				Angeles</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2008
+				June</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/2</container> 
+			 <unittitle>Which Way Labor? Rebuilding the Labor Movement and Labor
+				Education</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2006 May
+				17-19</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/3</container> 
+			 <unittitle>Education Statistics - The Real World</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/4</container> 
+			 <unittitle>Building Workforce Partnerships: Adopting to
+				Change</unittitle> 
+			 <unitdate type="inclusive" normal="2008" era="ce" calendar="gregorian">2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/5</container> 
+			 <unittitle>Developing Funding Collaboratives to Support Workforce
+				Partnerships</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/6</container> 
+			 <unittitle>Greener Pathways</unittitle> 
+			 <unitdate type="inclusive" normal="2008" era="ce" calendar="gregorian">2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/7</container> 
+			 <unittitle>Starting Over... A Survival Guide for Laid-off Workers and
+				their Families</unittitle> 
+			 <unitdate type="inclusive" normal="2001" era="ce" calendar="gregorian">2001</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/8</container> 
+			 <unittitle>Workforce and Economic Development</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/9</container> 
+			 <unittitle>Los Angeles Health Care Workforce</unittitle> 
+			 <unitdate type="inclusive" normal="2008" era="ce" calendar="gregorian">2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/10</container> 
+			 <unittitle>Worker Education &amp; Resource Center, Inc.</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/11</container> 
+			 <unittitle>Advance Program</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/12</container> 
+			 <unittitle>Contra Costa Times</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2008 March
+				24</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/13</container> 
+			 <unittitle>Healthcare Career Advancement Academy Bridge Training
+				Program</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/14</container> 
+			 <unittitle>LATTC - Utilities and Construction Preparation</unittitle>
+			 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/15</container> 
+			 <unittitle>California Commission for Economic Development</unittitle>
+			 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/16</container> 
+			 <unittitle>California's Edge - Keeping California Competitive
+				Creating Opportunity</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/17</container> 
+			 <unittitle>America's Forgotten Middle-Skill Jobs</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2007
+				November</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/18</container> 
+			 <unittitle>Green-Collar Jobs in America's Cities</unittitle> 
+			 <unitdate type="inclusive" normal="2008" era="ce" calendar="gregorian">2008</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/19</container> 
+			 <unittitle>A Greener Future for Los Angeles</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2008
+				April</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/20</container> 
+			 <unittitle>America's Forgotten Middle-Skill Jobs</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2007
+				November</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/21</container> 
+			 <unittitle>Building Workforce Partnerships</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2008 June
+				11-13</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/22</container> 
+			 <unittitle>4th Annual National Labor Program Operators
+				Meeting</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">2008 June
+				10</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/23</container> 
+			 <unittitle>Global Sweatshop Curriculum Packet</unittitle> 
+			 <unitdate type="inclusive" normal="1997" era="ce" calendar="gregorian">1997</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/24</container> 
+			 <unittitle>Communities @ Work - A Guide to Restoring Our Right to
+				Organize</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/25</container> 
+			 <unittitle>United for a Fair Economy -- Tax Reform -- Train the
+				Trainer</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">2/26</container> 
+			 <unittitle>Common Sense Economics</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/1</container> 
+			 <unittitle>Newsletters, clippings and unpublished papers</unittitle> 
+			 <unitdate type="inclusive" normal="1992/1996" era="ce" calendar="gregorian">1992-1996</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/2</container> 
+			 <unittitle>School to Work Training</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1997
+				October</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/3</container> 
+			 <unittitle>Fourth Annual Summer School for Trade Union Women [1 of
+				2]</unittitle> 
+			 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/4</container> 
+			 <unittitle>Fourth Annual Summer School for Trade Union Women [2 of
+				2]</unittitle> 
+			 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/5</container> 
+			 <unittitle>Bargaining for Power: A Teaching Manual for Staff and
+				Local Union Bargaining Committees</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/6</container> 
+			 <unittitle>Interest-Based Neogtiation -- Participant's
+				Guidebook</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/7</container> 
+			 <unittitle>Contract Campaign Manual: Service Employees International
+				Union AFL-CIO, CLC</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/8</container> 
+			 <unittitle>Have Hope Hospital Proposal</unittitle> 
+			 <unitdate type="inclusive" normal="1994" era="ce" calendar="gregorian">1994</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/9</container> 
+			 <unittitle>Misc. Docs from Contract Campaign Manual Binder [1 of
+				2]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/10</container> 
+			 <unittitle>Misc. Docs from Contract Campaign Manual Binder [2 of
+				2]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/11</container> 
+			 <unittitle>SEIU International Training Institute</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1990 August
+				7-9</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/12</container> 
+			 <unittitle>Public Sector Bargaining [1 of 2]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1995 April
+				7-8</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/13</container> 
+			 <unittitle>Public Sector Bargaining [2 of 2]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1995 April
+				7-8</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/14</container> 
+			 <unittitle>"Are We Sticking Together or Stuck?" Coalition Building in
+				the 90s</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1990s</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/15</container> 
+			 <unittitle>CSA Disctrict 925: Grevance Workbooks</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/16</container> 
+			 <unittitle>Reclass Trags [1 of 2]</unittitle> 
+			 <unitdate type="inclusive" normal="1991" era="ce" calendar="gregorian">1991</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/17</container> 
+			 <unittitle>Reclass Trags [2 of 2]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1991
+				March</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/18</container> 
+			 <unittitle>UW Problem Resolution Plan</unittitle> 
+			 <unitdate type="inclusive" normal="1990" era="ce" calendar="gregorian">1990</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/19</container> 
+			 <unittitle>1st Class Staff, 1st Class Contract! District 925 SEIU [1
+				of 7]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/20</container> 
+			 <unittitle>1st Class Staff, 1st Class Contract! Disctrict 925 SEIU [2
+				of 7]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/21</container> 
+			 <unittitle>1st Class Staff, 1st Class Contract! Disctrict 925 SEIU [3
+				of 7]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/22</container> 
+			 <unittitle>1st Class Staff, 1st Class Contract! Disctrict 925 SEIU [4
+				of 7]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/23</container> 
+			 <unittitle>1st Class Staff, 1st Class Contract! Disctrict 925 SEIU [5
+				of 7]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/24</container> 
+			 <unittitle>1st Class Staff, 1st Class Contract! Disctrict 925 SEIU [6
+				of 7]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">3/25</container> 
+			 <unittitle>1st Class Staff, 1st Class Contract! Disctrict 925 SEIU [7
+				of 7]</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">Unknown</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box-folder">OSVF0194</container> 
+			 <unittitle>Union posters</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1990,
+				2017</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>"Our Power is Our Contract," 1990, SEIU; "Dia de los Muertos,"
+				2017, OPEIU Local 8; "Proud to be an office worker/ Proud to be Union," 1990,
+				SEIU </p> 
+		  </scopecontent> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

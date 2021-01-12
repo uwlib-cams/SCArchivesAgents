@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda"> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RojoTrinidad3586.xml" encodinganalog="identifier" identifier="80444/xv15371">RojoTrinidad3586.xml</eadid> 
+	 <filedesc> 
+		<titlestmt id="edit-complete"> 
+		  <titleproper encodinganalog="title">Guide to the Trinidad Rojo Papers
+			 </titleproper> 
+		  <titleproper altrender="nodisplay" type="filing">Rojo (Trinidad)
+			 Papers</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" normal="20071108" era="ce" calendar="gregorian">©2007</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date>
+		  </creation> 
+		<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid revised December
+			 2012</date> 
+		  <item>Added accession -007. Susan Kemp</item> 
+		</change> 
+		<change> 
+		  <date era="ce" calendar="gregorian">Finding aid updated August
+			 2015</date> 
+		  <item>This collection was inventoried and rehoused by Laura Pongon and
+			 EAD formatted by Jenn Parent.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon" altrender="context"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea> </corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address> </repository> 
+		<unitid type="mss" encodinganalog="099" repositorycode="wau-ar" countrycode="us">3586</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100">Rojo, Trinidad</persname>
+		  </origination> 
+		<unittitle type="collection">Trinidad Rojo papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" normal="1923/1994" era="ce" calendar="gregorian">1923-1994</unitdate> 
+		<physdesc encodinganalog="300$a"> <extent>6.19 cubic feet</extent>
+		  <extent>12 boxes</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">University of
+		  Washington student, President of International Longshoremen's and
+		  Warehousemen's Union, author, sociologist</abstract> <langmaterial>Collection
+		materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Filipino author, sociologist, labor union official. Rojo was a
+		  president of ILWU No. 7. He was a student at the University of Washington and
+		  at Stanford, where he was a research fellow.</p> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>Arranged into 7 accessions: 
+		  <list type="marked"> 
+			 <item>Accession no. 3586-001, Trinidad Rojo papers, before
+				1984</item> 
+			 <item>Accession no. 3586-002, Trinidad Rojo papers, 1932-1988</item> 
+			 <item>Accession no. 3586-003, Trinidad Rojo papers, 1956-1966</item> 
+			 <item>Accession no. 3586-004, Trinidad Rojo papers, 1923-1991</item> 
+			 <item>Accession no. 3586-005, Trinidad Rojo papers, 1937-1985</item> 
+			 <item>Accession no. 3586-006, Trinidad Rojo papers, 1932-1991</item> 
+			 <item>Accession no. 3586-007, Trinidad Rojo papers, 1929-1994</item> 
+		  </list></p> 
+	 </arrangement> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+		<p>Consult the scope and content information for each of the accessions
+		  listed below.</p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {Text of the Scope and Content Note, in paragraphs; separate each with paragraph tags}?></p>
+		
+	 </altformavail> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Consult the access restrictions information for each of the accessions
+		  listed below.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Consult the restrictions governing reproduction and use for each of
+		  the accessions listed below.</p> 
+	 </userestrict> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="544__$n" id="a7"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p> 
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+		  </p> 
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <controlaccess id="persname"> 
+		<persname encodinganalog="600" role="subject" source="lcnaf" rules="aacr2">Rojo, Trinidad$vArchives</persname> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname> 
+		<corpname role="subject" encodinganalog="610" source="lcnaf" rules="aacr2">Cannery Workers and Farm Laborers Union. Local 7 (Seattle,
+		  Wash.)</corpname> 
+		<corpname encodinganalog="710" source="uwsc-naf" role="subject">Filipino
+		  Alumni Association (University of Washington)</corpname> 
+		<corpname role="subject" encodinganalog="610" source="lcnaf" rules="aacr2">International Longshoremen's and Warehousemen's Union</corpname> 
+		<corpname role="subject" encodinganalog="610" source="lcnaf" rules="aacr2">International Longshoremen's And Warehousemen's Union.$bLocal
+		  37</corpname> 
+		<geogname source="lcsh" role="subject" encodinganalog="651">Philippines</geogname> 
+		<subject source="lcsh" encodinganalog="650">Labor Unions$xOfficials and
+		  employees</subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  History</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  Unions</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Washington (State)</subject> 
+		<subject altrender="nodisplay" source="nwda" encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3586-001</unitid> 
+			 <unittitle>Trinidad Rojo papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">before
+				1984</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">1.00 cubic foot</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent encodinganalog="5202_"> 
+			 <p>Plays and articles relating to the politics of the Philippine
+				Islands and the ILWU, Local 37.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+			 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Deposited by Trinidad Rojo, 6/1/1983.</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-1/18</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  I: WRITINGS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1932-circa
+				  1989 </emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">Far East Landgrabbing (First
+					 Draft) PREFACE By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1939-1942</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Filipino-American Struggle From
+					 Submergence to Emergence By Trinidad A Rojo (Part 1 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1937-1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Filipino-American Struggle From
+					 Submergence to Emergence By Trinidad A Rojo (Part 2 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1937-1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle encodinganalog="245$a">Far East Landgrabbing PART II
+					 By Trinidad A. Rojo (Part 1 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1934-1941</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle encodinganalog="245$a">Far East Landgrabbing PART II
+					 By Trinidad A. Rojo (Part 2 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1934-1941</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle encodinganalog="245$a">Far East Landgrabbing PART I By
+					 Trinidad A Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940-1941</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle encodinganalog="245$a">Memorial Rizal Amerasian
+					 University Education for World Peace By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1959-circa 1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle encodinganalog="245$a">Far East Landgrabbing By
+					 Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle encodinganalog="245$a">Roots of Red Rebellion By
+					 Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1960s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle encodinganalog="245$a">A Critique of the Energy
+					 Program for the Philippines By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle encodinganalog="245$a">Subjects for Lectures By
+					 Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle encodinganalog="245$a">ILWU, Local 37 (formerly Local
+					 7) Rojo Presidency Campaign Materials and 1940 Local 7 Foreman-Delegate
+					 Rules</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940-1953</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle encodinganalog="245$a">Poems by Trinidad A.
+					 Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1960s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unittitle encodinganalog="245$a">Trinidad A. Rojo Biographical
+					 Information</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1965-1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unittitle encodinganalog="245$a">Application for a Planning
+					 Grant for the Establishment of the Office of the Malayo-Polynesian-Amerasian
+					 Coordinators, and an International Southeast Asian-American Research, Cultural
+					 Institute, Under the Office of the Mayor of Seattle, Washington, Wes
+					 Uhl</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/16</container> 
+				  <unittitle encodinganalog="245$a">Letter to Mrs. Cleve Scott By
+					 Trinidad A. Rojo and Various Writings by Kathleen R. Doss</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1971-1983</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/17</container> 
+				  <unittitle encodinganalog="245$a">Letter to Dr. Hugh Hotson,
+					 President, Maritime Building Corporation By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945-1983</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/18</container> 
+				  <unittitle encodinganalog="245$a">Assorted Creative, Academic and
+					 Professional Writings by Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1932-1982</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3586-002</unitid> 
+			 <unittitle>Trinidad Rojo papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1932-1988</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.42 cubic foot</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Biographical features, correspondence, bibliography of Rojo's
+				works, writings, plays, poems, and song lyrics.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+			 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated by Trinada Rojo, 7/22/1988.</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-1/10</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  I: WRITINGS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1931-1992</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">Site Analysis &amp; Development
+					 Master Plan: Dr. Jose Rizal Park</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1975</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Rojo Poems: Comparative
+					 Analysis &amp; Introductions</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Rizal Week, Rojo Poetry, &amp;
+					 WA Commission for the Humanities</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1973-1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle encodinganalog="245$a">Rojo &amp; Filipinos: Essays,
+					 Transcripts, Playwrites &amp; Music</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1932-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle encodinganalog="245$a">Local 37, Local 7; Rojo Review,
+					 Poetry &amp; Awards</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1988</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle encodinganalog="245$a">Note of Return:
+					 Filipino-American-Japanese Relations, Rojo Typescript, 1947</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle encodinganalog="245$a">Capt. Magsaysay &amp; the Huks
+					 Playwrite</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle encodinganalog="245$a">Bataan University Broadcasts
+					 &amp; Filipino-American Relations Essay &amp; Outline</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1946-1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle encodinganalog="245$a">Local 37 Birth &amp; Growth,
+					 Local 7, &amp; Cultural Arts Analysis</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952-1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle encodinganalog="245$a">"My Five Years in America" by
+					 David P. De Tagle (Spanish)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1931</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3586-003</unitid> 
+			 <unittitle>Trinidad Rojo papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1956-1986</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.42 cubic foot</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Primarily writings, some correspondence.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+			 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated by Trinidad Rojo, 12/11/1990.</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-1/11</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  I: WRITINGS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1937-1991
+				  </emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">Trinidad Rojo's Memorandum to
+					 Miss Karyl Winn, Chief Archivist of the UW Libraries</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1938-1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Epistolary Fiction by Ildefonso
+					 Redadtrini</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Biographical Information
+					 Written about Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1939-1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle encodinganalog="245$a">Letters and a Resolution
+					 Regarding Jose Rizal Commemorations</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1960-1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle encodinganalog="245$a">Southeast Asian-American
+					 Cultural Center By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle encodinganalog="245$a">Touristic, Commercial,
+					 Industrial and Cultural Centers Part One By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1970s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle encodinganalog="245$a">Memorial Rizal Amerasian
+					 University Education for World Peace by Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle encodinganalog="245$a">Assorted Non-Fiction Writing by
+					 Trinidad A Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1937-circa 1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle encodinganalog="245$a">Southeast Asian Regionalism and
+					 Stable Peace: Volume One By Trinidad A. Rojo (1 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1966-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle encodinganalog="245$a">Southeast Asian Regionalism and
+					 Stable Peace: Volume One By Trinidad A. Rojo (2 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1966-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle encodinganalog="245$a">Records and Proceedings of the
+					 Third Filipino Inter-Community Conference</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1941</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3586-004</unitid> 
+			 <unittitle>Trinidad Rojo papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1923-1991</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.83 cubic foot</extent>
+				<extent>2 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Writings, report, correspondence, testimony, sheet music with
+				lyrics by Rojo.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+			 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated by Trinidad Rojo, 1/1/1991.</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-1/12</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  I: WRITINGS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1940-1992
+				  </emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">Bio- and Autobiographical
+					 Information and Images of Trinidad Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Nonfiction Writing by Trinidad
+					 A. Rojo (Part 1 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1985</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Nonfiction Writing by Trinidad
+					 A. Rojo (Part 2 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1956-1985</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle encodinganalog="245$a">Poetry, Lyrics and Fiction by
+					 Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle encodinganalog="245$a">Pan Amerasian Company
+					 Papers</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1968-1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle encodinganalog="245$a">Local 7 Union
+					 Papers</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940-1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle encodinganalog="245$a">Constitution and By-laws:
+					 Garolijo Transoceanic Developers Co.</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle encodinganalog="245$a">Labor-Related Nonfiction
+					 Writing by Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1944-circa 1947</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle encodinganalog="245$a">Jose Rizal Commemoration and
+					 Research</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1973-1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle encodinganalog="245$a">University of Washington
+					 Filipino Alumni Association</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1972-1986</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle encodinganalog="245$a">Trinidad A. Rojo
+					 Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940-1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle encodinganalog="245$a">Assorted Papers</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1944-1989</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">2/1-2/8</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  II: REPORTS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1937-1971</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/1</container> 
+				  <unittitle encodinganalog="245$a">Report to the Second
+					 International Convention of the United Cannery, Agricultural, Packing and
+					 Allied Workers of America</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1938</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/2</container> 
+				  <unittitle encodinganalog="245$a">Letter and Transcription of
+					 National Radio Broadcasting Company's Broadcast for Bataan
+					 University</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945-1946</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/3</container> 
+				  <unittitle encodinganalog="245$a">Records and Minutes of the
+					 Meetings of Stockholders and Directors of Air-Walls, Inc. (Part 1 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/4</container> 
+				  <unittitle encodinganalog="245$a">Records and Minutes of the
+					 Meetings of Stockholders and Directors of Air-Walls, Inc. (Part 2 of
+					 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948-1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/5</container> 
+				  <unittitle encodinganalog="245$a">Immigration and Population
+					 Problems By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1944</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/6</container> 
+				  <unittitle encodinganalog="245$a">Southeast Asian Regionalism and
+					 Stable Peace By Trinidad A. Rojo (Part 1 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1937-1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unittitle encodinganalog="245$a">Southeast Asian Regionalism and
+					 Stable Peace By Trinidad A. Rojo (Part 2 of 2)</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1937-1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/8</container> 
+				  <unittitle encodinganalog="245$a">Filipino-American-Japanese
+					 Relations By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3586-005</unitid> 
+			 <unittitle>Trinidad Rojo papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1937-1985</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.21 cubic foot</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Prose writings, one poem, play "Far East Land Grabbing",
+				photograph, photocopied clippings.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+			 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated by Trinidad Rojo, 8/30/1993.</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-1/7</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  I: WRITINGS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1937-1987
+				  </emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">The Language Problem in the
+					 Philippines By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1937</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Report to the Consumer
+					 Department of the State Attorney's Office on Gumboc Illegal Duplex and
+					 Cris-Crossed Electrical Wiring by Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1974-1985</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Photograph and Photocopied
+					 Images of Trinidad A. Rojo and a Press Release on Hydrogen Fuel by Cesar
+					 Escosa</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940-1987</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle encodinganalog="245$a">Letter from United Cannery,
+					 Agricultural, Packing and Allied Workers of America General President to
+					 Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle encodinganalog="245$a">Southeast Asian Regionalist
+					 Anthem Lyrics : Youths of Our Greater Fatherland</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle encodinganalog="245$a">Unregulated, Destructive
+					 Nationalism and the Road to Lasting Peace By Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle encodinganalog="245$a">Far East Landgrabbing By
+					 Trinidad A. Rojo</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">circa 1940</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3586-006</unitid> 
+			 <unittitle>Trinidad Rojo papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1932-1991</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">.21 cubic foot</extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Writings, ephemera.</p> 
+		  </scopecontent> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Open to all users.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+			 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donated by Trinidad Rojo, 6/13/1994.</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-1/2</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  I: WRITINGS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1939,1952</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">Rojo 1952 ILWU Local 37
+					 Presidency Pamphlet</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Excerpts on Alaska
+					 Congressional Fisheries Hearings with Special Reference to the Salmon Cannery
+					 Industry, Traps, Non-Resident Workers, Whites, Filipinos, Others,
+					 Etc.</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1939</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">3586-007</unitid> 
+			 <unittitle>Trinidad Rojo papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1929-1994</unitdate> 
+			 <physdesc> <extent encodinganalog="300$a">3.1 cubic feet</extent>
+				<extent>5 boxes</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>Unpublished manuscripts of scholarship on labor and living
+				conditions of Filipino American cannery workers and scholarship, poems, and
+				articles related to various other aspects of the community and its history.
+				Newspapers from the Phillipines and Filipino American community newspapers from
+				Seattle, San Francisco, Los Angeles and Stockton.</p> 
+		  </scopecontent> 
+		  <altformavail> 
+			 <p> 
+				<extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" xpointer="3586-007" linktype="simple">View selections from this
+				  collection in digital format.</extref></p> 
+		  </altformavail> 
+		  <accessrestrict encodinganalog="506"> 
+			 <p>Use restricted until processed.</p> 
+		  </accessrestrict> 
+		  <userestrict encodinganalog="540"> 
+			 <p>Creator's literary rights not transferred to the University of
+				Washington Libraries</p> 
+		  </userestrict> 
+		  <custodhist encodinganalog="561"> 
+			 <p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+			 
+		  </custodhist> 
+		  <acqinfo encodinganalog="541"> 
+			 <p>Donor: Celso Tolman, November 17, 2012.</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-1/3</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  I: CANNERY WORKERS UNION RECORDS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1940-1944</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">Local 7- UCAPAWA- CIO Annual
+					 Report</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1944</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Cannery Workers
+					 Union</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Cannery Union Annual
+					 Budget</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1944</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/4-5/1</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">SERIES
+				  II: TRINIDAD ROJO PERSONAL PAPERS</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bolditalic">1926-1995</emph></unitdate> 
+			 </did> 
+			 <c03 level="subseries"> 
+				<did> 
+				  <container type="box-folder"><emph render="bold">1/4-2/14</emph></container> 
+				  <unittitle encodinganalog="245$a"><emph render="bold">Subseries
+					 A: Manuscripts</emph></unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bold">1926,
+					 1940-1982</emph></unitdate> 
+				</did> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/4</container> 
+					 <unittitle encodinganalog="245$a">"Taruc's Kangaroo
+						Court"</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1944-1946</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/5</container> 
+					 <unittitle encodinganalog="245$a">Script</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1957</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/6</container> 
+					 <unittitle encodinganalog="245$a">Memo by Trinidad A.
+						Rojo</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1982</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/7</container> 
+					 <unittitle encodinganalog="245$a">"Vestiges of the Last Glacial
+						Age", "From Duel to Ambush"</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/8</container> 
+					 <unittitle encodinganalog="245$a">Manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/9</container> 
+					 <unittitle encodinganalog="245$a">Manuscript, "A
+						Nightmare"</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/10</container> 
+					 <unittitle encodinganalog="245$a">Summary</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/11</container> 
+					 <unittitle encodinganalog="245$a">Manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1950</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/12</container> 
+					 <unittitle encodinganalog="245$a">Appendices</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/13</container> 
+					 <unittitle encodinganalog="245$a">"Prologue: Tripumphant Death,
+						Imerialism and Colonialism"</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/14</container> 
+					 <unittitle encodinganalog="245$a">"U. S. Asian-American
+						Problems"</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/15</container> 
+					 <unittitle encodinganalog="245$a">Chapter 14, notes,
+						correspondence</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1963</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/16</container> 
+					 <unittitle encodinganalog="245$a">Manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/17</container> 
+					 <unittitle encodinganalog="245$a">References</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/18</container> 
+					 <unittitle encodinganalog="245$a">Cultural Arts and Applied
+						Arts</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/19</container> 
+					 <unittitle encodinganalog="245$a">Micellaneous mail and
+						essay</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/20</container> 
+					 <unittitle encodinganalog="245$a">Handwritten notes and
+						clippings</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">1/21</container> 
+					 <unittitle encodinganalog="245$a">Philippines</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1940</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/1</container> 
+					 <unittitle encodinganalog="245$a">Filipino-American
+						Report</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/2</container> 
+					 <unittitle encodinganalog="245$a">Manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/3</container> 
+					 <unittitle encodinganalog="245$a">"Man, the Super
+						Crocodile"</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/4</container> 
+					 <unittitle encodinganalog="245$a">Manuscripts</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1926-1936</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/5</container> 
+					 <unittitle encodinganalog="245$a">"Magsaysay's Answer to the
+						Reds"</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/6</container> 
+					 <unittitle encodinganalog="245$a">Manuscripts</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/7</container> 
+					 <unittitle encodinganalog="245$a">Chapter 13,
+						manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/8</container> 
+					 <unittitle encodinganalog="245$a">Chapter 5,
+						manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/9</container> 
+					 <unittitle encodinganalog="245$a">Chapter 9,
+						manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/10</container> 
+					 <unittitle encodinganalog="245$a">Memo to Mr. Uldarico
+						Mosquito</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1978</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/11</container> 
+					 <unittitle encodinganalog="245$a">Manuscripts</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/12</container> 
+					 <unittitle encodinganalog="245$a">Manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/13</container> 
+					 <unittitle encodinganalog="245$a">Memorandum</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+				<c04 level="file"> 
+				  <did> 
+					 <container type="box-folder">2/14</container> 
+					 <unittitle encodinganalog="245$a">Manuscript</unittitle> 
+					 <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">2/15-3/9</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bold">Subseries B:
+				  Correspondence</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bold">1938-1995</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/15</container> 
+				  <unittitle encodinganalog="245$a">Correspondence, arbitration
+					 booklet</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1945-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/1</container> 
+				  <unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1938-1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/2</container> 
+				  <unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1985</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/3</container> 
+				  <unittitle encodinganalog="245$a">Personal notes,
+					 correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/4</container> 
+				  <unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1938-1942</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/5</container> 
+				  <unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/6</container> 
+				  <unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1980-1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/7</container> 
+				  <unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1939</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/8</container> 
+				  <unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/9</container> 
+				  <unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">3/10-4/1</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bold">Subseries C:
+				  Subject Files</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bold">1938-1994</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/10</container> 
+				  <unittitle encodinganalog="245$a">Photographs, Death
+					 certificate</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/11</container> 
+				  <unittitle encodinganalog="245$a">Social Security
+					 Administration</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1986-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/12</container> 
+				  <unittitle encodinganalog="245$a">Articles of
+					 Incorporation</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/13</container> 
+				  <unittitle encodinganalog="245$a">Pan Amerasian Company
+					 letterhead</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/14</container> 
+				  <unittitle encodinganalog="245$a">Advertisements</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/15</container> 
+				  <unittitle encodinganalog="245$a">Death Certificate</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/16</container> 
+				  <unittitle encodinganalog="245$a">Housing Records</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1990-1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/17</container> 
+				  <unittitle encodinganalog="245$a">Personal files</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/18</container> 
+				  <unittitle encodinganalog="245$a">Personal File</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/19</container> 
+				  <unittitle encodinganalog="245$a">Pan Amerasian
+					 Company</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1938-1990</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/20</container> 
+				  <unittitle encodinganalog="245$a">Contracts: Kathleen
+					 Doss</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1946-1947</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/21</container> 
+				  <unittitle encodinganalog="245$a">Housing Records</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1974-1991</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/22</container> 
+				  <unittitle encodinganalog="245$a">Financial Records</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1948</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/23</container> 
+				  <unittitle encodinganalog="245$a">Filipino Community of
+					 Seattle</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1953-1954</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/1</container> 
+				  <unittitle encodinganalog="245$a">University of Washington:
+					 Silvano Tallido</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1934-1937</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<container type="box-folder"><emph render="bold">4/2-5/1</emph></container> 
+				<unittitle encodinganalog="245$a"><emph render="bold">Subseries D:
+				  Press Clippings</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"><emph render="bold">1930-1992</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/2</container> 
+				  <unittitle encodinganalog="245$a">New Republic: Germany as the
+					 Moscow Conference Opens</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/3</container> 
+				  <unittitle encodinganalog="245$a">Press, financial
+					 records</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1933-1992</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/4</container> 
+				  <unittitle encodinganalog="245$a">Press: Philippines</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1930</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/5</container> 
+				  <unittitle encodinganalog="245$a">Press</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1947-1970</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/6</container> 
+				  <unittitle encodinganalog="245$a">Caballeros De Dimas-Alang
+					 Press</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1933-1937</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/7</container> 
+				  <unittitle encodinganalog="245$a">Press Clippings</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1937-1939</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/8</container> 
+				  <unittitle encodinganalog="245$a">Atlas of Philippine
+					 Statistics</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">1939</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/1</container> 
+				  <unittitle encodinganalog="245$a">Press Clippings</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/">Undated</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

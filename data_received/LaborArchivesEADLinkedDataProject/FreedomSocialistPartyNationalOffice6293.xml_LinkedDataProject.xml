@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--OCLC 1122743152--><eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+      <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FreedomSocialistPartyNationalOffice6293.xml" encodinganalog="identifier" identifier="80444/xv793914">FreedomSocialistPartyNationalOffice6293.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Guide to the Freedom Socialist
+			 Party National Office (Seattle) Records</titleproper>
+            <titleproper altrender="nodisplay" type="filing">Freedom Socialist
+			 Party National Office (Seattle) records</titleproper>
+            <author encodinganalog="creator">Finding aid created by Kate
+			 Miller</author>
+            <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+            <date encodinganalog="date" era="ce" calendar="gregorian" normal="20191009">© 2019</date>
+            <address>
+               <addressline>Seattle, WA 98195</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <revisiondesc>
+         <change>
+            <date era="ce" calendar="gregorian"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+            <item><?xm-replace_text {Describe revision; include your name}?></item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21">
+      <did id="a1">
+         <repository>
+            <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea>
+            </corpname>
+            <address>
+               <addressline>Box 352900</addressline>
+               <addressline>Seattle, WA 98195-2900</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">6293</unitid>
+         <unitid type="accession" countrycode="us" repositorycode="wauar">6293-001</unitid>
+         <origination>
+            <corpname role="creator" encodinganalog="110" altrender="sync" source="lcnaf" authfilenumber="662937" rules="aacr2">Freedom Socialist Party
+			 (U.S.)</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" type="collection">Freedom Socialist
+		  Party National Office (Seattle) records</unittitle>
+         <unitdate type="inclusive" normal="1976/1998" era="ce" calendar="gregorian">1976-1998</unitdate>
+         <unitdate type="bulk" encodinganalog="245$g" era="ce" calendar="gregorian"><?xm-replace_text {Bulk dates if applicable; 
+		in "normal" attribute, enter bulk dates again, but separate with a forward slash, eg., 1986/1992}?></unitdate>
+         <physdesc>
+            <extent>3.09 cubic feet</extent>
+            <extent>3 boxes</extent>
+         </physdesc>
+         <abstract encodinganalog="5203_$a" altrender="nodisplay">Records of the
+		  national office of the socialist feminist worker's organization, the Freedom
+		  Socialist Party</abstract>
+         <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial>
+         <dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/>
+      </did>
+      <!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption 
+info inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Seattle Women Act for Peace logo, 1973. Special Collections, UW Libraries, UW19577z  
+No info needed in <resource> element--><daogrp linktype="extended">
+         <daodesc>
+            <p><?xm-replace_text {Image caption}?></p>
+         </daodesc>
+         <resource label="start" linktype="resource"/>
+         <!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.--><daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/>
+         <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/>
+      </daogrp>
+      <bioghist encodinganalog="5451_" id="a2" altrender="sync">
+         <p>The Freedom Socialist party is a revolutionary socialist feminist
+		  organization that does intersectional organizing against racism, sexism,
+		  homophobia, and labor exploitation. The FSP's political analysis sees women's
+		  leadership and political action as decisive to social change and trains women
+		  to lead in these campaigns. The immediate forerunner of the Freedom Socialist
+		  Party began with the Kirk-Kaye tendency within the Socialist Workers Party, led
+		  by Dick Fraser (Kirk) and Clara Fraser (Kaye) who were married at the time. The
+		  Kirk-Kaye tendency had a distinct analysis on civil rights, derived from the
+		  theory of "revolutionary integrationism," and took a more sympathetic towards
+		  China as a worker's state than the SWP. </p>
+         <p>The Freedom Socialist Party was founded in 1966, and had a differing
+		  analysis from the SWP's on black nationalist views of Malcolm X and the SWP's
+		  orientation toward the labor leaders rather than rank and file workers, and its
+		  relationships to the anti-Vietnam War movement, and its dismissive attitude
+		  toward the emerging feminist movement. The FSP advocated class solidarity
+		  between black and white workers, centered their revolutionary analysis around
+		  women's emancipation, and urged the anti-war movement to support the socialist,
+		  anti-colonial aims of the Vietnamese Revolution. FSP leaders Clara Fraser
+		  (1923–1998) and Gloria Martin (1916–1995) built on the socialist analysis of
+		  women's oppression to create a Leninist party that is "socialist-feminist" in
+		  ideology and practice. The party views the liberation struggles of women,
+		  people of color and sexual minorities (such as gay people) as intrinsic to
+		  working-class revolt, and it looks to these specially-oppressed sectors of
+		  society to provide revolutionary leadership. Women comprise a predominant part
+		  of the party leadership. Overall, membership is diverse and is composed of all
+		  genders and races. The party characterizes its National Comrades of Color
+		  Caucus as offering the party's diverse ranks of people of color an opportunity
+		  to work together as a team to grow as leaders and provide direction for the
+		  party's work in people of color movements.</p>
+         <p>The party has branches in a number of U.S. cities, as well as one in
+		  Melbourne, Australia. The Freedom Socialist newspaper is produced six times a
+		  year. Red Letter Press publishes books and pamphlets for the party. The FSP is
+		  affiliated with Radical Women, which is an autonomous socialist feminist
+		  organization. [Source:
+		  https://en.wikipedia.org/wiki/Freedom_Socialist_Party]</p>
+      </bioghist>
+      <arrangement encodinganalog="351" id="a4">
+         <p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+      </arrangement>
+      <scopecontent>
+         <p>Records of the national office of the socialist feminist worker's
+		  organization, the Freedom Socialist Party. These records were collected and
+		  created by Clara Fraser, who was a co-founder and officer of the Freedom
+		  Socialist Party and Radical Women. Fraser collected, created, and maintained
+		  these records as part of her work for the organization. </p>
+      </scopecontent>
+      <odd encodinganalog="500" id="a5">
+         <p><?xm-replace_text {Text of general note}?></p>
+      </odd>
+      <altformavail encodinganalog="530" id="a9">
+         <p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?><extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/>
+         </p>
+      </altformavail>
+      <phystech>
+         <p/>
+      </phystech>
+      <accessrestrict>
+         <p>No restrictions on access. </p>
+      </accessrestrict>
+      <userestrict>
+         <p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections.</p>
+      </userestrict>
+      <odd>
+         <p>Forms part of the Labor Archives of Washington.</p>
+      </odd>
+      <acqinfo>
+         <p>Donated by Helen Gilbert, who is custodian of Clara Fraser's Radical
+		  Women and Freedom Socialist Party records.</p>
+      </acqinfo>
+      <custodhist encodinganalog="561" id="a16">
+         <p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, 
+		Following the dissolution of the organization, the records passed to Harold Smith's niece, Roberta Smith.}?></p>
+      </custodhist>
+      <separatedmaterial encodinganalog="5440_$n" type="relocation">
+         <p>
+            <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple" href="http://archiveswest.orbiscascade.org/ark:/80444/xv847136">Radical Women
+			 National Office records</archref>
+         </p>
+         <p>
+            <archref href="http://archiveswest.orbiscascade.org/ark:/80444/xv27291" linktype="simple">Freedom
+			 Socialist Party Seattle Branch records</archref>
+         </p>
+      </separatedmaterial>
+      <separatedmaterial encodinganalog="5441_$n" type="transfer">
+         <p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+      </separatedmaterial>
+      <bibliography id="a11" encodinganalog="581">
+         <p>
+            <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+         </p>
+      </bibliography>
+      <relatedmaterial encodinganalog="544__$n" id="a6">
+         <p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+      </relatedmaterial>
+      <appraisal id="a39" encodinganalog="583">
+         <p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+      </appraisal>
+      <controlaccess id="a12"><corpname role="subject" encodinganalog="610">Freedom Socialist Party (U.S.)$vArchives</corpname>
+<corpname role="subject" encodinganalog="610">Freedom Socialist Party (U.S.)$vRecords and correspondence</corpname>
+<subject encodinganalog="650">Labor$zWashington (State)$zSeattle</subject>
+<subject encodinganalog="650">Labor unions$zWashington (State)$zSeattle</subject>
+<subject encodinganalog="650">Labor movement$zWashington (State)$zSeattle</subject>
+<genreform source="lcgft" encodinganalog="655">Business correspondence</genreform>
+<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform>
+<corpname role="host institution" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington)</corpname>
+         <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Women</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Civil Rights</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Seattle</subject>
+         <subject source="archiveswest" encodinganalog="690" altrender="nodisplay">Labor History</subject>
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="file">
+            <did>
+               <container type="box">1-2</container>
+               <unittitle>Clara Fraser's N.O. Files of Seattle</unittitle>
+               <unitdate type="inclusive" normal="1970/1980" certainty="approximate" era="ce" calendar="gregorian">1970-1980</unitdate>
+            </did>
+         </c01>
+         <c01 level="file">
+            <did>
+               <container type="box">3</container>
+               <unittitle>N.O. Correspondence, Depts, Education, Poets, P.C.
+				Seretariat</unittitle>
+               <unitdate normal="1993/1998" type="inclusive" era="ce" calendar="gregorian">1993-1998</unitdate>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

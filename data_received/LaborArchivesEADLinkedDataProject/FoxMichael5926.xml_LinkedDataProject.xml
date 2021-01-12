@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FoxMichael5926.xml" encodinganalog="identifier" identifier="80444/xv45712">FoxMichael5926.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Michael Fox
+			 Papers</titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Fox (Michael)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator">Finding Aid Created by Emily
+			 Spracklin</author> 
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries </publisher> 
+		  <date encodinganalog="date" calendar="gregorian" era="ce" normal="20160211">© 2016</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date calendar="gregorian" era="ce">March 2017</date> 
+		  <item>Conor Casey added box inventory created by LAW volunteer Becky
+			 Rosenburg. Casey created intellectual arrangement and updated collection date
+			 span based on more detailed processing. </item> 
+		</change> 
+		<change> 
+		  <date calendar="gregorian" era="ce">Finding aid revised March
+			 2017</date> 
+		  <item>Added accession -002 and updated overal extent, Elizabeth
+			 Heu</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5926</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wau-ar">5926-001</unitid> 
+		<origination> 
+		  <persname role="creator" encodinganalog="100">Fox, Michael J.$q(Michael
+			 James),$d1944-</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Michael Fox
+		  papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian" era="ce" normal="1961/1997" certainty="approximate">1961-1997</unitdate> 
+		<unitdate type="bulk" encodinganalog="245$g" calendar="gregorian" era="ce" normal="1971/1974">1971-1974</unitdate> 
+		<physdesc><extent>2.28 cubic feet</extent>
+		  <extent>2 box</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Records relating
+		  to Michael Fox's role as a United Farmworkers of Washington lawyer</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<p>Judge Michael James Fox was born in New London, Connecticut in 1944.
+		  During the 1960s, he became politically active in the Civil Rights Movement.
+		  While attending law school in Georgia, Fox was part of the Legal Aid Society—an
+		  organization that provided legal services to people from low-income
+		  backgrounds. After law school, his experience with the Legal Aid Society
+		  greatly influenced his decision to continue to help underrepresented people.
+		  Having also acquired Spanish speaking skills, Fox became interested in working
+		  with the large population of Spansih-speaking Latino/a farmworkers. In 1965,
+		  the US Congress created the Office of Economic Opportunity which funded the
+		  Legal Services Program, a private non-profit corporation providing legal
+		  services to people living in poverty. In that same year, a strike of Filipino
+		  American grape pickers in Delano, California gained the cooperation of Cesar
+		  Chavez and others, who began organizing migrant agricultural workers in
+		  California. Using the same organizing model, workers in Washington State
+		  organized an independent branch of the United Farm Workers of Washington State
+		  in 1967. In 1969, Fox moved to Washington through the Reginald Heber Smith
+		  Fellowship, a program that places lawyers in areas to help those who do not
+		  have access to legal aid, and discovered that the state had the fourth largest
+		  migrant farmworker population in the country. In the following year, the
+		  wildcat hop strikes began in the Yakima Valley. Fox connected with the
+		  organizers of the hop strikes, Tomás Villanueva and Lupe Gamboa, and offered to
+		  provide legal representation to the emerging farmworkers union. As the UFW
+		  lawyer, Fox in<emph render="italic">Garza v. Patnode </emph> (1971) argued
+		  successfully that farmworkers had the right to organize. In that same year, Fox
+		  and Lupe Gamboa were arrested and convicted for trespassing onto the Roger’s
+		  Walla Walla labor camp. Their convictions were eventually overturned and the
+		  decision confirmed that tenants in labor camps had the right to meet with union
+		  representatives and attorneys. Both cases were instrumental to the early
+		  efforts of the union (see <emph render="italic">State v. Fox, </emph>1973 ).
+		  Fox continued to provide legal representation to the UFW until 1988. In that
+		  year Fox became a King County Superior Court Judge. On the bench, Fox called
+		  attention to the treatment of minorities in the legal system, particularly
+		  related to drug sentencing. Fox retired in 2011 after a distinguished judicial
+		  career. </p> 
+	 </bioghist> 
+	 <arrangement> 
+		<p>Organized into 2 accessions.</p> 
+		<list type="simple"> 
+		  <item>Accession No. 5926-001, Michael Fox papers, 1971-1974,
+			 1994</item> 
+		  <item>Accession No. 5926-002, Michael J. Fox papers, 1961-1997</item> 
+		</list> 
+	 </arrangement> 
+	 <scopecontent> 
+		<p>This collection traces a series of legal cases arising out of the June
+		  19, 1971 arrest for trespassing of Seattle-King County Legal Services attorney
+		  Michael Fox and union organizer Guadalupe Gamboa of the UFW Co-op in Toppenish.
+		  Fox and Gamboa visited the Rogers Walla Walla Inc. migrant labor camp following
+		  Gamboa’s contact with workers there who had grievances regarding their working
+		  and living conditions. When they attempted to meet with workers, Rogers
+		  employees refused them entry without their naming the individuals they were
+		  meeting with and the purpose of their meeting. Fox and Gamboa refused to
+		  provide names, reasoning that employees named would be in potential danger of
+		  losing their jobs or worse. Rogers representatives called the sheriff who
+		  arrested Fox and Gamboa for trespassing and fined them $25 each. Fox and Gamboa
+		  appealed their conviction to the Superior Court of the County of Walla Walla,
+		  which affirmed the conviction in December 1971. Fox and Gamboa then appealed to
+		  the Washington State Supreme Court, which reversed the finding of the Superior
+		  Court in May 1973. This established an important precedent for future
+		  organizers and attorneys in the state. The State of Washington sought a hearing
+		  in the United State Supreme Court, which refused to hear the case. In 
+		  <emph render="italic">Fox v. Klundt [Walla Walla County Sheriff] et al</emph>,
+		  Fox brought a civil suit against representatives of Rogers Walla Walla for
+		  damages and received a settlement of $6,000. Records include legal materials
+		  and newspaper articles relating to the court cases. Other records relate to the
+		  <emph render="italic">State of Washington State v. Michael Fox, 1973.</emph>
+		  </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p><?xm-replace_text {Text of general note}?></p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech type="phys"> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Creator's copyrights transferred to the University of Washington
+		  Libraries Special Collections. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Michael J. Fox, 2016.</p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p><?xm-replace_text {If applicable enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+		
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess id="a12"> 
+		<subject encodinganalog="650">Labor unions$zWashington (State) </subject>
+		
+		<subject encodinganalog="650">Labor$zWashington (State) </subject> 
+		<subject encodinganalog="650">Labor movement$zWashington (State)
+		  </subject> 
+		<subject encodinganalog="650">Labor union members$zWashington (State)
+		  </subject> 
+		<genreform source="lcgft" encodinganalog="655">Records (Documents)</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Personal correspondence</genreform> 
+		<genreform source="lcgft" encodinganalog="655">Legal instruments</genreform> 
+		<corpname role="creator" encodinganalog="710">Labor Archives of
+		  Washington (University of Washington), $e host institution</corpname> 
+		<persname encodinganalog="600" role="subject">Fox, Michael J.$q(Michael
+		  James),$d1944- $vArchives</persname> 
+		<persname encodinganalog="600" role="subject">Fox, Michael J.$q(Michael
+		  James),$d1944- $vTrials, litigation, etc.</persname> 
+		<corpname role="subject" encodinganalog="610">Washington (State)$vTrials,
+		  litigation, etc.</corpname> 
+		<persname encodinganalog="600" role="subject">Gamboa,
+		  Guadalupe</persname> 
+		<persname encodinganalog="600" role="subject">Gamboa, Guadalupe$vTrials,
+		  litigation, etc.</persname> 
+		<corpname encodinganalog="710">Labor Archives of Washington (University
+		  of Washington)</corpname> 
+		<corpname encodinganalog="610" role="subject">United Farm Workers
+		  Organizing Committee</corpname> 
+		<subject source="lcsh" encodinganalog="650">Lawyers$zWashington
+		  (State)$vArchives</subject> 
+		<subject source="lcsh" encodinganalog="650">Labor disputes$zWashington
+		  (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Agricultural
+		  laborers$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Agricultural laborers$xLabor
+		  unions$xOrganizing$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Agricultural laborers$xLabor
+		  unions$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Migrant agricultural
+		  laborers$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Migrant agricultural
+		  laborers$xLabor unions$xOrganizing$zWashington (State)</subject> 
+		<subject source="lcsh" encodinganalog="650">Migrant agricultural
+		  laborers$xLabor unions$zWashington (State)</subject> 
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		  <!-- Also add at least one browsing term from the Archives West browsing term list at http://goo.gl/X5whgX -->
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor History</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor Unions</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Civil Rights</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Latinos and Latinas</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Agriculture</subject> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5926-001</unitid> 
+			 <unittitle>Michael Fox papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1971-1974, 1994</unitdate> 
+			 <physdesc><extent>1.14 cubic feet </extent>
+				<extent>1 box</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>This collection traces a series of legal cases arising out of the
+				June 19, 1971 arrest for trespassing of Seattle-King County Legal Services
+				attorney Michael Fox and union organizer Guadalupe Gamboa of the UFW Co-op in
+				Toppenish. Fox and Gamboa visited the Rogers Walla Walla Inc. migrant labor
+				camp following Gamboa's contact with workers there who had grievances regarding
+				their working and living conditions. When they attempted to meet with workers,
+				Rogers employees refused them entry without their naming the individuals they
+				were meeting with and the purpose of their meeting. Fox and Gamboa refused to
+				provide names, reasoning that employees named would be in potential danger of
+				losing their jobs or worse. Rogers representatives called the sheriff who
+				arrested Fox and Gamboa for trespassing and fined them $25 each. Fox and Gamboa
+				appealed their conviction to the Superior Court of the County of Walla Walla,
+				which affirmed the conviction in December 1971. Fox and Gamboa then appealed to
+				the Washington State Supreme Court, which reversed the finding of the Superior
+				Court in May 1973. This established an important precedent for future
+				organizers and attorneys in the state. The State of Washington sought a hearing
+				in the United State Supreme Court, which refused to hear the case. In Fox v.
+				Klundt [Walla Walla County Sheriff] et al, Fox brought a civil suit against
+				representatives of Rogers Walla Walla for damages and received a settlement of
+				$6,000. Records include legal materials and newspapers articles relating to the
+				court cases. Other records relate to the State of Washington v. Michael Fox,
+				1973.</p> 
+		  </scopecontent><phystech> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p>No restrictions on access.</p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's copyrights transferred to the University of Washington
+				Libraries Special Collections.</p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Michael J. Fox, 2016</p> 
+		  </acqinfo> 
+		  <c02 level="series"> 
+			 <did> 
+				<container type="box-folder"><emph render="bolditalic">1/1-1/15</emph></container> 
+				<unitid type="uwsc"><emph render="bolditalic">SERIES
+				  I</emph></unitid> 
+				<unittitle encodinganalog="245$a"><emph render="bolditalic">COURT
+				  CASES</emph></unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1971-1994"><emph render="bolditalic">1971-1974,1994</emph></unitdate> 
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle encodinganalog="245$a">Events of June 1971</unittitle>
+				  
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1971/">1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle encodinganalog="245$a">Walla Walla County
+					 Court</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Washington State Superior
+					 Court, Walla Walla County</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle encodinganalog="245$a">Washington State Superior
+					 Court, Walla Walla County</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1972/">1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/5</container> 
+				  <unittitle encodinganalog="245$a">Preparation for State of
+					 Washington v. Fox</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1972/">1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/6</container> 
+				  <unittitle encodinganalog="245$a">Washington State Supreme Court,
+					 State of Washington v. Fox Appeal--Part 1 of 6</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1972/">1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/7</container> 
+				  <unittitle encodinganalog="245$a">Washington State Supreme Court,
+					 State of Washington v. Fox Appeal--Part 2 of 6</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1972/">1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/8</container> 
+				  <unittitle encodinganalog="245$a">Washington State Supreme Court,
+					 State of Washington v. Fox Appeal--Part 3 of 6</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1972/">1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/9</container> 
+				  <unittitle encodinganalog="245$a">Washington State Supreme Court,
+					 State of Washington v. Fox Appeal--Part 4 of 6</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/10</container> 
+				  <unittitle encodinganalog="245$a">Washington State Supreme Court,
+					 State of Washington v. Fox Appeal--Part 5 of 6</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1972/">1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/11</container> 
+				  <unittitle encodinganalog="245$a">Washington State Supreme Court,
+					 State of Washington v. Fox Appeal--Part 6 of 6</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1972/1973">1972-1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/12</container> 
+				  <unittitle encodinganalog="245$a">U.S. District Court, Fox v.
+					 Klundt--Part 1 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1971/1972">1971-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/13</container> 
+				  <unittitle encodinganalog="245$a">U.S. District Court, Fox v.
+					 Klundt--Part 2 of 2</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1971/1974">1971-1974</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/14</container> 
+				  <unittitle encodinganalog="245$a">U.S. Supreme Court--State of
+					 Washington v. Fox</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1973/">1973</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/15</container> 
+				  <unittitle encodinganalog="245$a">Additional Materials Related to
+					 Court Cases</unittitle> 
+				  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1974/1994">1974-1994</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="otherlevel" otherlevel="accession"> 
+		  <did> 
+			 <unitid type="accession">5926-002</unitid> 
+			 <unittitle>Michael J. Fox papers</unittitle> 
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1961-1997 </unitdate> 
+			 <unitdate type="bulk" era="ce" calendar="gregorian"> 1970s</unitdate> 
+			 <physdesc><extent>1.14 cubic feet</extent>
+				<extent>1 carton</extent>
+			 </physdesc>
+		  </did> 
+		  <scopecontent> 
+			 <p>This collection is primarily comprised of documents relating to
+				the State of Washington v. Fox court case and appeals process, which spanned
+				from 1971-1974. The case began on June 19th, 1971 when Michael Fox and
+				Guadalupe Gamboa were arrested for trespassing in a migrant workers camp run by
+				the Rogers Walla Walla Company. A transcript from the case relating to the
+				incident is in Box 1, Folder 5. After being found guilty in the District court
+				(Box 1, Folders 10 and 14), Fox and Gamboa took the case through the appeals
+				process where it finally was heard by the Washington State Supreme Court, (Box
+				1, Folder 21-23). The Supreme Court ruled in favor of Fox and Gamboa and
+				therefore set a legal precedent of the right of lawyers and union organizers to
+				have access to migrant workers on private lands. The collection contains
+				documentation and transcripts from all of the trials as well as the pre-trial
+				correspondence between Fox and various organizations in his effort to secure
+				amicus briefs (Box 1, Folder 13-15). Multiple articles relating to the case
+				have also been placed into this collection (Box 1, Folders 4, 27 and 32). In
+				addition, there are articles about Michael Fox’s career as a judge (Box 1,
+				Folder 37, 38), as well as articles that Fox wrote or that he collected (Box 1,
+				Folders 26, 30, 31, 34 and 35).</p> 
+		  </scopecontent><phystech> 
+		  <p/></phystech> 
+		  <accessrestrict> 
+			 <p> No restrictions on access. </p> 
+		  </accessrestrict> 
+		  <userestrict> 
+			 <p>Creator's copyrights transferred to the University of Washington
+				Libraries Special Collections. </p> 
+		  </userestrict> 
+		  <acqinfo> 
+			 <p>Donated by Michael Fox in March 2016.</p> 
+		  </acqinfo> 
+		</c01> 
+	 </dsc> 
+  </archdesc></ead>

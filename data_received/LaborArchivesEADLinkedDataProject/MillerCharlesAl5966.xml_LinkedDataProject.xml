@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MillerCharlesAl5966.xml" encodinganalog="identifier" identifier="80444/xv09622">MillerCharlesAl5966.xml</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the Charles Al Miller
+			 Papers </titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Miller (Charles Al)
+			 Papers</titleproper> 
+		  <author encodinganalog="creator"><?xm-replace_text {Name of the author/s of the finding aid; e.g. Finding aid created by John Smith}?></author>
+		  
+		  <sponsor encodinganalog="contributor"><?xm-replace_text {Enter text of note if funding for encoding this finding aid was provided by an individual or organization}?></sponsor>
+		  
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher> 
+		  <date encodinganalog="date" calendar="gregorian" era="ce" normal="20160509">© 2016</date> 
+		  <address> 
+			 <addressline>Seattle, WA 98195</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date calendar="gregorian" era="ce"><?xm-replace_text {Enter text "Finding aid revised" and the date of revision, if any, eg., July, 2008}?></date>
+		  
+		  <item><?xm-replace_text {Describe revision; include your name}?></item>
+		  
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21" altrender="sync"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname> 
+		  <address> 
+			 <addressline>Box 352900</addressline> 
+			 <addressline>Seattle, WA 98195-2900</addressline> 
+		  </address></repository> 
+		<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">5966</unitid> 
+		<unitid type="accession" countrycode="us" repositorycode="wauar">5966-001</unitid> 
+		<origination> 
+		  <persname role="collector" encodinganalog="100" altrender="sync">Miller, Charles A.</persname></origination> 
+		<unittitle encodinganalog="245$a" type="collection">Charles Al Miller
+		  papers </unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f" calendar="gregorian" era="ce" normal="1938/2011" certainty="approximate">circa 1938, 2011</unitdate>
+		
+		<unitdate type="bulk" encodinganalog="245$g" calendar="gregorian" era="ce" normal="1938">1938</unitdate> 
+		<physdesc><extent>1 vertical file</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_$a" altrender="nodisplay">Newsletters,
+		  meeting notice, and photograph pertaining to Charles Al Miller's involvement
+		  with the International Longshore Association and the International Longshore
+		  and Warehouse Union in Seattle and Tacoma, Washington</abstract> 
+		<langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial> 
+		<dao role="harvest-all" href="http://digitalcollections.lib.washington.edu/oai/oai.php?verb=ListRecords&amp;metadataPrefix=oai_qdc&amp;set=" audience="internal" linktype="simple"/> 
+	 </did><!--If an image is associated with the finding aid,  use the following elements. In <daodesc>, enter caption info 
+inside <p> tags: identifying info about the image, repository info, and UW  negative number using the format: 
+Joe Smith, 1938. Special Collections, UW Libraries, UW19577z   No info needed in <resource> element.-->
+	 <daogrp linktype="extended"> 
+		<daodesc> 
+		  <p><?xm-replace_text {Image caption}?></p> 
+		</daodesc><resource label="start" linktype="resource"/><!--In <daoloc>, enter into "href" attribute ONLY the name of the image file. Eg,  MS3783.jpg. Enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.-->
+		<daoloc role="uw-ead-images" label="image" title="Image of " linktype="locator"/> 
+		  <arc show="embed" actuate="onload" from="start" to="image" linktype="arc"/> 
+	 </daogrp> 
+	 <bioghist encodinganalog="5450_" id="a2"> 
+		<bioghist> 
+		  <p>Robert Miller Smith was born in Seattle in 1938, where he lived his
+			 entire life. He worked for Boeing and then as a longshoreman/crane operator at
+			 the Port of Seattle and was a member of International Longshore and Warehouse
+			 Union, Local 19.</p> 
+		</bioghist> 
+		<bioghist> 
+		  <p>Charles Al Miller was the grandfather of Robert Miller Smith
+			 (1938-). He was a foreman on the Seattle waterfront and a member of the
+			 International Longshoreman's Association 38-114. Charles Miller began working
+			 on the waterfront around 1907, retired around 1950, and died in 1968. </p> 
+		</bioghist> 
+	 </bioghist> 
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p><?xm-replace_text {Describe overall organization of collection, eg. accession and/or series nos., titles, inclusive dates}?></p>
+		
+	 </arrangement> 
+	 <scopecontent> 
+		<p>These materials appear to be ephemera collected by Robert Miller from
+		  his grandfather, Charles Al Miller, about the International Longshore
+		  Association (ILA), precursor union to the International Longshore and Warehouse
+		  Union (ILWU). Materials include the March 30, 1938 issue of the "ILA Bulletin"
+		  of the Pacific Coast district of the ILA. At this point, almost every former
+		  ILA local on the Pacific Coast had affiliated with the ILWU except the Tacoma
+		  ILA local. Another flyer published by the Pacific American Shipowners
+		  Association titled "Which Flag Do We Fly?" appears to be a critique of the
+		  ILWU's progressive leadership, accusing them of being communists. Other
+		  materials include two 1938 issues of the "Pacific Coast Longshoreman," a
+		  publication edited by Ralph Chaplin and aligned with the anti-Harry
+		  Bridges/anti-communist factions of the ILWU and the ILA. Finally, a photograph
+		  in the collection is of attendees at a ceremony at the March 2011 dedication of
+		  ILWU 23 (Tacoma) cemetery plot, which was part of Local 23's 125th anniversary
+		  celebration. </p> 
+	 </scopecontent> 
+	 <odd encodinganalog="500" id="a5"> 
+		<p>Forms part of the Labor Archives of Washington.</p> 
+	 </odd> 
+	 <altformavail encodinganalog="530" id="a9"> 
+		<p><?xm-replace_text {State availability of microfilm, digital version, etc., 
+	 if any; also use extref for digital link, with full URL of digital site in HREF attribute; see proc. manual }?>
+		  <extref role="text/html" actuate="onrequest" show="new" altrender="autosearch:cdm" linktype="simple"/></p> 
+	 </altformavail><phystech type="phys"> 
+	 <p/></phystech> 
+	 <accessrestrict> 
+		<p>No restrictions on access. </p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<p>Restrictions may exist on copying, quotation, or publication. Contact
+		  University of Washington Libraries Special Collections for details. </p> 
+	 </userestrict> 
+	 <acqinfo> 
+		<p>Ronald Magden, 2011-11-13 </p> 
+	 </acqinfo> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p>Donated by Ron Magden on behalf of Robert Miller Smith, whose
+		  grandfather was Charles Al Miller</p> 
+	 </custodhist> 
+	 <separatedmaterial encodinganalog="5440_$n" type="relocation"> 
+		<p> 
+		  <archref role="ph" arcrole="text/xml" show="new" actuate="onrequest" linktype="simple"><?xm-replace_text {Insert name of collection and collection number of materials related by provenance but described separately; e.g. "Temple Beth Am Photograph Collection (PH Coll 1236)"; displays heading "Material Described Separately"; insert filename of related collection in href attribute}?></archref></p>
+		
+	 </separatedmaterial> 
+	 <separatedmaterial encodinganalog="5441_$n" type="transfer"> 
+		<p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; provide full name of division 
+		or repository where currently located. Displays heading "Separated Materials"}?></p>
+		
+	 </separatedmaterial> 
+	 <bibliography id="a11" encodinganalog="581"> 
+		<p> 
+		  <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags; 
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref></p>
+		
+	 </bibliography> 
+	 <relatedmaterial encodinganalog="544__$n" id="a6"> 
+		<p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+		
+	 </relatedmaterial> 
+	 <appraisal id="a39" encodinganalog="583"> 
+		<p><?xm-replace_text {Insert first paragraph. Press RETURN to add another paragraph}?></p>
+		
+	 </appraisal> 
+	 <controlaccess> 
+		<persname encodinganalog="600" role="subject" altrender="sync" rules="rda" source="lcnaf">Miller, Charles A.$vArchives</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<corpname source="lcnaf" rules="rda" role="subject" encodinganalog="610">International Longshoremen's and Warehousemen's
+		  Union$vArchives.</corpname> 
+		<corpname source="lcnaf" rules="rda" role="host institution" encodinganalog="710">Labor Archives of Washington (University of
+		  Washington),</corpname> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  unions$zWashington (State)$zSeattle.</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  unions$zWashington (State)$zTacoma.</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor$zWashington
+		  (State)$zSeattle.</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor$zWashington
+		  (State)$zTacoma.</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  movement$zWashington (State)$zSeattle.</subject> 
+		<subject source="lcsh" encodinganalog="650" rules="scm">Labor
+		  movement$zWashington (State)$zTacoma.</subject> 
+		<genreform encodinganalog="655" source="lcgft">Newsletters.</genreform> 
+		<genreform encodinganalog="655" source="aat">Photographs.</genreform>
+		<subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject> 
+		  <!-- Also add at least one browsing term from the Archives West browsing term list at http://goo.gl/X5whgX -->
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor Unions</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690">Labor History</subject> 
+		<subject source="archiveswest" altrender="nodisplay" encodinganalog="690"><?xm-replace_text {NWDA 
+		  browsing term}?></subject> 
+	 </controlaccess> 
+  </archdesc></ead>

@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead
+  PUBLIC "+ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="nonwda">
+   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+      <eadid countrycode="us" mainagencycode="wau-ar" url="http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BassettSamuelB1792.xml" encodinganalog="identifier" identifier="80444/xv63375">BassettSamuelB1792.xml</eadid>
+      <filedesc>
+         <titlestmt id="edit-complete">
+            <titleproper encodinganalog="title">Guide to the Samuel B. Bassett
+			 Papers </titleproper>
+            <titleproper altrender="nodisplay" type="filing">Bassett (Samuel B.)
+			 Papers</titleproper>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+            <date encodinganalog="date" normal="20070918" era="ce" calendar="gregorian">©2007</date>
+            <address>
+               <addressline>Seattle, WA 98195</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation audience="internal">Finding aid encoded by Mark Carlson via
+		  XSLT stylesheet conversion from Millennium MARC records 
+		  <date audience="external" era="ce" calendar="gregorian">2007</date>
+         </creation>
+         <langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage>
+         <descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date era="ce" calendar="gregorian">Finding aid revised May 2016</date>
+            <item>Added inventory for -001, Jenn Parent</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21" id="recon">
+      <did id="a1">
+         <repository>
+            <corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea>
+            </corpname>
+            <address>
+               <addressline>Box 352900</addressline>
+               <addressline>Seattle, WA 98195-2900</addressline>
+            </address>
+         </repository>
+         <unitid type="mss" encodinganalog="099">1792</unitid>
+         <unitid type="accession" encodinganalog="099">1792-001</unitid>
+         <origination>
+            <persname role="creator" encodinganalog="100" authfilenumber="1965232" altrender="sync">Bassett, Samuel B.,$d1896-1971</persname>
+         </origination>
+         <unittitle type="collection"> Samuel B. Bassett papers</unittitle>
+         <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1926/1965">1926-1965</unitdate>
+         <physdesc>
+            <extent encodinganalog="300$a">3' linear</extent>
+         </physdesc>
+         <abstract encodinganalog="5203_$a" altrender="nodisplay">Legal case files of a lawyer in Seattle, Washington</abstract>
+         <langmaterial>Collection materials are in 
+		<language langcode="eng" scriptcode="latn" encodinganalog="546">English</language>.</langmaterial>
+      </did>
+      <bioghist encodinganalog="5450_" id="ARN1965232" altrender="sync">
+         <p> Bassett was a Seattle plaintiffs lawyer who practiced with George
+		  Vandeveer from 1924-1942 and represented the Joint Council of Teamsters, No. 28
+		  and various Teamster locals.</p>
+      </bioghist>
+      <arrangement encodinganalog="351" id="a4">
+         <p><?xm-replace_text {Describe arrangement or organization of materials}?></p>
+      </arrangement>
+      <scopecontent>
+         <p>Legal case files (bulk), 1926/27, ca. 1948-1965; incoming letters,
+		  1953, 1963.</p>
+         <p>Accession includes a sample of legal records showing early and
+		  distinctive cases, including a wire tapping case, an Indian fishing rights
+		  case, a case involving dismissal of a University of Washington basketball
+		  coach, and cases involving Seattle labor unions and labor leaders, including
+		  Frank Brewster.</p>
+      </scopecontent>
+      <odd encodinganalog="500" id="a5">
+         <p><?xm-replace_text {Text of general note}?></p>
+      </odd>
+      <altformavail encodinganalog="530" id="a9">
+         <p><?xm-replace_text {Text of the Scope and Content Note, in paragraphs; separate each with paragraph tags}?></p>
+      </altformavail>
+      <accessrestrict encodinganalog="506" id="a14">
+         <p>Access restricted: For terms of access, 
+		  <extref show="new" actuate="onrequest" role="uwsc" href="contact.html" linktype="simple">contact Special Collections for details.</extref>
+         </p>
+      </accessrestrict>
+      <userestrict encodinganalog="540" id="a15">
+         <p>Creator's literary rights not transferred to the University of
+		  Washington Libraries.</p>
+      </userestrict>
+      <custodhist encodinganalog="561" id="a16">
+         <p><?xm-replace_text {Infrequently used. Enter brief information re. custodial history the collection, eg, Following Betty Fukuyama's death, the collection passed to her daughter Mary.}?></p>
+      </custodhist>
+      <acqinfo encodinganalog="541" id="a19">
+         <p>Donated by Bassett, Donaldson &amp; Hafer, 1/1/1972.</p>
+      </acqinfo>
+      <processinfo audience="internal">
+         <p>Processed by <?xm-replace_text {Enter the name of the person who processed the coll.}?></p>
+      </processinfo>
+      <processinfo audience="internal" id="a20" encodinganalog="583">
+         <p>Processing completed in <?xm-replace_text {Record the year when processing was completed along with other processing-related information. }?></p>
+         <processinfo encodinganalog="544__$n" type="reloc">
+            <p><?xm-replace_text {State if visual materials were relocated, give title and if available photo
+		coll. no.; see manual for details }?></p>
+         </processinfo>
+      </processinfo>
+      <separatedmaterial encodinganalog="544__$n" id="a7">
+         <p><?xm-replace_text {Describe materials that have been removed or transferred out of the division; for relocated visual
+		materials, use the processinfo and otherfindaid elements}?></p>
+      </separatedmaterial>
+      <bibliography id="a11" encodinganalog="581">
+         <p>
+            <bibref linktype="simple"><?xm-replace_text {Bibliographic data. Separate bib. entries with paragraph/bibref tags;
+		  use persname and/or corpname tags for each author name; use title tags for book and serial titles}?></bibref>
+         </p>
+      </bibliography>
+      <otherfindaid encodinganalog="555" id="a8" audience="internal">
+         <p><?xm-replace_text {If visual materials were relocated to a graphics collection,
+		provide finding aid title and link if available, changing default wording if needed; give filename of EAD finding aid in href attribute of archref element}?>
+		  The visual materials that form part of this collection are described
+		  and indexed in 
+		  <archref show="new" role="ph" actuate="onrequest" arcrole="text/xml" linktype="simple">A Guide to the <?xm-replace_text {Enter name of visual materials coll.; and enter filename in HREF
+		  attribute, eg. SmithJohnPHColl885.xml}?></archref>.</p>
+         <p><?xm-replace_text {Separate note on other available, non-EAD finding tools such as card files, lists, etc.  }?></p>
+         <p altrender="preliminary">Inventory/container list available in Special
+		  Collections. 
+		  <extptr href="1792-001.pdf" role="pdf-ms" arcrole="application/pdf" altrender="pdf-autolink" show="new" actuate="onrequest" linktype="simple"/>
+         </p>
+      </otherfindaid>
+      <relatedmaterial encodinganalog="544__$n" id="a6">
+         <p><?xm-replace_text {Used rarely. Describe materials that are closely related to the coll., but not by provenance}?></p>
+      </relatedmaterial>
+      <controlaccess>
+         <persname encodinganalog="600" role="subject" altrender="sync">Bassett,
+		  Samuel B.,$d1896-1971$vArchives</persname>
+         <persname role="subject" encodinganalog="600">Brewster, Frank W.$vTrials,
+		  litigation, etc.</persname>
+         <persname role="creator" source="uwsc-naf" encodinganalog="700">Vanderveer, George F.</persname>
+         <persname role="creator" source="uwsc-naf" encodinganalog="700">Finley,
+		  Robert C.</persname>
+         <persname role="creator" source="uwsc-naf" encodinganalog="700">Grayson,
+		  John</persname>
+         <persname role="creator" source="uwsc-naf" encodinganalog="700">Beck,
+		  David (Dave) Daniel</persname>
+         <persname role="subject" source="uwsc-naf" encodinganalog="600">Green,
+		  Charles S.$vTrials, litigation, etc.</persname>
+         <persname role="subject" source="uwsc-naf" encodinganalog="600">Karlstrom, Lena$vTrials, litigation, etc.</persname>
+         <corpname encodinganalog="710">Labor Archives of Washington (University
+		  of Washington)</corpname>
+         <corpname role="subject" encodinganalog="610" source="uwsc-naf">City of
+		  Hope.</corpname>
+         <corpname role="subject" encodinganalog="610" source="uwsc-naf">Makah
+		  Tribal Council (Neah Bay, Wash.)</corpname>
+         <corpname role="creator" encodinganalog="710" source="uwsc-naf">International Brotherhood of Teamsters, Chauffeurs,
+		  Warehousemen, and Helpers of America.$bLocal 174</corpname>
+         <corpname role="creator" encodinganalog="710" source="uwsc-naf">International Stevedoring Co.$vTrials, litigation,
+		  etc.</corpname>
+         <subject source="lcsh" encodinganalog="650">Indians of North
+		  America$xFishing$xLaw and legislation</subject>
+         <subject source="lcsh" encodinganalog="650">Basketball coaches$xDismissal
+		  of$zWashington (State)$zSeattle</subject>
+         <subject>Wiretapping$xLaw and legislation</subject>
+      </controlaccess>
+      <controlaccess>
+         <subject source="uwsc" encodinganalog="690" altrender="nodisplay">Personal Papers/Corporate Records</subject>
+         <subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  History</subject>
+         <subject altrender="nodisplay" source="nwda" encodinganalog="690">Labor
+		  Unions</subject>
+         <subject altrender="nodisplay" source="nwda" encodinganalog="690">Laws
+		  and Legislation</subject>
+         <subject altrender="nodisplay" source="nwda" encodinganalog="690">Washington (State)</subject>
+         <subject altrender="nodisplay" source="nwda" encodinganalog="690">Seattle</subject>
+      </controlaccess>
+      <dsc>
+         <c01 level="series">
+            <did>
+               <container type="box-folder">
+                  <emph render="bolditalic">1/1,
+				4/51</emph>
+               </container>
+               <unitid type="uwsc">
+                  <emph render="bolditalic">SERIES I
+				</emph>
+               </unitid>
+               <unittitle encodinganalog="245$a">
+                  <emph render="bolditalic">ORGANIZATIONAL AND BIOGRAPHICAL MATERIALS
+				</emph>
+               </unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1928/1971">
+                  <emph render="bolditalic">1928-1971</emph>
+               </unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder"/>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Box Copy of Inventory</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="/"/>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/1</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Clipping of Samuel Bassett
+				  obituary and pencil sketch art, labeled 'Sam'</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/1971">Undated, 1971</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/51</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Thesis (Admissibility of Evidence
+				  Obtained by Wire-Tapping - by Samuel Bassett)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1928/">1928</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <container type="box-folder">
+                  <emph render="bolditalic">1/2,
+				4/1-4/34</emph>
+               </container>
+               <unitid type="uwsc">
+                  <emph render="bolditalic">SERIES II
+				</emph>
+               </unitid>
+               <unittitle encodinganalog="245$a">
+                  <emph render="bolditalic">CORRESPONDENCE </emph>
+               </unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/1965">
+                  <emph render="bolditalic">1927-1965</emph>
+               </unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/2</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming letters -
+				  General</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1963">1953-1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/1</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - A</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1934/1952">1934-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/2</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - B</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1928/1952">1928-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/3</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - Blanken, David
+				  L.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936/1939">1936-1939</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/4</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - C</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1931/1954">1931-1954</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/5</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - D</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1931/1952">1931-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/6</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - Delta Theta
+				  Phi</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1943/1952">1943-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/7</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - E</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1934/">1934</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/8</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - F</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1933/1952">1933-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/9</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - Foster, Harry
+				  Ellsworth</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1937/1940">1937-1940</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/10</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - G</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1937/1951">1937-1951</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/11</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - Green, B.
+				  A.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1930/1951">1930-1951</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/12</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - H</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1934/1954">1934-1954</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/13</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - Hartford
+				  Accident and Indemnity Co.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1935/1950">1935-1950</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/14</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - I</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1942/">1942</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/15</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - J</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1928/1948">1928-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/16</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - K</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1935/1948">1935-1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/17</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - L</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/1952">1941-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/18</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - Liberal King
+				  Mining Co.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/1950">1927-1950</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/19</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - M</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1940/1952">1940-1952</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/20</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - Millard,
+				  William</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/1942">1941-1942</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/21</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - N</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936/1953">1936-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/22</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - P</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1941/1954">1941-1954</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/23</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - R</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1936/1949">1936-1949</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/24</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - S</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/1953">1927-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/25</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - Sunset
+				  Minerals Inc.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1949/1954">1949-1954</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/26</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - T</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1937/1953">1937-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/27</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters - W</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1931/1953">1931-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/28</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters -
+				  XYZ</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1938/">1938</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/29</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Incoming Letters -
+				  Unidentified</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1952/1953">1952-1953</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/30</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Outgoing Letters</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/1954">1927-1954</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/31</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Outgoing Letters</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/32</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">General
+				  Correspondence</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/1936">1927-1936</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/33</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">General
+				  Correspondence</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1937/1944">1937-1944</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/34</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">General
+				  Correspondence</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1945/1954">1945-1954</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <container type="box-folder">
+                  <emph render="bolditalic">1/3-3/12</emph>
+               </container>
+               <unitid type="uwsc">
+                  <emph render="bolditalic">SERIES
+				III</emph>
+               </unitid>
+               <unittitle encodinganalog="245$a">
+                  <emph render="bolditalic">LEGAL
+				CASE FILES </emph>
+               </unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/1965">
+                  <emph render="bolditalic">1927-1965</emph>
+               </unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/3</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Clancy vs. Loveland</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1966/">1966</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/4</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Charles S. Green vs.
+				  U.S.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/">1927</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/5</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">State vs. Huggin</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/">1927</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/6</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Kahlstrom vs. International
+				  Stevedoring Co.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1926/1927">1926-1927</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/7</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Makah Indian Tribe vs.
+				  U.S.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/8</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Makah Indian Tribe vs.
+				  U.S.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/9</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Makah Indian Tribe vs.
+				  U.S.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/10</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Makah Indian Tribe vs.
+				  U.S.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/11</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Makah Indian Tribe vs.
+				  U.S.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/12</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Retail Clerks vs. Lamberton, et
+				  al</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1948/">1948</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/13</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Wanamaker vs. Puget Sound
+				  Broadcasting Co., Inc.</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1956/">1956</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/14</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Grayson vs. Curtis
+				  Publishing</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/15</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Grayson vs. Curtis
+				  Publishing</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/16</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Grayson vs. Curtis
+				  Publishing</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/17</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Grayson vs. Curtis
+				  Publishing</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/18</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Grayson vs. Curtis
+				  Publishing</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/19</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Grayson vs. Curtis
+				  Publishing</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">1/20</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Grayson vs. Curtis
+				  Publishing</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/1</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">US vs. Teamsters, Local 174 et
+				  al</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1957/">1957</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/2</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Brewster, Frank W.
+				  (Deeds)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1959">1955-1959</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">2/3</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Brewster, Frank W. (Appraisal of
+				  Property Owned by)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1959">1955-1959</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/1</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/2</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/3</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/4</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/5</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/6</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/7</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/8</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/9</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/10</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/11</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">3/12</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">City of Hope (Trust)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1961">1955-1961</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <container type="box-folder">
+                  <emph render="bolditalic">4/36-4/48,
+				4/55</emph>
+               </container>
+               <unitid type="uwsc">
+                  <emph render="bolditalic">SERIES
+				IV</emph>
+               </unitid>
+               <unittitle encodinganalog="245$a">
+                  <emph render="bolditalic">LEGAL
+				DOCUMENTS </emph>
+               </unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/1965">
+                  <emph render="bolditalic">1927-1965</emph>
+               </unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/36</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Legal Documents</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1935/1944">1935-1944</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/37</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Legal Documents</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1962">1960-1962</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/38</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Legal Correspondence</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1968/1970">1968-1970</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/39</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Legal Documents</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1960/1961">1960-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/40</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Tribunal (American Arbitration
+				  Association)</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1963/">1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/41</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Affidavits, Testimonies, Retainer
+				  Lists</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1955/1963">1955-1963</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/42</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Agreements, Retainer
+				  Lists</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/43</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Legal Documents</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/44</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Teamster Attorney
+				  Newsletters</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/45</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Teamster Attorney
+				  Newsletters</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1965/">1965</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/46</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Teamster Attorney
+				  Newsletters</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1961/1962">1961-1962</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/47</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Teamster Attorney
+				  Newsletters</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1962/1964">1962-1964</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/48</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Binder of Case Summaries on
+				  Community Property</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/55</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Ledger Book</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1905/">1905</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <container type="box-folder">
+                  <emph render="bolditalic">4/49-4/50</emph>
+               </container>
+               <unitid type="uwsc">
+                  <emph render="bolditalic">SERIES
+				V</emph>
+               </unitid>
+               <unittitle encodinganalog="245$a">
+                  <emph render="bolditalic">FINANCIAL
+				RECORDS </emph>
+               </unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1916/1965">
+                  <emph render="bolditalic">1916-1965</emph>
+               </unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/49</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Receipts, Tax Returns,
+				  Statements</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1916/1950">1916-1950</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/50</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Travel Finances, Client
+				  Receipts</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1961">1953-1961</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <container type="box-folder">
+                  <emph render="bolditalic">4/52-4/54</emph>
+               </container>
+               <unitid type="uwsc">
+                  <emph render="bolditalic">SERIES
+				VI</emph>
+               </unitid>
+               <unittitle encodinganalog="245$a">
+                  <emph render="bolditalic">MISCELLANEOUS RECORDS </emph>
+               </unittitle>
+               <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1927/1965">
+                  <emph render="bolditalic">1927-1965</emph>
+               </unitdate>
+            </did>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/52</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Miscellany</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1949/1969">1949-1969</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/53</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Ephemera</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1953/1961">1953-1961</unitdate>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box-folder">4/54</container>
+                  <unitid type="uwsc"/>
+                  <unittitle encodinganalog="245$a">Weary Walker at Art
+				  Exhibit</unittitle>
+                  <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian" normal="Undated/">Undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>
