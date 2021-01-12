@@ -7,7 +7,7 @@
 - [`aSpace_agents_20200917.xml`](https://github.com/uwlib-cams/ASpaceAgents/blob/main/data_received/aSpace_agents_20200917.xml)
   - Name strings can be used successfully for reconciliation with Wikidata, see [data_reconciliation](https://github.com/uwlib-cams/ASpaceAgents/tree/main/data_reconciliation)
 ## EAD data
-- [LaborArchivesEADLinkedDataProject](https://github.com/uwlib-cams/ASpaceAgents/blob/main/data_received/LaborArchivesEADLinkedDataProject.zip) (zipped directory)
-- [LaborArchivesEADLinkedDataProject](https://github.com/uwlib-cams/ASpaceAgents/blob/main/data_received/LaborArchivesEADLinkedDataProject.zip) (*unzipped* directory)
+- [`LaborArchivesEADLinkedDataProject`](https://github.com/uwlib-cams/ASpaceAgents/blob/main/data_received/LaborArchivesEADLinkedDataProject.zip) (zipped directory)
+- [`LaborArchivesEADLinkedDataProject`](https://github.com/uwlib-cams/ASpaceAgents/blob/main/data_received/LaborArchivesEADLinkedDataProject.zip) (*unzipped* directory)
   - Unzipped dir includes discrete xml finding aid files for further processing
   - See [BrainSplat](https://github.com/uwlib-cams/SCArchivesAgents/blob/main/BrainSplat) for CEC notes on EAD data
