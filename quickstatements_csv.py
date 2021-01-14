@@ -115,7 +115,7 @@ with open(f"quickstatements_csv.csv", mode='w') as csv_output:
 		if url == None:
 			url = ''
 
-		csv_writer.writerow(['Label','LAST','Len',f'{origname}','','','','',''])
+		csv_writer.writerow(['Label','LAST','Len',f'{origname}','','','','','',''])
 #		csv_writer.writerow(['Description','Den','LAST','','','','','','',''])
 #		csv_writer.writerow(['Also known as','Aen','LAST','','','','','','',''])
 		csv_writer.writerow(['on focus list of Wikimedia project','LAST','P5008','Q98970039','','','','','',''])
