@@ -21,6 +21,7 @@ def fix_spacing(elem):
 	return elem
 
 def remove_marc_fields(elem):
+	"""Remove MARC fields from literals"""
 	if elem == None:
 		pass
 	elif '$' in elem:
@@ -30,14 +31,37 @@ def remove_marc_fields(elem):
 		for item in elem_list[1:]: # iterate through remaining parts of string
 			content_list.append(item[1:]) # append to list without MARC field label
 		elem = ' '.join(content_list) # join items in list back to one string
-		return elem
+	return elem
 
-def find_corpname():
+def find_origname():
+	"""Look for corpname, persname, or famname as a child element of origination"""
+	origname_list = []
+	# look for corpname
 	for elem in root.findall('archdesc/did/origination/corpname'):
 		elem = elem.text # convert to string
-		elem = fix_spacing(elem)
-		elem = remove_marc_fields(elem)
-		return elem
+		if elem != None:
+			elem = fix_spacing(elem)
+			elem = remove_marc_fields(elem)
+			origname_list.append(elem)
+	for elem in root.findall('archdesc/did/origination/persname'):
+		elem = elem.text # convert to string
+		if elem != None:
+			elem = fix_spacing(elem)
+			elem = remove_marc_fields(elem)
+			origname_list.append(elem)
+	for elem in root.findall('archdesc/did/origination/famname'):
+		elem = elem.text # convert to string
+		if elem != None:
+			elem = fix_spacing(elem)
+			elem = remove_marc_fields(elem)
+			origname_list.append(elem)
+	origname = ' '.join(origname_list)
+	origname = origname.strip()
+	if origname == '':
+		origname = '(No origination name found.)'
+	else:
+		origname = remove_marc_fields(origname)
+	return origname
 
 def find_unittitle():
 	"""archives at (P485), qualifier named as (P1810)"""
@@ -62,23 +86,25 @@ def find_url():
 
 ead_files = os.listdir('data_received/LaborArchivesEADLinkedDataProject')
 
-for file in ead_files:
-	tree = ET.parse(f'data_received/LaborArchivesEADLinkedDataProject/{file}')
-	root = tree.getroot()
+if not os.path.exists('quickstatements_csv.csv'):
+	os.system('touch quickstatements_csv.csv')
 
-	if not os.path.exists(f"csv/{file.split('.xml')[0]}.csv"):
-		os.system(f"touch csv/{file.split('.xml')[0]}.csv")
+with open(f"quickstatements_csv.csv", mode='w') as csv_output:
+	csv_writer = csv.writer(csv_output, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
-	with open(f"csv/{file.split('.xml')[0]}.csv", mode='w') as csv_output:
-		csv_writer = csv.writer(csv_output, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-		# header row
-		csv_writer.writerow(['','QID or create new','Property (or label, alias, description)','Property value','Qualifier property', 'Qualifier value','Qualifier property', 'Qualifier value','Qualifier property', 'Qualifier value'])
-		# create
-		csv_writer.writerow(['','Q4115189'])
+	# header row
+	csv_writer.writerow(['','QID or create new','Property (or label, alias, description)','Property value','Qualifier property','Qualifier value','Qualifier property','Qualifier value','Qualifier property','Qualifier value'])
 
-		corpname = find_corpname()
-		if corpname == None:
-			corpname = ''
+	for file in ead_files:
+		tree = ET.parse(f'data_received/LaborArchivesEADLinkedDataProject/{file}')
+		root = tree.getroot()
+
+		# once we have reconciliation data, this is where it will see if a Qid exists or not
+		csv_writer.writerow(['','Q4115189','','','','','','','',''])
+
+		origname = find_origname()
+		if origname == None:
+			origname = ''
 		unittitle = find_unittitle()
 		if unittitle == None:
 			unittitle = ''
@@ -89,8 +115,8 @@ for file in ead_files:
 		if url == None:
 			url = ''
 
-		csv_writer.writerow(['Label','LAST','Len',f'{corpname}'])
-#		csv_writer.writerow(['Description','Den','LAST'])
-#		csv_writer.writerow(['Also known as','Aen','LAST'])
-		csv_writer.writerow(['on focus list of Wikimedia project','LAST','P5008','Q98970039'])
+		csv_writer.writerow(['Label','LAST','Len',f'{origname}','','','','',''])
+#		csv_writer.writerow(['Description','Den','LAST','','','','','','',''])
+#		csv_writer.writerow(['Also known as','Aen','LAST','','','','','','',''])
+		csv_writer.writerow(['on focus list of Wikimedia project','LAST','P5008','Q98970039','','','','','',''])
 		csv_writer.writerow(['archives at','LAST','P485','Q22096098','P1810',f'"{unittitle}"','P217',f'"{unitid}"','P973',f'"{url}"'])
