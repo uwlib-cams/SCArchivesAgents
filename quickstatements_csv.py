@@ -58,7 +58,7 @@ def find_origname():
 	origname = ' '.join(origname_list)
 	origname = origname.strip()
 	if origname == '':
-		origname = '(No origination name found.)'
+		origname = 'no origination name found'
 	else:
 		origname = remove_marc_fields(origname)
 	return origname
@@ -82,6 +82,23 @@ def find_url():
 		url = url.rstrip('.xml')
 		return url
 
+def find_Qid(origname):
+	"""See if origname was reconciled. If so, return Qid"""
+	Qid = ''
+	with open("data_reconciliation/reconciledValuesWithQNumbers-2021-01-20-cec.csv") as reconciliation_csv:
+		csv_reader = csv.reader(reconciliation_csv, delimiter=',')
+		line_count = 0
+		for line in csv_reader:
+			if line_count == 0:
+				pass
+			else:
+				if line[0] in origname:
+					Qid = line[1]
+			line_count += 1
+		if Qid == '':
+			Qid = 'CREATE'
+	return Qid
+
 ###
 
 ead_files = os.listdir('data_received/LaborArchivesEADLinkedDataProject')
@@ -89,7 +106,7 @@ ead_files = os.listdir('data_received/LaborArchivesEADLinkedDataProject')
 if not os.path.exists('quickstatements_csv.csv'):
 	os.system('touch quickstatements_csv.csv')
 
-with open(f"quickstatements_csv.csv", mode='w') as csv_output:
+with open("quickstatements_csv.csv", mode='w') as csv_output:
 	csv_writer = csv.writer(csv_output, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
 	# header row
@@ -99,12 +116,16 @@ with open(f"quickstatements_csv.csv", mode='w') as csv_output:
 		tree = ET.parse(f'data_received/LaborArchivesEADLinkedDataProject/{file}')
 		root = tree.getroot()
 
-		# once we have reconciliation data, this is where it will see if a Qid exists or not
-		csv_writer.writerow(['','Q4115189','','','','','','','',''])
-
+		# look for Qid, if it already exists
 		origname = find_origname()
-		if origname == None:
-			origname = ''
+		if origname == 'no origination name found':
+			print(file)
+			continue
+
+		Qid = find_Qid(origname)
+
+		csv_writer.writerow(['',f'{Qid}','','','','','','','',''])
+
 		unittitle = find_unittitle()
 		if unittitle == None:
 			unittitle = ''
@@ -115,8 +136,14 @@ with open(f"quickstatements_csv.csv", mode='w') as csv_output:
 		if url == None:
 			url = ''
 
-		csv_writer.writerow(['Label','LAST','Len',f'{origname}','','','','','',''])
-#		csv_writer.writerow(['Description','Den','LAST','','','','','','',''])
-#		csv_writer.writerow(['Also known as','Aen','LAST','','','','','','',''])
-		csv_writer.writerow(['on focus list of Wikimedia project','LAST','P5008','Q98970039','','','','','',''])
-		csv_writer.writerow(['archives at','LAST','P485','Q22096098','P1810',f'"{unittitle}"','P217',f'"{unitid}"','P973',f'"{url}"'])
+		if Qid == 'CREATE':
+			other_lines = 'LAST'
+		else:
+			other_lines = Qid
+
+		csv_writer.writerow(['Label',f'{other_lines}','Len',f'{origname}','','','','','',''])
+		if Qid == 'CREATE':
+			csv_writer.writerow(['Description',f'{other_lines}','Den','','','','','','',''])
+			csv_writer.writerow(['Also known as',f'{other_lines}','Aen','','','','','','',''])
+		csv_writer.writerow(['on focus list of Wikimedia project',f'{other_lines}','P5008','Q98970039','','','','','',''])
+		csv_writer.writerow(['archives at',f'{other_lines}','P485','Q22096098','P1810',f'"{unittitle}"','P217',f'"{unitid}"','P973',f'"{url}"'])
