@@ -1,20 +1,17 @@
-import xml.etree.ElementTree as ET
-import os
 import csv
+import os
+from sys import argv
+import xml.etree.ElementTree as ET
 
 """Functions"""
 
 def fix_spacing(elem):
 	"""Remove unnecessary spacing from original EAD"""
-	if elem == None:
-		pass
-	else:
+	if elem != None:
 		elem_list = elem.split(' ') # split by space
 		content_list = [] # empty list
 		for item in elem_list: # iterate through words in original element
-			if item == '': # if it's a blank space, ignore it
-				pass
-			else: # if it has characters in it, remove whitespace and add it to list
+			if item != '': # if it has characters in it, remove whitespace and add it to list
 				item = item.strip()
 				content_list.append(item)
 		elem = ' '.join(content_list) # condense list back into a single string
@@ -34,7 +31,7 @@ def remove_marc_fields(elem):
 	return elem
 
 def find_origname():
-	"""Look for corpname, persname, or famname as a child element of origination"""
+	"""Look for corpname, persname, or famname as a child element of origination; used for item label"""
 	origname_list = []
 	# look for corpname
 	for elem in root.findall('archdesc/did/origination/corpname'):
@@ -57,7 +54,7 @@ def find_origname():
 			elem = fix_spacing(elem)
 			elem = remove_marc_fields(elem)
 			origname_list.append(elem)
-	origname = ' '.join(origname_list) # create single string out of all found names # only one name should be found but just in case
+	origname = ' '.join(origname_list) # create single string out of all found names # only one name should be found, but keep all just in case
 	origname = origname.strip() # remove unnecessary whitespace
 	if origname == '': # if string is blank, i.e. no orignames were found
 		origname = 'no origination name found'
@@ -84,10 +81,10 @@ def find_url():
 		url = url.rstrip('.xml')
 		return url
 
-def find_Qid(origname):
+def find_Qid(origname, recon_csv):
 	"""See if origname was reconciled; if so, return Qid"""
 	Qid = '' # blank
-	with open("data_reconciliation/reconciledValuesWithQNumbers-2021-01-20-cec.csv") as reconciliation_csv: # reconciliation data
+	with open(f"{recon_csv}") as reconciliation_csv: # reconciliation data
 		csv_reader = csv.reader(reconciliation_csv, delimiter=',')
 		line_count = 0
 		for line in csv_reader:
@@ -103,8 +100,12 @@ def find_Qid(origname):
 
 ###
 
+script, EAD_dir, recon_csv = argv
+# EAD_dir = directory containing EAD
+# recon_csv = CSV file containing reconciliation data
+
 # put EAD files into a list
-ead_files = os.listdir('data_received/LaborArchivesEADLinkedDataProject')
+ead_files = os.listdir(f'{EAD_dir}')
 
 if not os.path.exists('quickstatements_csv.csv'): # if output file does not exist, create it
 	os.system('touch quickstatements_csv.csv')
@@ -118,17 +119,17 @@ with open("quickstatements_csv.csv", mode='w') as csv_output: # open csv writer
 	# iterate through EAD files
 	for file in ead_files:
 		# open xml parser
-		tree = ET.parse(f'data_received/LaborArchivesEADLinkedDataProject/{file}')
+		tree = ET.parse(f'{EAD_dir}/{file}')
 		root = tree.getroot()
 
-		# get origname
+		# get name of origination agent
 		origname = find_origname()
 		if origname == 'no origination name found': # if no origname found
-			print(file) # print so we know which file is getting skipped
+			print("SKIPPED: " + file) # print so we know which file is getting skipped
 			continue # skip the file
 
 		# look for Qid, if it already exists
-		Qid = find_Qid(origname)
+		Qid = find_Qid(origname, recon_csv)
 		csv_writer.writerow(['',f'{Qid}','','','','','','','',''])
 
 		unittitle = find_unittitle()
