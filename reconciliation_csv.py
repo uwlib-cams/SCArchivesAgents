@@ -1,23 +1,20 @@
-import xml.etree.ElementTree as ET
-import os
 import csv
+import os
+from sys import argv
+import xml.etree.ElementTree as ET
 
 """Functions"""
 
 def fix_spacing(elem):
 	"""Remove unnecessary spacing from original EAD"""
-	if elem == None:
-		pass
-	else:
-		elem_list = elem.split(' ')
-		content_list = []
-		for item in elem_list:
-			if item == '':
-				pass
-			else:
+	if elem != None:
+		elem_list = elem.split(' ') # split by space
+		content_list = [] # empty list
+		for item in elem_list: # iterate through words in original element
+			if item != '': # if it has characters in it, remove whitespace and add it to list
 				item = item.strip()
 				content_list.append(item)
-		elem = ' '.join(content_list)
+		elem = ' '.join(content_list) # condense list back into a single string
 	return elem
 
 def remove_marc_fields(elem):
@@ -33,81 +30,98 @@ def remove_marc_fields(elem):
 		elem = ' '.join(content_list) # join items in list back to one string
 	return elem
 
-def find_origination_name():
+def find_origname():
+	"""Look for corpname, persname, or famname as a child element of origination"""
 	origname_list = []
+	# look for corpname
 	for elem in root.findall('archdesc/did/origination/corpname'):
-		elem = elem.text
-		if elem == None:
-			pass
-		else:
-			origname_list.append(fix_spacing(elem))
+		elem = elem.text # convert to string
+		if elem != None:
+			elem = fix_spacing(elem)
+			elem = remove_marc_fields(elem)
+			origname_list.append(elem)
+	# look for persname
 	for elem in root.findall('archdesc/did/origination/persname'):
-		elem = elem.text
-		if elem == None:
-			pass
-		else:
-			origname_list.append(fix_spacing(elem))
+		elem = elem.text # convert to string
+		if elem != None:
+			elem = fix_spacing(elem)
+			elem = remove_marc_fields(elem)
+			origname_list.append(elem)
+	# look for famname
 	for elem in root.findall('archdesc/did/origination/famname'):
-		elem = elem.text
-		if elem == None:
-			pass
-		else:
-			origname_list.append(fix_spacing(elem))
-	origname = ' '.join(origname_list)
-	origname = origname.strip()
-	if origname == '':
-		origname = '(No origination name found.)'
-	else:
-		origname = remove_marc_fields(origname)
+		elem = elem.text # convert to string
+		if elem != None:
+			elem = fix_spacing(elem)
+			elem = remove_marc_fields(elem)
+			origname_list.append(elem)
+	origname = ' '.join(origname_list) # create single string out of all found names # only one name should be found, but keep all just in case
+	origname = origname.strip() # remove unnecessary whitespace
+	if origname == '': # if string is blank, i.e. no orignames were found
+		origname = 'no origination name found'
+	else: # if string is not blank, i.e. orignames were found
+		origname = remove_marc_fields(origname) # remove marc fields
 	return origname
 
 def find_unittitle():
+	"""Look for unittitle"""
 	for elem in root.findall('archdesc/did/unittitle'):
 		elem = fix_spacing(elem.text)
 		return elem
 
 def find_bioghist():
-	bioghist = ''
-	for elem in root.findall('archdesc/bioghist/*'):
+	"""Look for bioghist"""
+	bioghist = '' # empty string
+	for elem in root.findall('archdesc/bioghist/*'): # find values for child elements of bioghist, e.g. <p>
 		if elem.text != None:
 			elem = fix_spacing(elem.text)
-			if bioghist == '':
+			if bioghist == '': # if bioghist string is empty, add value
 				bioghist = bioghist + elem
-			else:
+			else: # if bioghist string is not empty, add value after new line
 				bioghist = bioghist + '\n\n' + elem
-	if bioghist == '':
-		for elem in root.findall('archdesc/bioghist'):
+	if bioghist == '': # bioghist string is still empty, i.e. no child elements found
+		for elem in root.findall('archdesc/bioghist'): # find values for bioghist itself
 			elem = fix_spacing(elem.text)
 			if elem != None:
-				if bioghist == '':
+				if bioghist == '': # if bioghist string is empty, add value
 					bioghist = bioghist + elem
-				else:
+				else: # if bioghist string is not empty, add value after new line
 					bioghist = bioghist + '\n\n' + elem
 	return bioghist
 
 ###
 
-ead_files = os.listdir('data_received/LaborArchivesEADLinkedDataProject')
+script, EAD_dir = argv
+# EAD_dir = directory containing EAD
 
-if not os.path.exists('reconciliation_csv.csv'):
+# put EAD files into a list
+ead_files = os.listdir(f'{EAD_dir}')
+
+if not os.path.exists('reconciliation_csv.csv'): # if output file does not exist, create it
 	os.system('touch reconciliation_csv.csv')
 
-with open(f"reconciliation_csv.csv", mode='w') as csv_output:
+with open(f"reconciliation_csv.csv", mode='w') as csv_output: # open csv writer
 	csv_writer = csv.writer(csv_output, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
-	# header row
+	# write header row
 	csv_writer.writerow(['origination_name','unittitle','bioghist'])
 
+	# iterate through EAD files
 	for file in ead_files:
+		# open xml parser
 		tree = ET.parse(f'data_received/LaborArchivesEADLinkedDataProject/{file}')
 		root = tree.getroot()
 
-		origname = find_origination_name()
+		# get name of origination agent
+		origname = find_origname()
+		if origname == 'no origination name found': # if no origname found
+			print("SKIPPED: " + file) # print so we know which file is getting skipped
+			continue # skip the file
+
 		unittitle = find_unittitle()
-		if unittitle == None: # no unittitle found
+		if unittitle == None: # if none found, make it an empty string
 			unittitle = ''
 		bioghist = find_bioghist()
-		if bioghist == None: # no bioghist
+		if bioghist == None:
 			bioghist = ''
 
 		csv_writer.writerow([f'{origname}',f'{unittitle}',f'{bioghist}'])
