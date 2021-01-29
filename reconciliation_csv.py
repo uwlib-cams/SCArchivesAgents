@@ -8,13 +8,9 @@ import xml.etree.ElementTree as ET
 def fix_spacing(elem):
 	"""Remove unnecessary spacing from original EAD"""
 	if elem != None:
-		elem_list = elem.split(' ') # split by space
-		content_list = [] # empty list
-		for item in elem_list: # iterate through words in original element
-			if item != '': # if it has characters in it, remove whitespace and add it to list
-				item = item.strip()
-				content_list.append(item)
-		elem = ' '.join(content_list) # condense list back into a single string
+		elem = elem.replace("\n", " ")
+		elem = elem.replace("\t", " ")
+		elem = elem.replace("     ", " ")
 	return elem
 
 def remove_marc_fields(elem):
