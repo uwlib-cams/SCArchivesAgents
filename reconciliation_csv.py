@@ -8,22 +8,21 @@ import xml.etree.ElementTree as ET
 def fix_spacing(elem):
 	"""Remove unnecessary spacing from original EAD"""
 	if elem != None:
-		elem = elem.replace("\n", " ")
-		elem = elem.replace("\t", " ")
-		elem = elem.replace("     ", " ")
+		elem = elem.replace("\n", " ") # remove newline
+		elem = elem.replace("\t", " ") # remove tab
+		elem = elem.replace("     ", " ") # remove remaining spaces
 	return elem
 
 def remove_marc_fields(elem):
 	"""Remove MARC fields from literals"""
-	if elem == None:
-		pass
-	elif '$' in elem:
-		elem_list = elem.split('$') # split by $ character
-		content_list = [] # empty list
-		content_list.append(elem_list[0]) # add first part of string to list
-		for item in elem_list[1:]: # iterate through remaining parts of string
-			content_list.append(item[1:]) # append to list without MARC field label
-		elem = ' '.join(content_list) # join items in list back to one string
+	if elem != None:
+		if '$' in elem:
+			elem_list = elem.split('$') # split by $ character
+			content_list = [] # empty list
+			content_list.append(elem_list[0]) # add first part of string to list
+			for item in elem_list[1:]: # iterate through remaining parts of string
+				content_list.append(item[1:]) # append to list without MARC field label
+			elem = ' '.join(content_list) # join items in list back to one string
 	return elem
 
 def find_origname():
