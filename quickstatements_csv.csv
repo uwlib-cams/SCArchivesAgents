@@ -1,6 +1,6 @@
 ,QID or create new,"Property (or label, alias, description)",Property value,Qualifier property,Qualifier value,Qualifier property,Qualifier value,Qualifier property,Qualifier value
 ,CREATE,,,,,,,,
-Label,LAST,Len,AFL-CIO. Region No. 9,,,,,,
+Label,LAST,Len,"""AFL-CIO. Region No. 9""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""AFL-CIO Region 9 records""",P217,"""5189""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AFL-CIORegion9_5189"""
 ,Q6411389,,,,,,,,
@@ -10,371 +10,371 @@ archives at,Q6411389,P485,Q22096098,P1810,"""King County Labor Council records""
 on focus list of Wikimedia project,Q7972255,P5008,Q98970039,,,,,,
 archives at,Q7972255,P485,Q22096098,P1810,"""AFL-CIO, Washington State Labor Council records""",P217,"""0450""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AFLCIOWashingtonStateLaborCouncil0450"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,A. Philip Randolph Institute. Seattle Chapter,,,,,,
+Label,LAST,Len,"""A. Philip Randolph Institute. Seattle Chapter""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""A. Philip Randolph Institute, Seattle Chapter records""",P217,"""5903""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/APhilipRandolphInstitute5903"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Allen, Al",,,,,,
+Label,LAST,Len,"""Allen, Al""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Al Allen collection on the International Longshore and Warehouse Union""",P217,"""6028""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AllenIntlLongshoreWarehouseUnion6028"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Amalgamated Transit Union. Local 587 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Amalgamated Transit Union. Local 587 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Amalgamated Transit Union, Local 587 records""",P217,"""5680""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmalgamatedTransitUnionLocal587Seattle5680"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"American Federation of Teachers. Local 1690 (Edmonds, Wash.)",,,,,,
+Label,LAST,Len,"""American Federation of Teachers. Local 1690 (Edmonds, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers, Local 1690 records""",P217,"""5890""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationOfTeachersLocal1690Edmonds5890"""
+archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers, Local 1690 records """,P217,"""5890""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationOfTeachersLocal1690Edmonds5890"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"American Federation of Teachers. Local 200 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""American Federation of Teachers. Local 200 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers, Local 200 Records""",P217,"""1909""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationTeachersLocal200_1909"""
+archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers, Local 200 Records """,P217,"""1909""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationTeachersLocal200_1909"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"American Federation of Teachers. Local 336 (Bremerton, Wash.)",,,,,,
+Label,LAST,Len,"""American Federation of Teachers. Local 336 (Bremerton, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers, Local 336 records""",P217,"""5715""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationTeachersLocal336_5715"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"American Federation of Teachers. Local 401 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""American Federation of Teachers. Local 401 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers Local 401 records""",P217,"""0616""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationTeachersLocal401_0616"""
+archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers Local 401 records """,P217,"""0616""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationTeachersLocal401_0616"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"American Federation of Teachers. Local 1789 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""American Federation of Teachers. Local 1789 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers, Local 1789 records""",P217,"""6111""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationofTeachersLocal1789_6111"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"American Federation of Teachers. Local 772 (Everett, Wash.)",,,,,,
+Label,LAST,Len,"""American Federation of Teachers. Local 772 (Everett, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers Local 772 records""",P217,"""3848""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationofTeachersLocalEverettWash3848"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,American Federation of Teachers. Local 1485 (Yakima Valley College),,,,,,
+Label,LAST,Len,"""American Federation of Teachers. Local 1485 (Yakima Valley College)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""American Federation of Teachers, Yakima Local 1485 records""",P217,"""4145""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AmericanFederationofTeachersLocalYakimaValleyCollege4145"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Andes, Henry",,,,,,
+Label,LAST,Len,"""Andes, Henry""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Henry Andes interview transcript""",P217,"""5371""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AndesHenry5371"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Apostolidis, Paul, 1965-",,,,,,
+Label,LAST,Len,"""Apostolidis, Paul, 1965-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Paul Apostolidis interviews and research materials on Pasco meatpacking plant workers""",P217,"""6284""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ApostolidisPaul6284"""
 ,Q16971094,,,,,,,,
 on focus list of Wikimedia project,Q16971094,P5008,Q98970039,,,,,,
 archives at,Q16971094,P485,Q22096098,P1810,"""Association of Western Pulp and Paper Workers records""",P217,"""2052""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/AssociationofWesternPulpandPaperWorkers2052"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Barnett, Eugene, 1892-1973",,,,,,
+Label,LAST,Len,"""Barnett, Eugene, 1892-1973""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Eugene Barnett oral history collection""",P217,"""4553""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BarnettEugene4553"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Bassett, Samuel B., 1896-1971",,,,,,
+Label,LAST,Len,"""Bassett, Samuel B., 1896-1971""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Samuel B. Bassett papers""",P217,"""1792""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BassettSamuelB1792"""
+archives at,LAST,P485,Q22096098,P1810,""" Samuel B. Bassett papers""",P217,"""1792""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BassettSamuelB1792"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Bates, Matthew C.",,,,,,
+Label,LAST,Len,"""Bates, Matthew C.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Matthew C. Bates papers""",P217,"""5782""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BatesMatthewC5782"""
+archives at,LAST,P485,Q22096098,P1810,"""Matthew C. Bates papers """,P217,"""5782""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BatesMatthewC5782"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Bell, S. Leonard",,,,,,
+Label,LAST,Len,"""Bell, S. Leonard""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""S. Leonard Bell papers""",P217,"""1649""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BellSLeonard1649"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Boschok, Jackie, 1952-",,,,,,
+Label,LAST,Len,"""Boschok, Jackie, 1952-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Jackie Boschok papers""",P217,"""5688""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BoschokJackie5688"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Brady, Jerry",,,,,,
+Label,LAST,Len,"""Brady, Jerry""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Jerry Brady papers""",P217,"""5964""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BradyJerry5964"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Brand Responsibility Project,,,,,,
+Label,LAST,Len,"""Brand Responsibility Project""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Brand Responsibility Project records""",P217,"""5683""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BrandResponsiblityProject5683"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Brotherhood of Railway and Steamship Clerks, Freight Handlers, Express, and Station Employes. Northern Pacific System Board of Adjustment. Tacoma Division",,,,,,
+Label,LAST,Len,"""Brotherhood of Railway and Steamship Clerks, Freight Handlers, Express, and Station Employes. Northern Pacific System Board of Adjustment. Tacoma Division""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Brotherhood of Railway and Steamship Clerks, Freight Handlers, Express, and Station Employees, Northern Pacific System Board of Adjustment Tacoma Division records""",P217,"""2275""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BrotherhoodofRailwayandSteamshipClerksFreightHandlersExpressandStationEmployesNorthernPacificSystemBoardofAdjustmentTacomaDivision2275"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Building & Construction Trades Council (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Building & Construction Trades Council (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Seattle Building & Construction Trades Council records""",P217,"""2299""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BuildingAndConstruction2299"""
+archives at,LAST,P485,Q22096098,P1810,"""Seattle Building & Construction Trades Council records """,P217,"""2299""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BuildingAndConstruction2299"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Building and Construction Trades Council of Bremerton and Vicinity,,,,,,
+Label,LAST,Len,"""Building and Construction Trades Council of Bremerton and Vicinity""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Building and Construction Trades Council of Bremerton and Vicinity records""",P217,"""6278""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BuildingConstructionTradesBremerton6278"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Building Service Employees' International Union. Local 6 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Building Service Employees' International Union. Local 6 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Building Service Employees' International Union, Local 6 records""",P217,"""3140""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BuildingServiceEmployeesInternationalUnionLocal6SeattleWash3140"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Bulosan, Aurelio",,,,,,
+Label,LAST,Len,"""Bulosan, Aurelio""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Aurelio Bulosan papers""",P217,"""2329""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BulosanAurelio2329"""
+archives at,LAST,P485,Q22096098,P1810,""" Aurelio Bulosan papers""",P217,"""2329""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BulosanAurelio2329"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Bulosan, Carlos",,,,,,
+Label,LAST,Len,"""Bulosan, Carlos""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Carlos Bulosan papers""",P217,"""0581""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BulosanCarlos0581"""
+archives at,LAST,P485,Q22096098,P1810,"""Carlos Bulosan papers """,P217,"""0581""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/BulosanCarlos0581"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Cannery Workers and Farm Laborers Union. Local 7 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Cannery Workers and Farm Laborers Union. Local 7 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Cannery Workers and Farm Laborers Union, Local 7 records""",P217,"""3927""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CanneryWorkersandFarmLaborersUnionLocal7SeattleWash3927"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Carr, Harry L.",,,,,,
+Label,LAST,Len,"""Carr, Harry L.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Harry L. Carr papers""",P217,"""2210""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CarrHarryL2210"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,CASA Latina,,,,,,
+Label,LAST,Len,"""CASA Latina""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""CASA Latina records""",P217,"""5975""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CasaLatina5975"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Castle, Del, 1915-2006",,,,,,
+Label,LAST,Len,"""Castle, Del, 1915-2006""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Del Castle papers""",P217,"""5730""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CastleDel5730"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Caughlan, John, 1909-1999",,,,,,
+Label,LAST,Len,"""Caughlan, John, 1909-1999""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""John Caughlan papers""",P217,"""0704""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CaughlanJohn0704"""
+archives at,LAST,P485,Q22096098,P1810,"""John Caughlan papers """,P217,"""0704""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CaughlanJohn0704"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Central Contractors Association,,,,,,
+Label,LAST,Len,"""Central Contractors Association""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Central Contractors Association records""",P217,"""1346""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CentralContractorsAssociation1346"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Clancy, Joseph,  -1973",,,,,,
+Label,LAST,Len,"""Clancy, Joseph,  -1973""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Joseph Clancy papers""",P217,"""2218""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ClancyJoseph2218"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Clifford, Bill (Labor activist)",,,,,,
+Label,LAST,Len,"""Clifford, Bill (Labor activist)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Bill Clifford audiocassettes of Ottilie Markholt's memorial""",P217,"""5949""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CliffordBill5949"""
+archives at,LAST,P485,Q22096098,P1810,"""Bill Clifford audiocassettes of Ottilie Markholt's memorial """,P217,"""5949""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CliffordBill5949"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Coder, Bob",,,,,,
+Label,LAST,Len,"""Coder, Bob""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Robert ""Bob"" Coder Lockheed Shipbuilding Company Lockout scrapbook""",P217,"""5711""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CoderBob5711"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Columna, Potenciano, 1905-1997",,,,,,
+Label,LAST,Len,"""Columna, Potenciano, 1905-1997""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Potenciano Parin Columna digitized scrapbook""",P217,"""5744""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ColumnaPotencianoParin5744"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Copeland, Tom, 1950-",,,,,,
+Label,LAST,Len,"""Copeland, Tom, 1950-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Tom Copeland research materials on Elmer Smith and the Centralia Tragedy""",P217,"""2021""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CopelandTom2021"""
+archives at,LAST,P485,Q22096098,P1810,"""Tom Copeland research materials on Elmer Smith and the Centralia Tragedy """,P217,"""2021""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CopelandTom2021"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Cornish, Megan",,,,,,
+Label,LAST,Len,"""Cornish, Megan""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Megan Cornish papers""",P217,"""6259""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CornishMegan6259"""
+archives at,LAST,P485,Q22096098,P1810,"""Megan Cornish papers """,P217,"""6259""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CornishMegan6259"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Corr, Cecilia, 1914-2006",,,,,,
+Label,LAST,Len,"""Corr, Cecilia, 1914-2006""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""William and Cecilia Corr papers""",P217,"""5501""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CorrCecilia5501"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Costantini, Peter",,,,,,
+Label,LAST,Len,"""Costantini, Peter""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Peter Costantini manuscript of ""The Whacking of Ship Scalers Local 541""""",P217,"""6216""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CostantiniLocal541_6216"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Coughlin, Gilbert",,,,,,
+Label,LAST,Len,"""Coughlin, Gilbert""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Gilbert Coughlin labor button collection""",P217,"""5708""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/CoughlinGilbert5708"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Daschbach, John S.",,,,,,
+Label,LAST,Len,"""Daschbach, John S.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""John S. Daschbach papers""",P217,"""3050""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DaschbachJohnS3050"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Deal, Clyde W.",,,,,,
+Label,LAST,Len,"""Deal, Clyde W.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Clyde W. Deal papers""",P217,"""1596""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DealClydeW1596"""
+archives at,LAST,P485,Q22096098,P1810,""" Clyde W. Deal papers""",P217,"""1596""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DealClydeW1596"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Deep Sea Fishermen's Union of the Pacific,,,,,,
+Label,LAST,Len,"""Deep Sea Fishermen's Union of the Pacific""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Deep Sea Fishermen's Union of the Pacific records""",P217,"""6144""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/filename"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Dennett, Eugene V., 1908-",,,,,,
+Label,LAST,Len,"""Dennett, Eugene V., 1908-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Eugene V. Dennett papers""",P217,"""3917""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DennettEugeneV3917"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Domingo, Cindy",,,,,,
+Label,LAST,Len,"""Domingo, Cindy""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Cindy Domingo papers""",P217,"""5651""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DomingoCindy5651"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Donahoe, Ed",,,,,,
+Label,LAST,Len,"""Donahoe, Ed""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Oral history interview with Ed Donahoe""",P217,"""2073""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DonahoeEd2073"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Douglas, Jim 1946-2017",,,,,,
+Label,LAST,Len,"""Douglas, Jim 1946-2017""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Jim Douglas papers""",P217,"""5906""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DouglasJames5906"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Duggan, Robert D., 1932-",,,,,,
+Label,LAST,Len,"""Duggan, Robert D., 1932-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Robert Duggan papers""",P217,"""5677""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DugganRobertD5677"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Durham, Heidi",,,,,,
+Label,LAST,Len,"""Durham, Heidi""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Heidi Durham papers and oral history interviews""",P217,"""6264""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/DurhamHeidi6264"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Elkins, Morris",,,,,,
+Label,LAST,Len,"""Elkins, Morris""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Morris Elkins papers""",P217,"""4087""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ElkinsMorris4087"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Everett Education Association (Everett, Wash.)",,,,,,
+Label,LAST,Len,"""Everett Education Association (Everett, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Everett Education Association records""",P217,"""3849""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/EverettEducationAssociation3849"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Eyer, John H.,  -1986",,,,,,
+Label,LAST,Len,"""Eyer, John H.,  -1986""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""John H. Eyer papers""",P217,"""3932""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/EyerJohnH3932"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Eyer, Rosa M., 1910-1997",,,,,,
+Label,LAST,Len,"""Eyer, Rosa M., 1910-1997""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Rosa M. Eyer papers""",P217,"""6178""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/EyerRosaM6178"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Familias Unidas por la Justicia,,,,,,
+Label,LAST,Len,"""Familias Unidas por la Justicia""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Familias Unidas por la Justicia records and ephemera""",P217,"""6251""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FamiliasUnidasporlaJusticia6251"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Farmers' Union (Walla Walla, Washington Territory)",,,,,,
+Label,LAST,Len,"""Farmers' Union (Walla Walla, Washington Territory)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Farmers' Union records""",P217,"""4724""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FarmersUnionWallaWallaWashingtonTerritory4724"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Flynn, Leo F., 1885-",,,,,,
+Label,LAST,Len,"""Flynn, Leo F., 1885-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Leo F. Flynn papers""",P217,"""1540""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FlynnLeoF1540"""
+archives at,LAST,P485,Q22096098,P1810,""" Leo F. Flynn papers""",P217,"""1540""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FlynnLeoF1540"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Fox, Michael J. (Michael James), 1944-",,,,,,
+Label,LAST,Len,"""Fox, Michael J. (Michael James), 1944-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Michael Fox papers""",P217,"""5926""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FoxMichael5926"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Frank, Dana",,,,,,
+Label,LAST,Len,"""Frank, Dana""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Dana Frank ephemera collection on Seattle labor and women's activism""",P217,"""6288""",P973,""""""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Fraser, Clara, 1923-1998",,,,,,
+Label,LAST,Len,"""Fraser, Clara, 1923-1998""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Clara Fraser papers""",P217,"""3187""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FraserClara3187"""
 ,Q4411098,,,,,,,,
 on focus list of Wikimedia project,Q4411098,P5008,Q98970039,,,,,,
 archives at,Q4411098,P485,Q22096098,P1810,"""Freedom Socialist Party National Office (Seattle) records""",P217,"""6293""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FreedomSocialistPartyNationalOffice6293"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Freese, James (Labor organizer)",,,,,,
+Label,LAST,Len,"""Freese, James (Labor organizer)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""James Freese papers""",P217,"""6287""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FreeseJames6287"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Friedheim, Robert L.",,,,,,
+Label,LAST,Len,"""Friedheim, Robert L.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Robert Friedheim Seattle General Strike Collection""",P217,"""0094""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/FriedheimRobertL0094"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Gallacci, John",,,,,,
+Label,LAST,Len,"""Gallacci, John""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""John Gallacci papers""",P217,"""5785""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GallacciJohn5785"""
+archives at,LAST,P485,Q22096098,P1810,"""John Gallacci papers """,P217,"""5785""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GallacciJohn5785"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"George, Earl, 1894-1985",,,,,,
+Label,LAST,Len,"""George, Earl, 1894-1985""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Earl George papers and photographs""",P217,"""5910""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GeorgeEarl5910"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Gibson, Harold J., 1913-1984",,,,,,
+Label,LAST,Len,"""Gibson, Harold J., 1913-1984""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Harold J. Gibson papers""",P217,"""5866""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GibsonHaroldJ5866"""
+archives at,LAST,P485,Q22096098,P1810,"""Harold J. Gibson papers """,P217,"""5866""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GibsonHaroldJ5866"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Gilman, Herman",,,,,,
+Label,LAST,Len,"""Gilman, Herman""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Herman Gilman collection on farmworker organizing in Washington state""",P217,"""5951""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GilmanHerman5951"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Gorman, Robert, 1953 February 11-",,,,,,
+Label,LAST,Len,"""Gorman, Robert, 1953 February 11-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Robert ""Bob"" Gorman papers""",P217,"""5710""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GormanRobert5710"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Graphic Communications International Union. Local 767M (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Graphic Communications International Union. Local 767M (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Graphic Communications International Union, Local 767M records""",P217,"""5644""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GraphicCommunicationsInternationalUnionLocal767M5644"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Guillén, Rosalinda, 1950?-",,,,,,
+Label,LAST,Len,"""Guillén, Rosalinda, 1950?-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Guide to the Rosalinda Guillén and Joseph Moore papers""",P217,"""5799""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/Guillen_Moore5799"""
+archives at,LAST,P485,Q22096098,P1810,"""Guide to the Rosalinda Guillén and Joseph Moore papers """,P217,"""5799""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/Guillen_Moore5799"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Gundlach, Jean",,,,,,
+Label,LAST,Len,"""Gundlach, Jean""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Jean Gundlach papers""",P217,"""5207""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GundlachJean5207"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Gurtiza, Richard",,,,,,
+Label,LAST,Len,"""Gurtiza, Richard""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Richard Gurtiza collection on Asian Pacific American Labor Alliance""",P217,"""6161""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/GurtizaRichardAPALA6161"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Hammer, George, 1950-",,,,,,
+Label,LAST,Len,"""Hammer, George, 1950-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""George Hammer papers""",P217,"""6276""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/HammerGeorge6276"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Harry Bridges Center for Labor Studies (University of Washington),,,,,,
+Label,LAST,Len,"""Harry Bridges Center for Labor Studies (University of Washington)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Harry Bridges Center for Labor Studies Union Charters collection""",P217,"""5725""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/HarryBridgesCenterLaborStudies5725"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Hatten, Barry, 1917-2008",,,,,,
+Label,LAST,Len,"""Hatten, Barry, 1917-2008""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""C. T. (Barry) Hatten papers""",P217,"""5583""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/HattenCanterburyTheodore5583"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Hopkinson, E. William, 1875-1956",,,,,,
+Label,LAST,Len,"""Hopkinson, E. William, 1875-1956""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Microfilm of E. William Hopkinson papers""",P217,"""0462""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/HopkinsonEWilliam0462"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Hopkinson, Mary, 1880-1970",,,,,,
+Label,LAST,Len,"""Hopkinson, Mary, 1880-1970""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Mary Hopkinson papers""",P217,"""3163""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/HopkinsonMary3163"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Huff, Henry P.",,,,,,
+Label,LAST,Len,"""Huff, Henry P.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Henry P. Huff papers""",P217,"""1499""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/HuffHenryP1499"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,International Association of Machinists and Aerospace Workers. District Lodge 751,,,,,,
+Label,LAST,Len,"""International Association of Machinists and Aerospace Workers. District Lodge 751""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Association of Machinists and Aerospace Workers District Lodge 751 records""",P217,"""6182""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IAMAW751_6182"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,International Association of Machinists and Aerospace Workers. Lodge 751-A,,,,,,
+Label,LAST,Len,"""International Association of Machinists and Aerospace Workers. Lodge 751-A""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Association of Machinists and Aerospace Workers, Lodge 751-A records""",P217,"""6186""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IAMAW751_A_6186"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Brotherhood of Electrical Workers. Local 46 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""International Brotherhood of Electrical Workers. Local 46 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Brotherhood of Electrical Workers, Local 46 records""",P217,"""5739""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IBEWLocal46_5739"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Brotherhood of Electrical Workers. Local 77 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""International Brotherhood of Electrical Workers. Local 77 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Brotherhood of Electrical Workers, Local 77 records""",P217,"""5569""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IBEWLocal77_5569"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Pacific Coast Pensioners Association. Oral History Committee,,,,,,
+Label,LAST,Len,"""Pacific Coast Pensioners Association. Oral History Committee""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Oral history interviews of the International Longshore and Warehouse Union, Pacific Coast Pensioners Association Oral History Project""",P217,"""6194""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ILWU_PCPAOralHistoryProject6194"""
 ,Q1137514,,,,,,,,
 on focus list of Wikimedia project,Q1137514,P5008,Q98970039,,,,,,
 archives at,Q1137514,P485,Q22096098,P1810,"""Independent Media Center materials regarding the WTO 1999 Seattle Ministerial Conference protests""",P217,"""5848""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IndependentMediaCenter5848"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Industrial Workers of the World. California Office,,,,,,
+Label,LAST,Len,"""Industrial Workers of the World. California Office""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Industrial Workers of the World California Office records""",P217,"""4762""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IndustrialWorkersWorldCaliforniaOffice4762"""
+archives at,LAST,P485,Q22096098,P1810,"""Industrial Workers of the World California Office records """,P217,"""4762""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IndustrialWorkersWorldCaliforniaOffice4762"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Instructors' Association (University of Washington),,,,,,
+Label,LAST,Len,"""Instructors' Association (University of Washington)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Instructors' Association records""",P217,"""5065""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InstructorsAssociation5065"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Association of Machinists and Aerospace Workers. Lodge 751-E (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""International Association of Machinists and Aerospace Workers. Lodge 751-E (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Association of Machinists and Aerospace Workers, Lodge 751E records""",P217,"""5818""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IntAssocMachinistsAerospaceWorkersLocal751E5818"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Association of Machinists. Hope Lodge 79 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""International Association of Machinists. Hope Lodge 79 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Association of Machinists Hope Lodge 79 records""",P217,"""0093""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InternationalAssociationofMachinistsHopeLodge79SeattleWash0093"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Brotherhood of Boilermakers, Iron Shipbuilders, Blacksmiths, Forgers, and Helpers of America. Local 104 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""International Brotherhood of Boilermakers, Iron Shipbuilders, Blacksmiths, Forgers, and Helpers of America. Local 104 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Brotherhood of Boilermakers, Iron Shipbuilders, Blacksmiths, Forgers, and Helpers of America, Local 104 (Seattle, Washington) records""",P217,"""1409""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InternationalBrotherhoodofBoilerMakersIronShipBuildersandHelpersofAmericaLocalSeattleWash1409"""
 ,Q655029,,,,,,,,
 on focus list of Wikimedia project,Q655029,P5008,Q98970039,,,,,,
 archives at,Q655029,P485,Q22096098,P1810,"""International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America records""",P217,"""3235""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InternationalBrotherhoodofTeamstersChauffeursWarehousemenandHelpersofAmerica3235"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Longshoremen's and Warehousemen's Union. Fishermen and Allied Workers Division. Local 3 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""International Longshoremen's and Warehousemen's Union. Fishermen and Allied Workers Division. Local 3 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Longshoremen's and Warehousemen's Union Fishermen and Allied Workers Division Local 3 records""",P217,"""3466""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InternationalLongshoremensandWarehousemensUnionFishermenandAlliedWorkersDivisionLocal3SeattleWash3466"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Longshoremen's and Warehousemen's Union. Local 1 (Raymond, Wash.)",,,,,,
+Label,LAST,Len,"""International Longshoremen's and Warehousemen's Union. Local 1 (Raymond, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Longshoremen's and Warehousemen's Union Local 1 records""",P217,"""4307""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InternationalLongshoremensandWarehousemensUnionLocal4307"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Organization of Masters, Mates, and Pilots. Local 6",,,,,,
+Label,LAST,Len,"""International Organization of Masters, Mates, and Pilots. Local 6""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Organization of Masters, Mates and Pilots, Local 6 records""",P217,"""1874""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InternationalOrganizationofMastersMatesandPilotsLocal6_1874"""
 ,Q6054069,,,,,,,,
@@ -384,459 +384,459 @@ archives at,Q6054069,P485,Q22096098,P1810,"""International Typographical Union r
 on focus list of Wikimedia project,Q6054300,P5008,Q98970039,,,,,,
 archives at,Q6054300,P485,Q22096098,P1810,"""International Woodworkers of America records""",P217,"""4000""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InternationalWoodworkersAmerica4000"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Woodworkers of America. Local 3-101 (Everett, Wash.)",,,,,,
+Label,LAST,Len,"""International Woodworkers of America. Local 3-101 (Everett, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Woodworkers of America Local 3-101 records""",P217,"""3120""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/InternationalWoodworkersAmericaEverettWash3120"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,International Longshoremen's and Warehousemen's Union. Local 9,,,,,,
+Label,LAST,Len,"""International Longshoremen's and Warehousemen's Union. Local 9""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Longshoremen's and Warehousemen's Union, Local 9 records""",P217,"""5809""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IntlLongshoremensandWarehousemensUnionLocal9_5809"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Union of Mine, Mill, and Smelter Workers. Local 25 (Tacoma, Wash.)",,,,,,
+Label,LAST,Len,"""International Union of Mine, Mill, and Smelter Workers. Local 25 (Tacoma, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""International Union of Mine, Mill and Smelter Workers, Local 25 records""",P217,"""1608""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IntlUnionMineMillSmelterWorkers_Local25_1608"""
+archives at,LAST,P485,Q22096098,P1810,"""International Union of Mine, Mill and Smelter Workers, Local 25 records """,P217,"""1608""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/IntlUnionMineMillSmelterWorkers_Local25_1608"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Johnson, Gordon",,,,,,
+Label,LAST,Len,"""Johnson, Gordon""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Gordon Johnson papers""",P217,"""6171""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/JohnsonGordon6171"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Johnston, Bill (Union organizer)",,,,,,
+Label,LAST,Len,"""Johnston, Bill (Union organizer)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Bill Johnston papers""",P217,"""6235""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/JohnstonBill6235"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Katipunan Ng Mga Demokratikong Pilipino,,,,,,
+Label,LAST,Len,"""Katipunan Ng Mga Demokratikong Pilipino""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Katipunan ng mga Demokratikong Pilipino (KDP) [Union of Democratic Filipinos] records""",P217,"""5889""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KatipunanDemokratikongPilipino5889"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Keller, David (David E.)",,,,,,
+Label,LAST,Len,"""Keller, David (David E.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""David Keller Papers""",P217,"""5321""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KellerDavid5321"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Kelsey, Norma L.",,,,,,
+Label,LAST,Len,"""Kelsey, Norma L.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Norma L. Kelsey papers""",P217,"""6231""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KelseyNormaL6231"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"King County Nurses Association (King County, Wash.)",,,,,,
+Label,LAST,Len,"""King County Nurses Association (King County, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""King County Nurses Association records""",P217,"""3049""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KingCountyNursesAssociationKingCountyWash3049"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Kolloen, Peter",,,,,,
+Label,LAST,Len,"""Kolloen, Peter""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Peter Kolloen collection on Elias ""Dutch"" Shultz""",P217,"""6027""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KolloenPetercollection6027"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Krasnowsky, Frank",,,,,,
+Label,LAST,Len,"""Krasnowsky, Frank""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Frank Krasnowsky papers""",P217,"""5876""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KrasnowskyFrank5876"""
+archives at,LAST,P485,Q22096098,P1810,"""Frank Krasnowsky papers """,P217,"""5876""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/KrasnowskyFrank5876"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Lambert, George W., -1971",,,,,,
+Label,LAST,Len,"""Lambert, George W., -1971""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""George Lambert recordings""",P217,"""5830""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LambertGeorge"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Lannge, Nils, 1906-1995",,,,,,
+Label,LAST,Len,"""Lannge, Nils, 1906-1995""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Nils and Evelyn Lannge papers""",P217,"""5828""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LanngeNilsEvelyn5828"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Ledwich, Leo L.",,,,,,
+Label,LAST,Len,"""Ledwich, Leo L.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Leo L. Ledwich papers""",P217,"""4061""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LedwichLeoL4061"""
 ,Q27991542,,,,,,,,
 on focus list of Wikimedia project,Q27991542,P5008,Q98970039,,,,,,
 archives at,Q27991542,P485,Q22096098,P1810,"""Left Bank Books Collective records""",P217,"""6272""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LeftBankBooksCollective6272"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Lelli, Phil, 1929-2004",,,,,,
+Label,LAST,Len,"""Lelli, Phil, 1929-2004""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Phil Lelli papers""",P217,"""5536""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LelliPhil5536"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Lembcke, Jerry, 1943-",,,,,,
+Label,LAST,Len,"""Lembcke, Jerry, 1943-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Jerry Lembcke papers""",P217,"""5796""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LembckeJerry5796"""
+archives at,LAST,P485,Q22096098,P1810,"""Jerry Lembcke papers """,P217,"""5796""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LembckeJerry5796"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Litchman, Claire",,,,,,
+Label,LAST,Len,"""Litchman, Claire""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Claire Litchman papers""",P217,"""3872""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LitchmanClaire3872"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Loewe, R. (Rheinhold)",,,,,,
+Label,LAST,Len,"""Loewe, R. (Rheinhold)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Rheinhold Loewe papers""",P217,"""5421""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/LoeweRRheinhold5421"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Magden, Ronald",,,,,,
+Label,LAST,Len,"""Magden, Ronald""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Ronald Magden papers""",P217,"""5185""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MagdenRonald5185"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Major, Adolph",,,,,,
+Label,LAST,Len,"""Major, Adolph""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Adolph Major collection""",P217,"""5712""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MajorAdolph5712"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Maloney, Shaun, 1911-1999",,,,,,
+Label,LAST,Len,"""Maloney, Shaun, 1911-1999""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Shaun Maloney papers""",P217,"""5255""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MaloneyShaun5255_1"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Maritime Federation of the Pacific Coast,,,,,,
+Label,LAST,Len,"""Maritime Federation of the Pacific Coast""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Maritime Federation of the Pacific Coast convention reports""",P217,"""0789""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MaritimeFederationPacificCoast0789"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Markholt, Ottilie",,,,,,
+Label,LAST,Len,"""Markholt, Ottilie""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Ottilie Markholt papers""",P217,"""4191""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MarkholtOttilie4191"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Marmot, Inc. (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Marmot, Inc. (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Marmot, Inc. records""",P217,"""6163""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MarmotInc6163"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Mason, Nancy",,,,,,
+Label,LAST,Len,"""Mason, Nancy""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Nancy Mason papers""",P217,"""6055""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MasonNancy6055"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Meehan, Matthew, 1896-1977",,,,,,
+Label,LAST,Len,"""Meehan, Matthew, 1896-1977""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Matthew Meehan scrapbook on maritime labor history""",P217,"""6281""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MeehanMatthew6281"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Mendelsohn, Peter Patrick",,,,,,
+Label,LAST,Len,"""Mendelsohn, Peter Patrick""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Peter Patrick Mendelsohn papers""",P217,"""1285""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MendelsohnPeterPatrick1285"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Miller, Charles A.",,,,,,
+Label,LAST,Len,"""Miller, Charles A.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Charles Al Miller papers""",P217,"""5966""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MillerCharlesAl5966"""
+archives at,LAST,P485,Q22096098,P1810,"""Charles Al Miller papers """,P217,"""5966""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MillerCharlesAl5966"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Miller, Elmer, 1898-1978",,,,,,
+Label,LAST,Len,"""Miller, Elmer, 1898-1978""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Elmer Miller papers""",P217,"""1086""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MillerElmer0808_1086"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Miller, J. L. (John Leonard)",,,,,,
+Label,LAST,Len,"""Miller, J. L. (John Leonard)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""John Leonard Miller papers and oral history interview""",P217,"""2240""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MillerJL2240"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Mink, Art",,,,,,
+Label,LAST,Len,"""Mink, Art""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Art Mink papers""",P217,"""1195""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MinkArt1195"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Moisio, Wayne",,,,,,
+Label,LAST,Len,"""Moisio, Wayne""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Wayne ""Waino"" Moisio papers""",P217,"""5726""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MoisioWayne5726"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Moving Images Video Project (Organization),,,,,,
+Label,LAST,Len,"""Moving Images Video Project (Organization)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Moving Images Video Project collection""",P217,"""6325""",P973,""""""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Musicians' Association of Seattle,,,,,,
+Label,LAST,Len,"""Musicians' Association of Seattle""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Musicians’ Association of Seattle, American Federation of Musicians Local 76-493 records""",P217,"""5685""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MusiciansAssociationofSeattle5685"""
+archives at,LAST,P485,Q22096098,P1810,""" Musicians’ Association of Seattle, American Federation of Musicians Local 76-493 records""",P217,"""5685""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/MusiciansAssociationofSeattle5685"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,National Marine Engineers' Beneficial Association (U.S.),,,,,,
+Label,LAST,Len,"""National Marine Engineers' Beneficial Association (U.S.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""National Marine Engineers' Beneficial Association records""",P217,"""0512""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/NationalMarineEngineersBeneficialAssociationUS0512"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Nelson, Lonnie, 1932-2014",,,,,,
+Label,LAST,Len,"""Nelson, Lonnie, 1932-2014""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Lonnie Nelson papers""",P217,"""5826""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/NelsonLonnie5826"""
+archives at,LAST,P485,Q22096098,P1810,"""Lonnie Nelson papers """,P217,"""5826""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/NelsonLonnie5826"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Neylan, Mickey",,,,,,
+Label,LAST,Len,"""Neylan, Mickey""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Mickey Neylan papers""",P217,"""4518""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/NeylanMickey4518"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"O'Connor, Harvey, 1897-1987",,,,,,
+Label,LAST,Len,"""O'Connor, Harvey, 1897-1987""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Harvey O'Connor papers""",P217,"""3799""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/OConnorHarvey3799"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Office and Professional Employees International Union. Local 23 (Tacoma, Wash.)",,,,,,
+Label,LAST,Len,"""Office and Professional Employees International Union. Local 23 (Tacoma, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Office and Professional Employees International Union, Local 23 records""",P217,"""6202""",P973,""""""
+archives at,LAST,P485,Q22096098,P1810,"""Office and Professional Employees International Union, Local 23 records """,P217,"""6202""",P973,""""""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"O'Reilly, Claude",,,,,,
+Label,LAST,Len,"""O'Reilly, Claude""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Claude O'Reilly Scrapbook of American Federation of Labor Annual Convention in Seattle""",P217,"""6328""",P973,""""""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Office and Professional Employees International Union. Local 8 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Office and Professional Employees International Union. Local 8 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Office and Professional Employees International Union, Local 8 records""",P217,"""3185""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/OfficeAndProfessionalEmployeesInternationalUnionLocal8_3185"""
+archives at,LAST,P485,Q22096098,P1810,"""Office and Professional Employees International Union, Local 8 records """,P217,"""3185""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/OfficeAndProfessionalEmployeesInternationalUnionLocal8_3185"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Olson, David J., 1941-2012",,,,,,
+Label,LAST,Len,"""Olson, David J., 1941-2012""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""David Olson papers""",P217,"""5672""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/uarchives/OlsonDavidJUA5672"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Seattle Opportunities Industrialization Center,,,,,,
+Label,LAST,Len,"""Seattle Opportunities Industrialization Center""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Opportunities Industrialization Center records""",P217,"""4055""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/OpportunitiesIndustrializationCenterSeattleWash4055"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Pacific Coast Pensioners Association,,,,,,
+Label,LAST,Len,"""Pacific Coast Pensioners Association""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Pacific Coast Pensioners Association photographs""",P217,"""5676""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/PacificCoastPensionersAssociationILWULocalRaymondWash5676"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Pacific Northwest Labor History Association,,,,,,
+Label,LAST,Len,"""Pacific Northwest Labor History Association""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Pacific Northwest Labor History Association records""",P217,"""4552""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/PacificNorthwestLaborHistoryAssociation4552"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Palmer, Douglas Shaw",,,,,,
+Label,LAST,Len,"""Palmer, Douglas Shaw""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Douglas Shaw Palmer manuscript on Sidney Gerber""",P217,"""5780""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/PalmerDouglasShaw5780"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Parks, Norman B.",,,,,,
+Label,LAST,Len,"""Parks, Norman B.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Norman Parks papers""",P217,"""5967""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ParksNorman5967"""
+archives at,LAST,P485,Q22096098,P1810,"""Norman Parks papers """,P217,"""5967""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ParksNorman5967"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Parry, Will (Labor activist)",,,,,,
+Label,LAST,Len,"""Parry, Will (Labor activist)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Will Parry papers""",P217,"""5316""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ParryWill5316"""
+archives at,LAST,P485,Q22096098,P1810,"""Will Parry papers """,P217,"""5316""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ParryWill5316"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Pierce County Central Labor Council (Wash.),,,,,,
+Label,LAST,Len,"""Pierce County Central Labor Council (Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Pierce County Central Labor Council records""",P217,"""2882""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/PierceCountyCentralLaborCouncilWash2882"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Pitharoulis, Cae",,,,,,
+Label,LAST,Len,"""Pitharoulis, Cae""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Cae Pitharoulis Manuscript and Computer Discs of ""A Personal Report""""",P217,"""5829""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/PitharoulisCae5829"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Puget Sound Advocates for Retirement Action,,,,,,
+Label,LAST,Len,"""Puget Sound Advocates for Retirement Action""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Puget Sound Advocates for Retirement Action records""",P217,"""5803""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/PugetSoundCouncilRetiredCitizens5803"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,RIDGE (Organization),,,,,,
+Label,LAST,Len,"""RIDGE (Organization)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""RIDGE records""",P217,"""6295""",P973,""""""
 ,Q7280468,,,,,,,,
 on focus list of Wikimedia project,Q7280468,P5008,Q98970039,,,,,,
 archives at,Q7280468,P485,Q22096098,P1810,"""Radical Women National Office (Seattle) records""",P217,"""6291""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RadicalWomen6291"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Radical Women. Seattle Office,,,,,,
+Label,LAST,Len,"""Radical Women. Seattle Office""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Radical Women Seattle Office records""",P217,"""6292""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RadicalWomenSeattle6292"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Ranta, Toivo",,,,,,
+Label,LAST,Len,"""Ranta, Toivo""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Toivo Ranta photographs and papers""",P217,"""6219""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RantaToivo6219"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Retail Clerks International Protective Association. Local 186 (Enumclaw, Wash.)",,,,,,
+Label,LAST,Len,"""Retail Clerks International Protective Association. Local 186 (Enumclaw, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Retail Clerks International Protective Association minutes""",P217,"""5402""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RetailClerksInternationalProtectiveAssociationLocalEnumclawWash5402"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Rice, Rick, 1940-",,,,,,
+Label,LAST,Len,"""Rice, Rick, 1940-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Rick Rice papers""",P217,"""5827""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RiceRick5827"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Rieder, Ross K.",,,,,,
+Label,LAST,Len,"""Rieder, Ross K.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Ross Rieder Audio and Video Collection""",P217,"""5930""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RiederRoss5930"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Rivera, Guillermo",,,,,,
+Label,LAST,Len,"""Rivera, Guillermo""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Guillermo ""Memo"" Rivera collection of SEIU 775 and Working Washington records""",P217,"""5893""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RiveraGuillermo5893"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Robin, Joshua",,,,,,
+Label,LAST,Len,"""Robin, Joshua""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Joshua Robin papers""",P217,"""5305""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RobinJoshua5305"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Rojo, Trinidad",,,,,,
+Label,LAST,Len,"""Rojo, Trinidad""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Trinidad Rojo papers""",P217,"""3586""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RojoTrinidad3586"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Rosenblum, Jonathan, 1961-",,,,,,
+Label,LAST,Len,"""Rosenblum, Jonathan, 1961-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Jonathan Rosenblum papers""",P217,"""5719""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/RosenblumJonathanD5719"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Schwantes, Carlos A., 1945-",,,,,,
+Label,LAST,Len,"""Schwantes, Carlos A., 1945-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Carlos A. Schwantes papers""",P217,"""2619""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SchwantesCarlosA2619"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Scott, Tyree, 1940-2003",,,,,,
+Label,LAST,Len,"""Scott, Tyree, 1940-2003""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Tyree Scott papers""",P217,"""5245""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ScottTyree5245"""
 ,Q22096098,,,,,,,,
 on focus list of Wikimedia project,Q22096098,P5008,Q98970039,,,,,,
 archives at,Q22096098,P485,Q22096098,P1810,"""SeaTac Seattle Minimum Wage History Project records""",P217,"""6025""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SeaTacSeattleMinimumWageProject6025"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Searles, Gordon",,,,,,
+Label,LAST,Len,"""Searles, Gordon""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Gordon Searles collection on Washington State Printers' lockout""",P217,"""6280""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SearlesGordan6280"""
 ,Q7442083,,,,,,,,
 on focus list of Wikimedia project,Q7442083,P5008,Q98970039,,,,,,
 archives at,Q7442083,P485,Q22096098,P1810,"""Seattle Civil Rights and Labor History Project records""",P217,"""5571""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SeattleCivilRightsandLaborHistoryProject5571"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Seattle Education Association,,,,,,
+Label,LAST,Len,"""Seattle Education Association""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Seattle Education Association records""",P217,"""4217""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SeattleEducationAssociation4217"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Seattle Teachers' Association (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Seattle Teachers' Association (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Seattle Teachers' Association records""",P217,"""1402""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SeattleTeachersAssociationSeattleWash1402"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Seattle Union Record (Seattle, Wash. : 1918)",,,,,,
+Label,LAST,Len,"""Seattle Union Record (Seattle, Wash. : 1918)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Seattle Union Record business records""",P217,"""4312""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SeattleUnionRecord4312"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Seattle Worker Center,,,,,,
+Label,LAST,Len,"""Seattle Worker Center""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Seattle Worker Center records""",P217,"""5570""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SeattleWorkerCenter5570"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Service Employees International Union. Local 120 (Everett, Wash)",,,,,,
+Label,LAST,Len,"""Service Employees International Union. Local 120 (Everett, Wash)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Service Employees International Union, Local 120 records""",P217,"""5576""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ServiceEmployeesInternationalUnionLocal120EverettWash5576"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Ship Scalers, Dry Dock, and Boat Yard Workers Union, Local 541 (Seattle, Washington)",,,,,,
+Label,LAST,Len,"""Ship Scalers, Dry Dock, and Boat Yard Workers Union, Local 541 (Seattle, Washington)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Ship Scalers Dry Dock and Boat Yard Workers Union, Local 541 Records""",P217,"""4571""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ShipScalersDryDockandBoatYardWorkersUnion4571"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Simer, Jeremy",,,,,,
+Label,LAST,Len,"""Simer, Jeremy""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Jeremy Simer papers""",P217,"""5142""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SimerJeremy5142"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Simpson, Roger, 1937-",,,,,,
+Label,LAST,Len,"""Simpson, Roger, 1937-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Roger A. Simpson papers""",P217,"""4165""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/uarchives/SimpsonRogerUA4165"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Sims, Beverly E.",,,,,,
+Label,LAST,Len,"""Sims, Beverly E.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Beverly Sims papers""",P217,"""6203""",P973,""""""
+archives at,LAST,P485,Q22096098,P1810,"""Beverly Sims papers """,P217,"""6203""",P973,""""""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Skowronek (Family : Emil Skowronek : 1920-1979),,,,,,
+Label,LAST,Len,"""Skowronek (Family : Emil Skowronek : 1920-1979)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Skowronek Family papers""",P217,"""5849""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SkowronekFamily5849"""
+archives at,LAST,P485,Q22096098,P1810,"""Skowronek Family papers """,P217,"""5849""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SkowronekFamily5849"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Smith, James M., 1949-",,,,,,
+Label,LAST,Len,"""Smith, James M., 1949-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""James M. Smith audio recordings and papers""",P217,"""6211""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SmithJamesM6211"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Socialist Labor Party (Wash.). Seattle Section,,,,,,
+Label,LAST,Len,"""Socialist Labor Party (Wash.). Seattle Section""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Socialist Labor Party Seattle Section records""",P217,"""3180""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SocialistLaborPartyWashSeattleSection3180"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Starkovich, George",,,,,,
+Label,LAST,Len,"""Starkovich, George""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""George Starkovich ephemera collection""",P217,"""0305""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/StarkovichGeorge0305"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Stedman, Vernon R.",,,,,,
+Label,LAST,Len,"""Stedman, Vernon R.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Vernon R. Stedman Papers""",P217,"""4661""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/StedmanVernon4661"""
+archives at,LAST,P485,Q22096098,P1810,"""Vernon R. Stedman Papers """,P217,"""4661""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/StedmanVernon4661"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Stein, Ben, approximately 1890-",,,,,,
+Label,LAST,Len,"""Stein, Ben, approximately 1890-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Ben Stein papers""",P217,"""1916""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/SteinBen1916"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Stone, Jen",,,,,,
+Label,LAST,Len,"""Stone, Jen""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Jen Stone WTO Seattle Protests collection""",P217,"""6225""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/StoneJenProtestsCo6225"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Tacoma Civic Ballet,,,,,,
+Label,LAST,Len,"""Tacoma Civic Ballet""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Tacoma Civic Ballet records""",P217,"""5943""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/TacomaCivicBallet5943"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Temcov, Joanne L. (Joanne Little)",,,,,,
+Label,LAST,Len,"""Temcov, Joanne L. (Joanne Little)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Joanne Temcov papers""",P217,"""6040""",P973,""""""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Thode, Kay",,,,,,
+Label,LAST,Len,"""Thode, Kay""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Kay Thode Papers""",P217,"""5353""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/ThodeKay5353"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Tippett, Tom",,,,,,
+Label,LAST,Len,"""Tippett, Tom""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Tom Tippett manuscript""",P217,"""5618""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/TippettTom5618"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Tuohy, Albert, 1895-1966",,,,,,
+Label,LAST,Len,"""Tuohy, Albert, 1895-1966""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Albert Tuohy papers""",P217,"""5814""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/TuohyAlbert5814"""
+archives at,LAST,P485,Q22096098,P1810,"""Albert Tuohy papers """,P217,"""5814""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/TuohyAlbert5814"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Twin City Central Labor Union,,,,,,
+Label,LAST,Len,"""Twin City Central Labor Union""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Twin City Central Labor Union minutes""",P217,"""5727""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/TwinCityCentralLaborUnion5727"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Tyler, Jerry, 1911-2005",,,,,,
+Label,LAST,Len,"""Tyler, Jerry, 1911-2005""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Jerry Tyler papers""",P217,"""5553""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/TylerJerry5553"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"International Typographical Union. Local 99 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""International Typographical Union. Local 99 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""International Typographical Union Local 99 records""",P217,"""3178""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/TypographicalUnionInternationalLocal99Northwest3178"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Honey, Michael K.",,,,,,
+Label,LAST,Len,"""Honey, Michael K.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Michael K. Honey Papers""",P217,"""5294""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/uarchives/UA36_05_5294HoneyMichae"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,UNITE HERE (Organization). Local 8,,,,,,
+Label,LAST,Len,"""UNITE HERE (Organization). Local 8""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""UNITE HERE! Local 8 records""",P217,"""6290""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UniteHereLocal8_6290"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"United Brotherhood of Carpenters and Joiners of America. Local 1289 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""United Brotherhood of Carpenters and Joiners of America. Local 1289 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""United Brotherhood of Carpenters and Joiners of America Local 1289 records""",P217,"""1227""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedBrotherhoodCarpentersJoinersAmerica1227"""
+archives at,LAST,P485,Q22096098,P1810,"""United Brotherhood of Carpenters and Joiners of America Local 1289 records """,P217,"""1227""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedBrotherhoodCarpentersJoinersAmerica1227"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"United Brotherhood of Carpenters and Joiners of America. Local 131 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""United Brotherhood of Carpenters and Joiners of America. Local 131 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""United Brotherhood of Carpenters and Joiners of America, Local 131 Records""",P217,"""1228""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedBrotherhoodCarpentersJoinersAmerica1228"""
+archives at,LAST,P485,Q22096098,P1810,"""United Brotherhood of Carpenters and Joiners of America, Local 131 Records """,P217,"""1228""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedBrotherhoodCarpentersJoinersAmerica1228"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"United Brotherhood of Carpenters and Joiners of America. District Council (Seattle, Wash.).",,,,,,
+Label,LAST,Len,"""United Brotherhood of Carpenters and Joiners of America. District Council (Seattle, Wash.).""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""United Brotherhood of Carpenters and Joiners of America District Council Seattle records""",P217,"""1851""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedBrotherhoodofCarpentersandJoinersofAmericaDistrictCouncilSeattleWash1851"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,United Faculty of Central,,,,,,
+Label,LAST,Len,"""United Faculty of Central""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""United Faculty of Central records""",P217,"""5684""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedFacultyofCentral5684"""
 ,Q7887749,,,,,,,,
 on focus list of Wikimedia project,Q7887749,P5008,Q98970039,,,,,,
 archives at,Q7887749,P485,Q22096098,P1810,"""United Farm Workers records""",P217,"""3643""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedFarmWorkers3643"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,United Workers Union-Independent,,,,,,
+Label,LAST,Len,"""United Workers Union-Independent""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""United Workers Union-Independent records""",P217,"""5690""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/UnitedWorkersUnionIndependent5690"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Velasco, Victorio A., d. 1968",,,,,,
+Label,LAST,Len,"""Velasco, Victorio A., d. 1968""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Victorio A. Velasco papers""",P217,"""1435""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/VelascoVictorioA1435"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Washington Women in Trades Association,,,,,,
+Label,LAST,Len,"""Washington Women in Trades Association""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Washington Women in Trades Association records""",P217,"""6234""",P973,""""""
 ,CREATE,,,,,,,,
-Label,LAST,Len,United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry. Washington State Association,,,,,,
+Label,LAST,Len,"""United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry. Washington State Association""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Washington State Association of the U.A. Plumbers and Pipefitters records""",P217,"""5800""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/uarchives/WSAUAPlumbersPipefitters5800"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Washington Committee for Occupational Safety and Health,,,,,,
+Label,LAST,Len,"""Washington Committee for Occupational Safety and Health""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Washington Committee for Occupational Safety and Health collection""",P217,"""6205""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WashCOSH6205"""
 ,Q55137705,,,,,,,,
 on focus list of Wikimedia project,Q55137705,P5008,Q98970039,,,,,,
 archives at,Q55137705,P485,Q22096098,P1810,"""Washington Education Association records""",P217,"""0731""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WashingtonEducationAssociation0731"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Washington State Council of Fire Fighters,,,,,,
+Label,LAST,Len,"""Washington State Council of Fire Fighters""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Washington State Council of Fire Fighters records""",P217,"""6041""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WashingtonStateCouncilofFirefighters6041"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Washington State Federation of Teachers,,,,,,
+Label,LAST,Len,"""Washington State Federation of Teachers""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Washington State Federation of Teachers records""",P217,"""2201""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WashingtonStateFederationofTeachers2201"""
 ,Q7972262,,,,,,,,
 on focus list of Wikimedia project,Q7972262,P5008,Q98970039,,,,,,
 archives at,Q7972262,P485,Q22096098,P1810,"""Washington State Nurses Association records""",P217,"""1385""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WashingtonStateNursesAssociation1385_1559_1807_1937"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Weiss, Joan (Labor activist)",,,,,,
+Label,LAST,Len,"""Weiss, Joan (Labor activist)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Joan Weiss papers""",P217,"""6279""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WeissJoan6279"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Wells, Burt D.",,,,,,
+Label,LAST,Len,"""Wells, Burt D.""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Burt D. Wells papers""",P217,"""6176""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WellsBurtD6176"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Whitman, Frank",,,,,,
+Label,LAST,Len,"""Whitman, Frank""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
-archives at,LAST,P485,Q22096098,P1810,"""Frank Whitman collection on Inlandboatmen’s Union of the Pacific strike against Crowley Maritime Corporation""",P217,"""5961""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WhitmanFrankCollection5961"""
+archives at,LAST,P485,Q22096098,P1810,"""Frank Whitman collection on Inlandboatmen’s Union of the Pacific strike against Crowley Maritime Corporation """,P217,"""5961""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WhitmanFrankCollection5961"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Wiley, Barbara (Barbara Beth), 1967-",,,,,,
+Label,LAST,Len,"""Wiley, Barbara (Barbara Beth), 1967-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Barb Wiley papers""",P217,"""5682""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WileyBarbara5682"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,Working Washington,,,,,,
+Label,LAST,Len,"""Working Washington""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Working Washington ephemera collection""",P217,"""5892""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WorkingWashington5892"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Workmen's Circle/Arbeter Ring. Branch No. 304 (Seattle, Wash.)",,,,,,
+Label,LAST,Len,"""Workmen's Circle/Arbeter Ring. Branch No. 304 (Seattle, Wash.)""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Workmen's Circle/Der Arbeter Ring Branch 304 records""",P217,"""1859""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/WorkmensCircleArbeterRingBranchNo304SeattleWash1859"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Yockey, Roger",,,,,,
+Label,LAST,Len,"""Yockey, Roger""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Roger Yockey papers""",P217,"""5825""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/YockeyRoger5825"""
 ,CREATE,,,,,,,,
-Label,LAST,Len,"Yoneda, Karl G., 1906-",,,,,,
+Label,LAST,Len,"""Yoneda, Karl G., 1906-""",,,,,,
 on focus list of Wikimedia project,LAST,P5008,Q98970039,,,,,,
 archives at,LAST,P485,Q22096098,P1810,"""Karl G. Yoneda papers""",P217,"""1273""",P973,"""http://www.lib.washington.edu/specialcoll/findaids/docs/papersrecords/YonedaKarlG1273"""
