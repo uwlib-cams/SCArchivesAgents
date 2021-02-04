@@ -143,7 +143,7 @@ with open("quickstatements_csv.csv", mode='w') as csv_output: # open csv writer
 			other_lines = Qid
 
 		if Qid == 'CREATE': # if this is a new wikidata item
-			csv_writer.writerow(['Label',f'{other_lines}','Len',f'{origname}','','','','','','']) # create English label
+			csv_writer.writerow(['Label',f'{other_lines}','Len',f'"{origname}"','','','','','','']) # create English label
 			#csv_writer.writerow(['Description',f'{other_lines}','Den','','','','','','','']) # create English description
 			#csv_writer.writerow(['Also known as',f'{other_lines}','Aen','','','','','','','']) # create English aliases
 		csv_writer.writerow(['on focus list of Wikimedia project',f'{other_lines}','P5008','Q98970039','','','','','','']) # on focus list
