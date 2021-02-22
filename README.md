@@ -1,5 +1,5 @@
-# ASpaceAgents
-Agents Data from Archives Space, to be added to and reconciled with Wikidata entities
+# EAD to Wikidata
+Extracting agents data from EAD, reconciling agents with Wikidata entities, and adding links to Wikidata items to finding aids.
 
 # quickstatements_csv.py
 
@@ -39,3 +39,6 @@ $ python3.6 reconciliation_csv.py data_received/LaborArchivesEADLinkedDataProjec
 ```
 
 The output of this script is [reconciliation_csv.csv](https://github.com/uwlib-cams/SCArchivesAgents/blob/main/reconciliation_csv.csv).
+
+# Questions and Feedback
+Please create a new issue with any questions or feedback about our scripts or workflow!
