@@ -88,13 +88,15 @@ def find_bioghist():
 script, EAD_dir = argv
 # EAD_dir = directory containing EAD
 
+output_location = EAD_dir
+
 # put EAD files into a list
 ead_files = os.listdir(f'{EAD_dir}')
 
-if not os.path.exists('reconciliation_csv.csv'): # if output file does not exist, create it
-	os.system('touch reconciliation_csv.csv')
+if not os.path.exists(f'{output_location}/reconciliation_csv.csv'): # if output file does not exist, create it
+	os.system(f'touch {output_location}/reconciliation_csv.csv')
 
-with open(f"reconciliation_csv.csv", mode='w') as csv_output: # open csv writer
+with open(f"{output_location}/reconciliation_csv.csv", mode='w') as csv_output: # open csv writer
 	csv_writer = csv.writer(csv_output, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
 	# write header row
@@ -102,6 +104,9 @@ with open(f"reconciliation_csv.csv", mode='w') as csv_output: # open csv writer
 
 	# iterate through EAD files
 	for file in ead_files:
+		if ".xml" not in file:
+			continue # skip any files that are not XML files
+
 		# open xml parser
 		tree = ET.parse(f'data_received/LaborArchivesEADLinkedDataProject/{file}')
 		root = tree.getroot()
