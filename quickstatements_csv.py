@@ -76,7 +76,7 @@ def find_url():
 		url = url.rstrip('.xml')
 		return url
 
-def find_Qid(origname, recon_csv):
+def find_Qid(unittitle, recon_csv):
 	"""See if origname was reconciled; if so, return Qid"""
 	Qid = '' # blank
 	with open(f"{recon_csv}") as reconciliation_csv: # reconciliation data
@@ -86,8 +86,8 @@ def find_Qid(origname, recon_csv):
 			if line_count == 0: # skip header row
 				pass
 			else:
-				if line[0] in origname: # if origname in reconciliation data matches origname from EAD file
-					Qid = line[1] # take the Qid from the next column over
+				if line[2] == unittitle: # if unittitle in reconciliation data matches unittitle from EAD file
+					Qid = line[1] # take the Qid from the previous column
 			line_count += 1
 		if Qid == '': # if the Qid is blank, because the origname was not in reconciliation data OR because there was no Qid in the reconciliation data
 			Qid = 'CREATE'
@@ -117,7 +117,7 @@ with open(f"{output_location}/quickstatements_csv.csv", mode='w') as csv_output:
 	for file in ead_files:
 		if ".xml" not in file:
 			continue # skip any files that are not XML files
-			
+
 		# open xml parser
 		tree = ET.parse(f'{EAD_dir}/{file}')
 		root = tree.getroot()
@@ -128,16 +128,18 @@ with open(f"{output_location}/quickstatements_csv.csv", mode='w') as csv_output:
 			print("SKIPPED: " + file) # print so we know which file is getting skipped
 			continue # skip the file
 
-		# look for Qid, if it already exists
-		Qid = find_Qid(origname, recon_csv)
-		csv_writer.writerow(['',f'{Qid}','','','','','','','',''])
-
 		unittitle = find_unittitle()
 		if unittitle == None: # if none found, make it an empty string
 			unittitle = ''
+
+		# look for Qid, if it already exists
+		Qid = find_Qid(unittitle, recon_csv)
+		csv_writer.writerow(['',f'{Qid}','','','','','','','',''])
+		
 		unitid = find_unitid()
 		if unitid == None:
 			unitid = ''
+
 		url = find_url()
 		if url == None:
 			url = ''
