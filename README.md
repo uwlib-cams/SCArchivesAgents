@@ -1,3 +1,8 @@
+# Workflow and Feedback
+Current local workflow is posted on the Wiki page [WikiProject PCC Wikidata Pilot/University of Washington/Workflow, Trainings, and Resources/EAD to Wikidata Workflow](https://www.wikidata.org/wiki/Wikidata:WikiProject_PCC_Wikidata_Pilot/University_of_Washington/Workflow,_Trainings,_and_Resources/EAD_to_Wikidata_Workflow).
+
+Constructive feedback is welcome; please feel free to create an issue in this repository if you have suggestions for improvement.
+
 # EAD to Wikidata
 Extracting agents data from EAD, reconciling agents with Wikidata entities, and adding links to Wikidata items to finding aids.
 
@@ -39,6 +44,3 @@ $ python3.6 reconciliation_csv.py data_received/LaborArchivesEADLinkedDataProjec
 ```
 
 The output of this script is [reconciliation_csv.csv](https://github.com/uwlib-cams/SCArchivesAgents/blob/main/reconciliation_csv.csv).
-
-# Questions and Feedback
-Please create a new issue with any questions or feedback about our scripts or workflow!
