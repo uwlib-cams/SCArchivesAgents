@@ -25,6 +25,13 @@ def remove_marc_fields(elem):
 			elem = ' '.join(content_list) # join items in list back to one string
 	return elem
 
+def fix_persname(name):
+	"""Fix names that are written Last, First"""
+	if ',' in name:
+		name_list = name.split(', ')
+		name = f"{name_list[1]} {name_list[0]}"
+	return name
+
 def find_origname():
 	"""Look for corpname, persname, or famname as a child element of origination; used for item label"""
 	origname_list = []
@@ -41,6 +48,7 @@ def find_origname():
 		if elem != None:
 			elem = fix_spacing(elem)
 			elem = remove_marc_fields(elem)
+			elem = fix_persname(elem)
 			origname_list.append(elem)
 	# look for famname
 	for elem in root.findall('archdesc/did/origination/famname'):
@@ -135,7 +143,7 @@ with open(f"{output_location}/quickstatements_csv.csv", mode='w') as csv_output:
 		# look for Qid, if it already exists
 		Qid = find_Qid(unittitle, recon_csv)
 		csv_writer.writerow(['',f'{Qid}','','','','','','','',''])
-		
+
 		unitid = find_unitid()
 		if unitid == None:
 			unitid = ''
